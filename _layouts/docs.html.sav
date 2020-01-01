@@ -1,0 +1,59 @@
+---
+layout: default
+---
+
+{% if page.caption_title != null %}
+  {% assign title = page.caption_title %}
+{% else %}
+  {% assign title = page.title %}
+{% endif %}
+
+<div class="page__header">
+  {% include header.html %}
+</div>
+
+<div class="page__content _layout-docs">
+  <div class="sidebar text-main">
+    {% for item in site.data.navigation.main %}
+      {% if item.category == page.category %}
+        {% assign slug = item.url | split: "/" | last %}
+
+        {% if slug == 'index.html' %}
+          {% assign item_url = item.url | remove: slug %}
+        {% else %}
+          {% assign item_url = item.url %}
+        {% endif %}
+
+        {% include nav.html context=item_url %}
+      {% endif %}
+    {% endfor %}
+  </div>
+
+  <article class="article-content page">
+    <header class="article-content__header dock-header page__header">
+      <h1 class="text-h1 dock-header__title">{{title}}</h1>
+
+      {% if page.description != null %}
+        <p class="text-accepted dock-header__description">
+          {{page.description}}
+        </p>
+      {% endif %}
+
+      {% if page.toc != false and site.render_toc_on_docs_layout != false%}
+        <div class="dock-header__toc toc">
+          <div class="toc__title text-accepted">Table of contents:</div>
+          <div class="toc__content text-main">
+            {% include toc.html html=content %}
+          </div>
+        </div>
+      {% endif %}
+    </header>
+    <div class="js-article-content article-content__body markdown-body page__content">
+      {% if page.status == 'todo' %}
+        Coming soon...
+      {% else %}
+        {{ content }}
+      {% endif %}
+    </div>
+  </article>
+</div>
