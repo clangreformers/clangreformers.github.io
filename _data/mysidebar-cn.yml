@@ -1,0 +1,18 @@
+docs_list_title: 内容
+docs:
+  
+- title: 首页
+  output: web, pdf
+  url: /index-cn.html
+  
+- title: 关于
+  url: /about-cn
+  output: web, pdf
+
+- title: 人物
+  url: /people/people-cn.html
+  output: web
+   
+- title: 我们
+  url: /who/who-cn.html
+  output: web

@@ -1,9 +1,11 @@
 ---
 layout: page
-title: Who are we?
+title: 我們
+ref: who
+lang: zh-TW
 ---
 <div class="blurb">
-    <p> We are a group of 2nd and 3rd generation family and friends of the leaders of the Chinese language modernization. Most of us are busy working professionals in our daily lives. But we are spending time and resources to collect, investigate, and write to preserve this important piece of history. This is an ongoing effort, and this web site will be updated with new content as we make progress.</p>
+<p> 我們是中國語言文字標準化現代化領軍人物的第二代或第三代家人及朋友。在日常生活中，我們中間大多數人是忙碌的職業工作者。但我們都希望花時間及資源通過收集，調研，以及撰寫用於保護下這一段重要的歷史。希望經過我們的努力，此網站會不斷地更新新的內容。</p>
 </div><!-- /.blurb -->
 <h3>Personal Stories</h3>
 <div class="blurb">

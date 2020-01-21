@@ -1,0 +1,18 @@
+docs_list_title: Content
+docs:
+  
+- title: Home
+  output: web, pdf
+  url: /
+  
+- title: About
+  url: /about
+  output: web, pdf
+
+- title: People
+  url: /people/people.html
+  output: web
+   
+- title: Who
+  url: /who/who.html
+  output: web

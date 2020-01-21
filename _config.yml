@@ -18,19 +18,34 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Case Studies of Chinese Language Reformers
+title:
+  en: Case Studies of Chinese Language Reformers
+  zh-CN: 中国语言标准化现代化进程中的人与事
+  zh-TW: 中國語言標準化現代化進程中的人與事
 email: chinese.language.reformers@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  This website is dedicated to the collection, research, and writings of the people and events that lead to the standardization and modernization of present day Chinese.
+description: #>- # this means to ignore newlines until "baseurl:"
+  en: This website is dedicated to the collection, research, and writings of the  people and events that lead to the standardization and modernization of present day Chinese.
+  zh-CN: 此网站奉献给收集，研究，并撰写现代中国语言标准化现代化进程中的人与事。
+  zh-TW: 此網站奉獻給收集，研究，並撰寫現代中國語言標準化現代化進程中的人與事。
+index:
+  en:
+  zh-CN: index-cn.html
+  zh-TW: index-tw.html
+sidebar:
+  en: mysidebar
+  zh-CN: mysidebar-cn
+  zh-TW: mysidebar-tw
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://clangreformers.github.io
 # twitter_username: jekyllrb
 github_username:  clangreformers
 
+markdown: kramdown
+
 # Build settings
-theme: minima
-plugins:
-  - jekyll-feed
+# theme: minima
+#plugins:
+#  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.

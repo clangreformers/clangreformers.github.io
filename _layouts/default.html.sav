@@ -1,9 +1,0 @@
-<!DOCTYPE html>
-<html lang="en">
-<body>
-<main class="page" role="main">
-  {{ content }}
-</main>
-
-</body>
-</html>

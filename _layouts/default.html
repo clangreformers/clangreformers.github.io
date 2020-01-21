@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang }}">
+
+  {% include head.html %}
+  {% if page.lang == "en" %}
+    {% assign title = site.data.mysidebar.docs_list_title %}
+    {% assign docs = site.data.mysidebar.docs %}
+  {% endif %}
+  {% if page.lang == "zh-CN" %}
+    {% assign title = site.data.mysidebar-cn.docs_list_title %}
+    {% assign docs = site.data.mysidebar-cn.docs %}
+  {% endif %}
+  {% if page.lang == "zh-TW" %}
+    {% assign title = site.data.mysidebar-tw.docs_list_title %}
+    {% assign docs = site.data.mysidebar-tw.docs %}
+  {% endif %}
+  
+  <body>
+     
+    {% include header.html %}
+    <div class="sidenav">
+        <h2>{{ title }}</h2>
+        <ul>
+            {% for item in docs %}
+          <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+          {% endfor %}
+        </ul>
+    </div>
+    <div class="page-content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </div>
+
+    {% include footer.html %}
+
+  </body>
+
+</html>
