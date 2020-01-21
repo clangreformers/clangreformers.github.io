@@ -3,6 +3,7 @@ layout: post
 title:  爷爷，我想对你说
 date:   2019-08-02 18:30:52 -0800
 categories: jekyll update
+ref: letter-to-grandpa
 lang: zh-CN
 ---
 孙女王昀 2019 年 8 月 2 日
