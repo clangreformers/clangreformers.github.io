@@ -12,7 +12,19 @@ docs:
 - title: 人物
   url: /people/people-cn.html
   output: web
-   
+ 
+- title: 拼音与注音
+  url: /pinyinNzhuyin/pinyinNzhuyin-cn
+  output: web
+
+- title: 字典
+  url: /dictionaries/dictionaries-cn
+  output: web
+
+- title: 课本与参考书
+  url: /teaching/teaching-cn
+  output: web
+
 - title: 我们
   url: /who/who-cn.html
   output: web

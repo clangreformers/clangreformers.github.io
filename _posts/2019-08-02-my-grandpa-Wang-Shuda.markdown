@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Grandpa, I want to say
+title:  Grandpa, I want to tell you....
 date:   2019-08-02 18:30:52 -0800
 categories: jekyll update
 ref: letter-to-grandpa

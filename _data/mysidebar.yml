@@ -12,7 +12,19 @@ docs:
 - title: People
   url: /people/people.html
   output: web
-   
+
+- title: PinYin and ZhuYin
+  url: /pinyinNzhuyin/pinyinNzhuyin
+  output: web
+
+- title: Dictionaries
+  url: /dictionaries/dictionaries
+  output: web
+
+- title: Textbooks and References
+  url: /teaching/teaching
+  output: web
+
 - title: Who
   url: /who/who.html
   output: web
