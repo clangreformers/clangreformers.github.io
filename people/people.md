@@ -2,7 +2,7 @@
 layout: page
 title: People
 ref:  people
-lang: en
+lang: English
 ---
 
 <ul>

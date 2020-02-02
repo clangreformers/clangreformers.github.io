@@ -2,7 +2,7 @@
 layout: page
 title: Dictionaries
 ref:  dictionaries
-lang: en
+lang: English
 ---
 
 ![image](/assets/imgs/dict/dictionaries.JPG "Dictionaries")

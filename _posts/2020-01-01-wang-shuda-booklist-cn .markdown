@@ -4,7 +4,7 @@ title:  一位民国国文教师的藏书
 date:  2020-01-02 01:00:00 -0000
 categories: jekyll update
 ref: shudawang-book-collections
-lang: zh-CN
+lang: 简体中文
 ---
 作者：王昀
 

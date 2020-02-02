@@ -4,7 +4,7 @@ title:  一位民國國文教師的藏書
 date:   2020-01-02 01:00:00 -0000
 categories: jekyll update
 ref: shudawang-book-collections
-lang: zh-TW
+lang: 繁體中文
 ---
 作者：王昀
 

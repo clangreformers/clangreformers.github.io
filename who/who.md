@@ -2,7 +2,7 @@
 layout: page
 title: Who are we?
 ref: who
-lang: en
+lang: English
 ---
 <div class="blurb">
 

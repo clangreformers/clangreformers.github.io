@@ -19,22 +19,22 @@
 # in the templates via {{ site.myvariable }}.
 
 title:
-  en: Case Studies of Chinese Language Reformers
-  zh-CN: 中国语言标准化现代化进程中的人与事
-  zh-TW: 中國語言標準化現代化進程中的人與事
+  English: Case Studies of Chinese Language Reformers
+  简体中文: 中国语言标准化现代化进程中的人与事
+  繁體中文: 中國語言標準化現代化進程中的人與事
 email: chinese.language.reformers@gmail.com
 description: #>- # this means to ignore newlines until "baseurl:"
-  en: This website is dedicated to the collection, research, and writings of the  people and events that lead to the standardization and modernization of present day Chinese.
-  zh-CN: 此网站奉献给收集，研究，并撰写现代中国语言标准化现代化进程中的人与事。
-  zh-TW: 此網站奉獻給收集，研究，並撰寫現代中國語言標準化現代化進程中的人與事。
+  English: This website is dedicated to the collection, research, and writings of the  people and events that lead to the standardization and modernization of present day Chinese.
+  简体中文: 此网站奉献给收集，研究，并撰写现代中国语言标准化现代化进程中的人与事。
+  繁體中文: 此網站奉獻給收集，研究，並撰寫現代中國語言標準化現代化進程中的人與事。
 index:
-  en:
-  zh-CN: index-cn.html
-  zh-TW: index-tw.html
+  English:
+  简体中文: index-cn.html
+  繁體中文: index-tw.html
 sidebar:
-  en: mysidebar
-  zh-CN: mysidebar-cn
-  zh-TW: mysidebar-tw
+  English: mysidebar
+  简体中文: mysidebar-cn
+  繁體中文: mysidebar-tw
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://clangreformers.github.io
 # twitter_username: jekyllrb

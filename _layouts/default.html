@@ -2,15 +2,15 @@
 <html lang="{{ page.lang }}">
 
   {% include head.html %}
-  {% if page.lang == "en" %}
+  {% if page.lang == "English" %}
     {% assign title = site.data.mysidebar.docs_list_title %}
     {% assign docs = site.data.mysidebar.docs %}
   {% endif %}
-  {% if page.lang == "zh-CN" %}
+  {% if page.lang == "简体中文" %}
     {% assign title = site.data.mysidebar-cn.docs_list_title %}
     {% assign docs = site.data.mysidebar-cn.docs %}
   {% endif %}
-  {% if page.lang == "zh-TW" %}
+  {% if page.lang == "繁體中文" %}
     {% assign title = site.data.mysidebar-tw.docs_list_title %}
     {% assign docs = site.data.mysidebar-tw.docs %}
   {% endif %}

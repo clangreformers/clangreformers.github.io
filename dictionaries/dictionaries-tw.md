@@ -2,7 +2,7 @@
 layout: page
 title: 字典
 ref: dictionaries
-lang: zh-TW
+lang: 繁體中文
 ---
 ![image](/assets/imgs/dict/dictionaries.JPG "Dictionaries")
 

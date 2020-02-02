@@ -2,7 +2,7 @@
 layout: page
 title: 人物
 ref: people
-lang: zh-TW
+lang: 繁體中文
 ---
 
 <ul>

@@ -4,7 +4,7 @@ title:  黎老师的子弟兵
 date:   2019-01-28 00:00:00 -0000
 categories: jekyll update
 ref: li-disciples
-lang: zh-CN
+lang: 简体中文
 ---
 作者：王正方
 
