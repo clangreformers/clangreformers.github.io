@@ -35,6 +35,10 @@ sidebar:
   English: mysidebar
   简体中文: mysidebar-cn
   繁體中文: mysidebar-tw
+copyright:
+  English: ©Copyright 2019-2020, Yingxian Wang, Yun Wang & "Case Studies of Chinese Language Reformers" contributors.
+  简体中文: ©“中国语言标准化现代化进程中的人与事” 以及贡献者版权， 2019-2020。版权所有。
+  繁體中文: ©“中國語言標準化現代化進程中的人與事” 以及貢獻者版權， 2019-2020。版權所有。
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://clangreformers.github.io
 # twitter_username: jekyllrb
