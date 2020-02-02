@@ -6,10 +6,10 @@ lang: English
 ---
 
 <ul>
-    <li><a href="https://en.wikipedia.org/wiki/Li_Jinxi">Li Jinxi</a></li>
-    <li>Xiao Jialin</li>
-    <li>Wang Shoukang</li>
-    <li><a href="wangshuda.pdf">Wang Shuda</a></li>
-    <li>Sun Chongyi</li>
-    <li>Wei Jiangong</li>
+    <li><a href="https://en.wikipedia.org/wiki/Li_Jinxi">Jinxi Li, also Jijun Li, Junshao Li, Boxin Li</a></li>
+    <li>Jialin Xiao</li>
+    <li>Shoukang Wang, also Fuqing Wang</li>
+    <li><a href="{{ site.baseurl }}{% link people/wangshuda.md %}">Shuda Wang, also Shankai Wang</a></li>
+    <li>Chongyi Sun, also Weiyi Sun</li>
+    <li>Jiangong Wei, also Yisan Wei</li>
 </ul>
