@@ -13,11 +13,11 @@ docs:
   url: /people/people-tw.html
   output: web
 
-- title: 拼音與注音
+- title: 現代漢語標準
   url: /pinyinNzhuyin/pinyinNzhuyin-tw
   output: web
 
-- title: 字典
+- title: 現代漢語推廣
   url: /dictionaries/dictionaries-tw
   output: web
 
