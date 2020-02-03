@@ -13,11 +13,11 @@ docs:
   url: /people/people.html
   output: web
 
-- title: PinYin and ZhuYin
+- title: Chinese Standardization
   url: /pinyinNzhuyin/pinyinNzhuyin
   output: web
 
-- title: Dictionaries
+- title: Promoting Standard Chinese
   url: /dictionaries/dictionaries
   output: web
 
