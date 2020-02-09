@@ -8,7 +8,8 @@ lang: English
 ---
 
 Author: Peter Wang
-Translator: Yingxian Wang
+
+Translated by: Yingxian Wang
 
 My publisher forwarded an email, it wrote:
 

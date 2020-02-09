@@ -13,7 +13,7 @@ Translated by:  Yingxian Wang
 
 Dear Grandpa,
 
-Today would have been your 115th birthday. Have you heard my greetings from far away?
+Today would have been your 115th birthday. Have you heard my greetings from afar?
 
 On 2018’s Double Ninth Festival (also called Respect the Elderly Festival), I brought back the remaining of your personal possessions to my own house and started my journey towards you. Your handwritten pages have stayed in an old and broken trunk in my parents’ balcony for many years. Looking at your handwriting, I can see your face in front of me. You never spoke harshly to anybody, nor threw a tantrum in front of people. In my mind, you always had a calm smile.
 
