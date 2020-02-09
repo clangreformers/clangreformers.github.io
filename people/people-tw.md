@@ -83,7 +83,7 @@ lang: 繁體中文
 
 羅林章 季斐 國音普通辭典股甲種委託編纂員
 
-孔繁均凡均 民眾辭典股甲種委託編纂員
+孔繁均 凡均 民眾辭典股甲種委託編纂員
 
 王壽康 茀青 民眾辭典股甲種委託編纂員
 
@@ -91,11 +91,11 @@ lang: 繁體中文
 
 蕭坤 本恆 中法辭典股甲種委託編纂員
 
-李壽朋友琴 書記員（兼事務）
+李壽朋 友琴 書記員（兼事務）
 
 孫銳第 叔岩 書記員
 
-翁秉懿德輝 書記員
+翁秉懿 德輝 書記員
 
 賞嘉濱 闊泉 書記員
 
@@ -141,7 +141,6 @@ lang: 繁體中文
 
 審定委員會：[丁聲樹](https://zh.wikipedia.org/wiki/丁聲樹)、[黎錦熙](https://zh.wikipedia.org/wiki/黎錦熙)、[李榮](https://zh.wikipedia.org/wiki/李榮_(語言學家))、[陸志韋](https://zh.wikipedia.org/wiki/陸志韋)、[陸宗達](https://zh.wikipedia.org/wiki/陸宗達)、[呂叔湘](https://zh.wikipedia.org/wiki/呂叔湘)、石明遠、[王力](https://zh.wikipedia.org/wiki/王力_(语言学家))、[魏建功](https://zh.wikipedia.org/wiki/魏建功)、[葉籟士](https://zh.wikipedia.org/wiki/葉籟士)、[葉聖陶](https://zh.wikipedia.org/wiki/葉聖陶)、[周定一](https://zh.wikipedia.org/wiki/周定一)、周浩然、[周祖謨](https://zh.wikipedia.org/wiki/周祖謨)、朱文叔
 
-主要編纂人：孫德宣、孫崇義、何梅岑、李伯純、[蕭家霖]({{ site.baseurl }}{% link people/xiaojialin-tw.md %})、孔凡均、[王述達]({{ site.baseurl }}{% link people/wangshuda-tw.md %})、劉慶隆、郭地、李文生、劉潔修、莫衡、吳崇康、李國炎、鄭宣沐、單耀海、呂天琛、徐蕭斧、范繼淹、范方蓮、傅婧、姜遠、王立達]
+主要編纂人：孫德宣、孫崇義、何梅岑、李伯純、[蕭家霖]({{ site.baseurl }}{% link people/xiaojialin-tw.md %})、孔凡均、[王述達]({{ site.baseurl }}{% link people/wangshuda-tw.md %})、劉慶隆、郭地、李文生、劉潔修、莫衡、吳崇康、李國炎、鄭宣沐、單耀海、呂天琛、徐蕭斧、范繼淹、范方蓮、傅婧、姜遠、王立達
 
-資料人員：徐世祿、[賀澹江]({{ site.baseurl }}{% link people/hezhanjiang-tw.md %})、高澤均、王煥貞、趙桂鈞、王蘊明、姚宣田
-
+資料人員：徐世祿、[賀澹江]({{ site.baseurl }}{% link people/hedanjiang-tw.md %})、高澤均、王煥貞、趙桂鈞、王蘊明、姚宣田
