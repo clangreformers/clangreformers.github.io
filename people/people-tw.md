@@ -21,7 +21,7 @@ lang: 繁體中文
 
 常務委員：[錢玄同](https://zh.wikipedia.org/wiki/錢玄同)、[黎錦熙](https://zh.wikipedia.org/wiki/黎錦熙)、[陳懋治](https://zh.wikipedia.org/wiki/陳懋治)、[汪怡]({{ site.baseurl }}{% link people/wangyi-tw.md %})、沈頤、白鎮瀛、[魏建功](https://zh.wikipedia.org/wiki/魏建功)
 
-委員：[蔡元培](https://zh.wikipedia.org/wiki/蔡元培)、[張一麐](https://zh.wikipedia.org/wiki/張一麐)、[李石曾](https://zh.wikipedia.org/wiki/李石曾)、[李書華](https://zh.wikipedia.org/wiki/李書華)、李步青、[胡適](https://zh.wikipedia.org/wiki/胡適)、[劉復](https://zh.wikipedia.org/wiki/劉半農)、[周作人](https://zh.wikipedia.org/wiki/周作人)、陸基、[朱文熊](https://zh.wikipedia.org/wiki/朱文熊)、[曾彝進](https://zh.wikipedia.org/wiki/曾彝進)、[孫世慶]]({{ site.baseurl }}{% link people/sunshiqing-tw.md %})、方毅、[沈兼士](https://zh.wikipedia.org/wiki/沈兼士)、[許地山](https://zh.wikipedia.org/wiki/許地山)、[林語堂](https://zh.wikipedia.org/wiki/林語堂)、[任鴻雋](https://zh.wikipedia.org/wiki/任鴻雋)、馬體乾、[錢稻孫](https://zh.wikipedia.org/wiki/錢稻孫)、[馬裕藻](https://zh.wikipedia.org/wiki/馬裕藻)、[蕭家霖]({{ site.baseurl }}{% link people/xiaojialin-tw.md %})等31人
+委員：[蔡元培](https://zh.wikipedia.org/wiki/蔡元培)、[張一麐](https://zh.wikipedia.org/wiki/張一麐)、[李石曾](https://zh.wikipedia.org/wiki/李石曾)、[李書華](https://zh.wikipedia.org/wiki/李書華)、李步青、[胡適](https://zh.wikipedia.org/wiki/胡適)、[劉復](https://zh.wikipedia.org/wiki/劉半農)、[周作人](https://zh.wikipedia.org/wiki/周作人)、陸基、[朱文熊](https://zh.wikipedia.org/wiki/朱文熊)、[曾彝進](https://zh.wikipedia.org/wiki/曾彝進)、[孫世慶]({{ site.baseurl }}{% link people/sunshiqing-tw.md %})、方毅、[沈兼士](https://zh.wikipedia.org/wiki/沈兼士)、[許地山](https://zh.wikipedia.org/wiki/許地山)、[林語堂](https://zh.wikipedia.org/wiki/林語堂)、[任鴻雋](https://zh.wikipedia.org/wiki/任鴻雋)、馬體乾、[錢稻孫](https://zh.wikipedia.org/wiki/錢稻孫)、[馬裕藻](https://zh.wikipedia.org/wiki/馬裕藻)、[蕭家霖]({{ site.baseurl }}{% link people/xiaojialin-tw.md %})等31人
 
 中國大辭典編纂處（1928-1956）
 
