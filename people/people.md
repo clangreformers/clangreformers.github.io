@@ -88,7 +88,7 @@ Linzhang Luo also JiFei National Pronunciation Popular Dictionary Commissioned E
 
 Fanjun Kong also Fanjun People Dictionary Commissioned Editor
 
-Shoukang Wang also Fuqing People Dictionary Commissioned Editor
+[Shoukang Wang]({{ site.baseurl }}{% link people/wangshoukang.md %}) also Fuqing People Dictionary Commissioned Editor
 
 Jiewu Xiao also Tefu 
 Sino-French Dictionary Commissioned Editor

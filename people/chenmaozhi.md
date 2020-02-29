@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Ruizhi Chen, also Zhongping
 ref:  chenruizhi
 lang: English

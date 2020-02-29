@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Shiqing Sun
 ref:  sunshiqing
 lang: English

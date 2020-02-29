@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Zhanjiang He
 ref:  hezhanjiang
 lang: English
