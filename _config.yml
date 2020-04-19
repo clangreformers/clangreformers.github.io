@@ -48,6 +48,21 @@ url: "" # the base hostname & protocol for your site, e.g. http://clangreformers
 # twitter_username: jekyllrb
 github_username:  clangreformers
 
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: default
+      comments: true
+  -
+    scope:
+      path: "projects"
+      type: "pages" # previously `page` in Jekyll 2.2.
+    values:
+      layout: "project" # overrides previous default layout
+      author: "Mr. Example"
+
 markdown: kramdown
 
 # Build settings

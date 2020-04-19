@@ -33,7 +33,13 @@
     </div>
 
     {% include footer.html %}
-
+    {% if page.lang == "English" %}
+        {% include guest-comments.html %}
+    {% elsif page.lang == "简体中文" %}
+        {% include guest-comments-cn.html %}
+    {% elsif page.lang == "繁體中文" %}
+       {% include guest-comments-tw.html %}
+    {% endif %}
   </body>
 
 </html>
