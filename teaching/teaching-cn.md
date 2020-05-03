@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 课本与参考书
+title: 现代汉语推广
 ref: teaching
 lang: 简体中文
 ---

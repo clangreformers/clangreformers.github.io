@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Textbooks and Teaching Materials
+title: Promoting Standard Chinese
 ref:  teaching
 lang: English
 ---
