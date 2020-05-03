@@ -18,11 +18,11 @@ docs:
   output: web
 
 - title: 现代汉语推广
-  url: /dictionaries/dictionaries-cn
+  url: /teaching/teaching-cn
   output: web
 
 - title: 课本与参考书
-  url: /teaching/teaching-cn
+  url: /dictionaries/dictionaries-cn
   output: web
 
 - title: 我们

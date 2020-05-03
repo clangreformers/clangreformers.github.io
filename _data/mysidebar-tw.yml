@@ -18,11 +18,11 @@ docs:
   output: web
 
 - title: 現代漢語推廣
-  url: /dictionaries/dictionaries-tw
+  url: /teaching/teaching-tw
   output: web
 
 - title: 課本與參考書
-  url: /teaching/teaching-tw
+  url: /dictionaries/dictionaries-tw
   output: web
 
 - title: 我們

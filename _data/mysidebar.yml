@@ -18,13 +18,13 @@ docs:
   output: web
 
 - title: Promoting Standard Chinese
-  url: /dictionaries/dictionaries
-  output: web
-
-- title: Textbooks and References
   url: /teaching/teaching
   output: web
 
-- title: Who
+- title: Textbooks and References
+  url: /dictionaries/dictionaries
+  output: web
+
+- title: Who Are We
   url: /who/who.html
   output: web
