@@ -29,6 +29,8 @@ lang: 简体中文
 
  ![image](/assets/imgs/chinese-teacher-training-program-graduation.png "1948年北平师范大学国语专修科毕业照。（图片由作者提供)")
  
+ 1948年北平师范大学国语专修科毕业照。（图片由作者提供)
+ 
 前排左起：牛继昌先生、孙崇义先生、王寿康先生、黎锦熙先生、王述达先生、徐世荣先生
 
 
