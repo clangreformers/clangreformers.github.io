@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Chinese Daily's Early Days
+title:  Chinese Daily Survived Its First Year
 date:   2020-05-19 00:00:00 -0000
 categories: jekyll update
 ref: chinese-daily
