@@ -31,10 +31,10 @@ index:
   English:
   简体中文: index-cn.html
   繁體中文: index-tw.html
-sidebar:
-  English: mysidebar
-  简体中文: mysidebar-cn
-  繁體中文: mysidebar-tw
+navigation:
+  English: navigation
+  简体中文: navigation-cn
+  繁體中文: navigation-tw
 copyright:
   English: ©Copyright 2018-2020 Yun Wang, Yingxian Wang & "Case Studies of Chinese Language Reformers" contributors.
   简体中文: ©“中国语言标准化现代化进程中的人与事” 王昀，王颖先以及贡献者版权， 2018-2020。版权所有。
@@ -68,7 +68,7 @@ defaults:
 markdown: kramdown
 
 # Build settings
-# theme: minima
+theme: minima
 #plugins:
 #  - jekyll-feed
 

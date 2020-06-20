@@ -1,6 +1,3 @@
-docs_list_title: Content
-docs:
-  
 - title: Home
   output: web, pdf
   url: /
@@ -13,18 +10,18 @@ docs:
   url: /people/people.html
   output: web
 
-- title: Chinese Standardization
+- title: Standardization
   url: /standardization/standardization
   output: web
 
-- title: Promoting Standard Chinese
+- title: Promoting
   url: /teaching/teaching
   output: web
 
-- title: Textbooks and References
+- title: References
   url: /dictionaries/dictionaries
   output: web
 
-- title: Who Are We
+- title: Who
   url: /who/who.html
   output: web

@@ -1,42 +1,17 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="{{ page.lang }}">
-<head>
-    <style>
-        ul#menu li {
-            display:inline;
-            padding: 8px;
-        }
-    </style>
-
-  {% include head.html %}
-  {% if page.lang == "English" %}
-    {% assign title = site.data.mysidebar.docs_list_title %}
-    {% assign docs = site.data.mysidebar.docs %}
-  {% endif %}
-  {% if page.lang == "简体中文" %}
-    {% assign title = site.data.mysidebar-cn.docs_list_title %}
-    {% assign docs = site.data.mysidebar-cn.docs %}
-  {% endif %}
-  {% if page.lang == "繁體中文" %}
-    {% assign title = site.data.mysidebar-tw.docs_list_title %}
-    {% assign docs = site.data.mysidebar-tw.docs %}
-  {% endif %}
-  </head>
+  {%- include head.html -%}
+   
   <body>
-     
     {% include header.html %}
-    <div class="wrapper">
-        <ul id="menu">
-            {% for item in docs %}
-          <li><a href="{{ item.url }}">{{ item.title }}</a></li>
-          {% endfor %}
-        </ul>
-
-        {{ content }}
-    </div>
-
+    
+    <main class="page-content" aria-label="Content">
+        <div class="wrapper">
+            {{ content }}
+        </div>
+    </main>
+    
     {% include footer.html %}
     {% include guest-comments.html %}
   </body>
-
 </html>
