@@ -3,3 +3,28 @@
 ---
 
 @import "minima";
+
+.border {
+  border: 2px black solid
+}
+
+.sup {
+    vertical-align: super;
+    font-size: smaller;
+}
+
+.uwavy {
+  text-decoration-line: underline;
+  text-decoration-style: wavy;
+}
+
+.uwavyr {
+  text-decoration-line: underline;
+  text-decoration-style: wavy;
+  text-decoration-color: red;
+}
+
+.udbl {
+  text-decoration-line: underline;
+  text-decoration-style: double;
+}
