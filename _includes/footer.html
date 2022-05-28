@@ -1,29 +1,22 @@
-<footer class="site-footer">
+<footer class="footer">
 
-  <div class="wrapper">
+  <div class="container">
 
-    <h2 class="footer-heading">{{ site.title[page.lang] }}</h2>
+    {%- if page_paths -%}
+    <nav class="footer-nav">
 
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li>{{ site.copyright[page.lang] }}</li>
-          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-        </ul>
-      </div>
+      {%- for item in page_paths -%}
+      <a href="{{ item.url | relative_url }}">{{ item.title | escape }}</a>
+      <span>|</span>
+      {%- endfor -%}
 
-      <div class="footer-col footer-col-2">
-        <ul class="social-media-list">
+    </nav>
+    {%- endif -%}
 
-        </ul>
-      </div>
-
-      <div class="footer-col footer-col-3">
-        <p>{{ site.description[page.lang] }}</p>
-      </div>
-    </div>
 
   </div>
 
-  
+  </div>
+
+
 </footer>
