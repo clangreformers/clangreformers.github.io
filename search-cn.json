@@ -1,0 +1,20 @@
+---
+layout: none
+---
+
+{% assign post_array = "" | split: ',' %}
+{% for post in site.posts %}
+  {% if post.lang == "简体中文" %}
+{% assign post_array = post_array | push: post %}
+  {% endif %}
+{% endfor %}
+[
+  {% for post in post_array %}
+    {
+      "title"    : "{{ post.title | escape }}",
+      "lang"     : "{{ post.lang }}",
+      "url"      : "{{ site.baseurl }}{{ post.url }}",
+      "date"     : "{{ post.date }}"
+    } {% unless forloop.last %},{% endunless %}
+  {% endfor %}
+]

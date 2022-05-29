@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  黎老师的子弟兵
+title: 黎老师的子弟兵
 date:   2019-01-28 00:00:00 -0000
 categories: jekyll update
 ref: li-disciples

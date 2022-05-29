@@ -6,12 +6,23 @@ sidebar: sidebar
 ---
 
 <div class="home-page">
-
   <div class="container">
     <h1 class="page-heading">Events and historical figures of modern Chinese</h1>
     <div class="home-banner">
       <img alt="" src="/assets/images/banner.png">
 
+    </div>
+    <div class="searchbar">
+      <div class="left">
+        Events and historical figures of modern Chinese
+      </div>
+      <div class="right">
+        <div id="search-demo-container" class="search-demo-container">
+          <input type="input" id="search-input" placeholder="Search...">
+          <div class="icon"></div>
+          <ul id="results-container" class="results-container"></ul>
+        </div>
+      </div>
     </div>
     <ul class="post-list">
       {% assign posts=site.posts | where:"lang", page.lang %}
@@ -97,3 +108,18 @@ sidebar: sidebar
     </div>
   </div>
 </div>
+
+<script src="{{ site.baseurl }}/assets/js/simple-jekyll-search.js"></script>
+
+<script>
+  window.simpleJekyllSearch = new SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '{{ site.baseurl }}/search.json',
+    searchResultTemplate: '<li><a href="{url}?query={query}" title="{desc}">{title}</a></li>',
+    noResultsText: '<li>No results found.</li>',
+    limit: 10,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+</script>
