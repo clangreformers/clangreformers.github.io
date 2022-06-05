@@ -74,25 +74,71 @@ lang: 简体中文
             </div>
             <div class="right">
               <div class="right-scroll">
-                <p>
-                  ( 途 文 解 学 》、( 神 雅 》、《 頼 年 使 者 委 代 通 輻 初 国 方 言 》 ( 筒 称 《 方 託 )) 、 ( 税 名 》 、 艸 雇 》 、 ( 玉 肯 》、( 康 照 字
-                  奏 》、《 辞 源 》、( 辞 海 》 、《 新 平 学 典 》、( 現 代 沓 通 辺 典 》、《 中 文 大 辞 典 》、《 現 代 汲 逢 反 序 司 典 》、( 現 代 河 通 双
-                  序 大 砲 典 》、《 同 又 週 述 典 》、《 反 又 週 彼 典 》、《 治 逢 大 字 典 、《 現 代 汲 逢 方 目 大 述 典 》、《 況 通 方 目 大 司 典 、
-                  ( 吉 汲 途 常 用 学 字 典 》、《 向 治 逢 学 典 》、《 吉 代 汲 逢 汁 典 》、《 古 汲 通 大 砲 典 》、( 向 況 逢 知 返 律 解 典 》
-                  《 说 文 解 字 》、《 尔 雅 》、《 辅 轩 使 者 绝 代 语 释 别 国 方 言 》( 简 称 ( 方 言 》) 、《 释 名 )、《 广 雅 》、《 玉 篓 》、《 康 熊 字
-                  典 》 《 辞 源 》、《 辞 海 》、《 新 华 字 典 》、《 现 代 汉 语 词 典 》、《 中 文 大 辞 奎 )、《 现 代 汉 语 反 序 词 典 》、《 现 代 汉 语 双
-                  序 大 词 典 》、《 同 义 词 词 典 》、《 反 义 词 词 典 》、《 汉 语 大 字 典 》、《 现 代 汉 语 方 言 大 词 典 )、《 汉 语 方 言 大 词 典 》 、
-                  《 古 汉 语 常 用 字 字 典 》 、《 古 汉 语 字 词 典 》、《 古 代 汉 语 词 典 》、《 古 汉 语 大 词 典 》、《 古 汉 语 知 识 详 解 词 奎 》
-                  ( 途 文 解 学 》、( 神 雅 》、《 頼 年 使 者 委 代 通 輻 初 国 方 言 》 ( 筒 称 《 方 託 )) 、 ( 税 名 》 、 艸 雇 》 、 ( 玉 肯 》、( 康 照 字
-                  奏 》、《 辞 源 》、( 辞 海 》 、《 新 平 学 典 》、( 現 代 沓 通 辺 典 》、《 中 文 大 辞 典 》、《 現 代 汲 逢 反 序 司 典 》、( 現 代 河 通 双
-                  序 大 砲 典 》、《 同 又 週 述 典 》、《 反 又 週 彼 典 》、《 治 逢 大 字 典 、《 現 代 汲 逢 方 目 大 述 典 》、《 況 通 方 目 大 司 典 、
-                  ( 吉 汲 途 常 用 学 字 典 》、《 向 治 逢 学 典 》、《 吉 代 汲 逢 汁 典 》、《 古 汲 通 大 砲 典 》、( 向 況 逢 知 返 律 解 典 》
-                  《 说 文 解 字 》、《 尔 雅 》、《 辅 轩 使 者 绝 代 语 释 别 国 方 言 》( 简 称 ( 方 言 》) 、《 释 名 )、《 广 雅 》、《 玉 篓 》、《 康 熊 字
-                  典 》 《 辞 源 》、《 辞 海 》、《 新 华 字 典 》、《 现 代 汉 语 词 典 》、《 中 文 大 辞 奎 )、《 现 代 汉 语 反 序 词 典 》、《 现 代 汉 语 双
-                  序 大 词 典 》、《 同 义 词 词 典 》、《 反 义 词 词 典 》、《 汉 语 大 字 典 》、《 现 代 汉 语 方 言 大 词 典 )、《 汉 语 方 言 大 词 典 》 、
-                  《 古 汉 语 常 用 字 字 典 》 、《 古 汉 语 字 词 典 》、《 古 代 汉 语 词 典 》、《 古 汉 语 大 词 典 》、《 古 汉 语 知 识 详 解 词 奎 》
+                {% capture people %}
 
-                </p>
+
+[张一麐](https://baike.baidu.com/item/张一麐)
+[袁希涛](https://baike.baidu.com/item/袁希涛)、[吴敬恒](https://baike.baidu.com/item/吴敬恒)
+[黎锦熙](https://baike.baidu.com/item/黎锦熙)、[陈懋治]({{ site.baseurl }}{% link people/chenmaozhi-cn.md %})、沈颐、[李步青](https://baike.baidu.com/item/李步青)、陆基、[朱文熊](https://baike.baidu.com/item/朱文熊)、[钱稻孙](https://baike.baidu.com/item/钱稻孙)、[钱玄同](https://baike.baidu.com/item/钱玄同)、[胡适](https://baike.baidu.com/item/胡适)、[刘复](https://baike.baidu.com/item/刘复)、[周作人](https://baike.baidu.com/item/周作人)、[马裕藻](https://baike.baidu.com/item/马裕藻)、[赵元任](https://baike.baidu.com/item/赵元任)、[汪怡]({{ site.baseurl }}{% link people/wangyi-cn.md %})、[蔡元培](https://baike.baidu.com/item/蔡元培/119206)、[白镇瀛](https://baike.baidu.com/item/白涤洲)、[萧家霖]({{ site.baseurl }}{% link people/xiaojialin-cn.md %})、[曾彝进](https://baike.baidu.com/item/曾彝进)、[孙世庆]({{ site.baseurl }}{% link people/sunshiqing-cn.md %})、方毅、[沈兼士](https://baike.baidu.com/item/沈兼士)、[黎锦晖](https://baike.baidu.com/item/黎锦晖)、[许地山](https://baike.baidu.com/item/许地山)、[林语堂](https://baike.baidu.com/item/林语堂)、王璞等
+[吴敬恒](https://baike.baidu.com/item/吴敬恒)
+[钱玄同](https://baike.baidu.com/item/钱玄同)、[黎锦熙](https://baike.baidu.com/item/黎锦熙)、[陈懋治]({{ site.baseurl }}{% link people/chenmaozhi-cn.md %})、[汪怡]({{ site.baseurl }}{% link people/wangyi-cn.md %})、沈颐、[白镇瀛](https://baike.baidu.com/item/白涤洲)、[魏建功](https://baike.baidu.com/item/魏建功/1116970)
+[蔡元培](https://baike.baidu.com/item/蔡元培/119206)、[张一麐](https://baike.baidu.com/item/张一麐)、[李石曾](https://baike.baidu.com/item/李石曾)、[李书华](https://baike.baidu.com/item/李书华)、[李步青](https://baike.baidu.com/item/李步青)、[胡适](https://baike.baidu.com/item/胡适)、[刘复](https://baike.baidu.com/item/刘复)、[周作人](https://baike.baidu.com/item/周作人)、陆基、[朱文熊](https://baike.baidu.com/item/朱文熊)、[曾彝进](https://baike.baidu.com/item/曾彝进)、[孙世庆]({{ site.baseurl }}{% link people/sunshiqing-cn.md %})、方毅、[沈兼士](https://baike.baidu.com/item/沈兼士)、[许地山](https://baike.baidu.com/item/许地山)、[林语堂](https://baike.baidu.com/item/林语堂)、[任鸿隽](https://baike.baidu.com/item/任鸿隽)、[马体乾](https://baike.baidu.com/item/马体乾)、[钱稻孙](https://baike.baidu.com/item/钱稻孙)、[马裕藻](https://baike.baidu.com/item/马裕藻)、[萧家霖]({{ site.baseurl }}{% link people/xiaojialin-cn.md %})
+[马廉](https://baike.baidu.com/item/马廉)
+[黎锦熙](https://baike.baidu.com/item/黎锦熙)
+[刘复](https://baike.baidu.com/item/刘复)
+[钱玄同](https://baike.baidu.com/item/钱玄同)
+[萧瑜](https://baike.baidu.com/item/萧瑜)
+[赵元任](https://baike.baidu.com/item/赵元任)
+[汪怡]({{ site.baseurl }}{% link people/wangyi-cn.md %})
+[袁同礼](https://baike.baidu.com/item/袁同礼)
+[黎锦熙](https://baike.baidu.com/item/黎锦熙)
+[钱玄同](https://baike.baidu.com/item/钱玄同) 
+[刘复](https://baike.baidu.com/item/刘复) 
+[汪怡]({{ site.baseurl }}{% link people/wangyi-cn.md %})
+[萧家霖]({{ site.baseurl }}{% link people/xiaojialin-cn.md %}) 
+[白涤洲](https://baike.baidu.com/item/白涤洲)
+[孙楷第](https://baike.baidu.com/item/孙楷第) 
+[魏建功](https://baike.baidu.com/item/魏建功/1116970)
+[王重民](https://baike.baidu.com/item/王重民)
+[马廉](https://baike.baidu.com/item/马廉)
+张蔚瑜 
+[王述达]({{ site.baseurl }}{% link people/wangshuda-cn.md %}) 
+崔骥 
+王宗鑑 
+[徐一士](https://baike.baidu.com/item/徐一士) 
+远绍华 
+彭望群 
+罗林章 
+孔繁均 
+[王寿康]({{ site.baseurl }}{% link people/wangshoukang-cn.md %}) 
+萧杰五 
+萧坤 
+李寿朋 
+孙锐第 
+翁秉懿 
+赏嘉滨 
+赵煜震 
+邱学明 
+[张洵如]({{ site.baseurl }}{% link people/zhangxunru-cn.md %}) 
+索思锟 
+[赵荫棠](https://baike.baidu.com/item/赵荫棠) 
+[刘盼遂](https://baike.baidu.com/item/刘盼遂)
+[方壮猷](https://baike.baidu.com/item/方壮猷) 
+[刘汝霖](https://baike.baidu.com/item/刘汝霖) 
+[何士骥](https://baike.baidu.com/item/何士骥) 
+[符定一](https://baike.baidu.com/item/符定一) 
+张寿林
+敖士英
+[刁汝钧](https://baike.baidu.com/item/刁汝钧)
+沈其蕃 
+吴德润 
+李文光 
+何梅岑]、牛继昌、傅介石、[高景成](https://baike.baidu.com/item/高景成)、[徐世荣](https://baike.baidu.com/item/徐世荣/1142033)、孙崇义、安文倬
+[丁声树](https://baike.baidu.com/item/丁声树)、[黎锦熙](https://baike.baidu.com/item/黎锦熙)、[李荣](https://baike.baidu.com/item/李荣/132357)、[陆志韦](https://baike.baidu.com/item/陆志韦)、[陆宗达](https://baike.baidu.com/item/陆宗达)、[吕叔湘](https://baike.baidu.com/item/吕叔湘)、[石明远](https://baike.baidu.com/item/石明远)、[王力](https://baike.baidu.com/item/王力/3888)、[魏建功](https://baike.baidu.com/item/魏建功/1116970)、[叶籁士](https://baike.baidu.com/item/叶籁士)、[叶圣陶](https://baike.baidu.com/item/叶圣陶)、[周定一](https://baike.baidu.com/item/周定一/5825154)、周浩然、[周祖谟](https://baike.baidu.com/item/周祖谟)、[朱文叔](https://baike.baidu.com/item/朱文叔)
+[孙德宣](https://baike.baidu.com/item/孙德宣)、孙崇义、何梅岑、李伯纯、[萧家霖]({{ site.baseurl }}{% link people/xiaojialin-cn.md %})、孔凡均、[王述达]({{ site.baseurl }}{% link people/wangshuda-cn.md %})、[刘庆隆](https://baike.baidu.com/item/刘庆隆)、郭地、李文生、[刘洁修](https://baike.baidu.com/item/刘洁修)、[莫衡](https://baike.baidu.com/item/莫衡/5404038)、吴崇康、李国炎、郑宣沐、[单耀海](https://baike.baidu.com/item/单耀海)、吕天琛、徐萧斧、[范继淹](https://baike.baidu.com/item/范继淹)、范方莲、傅婧、姜远、王立达
+徐世禄、[贺澹江]({{ site.baseurl }}{% link people/hedanjiang-cn.md %})、高泽均、王焕贞、赵桂钧、王蕴明、姚宣田
+                {% endcapture %}
+				        {{ people | markdownify }}
               </div>
             </div>
           </div>
