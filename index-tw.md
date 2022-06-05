@@ -7,7 +7,7 @@ lang: 繁體中文
 <div class="home-page">
 
   <div class="container">
-    <h1 class="page-heading">文章</h1>
+    <h1 class="page-heading">述 故 / 循 迹 , 现 代 汉 语 的 蒂 基 者</h1>
     <div class="home-banner">
       <img alt="" src="/assets/images/banner.png">
 
