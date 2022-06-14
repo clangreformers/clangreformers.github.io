@@ -1,3 +1,6 @@
+---
+banvar1: banner.md
+---
 
 <div class="home-page">
   <div class="container">
@@ -34,7 +37,7 @@
     </ul>
     
 
-{% include {{ page.banvar }} %}
+{% include {{ page.banvar1 }} %}
 
   </div>
 </div>
