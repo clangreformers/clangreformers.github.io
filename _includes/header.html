@@ -6,18 +6,18 @@
         <map name="workmap">
       {%- if page.lang == "English" -%}
             {%- assign page_paths = site.data.navigation | default: default_paths -%}
-          <area shape="rect" coords="0, 40, 77, 70" href="shuowen.html">
-          <area shape="rect" coords="80, 40, 160, 70" href="index.html">
+          <area shape="rect" coords="0, 40, 77, 70" href="{{ shuowen | prepend: site.baseurl }}">
+          <area shape="rect" coords="80, 40, 160, 70" href="{{ index | prepend: site.baseurl }}">
       {%- endif %}
       {%- if page.lang == "简体中文" %}
             {%- assign page_paths = site.data.navigation-cn | default: default_paths -%}
-          <area shape="rect" coords="0, 40, 77, 70" href="shuowen-cn.html">
-          <area shape="rect" coords="80, 40, 160, 70" href="index-cn.html">
+          <area shape="rect" coords="0, 40, 77, 70" href="{{ shuowen-cn | prepend: site.baseurl }}">
+          <area shape="rect" coords="80, 40, 160, 70" href="{{ index-cn | prepend: site.baseurl }}">
       {%- endif %}
       {%- if page.lang == "繁體中文" %}
             {%- assign page_paths = site.data.navigation-tw | default: default_paths -%}
-          <area shape="rect" coords="0, 40, 77, 70" href="shuowen-tw.html">
-          <area shape="rect" coords="80, 40, 160, 70" href="index-tw.html">
+          <area shape="rect" coords="0, 40, 77, 70" href="{{ shuowen-tw | prepend: site.baseurl }}">
+          <area shape="rect" coords="80, 40, 160, 70" href="{{ index-tw | prepend: site.baseurl }}">
       {%- endif -%}
       </map>
 
