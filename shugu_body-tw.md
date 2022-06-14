@@ -1,5 +1,5 @@
 ---
-banvar1: banner-tw.md
+banvar: banner-tw.md
 ---
 
 <div class="home-page">
@@ -42,7 +42,7 @@ banvar1: banner-tw.md
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p> -->
 
 
-{% include {{ page.banvar1 }} %}
+{% include {{ page.banvar }} %}
 
   </div>
 </div>
