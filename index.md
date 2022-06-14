@@ -4,6 +4,7 @@ ref: index
 lang: English
 sidebar: sidebar
 body: shugu_body.md
+banvar: banner.md
 ---
 
 
