@@ -1,3 +1,7 @@
+---
+banvar: banner-cn.md
+---
+
 <div class="home-page">
 
   <div class="container">
