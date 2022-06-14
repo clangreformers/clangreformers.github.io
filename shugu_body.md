@@ -1,3 +1,7 @@
+---
+banvar: banner.md
+---
+
 <div class="home-page">
   <div class="container">
     <h1 class="page-heading">Events and historical figures of modern Chinese</h1>

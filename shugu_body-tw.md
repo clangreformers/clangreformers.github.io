@@ -1,3 +1,7 @@
+---
+banvar: banner-tw.md
+---
+
 <div class="home-page">
 
   <div class="container">
