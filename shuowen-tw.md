@@ -1,21 +1,20 @@
 ---
 layout: default
-ref: index
-lang: English
-sidebar: sidebar
-banvar: banner.md
+ref: shuowen
+lang: 繁體中文
+banvar: banner-tw.md
 ---
 
 <div class="home-page">
   <div class="container">
-    <h1 class="page-heading">Exposition/Exploring the bits and pieces of Chinese characters</h1>
+    <h1 class="page-heading">說文 / 探索中國文字的點點滴滴</h1>
     <div class="home-banner">
       <img alt="" src="/assets/images/banner1.png">
 
     </div>
     <div class="searchbar">
       <div class="left">
-        Events and historical figures of modern Chinese
+        說文 / 探索中國文字的點點滴滴 
       </div>
       <div class="right">
         <div id="search-demo-container" class="search-demo-container">
@@ -25,20 +24,6 @@ banvar: banner.md
         </div>
       </div>
     </div>
-    <ul class="post-list">
-      {% assign posts=site.posts | where:"lang", page.lang %}
-      {% for post in posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-
-        <a href="{{ post.url | prepend: site.baseurl }}" class="more">More</a>
-      </li>
-      {% endfor %}
-    </ul>
     
 
 {% include {{ page.banvar }} %}
