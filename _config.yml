@@ -52,7 +52,7 @@ guest-comments:
   简体中文: _includes/guest_comments-cn.html
   繁體中文: _includes/guest_comments-tw.html
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://clangreformers.github.io" # the base hostname & protocol for your site, e.g. http://clangreformers.github.io
+url: "https://clangreformers.github.io/" # the base hostname & protocol for your site, e.g. http://clangreformers.github.io
 plugins:
   - jekyll-sitemap
 # twitter_username: jekyllrb
