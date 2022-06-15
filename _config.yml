@@ -44,9 +44,9 @@ shuowen:
   简体中文: shuowen-cn.html
   繁體中文: shuowen-tw.html
 shugu:
-  English: shugu.html
-  简体中文: shugu-cn.html
-  繁體中文: shugu-tw.html
+  English: index.html
+  简体中文: index-cn.html
+  繁體中文: index-tw.html
 guest-comments:
   English: _includes/guest_comments.html
   简体中文: _includes/guest_comments-cn.html
