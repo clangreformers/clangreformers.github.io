@@ -40,13 +40,13 @@ copyright:
   简体中文: ©“中国语言标准化现代化进程中的人与事” 王昀，王颖先以及贡献者版权， 2018-2022。版权所有
   繁體中文: ©“中國語言標準化現代化進程中的人與事” 王昀，王穎先以及貢獻者版權， 2018-2022。版權所有
 shuowen:
-  English: shuowen
-  简体中文: shuowen-cn
-  繁體中文: shuowen-tw
+  English: shuowen.html
+  简体中文: shuowen-cn.html
+  繁體中文: shuowen-tw.html
 shugu:
-  English: shugu
-  简体中文: shugu-cn
-  繁體中文: shugu-tw
+  English: shugu.html
+  简体中文: shugu-cn.html
+  繁體中文: shugu-tw.html
 guest-comments:
   English: _includes/guest_comments.html
   简体中文: _includes/guest_comments-cn.html
