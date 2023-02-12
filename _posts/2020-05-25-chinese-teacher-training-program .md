@@ -30,4 +30,6 @@ As a result of the above measures, it took only a few years for Taiwan to change
 
 In 2018, through Chinese American writer Mr. Zhengfang Wang’s “A Little Rascal through Ten Years of Turmoil”, I was surprised to find out that the author’s father was my grandfather’s colleague- the one who carried printing stamps to Taiwan but never returned to Beijing. After finding Mr. Zhengfang Wang, I was able to verify that many of the students who could not be found online have indeed gone to Taiwan and were engaged in teaching Mandarin in Taiwan. They are: Zhang Boyu, Feng Changqing, Zhai Jianbang, Gong Qingxiang, Zeng Boping, Jing Wangxiuyuan, Song Mengshao, Chen Jirong, Huang Zengyu, Zhao Shouan, Zhang Tao, Zhao Hongye, Niu Yurong, Gao Fengtai, Liu Chengxiang, South Korean Jacaranda, Yang Tianfu, Wu Guining, Li Lin, Zhou Bin, Zhao Wenzeng, Guo Fen.
 
+ ![image](/assets/imgs/chinese-teacher-training-program-graduation.png "Graduation photo for Mandarin Linguistics Specialtym Peking Normal University, 1948（Photo provided by author)")
 
+Graduation photo for Mandarin Linguistics Specialtym Peking Normal University, 1948（Photo provided by author)
