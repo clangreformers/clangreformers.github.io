@@ -8,6 +8,7 @@ lang: English
 ---
 
 Author: Yun Wang
+
 Translator: Yingxian Wang
 
 ![image](/assets/imgs/shuda_graduation.png "Graduation photo of the Chinese Department of Beijing Normal University in 1926.")
