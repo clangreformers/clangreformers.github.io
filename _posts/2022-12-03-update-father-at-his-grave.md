@@ -8,7 +8,8 @@ lang: English
 ---
 
 Author: Peter Wang
-Translator: ChatGPT-4
+
+Translator: Yingxian Wang
 
 ![image](/assets/imgs/shoukang_wang.jpeg "Wang Shoukang, the first deputy editor-in-chief of Mandarin Daily News. Provided by Peter Wang")
 
