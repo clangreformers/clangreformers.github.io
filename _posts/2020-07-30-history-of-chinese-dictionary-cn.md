@@ -34,8 +34,10 @@ lang: 简体中文
  
  ![image](/assets/imgs/dict_history/jiesheng.png "结绳记事")
 ![image](/assets/imgs/dict_history/zhuanwen.png "籀文")
+
 ![image](/assets/imgs/dict_history/xiaozhuan.png "小篆代表泰山石刻")
 ![image](/assets/imgs/dict_history/zhongdingwen.png "钟鼎文")
+
 ![image](/assets/imgs/dict_history/lishu.png "隶书")
 
 
@@ -62,7 +64,9 @@ lang: 简体中文
 1、《说文解字》，简称《说文》，作者为【汉】许慎，是中国第一部系统地分析汉字字形和考究字源的字书，也是世界上很早的字典之一。该书共收字9353个。今本《说文》为【宋】徐铉整理版。该书首次以部首分部，提出了分析文字的“六书”理论，保存了大部分先秦字体以及汉代及以前的不少文字训诂，反映了上古汉语中词汇的面貌。
           
 ![image](/assets/imgs/dict_history/song_shuowenjiezi.png "宋本《说文解字》")
+
 ![image](/assets/imgs/dict_history/tang_shuowenjiezi.png "唐抄本《说文解字》")
+
 ![image](/assets/imgs/dict_history/shuowenjiezi_demo.png "《说文解字》示例")
        
 2、《字林》是【晋】人吕忱搜集异字而作，以补《说文》之缺。全书以隶书为主体
@@ -114,6 +118,7 @@ lang: 简体中文
 《尔雅》，为辞书之祖，也是第一部按义类编排的综合性辞书。它最早著录于《汉书·艺文志》，但未载作者姓名。“尔”是“近”的意思（后来写作“迩”），“雅”是“正”的意思，在这里专指“雅言”，即在语音、词汇和语法等方面都合乎规范的标准语。全书收词语4300多个，分为2091个条目。该书首创按内容性质分类释词的体例，被认为是中国训诂的开山之作，在训诂学、音韵学、词源学、方言学、古文字学等方面都有着重要影响，是研究先秦词汇、阅读古籍的重要参考资料，被视为儒家之经典。
 
 ![image](/assets/imgs/dict_history/erya.png "尔雅")
+
 ![image](/assets/imgs/dict_history/erya_annotated.png "尔雅注疏")
                    
 继《尔雅》之后，著书补充《尔雅》或仿《尔雅》体例来编撰训诂词典的每代皆有，这些书均以“雅”命名，一脉相传，自成体系。
@@ -261,6 +266,7 @@ lang: 简体中文
 《现代汉语词典》出版后，成为广大师生及社会各界的语文工具书。它也被誉为世界上许多国家和地区研究和学习汉语的“圣经”。至今，《现代汉语词典》除中国内地版以外，还拥有新加坡版、韩国版和香港版等多个版本。
 
 ![image](/assets/imgs/dict_history/kangxi.png "康熙字典")
+
 ![image](/assets/imgs/dict_history/guoyu.png " 国语辞典（八册本）")
 
 
