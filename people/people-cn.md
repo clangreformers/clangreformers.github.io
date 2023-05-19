@@ -135,13 +135,13 @@ lang: 简体中文
 
 《国语辞典》其他编纂人
 
-何梅岑]、牛继昌、傅介石（亲戚）、[高景成](https://baike.baidu.com/item/高景成)、[徐世荣](https://baike.baidu.com/item/徐世荣/1142033)、孙崇义、安文倬
+何梅岑、牛继昌、傅介石（亲戚）、[高景成](https://baike.baidu.com/item/高景成)、[徐世荣](https://baike.baidu.com/item/徐世荣/1142033)、[孙崇义]({{ site.baseurl }}{% link people/sunchongyi-cn.md %})、安文倬
 
 《现代汉语词典》试印本的主要编纂人
 
 审定委员会：[丁声树](https://baike.baidu.com/item/丁声树)、[黎锦熙](https://baike.baidu.com/item/黎锦熙)、[李荣](https://baike.baidu.com/item/李荣/132357)、[陆志韦](https://baike.baidu.com/item/陆志韦)、[陆宗达](https://baike.baidu.com/item/陆宗达)、[吕叔湘](https://baike.baidu.com/item/吕叔湘)、[石明远](https://baike.baidu.com/item/石明远)、[王力](https://baike.baidu.com/item/王力/3888)、[魏建功](https://baike.baidu.com/item/魏建功/1116970)、[叶籁士](https://baike.baidu.com/item/叶籁士)、[叶圣陶](https://baike.baidu.com/item/叶圣陶)、[周定一](https://baike.baidu.com/item/周定一/5825154)、周浩然、[周祖谟](https://baike.baidu.com/item/周祖谟)、[朱文叔](https://baike.baidu.com/item/朱文叔)
 
-主要编纂人：[孙德宣](https://baike.baidu.com/item/孙德宣)、孙崇义、何梅岑、李伯纯、[萧家霖]({{ site.baseurl }}{% link people/xiaojialin-cn.md %})、孔凡均、[王述达]({{ site.baseurl }}{% link people/wangshuda-cn.md %})、[刘庆隆](https://baike.baidu.com/item/刘庆隆)、郭地、李文生、[刘洁修](https://baike.baidu.com/item/刘洁修)、[莫衡](https://baike.baidu.com/item/莫衡/5404038)、吴崇康、李国炎、郑宣沐、[单耀海](https://baike.baidu.com/item/单耀海)、吕天琛、徐萧斧、[范继淹](https://baike.baidu.com/item/范继淹)、范方莲、傅婧、姜远、王立达
+主要编纂人：[孙德宣](https://baike.baidu.com/item/孙德宣)、[孙崇义]({{ site.baseurl }}{% link people/sunchongyi-cn.md %})、何梅岑、李伯纯、[萧家霖]({{ site.baseurl }}{% link people/xiaojialin-cn.md %})、孔凡均、[王述达]({{ site.baseurl }}{% link people/wangshuda-cn.md %})、[刘庆隆](https://baike.baidu.com/item/刘庆隆)、郭地、李文生、[刘洁修](https://baike.baidu.com/item/刘洁修)、[莫衡](https://baike.baidu.com/item/莫衡/5404038)、吴崇康、李国炎、郑宣沐、[单耀海](https://baike.baidu.com/item/单耀海)、吕天琛、徐萧斧、[范继淹](https://baike.baidu.com/item/范继淹)、范方莲、傅婧、姜远、王立达
 
 资料人员：徐世禄、[贺澹江]({{ site.baseurl }}{% link people/hedanjiang-cn.md %})、高泽均、王焕贞、赵桂钧、王蕴明、姚宣田
 
