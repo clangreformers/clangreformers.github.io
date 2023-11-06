@@ -10,6 +10,8 @@ lang: English
 Author: Yun Wang
 
 
+The Dictionary Compilation Office had two gentlemen (Mr. Wang Shuda and Mr. Sun Chongyi) who, under the recommendation of Mr. Li Jinxian, went to Hebei Beijing Normal College (now known as Hebei Normal University) in the 1960s to establish the Chinese department and engage in teaching and research. They experienced a unique period in Chinese history there and continued to tirelessly contribute until their later years. Following in their footsteps, I have come to Xuanhua, Hebei Province.
+
 Xuanhua, located in the hinterland of the Yanshan Mountains to the northwest of Beijing, is a part of Zhangjiakou City, Hebei Province, and is 160 kilometers from Beijing. For Beijingers, it's an unimpressive place where people wouldn't stop even if they passed by. This is my first time here, only to search for the traces of my grandfather's life half a century ago.
 
 In 1969, according to the political situation at that time, a movement to "relocate to mountainous areas, decentralized education, dig deep holes, store large amounts of grain, and not seek hegemony" swept across universities nationwide. Hebei Beijing Normal University, where my grandfather taught, was relocated from Beijing to Xuanhua as arranged by the state, and was renamed Hebei Normal University. My 65-year-old grandfather also moved here, beginning a life of hardship and displacement with the students and faculty.
