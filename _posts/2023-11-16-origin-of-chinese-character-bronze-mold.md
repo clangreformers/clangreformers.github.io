@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Origin of Chinese Charactor Bronze Mold
+title: Origin of Chinese Character Bronze Mold
 date:  2023-11-16 14:00:00 -0000
 categories: jekyll update
-ref:  origin-of-chinese-charactor-bronze-mold
+ref:  origin-of-chinese-character-bronze-mold
 lang: English
 ---
 

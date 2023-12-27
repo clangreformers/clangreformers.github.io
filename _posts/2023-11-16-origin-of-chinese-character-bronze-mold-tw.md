@@ -3,7 +3,7 @@ layout: post
 title: 注音漢字銅模之由來
 date:  2023-11-16 14:00:00 -0000
 categories: jekyll update
-ref: origin-of-chinese-charactor-bronze-mold
+ref: origin-of-chinese-character-bronze-mold
 lang: 繁體中文
 ---
 作者：王昀
