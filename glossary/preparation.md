@@ -1,0 +1,21 @@
+---
+layout: post
+title: National Language Preparation Committee
+ref:  preparation
+lang: English
+---
+
+The National Language Preparation Committee was established on April 21, 1919, and it served as an administrative institution under the Ministry of Education in the Republic of China, tasked with promoting the use of Mandarin. This government-affiliated organization played a crucial role in advancing Mandarin language standardization, and many of its key members were drawn from the previously established private organization, the National Language Research Association.
+
+The committee was led by Zhang Yilin as the chairman, with Yuan Xitao and Wu Jingheng serving as vice-chairmen. It consisted of 41 members appointed by the Ministry of Education, including figures like Li Jinxi, Chen Maozhi, Shen Yi, Li Buqing, Lu Ji, Zhu Wenxiong, Qian Daosun, as well as 35 members elected by directly-administered schools, such as Qian Xuantong, Hu Shi, Liu Fu, Zhou Zuoren, Ma Yuzao, and others. Additionally, they later hired members like Zhao Yuanren, Wang Yi, Cai Yuanpei, Bai Zhenying, Xiao Jialin, Zeng Yijin, Sun Shiqing, Fang Yi, Shen Jianshi, Li Jinhui, Xu Dishan, Lin Yutang, and Wang Pu, totaling 38 appointed members.
+
+Some of the significant achievements of this committee included:
+
+The publication of phonetic symbols (completed during the preparatory period) and the ordering and revision of phonetic symbols.
+The publication of the "National Phonetic Dictionary" and the "Revised National Phonetic Dictionary" to establish standardized pronunciation guidelines.
+The issuance of various directives, including the transformation of school courses from "National Language" to "Mandarin," the promotion of vernacular Chinese and phonetic symbols, and the establishment of systems for inspection, guidance, rewards, and punishments, as well as the opening of tutorial classes.
+In 1928, the Ministry of Education restructured this institution into the National Language Standardization Preparatory Committee. Wu Jingheng was appointed as the chairman, with Qian Xuantong, Li Jinxi, Chen Maozhi, Wang Yi, Shen Yi, Bai Zhenying, Wei Jianggong, Zhao Yuanren, Xiao Jialin, and others as executive committee members. They also appointed 31 commissioners, including Cai Yuanpei, Zhang Yilin, Wu Jingheng, Li Yuying, Li Shuhua, Qian Xuantong, Li Jinxi, Chen Maozhi, Wang Yi, Hu Shi, Liu Fu, Zhou Zuoren, Li Buqing, Shen Yi, Lu Ji, Zhu Wenxiong, Wei Jianggong, Zeng Yijin, Sun Shiqing, Fang Yi, Shen Jianshi, Li Jinhui, Xu Dishan, Lin Yutang, Ren Hongjun, Ma Tigan, Qian Daosun, Ma Yuzao, Xiao Jialin, and others.
+
+In the subsequent work, the committee continued to organize and promote the use of phonetic symbols (formerly phonetic letters), develop and advocate for the official adoption of the "Romanized Mandarin Phonetic Alphabet," establish the Chinese Dictionary Compilation Office, publish the "National Phonetic Dictionary" as the first dictionary to promote standardized Mandarin, and subsequently publish the "Mandarin Dictionary" and other important references. They also published periodicals like "National Language Monthly" for promoting and researching Mandarin, promoted the use of Mandarin in telegrams and signage by the Ministry of Communications, advocated for the use of Romanized phonetic symbols in radio broadcasting, wireless telegraphy, and talking movies, and proposed the Ministry of Education to promote Mandarin education and the teaching of phonetic symbols in elementary schools. Additionally, they compiled phonetic reading materials, newspapers, and magazines, designed and cast phonetic Chinese character molds, and promoted the use of phonetic symbols in the printing industry. They also established the "National Language Archives" to investigate, collect, organize, display, and analyze historical materials related to Mandarin.
+
+While this institution ceased to exist after the establishment of the People's Republic of China, it played a vital role in the standardization and promotion of Mandarin during its existence.

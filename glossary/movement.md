@@ -1,0 +1,12 @@
+---
+layout: post
+title: Mandarin Language Movement
+ref:  movement
+lang: English
+---
+
+The Mandarin Language Movement propelled the Chinese people forward into civilization. It enabled them to transition from reading classical Chinese literature to being able to read using phonetic tools, thus freeing up more time for studying subjects like mathematics, physics, and chemistry. It transformed a situation where there was a linguistic divide between the north and south into one where Mandarin became the common language across the Chinese-speaking world, facilitating seamless communication and exchange. It played a significant role in reducing widespread illiteracy, allowing the majority of people to read and write, and contributed to the progress of society, civilization, and scientific knowledge. This movement was more challenging than any revolution, spanning several decades, facing the challenges of changing governments and wartime turmoil, and its significance was profound.
+
+Narrowly defined, the Mandarin Language Movement primarily revolutionized the use of language as a tool. Towards the end of the Qing Dynasty, Lu Xunzhang and others in the Guangdong and Fujian regions advocated the "cut-sound-to-words" method, aimed at enabling people to read without instruction. In the early 20th century, Wang Zhao of Zhili Province published "Official Language Syllable Letters," laying the foundation for Chinese phonetic symbols and standard pronunciation, making the invention of Chinese character typing possible. After the founding of the Republic of China, the Education Ministry's Pronunciation Standardization Association established national pronunciation, phonetic symbols, and Mandarin Romanization. They compiled the "Commonly Used Characters in National Pronunciation" and promoted it through primary and secondary education, the establishment of people's study centers, and administrative orders. This not only improved the level of education but also removed barriers in modern communication methods like telegrams and transportation.
+
+The broader Mandarin Language Movement also included the concurrent New Literature Movement. This movement advocated for "spoken and written language consistency," transformed the national language subject in primary and secondary schools into a Mandarin subject, promoted the use of vernacular Chinese, introduced punctuation, shifted the focus from individual characters to words, and encouraged the study of Mandarin grammar. It led to the development of a systematic framework for the Chinese language.

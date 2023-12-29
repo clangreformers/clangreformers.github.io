@@ -1,0 +1,27 @@
+.banner {
+    width: 100%;
+    background-color: #d2d5c8;
+    color: #000000;
+    text-align: center;
+    padding: 20px 0;
+    overflow: hidden;
+}
+
+.rolling-words {
+    display: inline-block;
+    white-space: nowrap;
+    animation: roll 10s linear infinite; /* Adjust the duration as needed */
+}
+
+.word {
+    padding: 0 10px;
+}
+
+@keyframes roll {
+    0% {
+        transform: translateX(0);
+    }
+    100% {
+        transform: translateX(-100%);
+    }
+}
