@@ -9,8 +9,8 @@
 
 .rolling-words {
     display: inline-block;
-    white-space: nowrap;
-    animation: roll 5s linear infinite; /* Adjust the duration as needed */
+    white-space: wrap;
+    animation: roll 30s linear infinite; /* Adjust the duration as needed */
 }
 
 .word {
@@ -19,7 +19,7 @@
 
 @keyframes roll {
     0% {
-        transform: translateX(0);
+        transform: translate3d(100%, 0, 0);
     }
     100% {
         transform: translateX(-100%);
