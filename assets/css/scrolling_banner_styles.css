@@ -17,9 +17,9 @@
     padding: 0 10px;
 }
 
-@keyframes scroll-left  {
+@keyframes roll {
     0% {
-        transform: translateX(100%);
+        transform: translateX(0);
     }
     100% {
         transform: translateX(-100%);
