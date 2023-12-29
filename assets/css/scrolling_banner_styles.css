@@ -9,7 +9,7 @@
 
 .rolling-words {
     display: inline-block;
-    white-space: nowrap;
+    white-space: no wrap;
     animation: roll 40s linear infinite; /* Adjust the duration as needed */
 }
 
@@ -17,9 +17,9 @@
     padding: 0 10px;
 }
 
-@keyframes roll {
+@keyframes scroll-left  {
     0% {
-        transform: translate3d(100%, 0, 0);
+        transform: translateX(100%);
     }
     100% {
         transform: translateX(-100%);
