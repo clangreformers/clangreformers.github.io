@@ -10,4 +10,4 @@
 			<span class="glossary">國語羅馬字</span>
         </div>
     </div>
-    <script src=""{{ site.baseurl }}/assets/js/scrolling_banner_script.js"></script>
+    <script src="{{ site.baseurl }}/assets/js/scrolling_banner_script.js"></script>

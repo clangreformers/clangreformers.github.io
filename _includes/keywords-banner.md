@@ -10,4 +10,4 @@
 			<span class="glossary">Mandarin Romanization</span>
         </div>
     </div>
-    <script src=""{{ site.baseurl }}/assets/js/scrolling_banner_script.js"></script>
+    <script src="{{ site.baseurl }}/assets/js/scrolling_banner_script.js"></script>
