@@ -9,7 +9,7 @@
 
 .rolling-words {
     display: inline-block;
-    white-space: no wrap;
+    white-space: nowrap;
     animation: roll 40s linear infinite; /* Adjust the duration as needed */
 }
 
