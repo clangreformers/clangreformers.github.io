@@ -10,7 +10,7 @@
 .rolling-words {
     display: inline-block;
     white-space: wrap;
-    animation: roll 30s linear infinite; /* Adjust the duration as needed */
+    animation: roll 60s linear infinite; /* Adjust the duration as needed */
 }
 
 .word {
