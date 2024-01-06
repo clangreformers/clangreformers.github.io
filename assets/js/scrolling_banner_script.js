@@ -19,7 +19,7 @@ glossaries.forEach((glossary) => {
             case 'National Language Unification Preparation Committee...':
                 window.location.href = '/glossary/preparation';
                 break;
-            case 'Several Persons Club♦♦♦':
+            case 'Several Persons Club...':
                 window.location.href = '/glossary/persons';
                 break;
             case 'Compilation Department of the Chinese Great Dictionary...':
