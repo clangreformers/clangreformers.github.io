@@ -7,21 +7,35 @@
     overflow: hidden;
 }
 
-.rolling-words {
+.rolling-words1 {
     display: inline-block;
-    white-space: nowrap;
-    animation: roll 40s linear infinite; /* Adjust the duration as needed */
+    animation: roll1 40s linear infinite; /* Adjust the duration as needed */
+}
+
+.rolling-words2 {
+    display: inline-block;
+    animation: roll2 40s linear infinite; /* Adjust the duration as needed */
+    animation-delay: 20s;
 }
 
 .glossary {
     padding: 0 10px;
 }
 
-@keyframes roll {
+@keyframes roll1 {
+    0% {
+        transform: translateX(100%);
+    }
+    100% {
+        transform: translateX(-100%);
+    }
+}
+
+@keyframes roll2 {
     0% {
         transform: translateX(0);
     }
     100% {
-        transform: translateX(-100%);
+        transform: translateX(-200%);
     }
 }
