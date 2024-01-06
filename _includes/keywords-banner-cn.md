@@ -10,4 +10,4 @@
 			<span class="glossary">国语罗马字...</span>
         </div>
     </div>
-    <script src="{{ site.baseurl }}/assets/js/scrolling_banner_script.js"></script>>>>>>>> External Changes
+    <script src="{{ site.baseurl }}/assets/js/scrolling_banner_script.js"></script>
