@@ -1,5 +1,5 @@
     <div class="banner">
-        <div class="rolling-words1">
+        <span class="rolling-words1">
             <span class="glossary">国语运动...</span>
 			<span class="glossary">读音统一会...</span>
 			<span class="glossary">国语研究会...</span>
@@ -8,8 +8,8 @@
 			<span class="glossary">中国大辞典编纂处...</span>
 			<span class="glossary">注音符号...</span>
 			<span class="glossary">国语罗马字...</span>
-        </div>
-        <div class="rolling-words2">
+        </span>
+        <span class="rolling-words2">
             <span class="glossary">国语运动...</span>
 			<span class="glossary">读音统一会...</span>
 			<span class="glossary">国语研究会...</span>
@@ -18,6 +18,6 @@
 			<span class="glossary">中国大辞典编纂处...</span>
 			<span class="glossary">注音符号...</span>
 			<span class="glossary">国语罗马字...</span>
-        </div>
+        </span>
     </div>
     <script src="{{ site.baseurl }}/assets/js/scrolling_banner_script.js"></script>
