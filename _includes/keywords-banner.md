@@ -1,4 +1,5 @@
     <div class="banner">
+	  <p class="bannerContents">
         <div class="rolling-words1">
             <span class="glossary">Mandarin Language Movement...</span>
 			<span class="glossary">Pronunciation Standardization Association...</span>
@@ -19,5 +20,6 @@
 			<span class="glossary">Phonetic symbols...</span>
 			<span class="glossary">Mandarin Romanization...</span>
         </div>
+	  </p>	
     </div>
     <script src="{{ site.baseurl }}/assets/js/scrolling_banner_script.js"></script>

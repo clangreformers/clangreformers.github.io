@@ -1,4 +1,5 @@
     <div class="banner">
+	  <p class="bannerContents">
         <div class="rolling-words1">
             <span class="glossary">國語運動...</span>
 			<span class="glossary">讀音統一會...</span>
@@ -19,5 +20,6 @@
 			<span class="glossary">注音符號...</span>
 			<span class="glossary">國語羅馬字...</span>
         </div>
+	  </p>
     </div>
     <script src="{{ site.baseurl }}/assets/js/scrolling_banner_script.js"></script>

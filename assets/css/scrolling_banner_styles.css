@@ -6,6 +6,16 @@
     padding: 20px 0;
     overflow: hidden;
 }
+.bannerContents {
+  width:100%;
+  padding-top: 20px;
+  margin:0 auto;
+  font-size: 30px;
+  white-space: nowrap;
+  text-transform: uppercase;
+  font-family: 'Museo';
+  font-weight: 300;
+}
 
 .rolling-words1 {
     display: inline-block;
