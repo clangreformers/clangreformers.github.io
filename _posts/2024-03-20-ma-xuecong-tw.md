@@ -3,10 +3,11 @@ layout: post
 title: 馬學枞
 date:  2024-03-20 14:00:00 -0000
 categories: jekyll update
-ref: ma-xuezong
+ref: ma-xuecong
 lang: 繁體中文
 ---
-作者：王昀
+
+作者：王正方
 
 編者前言
 
