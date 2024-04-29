@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Liu Bannong, the Defender of the National Language
+title: Liu Bannong, Advocate of the National Language Movement
 date:  2024-04-24 14:00:00 -0000
 categories: jekyll update
 ref:  liu-bannong
@@ -9,7 +9,7 @@ lang: English
 
 Author: Yun Wang
 
-—- Figures in the National Language Movement
+—- Figures of the National Language Movement
 
 In 1934, the 29th executive meeting of the National Language Unification Preparatory Committee passed several proposals, and the sixth work report from the Great Dictionary of China Compilation Office revealed that the nearly five-year-long "collection" work had been completed, with 2.5 million index cards collected, marking the official start of the "compilation" work. The National Language Movement was in full swing. However, Liu Bannong, one of the advocates of the movement, passed away in the summer of that year at the young age of 44. That year, the busy Liu Bannong took advantage of the summer vacation to lead Bai Dizhou and others to the northwest to investigate dialects, intending to measure the tones along the Ping-Sui line and write a paper in celebration of Sven Hedin's seventieth birthday. During the trip, he once stayed overnight in a rural thatched cottage, where everyone else slept on clay beds, but Liu Bannong lay on his own camp bed pretending to be stiff, then joked, "This is like lying in a coffin in the hall!" Unfortunately, his words turned prophetic. During the survey, Liu Bannong developed a high fever. Upon returning to Beijing and distrusting the Peking Union Medical College for a timely diagnosis, it was only after Hu Shi insisted that he was admitted to the hospital where he was diagnosed with "relapsing fever." Due to delayed treatment, he tragically passed away.
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Qian Xuantong, the Defender of the National Language
+title: Qian Xuantong, a Stalwart of the National Language Movement
 date:  2024-04-11 14:00:00 -0000
 categories: jekyll update
 ref:  qian-xuantong
@@ -9,7 +9,7 @@ lang: English
 
 Author: Yun Wang
 
-—- Figures in the National Language Movement
+—- Figures of the National Language Movement
 
 Mr. Qian Xuantong was a leader of the National Language Movement, and his greatest charm lay in his distinct personality. Initially, he advocated for a return to ancient customs; later, he became skeptical and even opposed antiquity, changing his name several times due to his beliefs. Originally named Shi Huang, and styled Deqian, his father was a Qing Dynasty imperial examinee during the Tongzhi era, and later served as the head of academies in Shaoxing, Yangzhou, and Suzhou. His brother was a late Qing diplomat, serving as an envoy or minister to countries such as Japan, the UK, France, and Germany. Influenced by his family, Qian Xuantong received a solid Confucian education from a young age and was a staunch royalist as a youth. At 17, after reading Zhang Taiyan's "Refutation of Kang Youwei's Views on Revolution" and Zou Weidan's "Revolutionary Army," he began to see overthrowing the Qing as his sole duty. At 18, influenced by Liang Qichao's article "On the Major Trends in Chinese Academic Thought," which highlighted Qing scholar Liu Jizhuang for creating new characters and promoting vernacular literature, Qian became interested in Liu's studies and changed his appellation to "Duxian," indicating his future as a master of language. At 21, while studying in Japan, he joined the Tongmenghui and changed his name to "Xia," which, according to the "Shuowen Jiezi," means "the people of China," reflecting his hatred for the Qing. At 30, he changed his name to Xuantong, and at 35, he began using "Yigu Xuantong" during the Debates on Ancient History. At 52, bedridden in Beijing during its occupation, he reverted to "Xia," refusing a false appointment until his death.
 
