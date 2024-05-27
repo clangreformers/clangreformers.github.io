@@ -45,12 +45,20 @@ They said on WeChat, "I stumbled upon your article, 'The Story of Switching Comb
 
 I have already read 'The Guoyu Daily Survives Its First Year' and 'Uncle Ma's Left-Leaning Thoughts, Stubborn Boy Defies Authority' in your online column. I've read them many times over."
 
+![image](/assets/imgs/maxuecong_1.jpg "Ma Xuecong (second from the left) in an early photo with his family in Beiping."){: width="250" }
+
+(Ma Xuecong (second from the left) in an early photo with his family in Beiping.) 
+
 Calm Before the Execution
 
 I found a photo of Uncle Ma before his execution and sent it to them. Their response:
 "Uncle Wang, I sent the photo of my grandfather you forwarded to me to my uncle and aunt last night. They were both very moved. My uncle replied, 'The ropes on his arms, the calm and composed expression on his face... tears fell like rain...' My aunt replied, 'I couldn't sleep all night... the father I've longed for seemed right before my eyes...' Uncle Wang, they also repeatedly asked me to express their heartfelt thanks to you."
 
 I said I was just doing what I should. Let's keep in touch, and I might visit Beijing someday. It gives me more to think about, recalling the times years ago when my brother and I were with Uncle Ma.
+
+![image](/assets/imgs/maxuecong_2.jpg "Ma Xuecong's calmness before execution."){: width="250" }
+
+(Ma Xuecong's calmness before execution.)
 
 Editor's Afterword
 
