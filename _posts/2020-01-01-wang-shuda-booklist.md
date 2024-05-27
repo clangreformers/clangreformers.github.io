@@ -21,7 +21,17 @@ Grandpa’s nephew Jingchun remembers: “Uncle loved the books as if they were 
 
 The following are part of grandpa’s book collections. They would make any credible library envyious Hopefully they give a glimpse of grandpa’s academic pursuit.
 
+![image](/assets/imgs/booklist/confiscated_booklist_1.jpg "figure, book list confiscated 1"){: width="250" }
+![image](/assets/imgs/booklist/confiscated_booklist_2.jpg "figure, book list confiscated 2"){: width="250" }
+![image](/assets/imgs/booklist/confiscated_booklist_3.jpg "figure, book list confiscated 3"){: width="250" }
+![image](/assets/imgs/booklist/confiscated_booklist_4.jpg "figure, book list confiscated 4"){: width="250" }
+![image](/assets/imgs/booklist/confiscated_booklist_5.jpg "figure, book list confiscated 5"){: width="250" }
+![image](/assets/imgs/booklist/confiscated_booklist_6.jpg "figure, book list confiscated 6"){: width="250" }
+![image](/assets/imgs/booklist/confiscated_booklist_7.jpg "figure, book list confiscated 7"){: width="250" }
+![image](/assets/imgs/booklist/confiscated_booklist_8.jpg "figure, book list confiscated 8"){: width="250" }
+![image](/assets/imgs/booklist/confiscated_booklist_9.jpg "figure, book list confiscated 9"){: width="250" }
 
+(Figure: Part of Mr. Wang Shuda's book list confiscated during the Cultural Revolution)
 
 书目答问补正 南京国学图书馆排印二册一函 有详批注 （有本人罢免盖章）
 

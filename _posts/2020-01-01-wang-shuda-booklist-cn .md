@@ -32,15 +32,15 @@ lang: 简体中文
 以下是祖父的部分藏书书目，足以让真正的图书馆惊羡。而祖父的学术精神亦可见一
 斑。
 
-![image](/assets/imgs/booklist/confistcated_booklist_1.jpg "图，被查抄部分书目1"){: width="250" }
-![image](/assets/imgs/booklist/confistcated_booklist_2.jpg "图，被查抄部分书目2"){: width="250" }
-![image](/assets/imgs/booklist/confistcated_booklist_3.jpg "图，被查抄部分书目3"){: width="250" }
-![image](/assets/imgs/booklist/confistcated_booklist_4.jpg "图，被查抄部分书目4"){: width="250" }
-![image](/assets/imgs/booklist/confistcated_booklist_5.jpg "图，被查抄部分书目5"){: width="250" }
-![image](/assets/imgs/booklist/confistcated_booklist_6.jpg "图，被查抄部分书目6"){: width="250" }
-![image](/assets/imgs/booklist/confistcated_booklist_7.jpg "图，被查抄部分书目7"){: width="250" }
-![image](/assets/imgs/booklist/confistcated_booklist_8.jpg "图，被查抄部分书目8"){: width="250" }
-![image](/assets/imgs/booklist/confistcated_booklist_9.jpg "图，被查抄部分书目9"){: width="250" }
+![image](/assets/imgs/booklist/confiscated_booklist_1.jpg "图，被查抄部分书目1"){: width="250" }
+![image](/assets/imgs/booklist/confiscated_booklist_2.jpg "图，被查抄部分书目2"){: width="250" }
+![image](/assets/imgs/booklist/confiscated_booklist_3.jpg "图，被查抄部分书目3"){: width="250" }
+![image](/assets/imgs/booklist/confiscated_booklist_4.jpg "图，被查抄部分书目4"){: width="250" }
+![image](/assets/imgs/booklist/confiscated_booklist_5.jpg "图，被查抄部分书目5"){: width="250" }
+![image](/assets/imgs/booklist/confiscated_booklist_6.jpg "图，被查抄部分书目6"){: width="250" }
+![image](/assets/imgs/booklist/confiscated_booklist_7.jpg "图，被查抄部分书目7"){: width="250" }
+![image](/assets/imgs/booklist/confiscated_booklist_8.jpg "图，被查抄部分书目8"){: width="250" }
+![image](/assets/imgs/booklist/confiscated_booklist_9.jpg "图，被查抄部分书目9"){: width="250" }
 
 （图，王述达先生文革期间被查抄部分书目）
 
