@@ -32,6 +32,18 @@ lang: 繁體中文
 以下是祖父的部分藏書書目，足以讓真正的圖書館驚羨。而祖父的學術精神亦可見一
 斑。
 
+![image](/assets/imgs/booklist/confiscated_booklist_1.jpg "圖，被查抄部分書目1"){: width="250" }
+![image](/assets/imgs/booklist/confiscated_booklist_2.jpg "圖，被查抄部分書目2"){: width="250" }
+![image](/assets/imgs/booklist/confiscated_booklist_3.jpg "圖，被查抄部分書目3"){: width="250" }
+![image](/assets/imgs/booklist/confiscated_booklist_4.jpg "圖，被查抄部分書目4"){: width="250" }
+![image](/assets/imgs/booklist/confiscated_booklist_5.jpg "圖，被查抄部分書目5"){: width="250" }
+![image](/assets/imgs/booklist/confiscated_booklist_6.jpg "圖，被查抄部分書目6"){: width="250" }
+![image](/assets/imgs/booklist/confiscated_booklist_7.jpg "圖，被查抄部分書目7"){: width="250" }
+![image](/assets/imgs/booklist/confiscated_booklist_8.jpg "圖，被查抄部分書目8"){: width="250" }
+![image](/assets/imgs/booklist/confiscated_booklist_9.jpg "圖，被查抄部分書目9"){: width="250" }
+
+（圖，王述達先生文革期間被查抄部分書目）
+
 書目答問補正 南京國學圖書館排印二冊一函 有詳批註 （有本人罷免蓋章）
 
 郘亭知見傳本書目 上海石印本六冊一函
