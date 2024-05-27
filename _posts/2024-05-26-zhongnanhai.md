@@ -71,7 +71,7 @@ My father often reminisced about the joy and mystery of going ice skating in Zho
 
 ("Picture Six: Wang Shuda's family photo in Jinggu, 1929.")
 
-![image](/assets/imgs/zhongnanhai-7.jpg "Picture Seven: The Nanhai Ice Skating Rink during the public period.")
+![image](/assets/imgs/zhongnanhai-photo7.jpg "Picture Seven: The Nanhai Ice Skating Rink during the public period.")
 
 ("Picture Seven: The Nanhai Ice Skating Rink during the public period.")
 

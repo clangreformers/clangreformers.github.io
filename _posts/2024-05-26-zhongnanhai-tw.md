@@ -64,7 +64,7 @@ lang: 繁體中文
 
 （圖六，1929年王述達在靜谷的全家福）
 
-![image](/assets/imgs/zhongnanhai-7.jpg "圖七，平民時期的南海溜冰場")
+![image](/assets/imgs/zhongnanhai-photo7.jpg "圖七，平民時期的南海溜冰場")
 
 （圖七，平民時期的南海溜冰場）
 
