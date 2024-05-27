@@ -28,7 +28,7 @@ The location of the four western rooms of Juren Hall was originally the Yiluan H
 
 (Picture Two: Entrance to the Four Western Rooms.)
 
-![image](/assets/imgs/zhongnanhai-photo3.JPG "Picture Three: Floor plan of Juren Hall and the Four Western Rooms."){: width="250" }
+![image](/assets/imgs/zhongnanhai-photo3.jpg "Picture Three: Floor plan of Juren Hall and the Four Western Rooms."){: width="250" }
 
 (Picture Three: Floor plan of Juren Hall and the Four Western Rooms.)
 
