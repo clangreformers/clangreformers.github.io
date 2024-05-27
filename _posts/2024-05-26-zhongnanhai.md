@@ -12,7 +12,7 @@ Author: Yun Wang
 Having visited all the parks in Beijing, I have never seen the stone pillars in the background of "Picture One." My aunt—the only surviving child in the photo and the youngest—told me that this was taken in Zhongnanhai. At that time, her father, Mr. Wang Shuda, worked at the Compilation Office of the Great Chinese Dictionary (hereinafter referred to as the "Compilation Office"), which was located in Zhonghai. As a result, her father often took the children to play in Zhongnanhai. Her eldest sister and grandfather also worked as copyists in the Compilation Office in Zhonghai. How incredible is that! In the eyes of most Chinese people, Zhongnanhai is practically a forbidden zone. Yet, it turns out that it once was a beloved place for Beijingers, and the Compilation Office had a twenty-year affinity with Zhonghai.
 
 
-![image](/assets/imgs/zhongnanhai-photo1.jpg "Picture One: Mr. Wang Shuda with his eldest daughter, second daughter, and son in Zhongnanhai in 1939")
+![image](/assets/imgs/zhongnanhai-photo1.jpg "Picture One: Mr. Wang Shuda with his eldest daughter, second daughter, and son in Zhongnanhai in 1939"){: width="250" }
 
 (Picture One: Mr. Wang Shuda with his eldest daughter, second daughter, and son in Zhongnanhai in 1939)
 
@@ -24,11 +24,11 @@ At this time, the Mandarin Movement was in full swing. The plan to compile the G
 
 The location of the four western rooms of Juren Hall was originally the Yiluan Hall in Zhongnanhai. Yiluan Hall was Empress Dowager Cixi's winter palace, which was burned down during the invasion of the Eight-Nation Alliance. After being rebuilt, it was renamed Haiyan Hall. During the Republic of China, Yuan Shikai renamed Haiyan Hall to Juren Hall and proclaimed himself emperor there. The rebuilt Yiluan Hall was also renamed Huairen Hall by Yuan Shikai, and the four western rooms were actually located to the west of Huairen 
 
-![image](/assets/imgs/zhongnanhai-photo2.jpg "Picture Two: Entrance to the Four Western Rooms."
+![image](/assets/imgs/zhongnanhai-photo2.jpg "Picture Two: Entrance to the Four Western Rooms."){: width="250" }
 
 (Picture Two: Entrance to the Four Western Rooms.)
 
-![image](/assets/imgs/zhongnanhai-photo3.JPG "Picture Three: Floor plan of Juren Hall and the Four Western Rooms.")
+![image](/assets/imgs/zhongnanhai-photo3.JPG "Picture Three: Floor plan of Juren Hall and the Four Western Rooms."){: width="250" }
 
 (Picture Three: Floor plan of Juren Hall and the Four Western Rooms.)
 
@@ -44,11 +44,11 @@ After 11 AM on the third day, the deputy officer, reportedly surnamed Huang, fin
 
 Only two weeks after the handover was completed, Zhongnanhai was to be partially opened to the public for half a month. The Office of Government Affairs, without consulting the Compilation Office, included Yiyuan in the open area. Qian Xuantong, Li Jinxi, and others had to coordinate with officials again and later learned that it was again the doing of the officer surnamed Huang. After Zhongnanhai’s trial opening, the library sold Tianjin buns and delicious wontons outside Juren Hall, truly becoming more accessible to the people.
 
-![image](/assets/imgs/zhongnanhai-photo4.jpg "Picture Four: The main gate of the Compilation Office at the Four Western Rooms.")
+![image](/assets/imgs/zhongnanhai-photo4.jpg "Picture Four: The main gate of the Compilation Office at the Four Western Rooms."){: width="250" }
 
 （Picture Four: The main gate of the Compilation Office at the Four Western Rooms.）
 
-![image](/assets/imgs/zhongnanhai-photo5.jpg "Picture Five: The first gate of the Compilation Office at the Four Western Rooms.")
+![image](/assets/imgs/zhongnanhai-photo5.jpg "Picture Five: The first gate of the Compilation Office at the Four Western Rooms."){: width="250" }
 
 （Picture Five: The first gate of the Compilation Office at the Four Western Rooms.）
 
@@ -67,11 +67,11 @@ When Li Jinxi lived in the Four Western Rooms, his stepdaughter, Zhong Hong, rec
 My father often reminisced about the joy and mystery of going ice skating in Zhongnanhai with his father, Wang Shuda, similar to Zhong Hong's experience. Wang Shuda was a student of Qian Xuantong and Li Jinxi. He graduated from the Chinese Department of Beijing Normal University in 1928 and started working at the Compilation Office as an assistant compiler from its inception until it merged with the Institute of Linguistics of the Chinese Academy of Sciences. In 1929, he took his wife and their first child to Jinggu in Zhongnanhai to take their first family photo (Picture Six). He witnessed the obscure history of the Compilation Office in Zhonghai: 2.5 million index cards, numerous manuscripts and materials, and negotiations with government officials and other personnel for office space and funding. He saw Beiping become Beijing, Beijing revert to Beiping, and then Beiping become Beijing again. He saw the passing of scholars like Liu Bannong, Bai Dizhou, Qian Xuantong, and Ma Youyu. Despite everything, I believe he and everyone else deeply cherished working in this mysterious royal garden during its brief period open to the public.
 
 
-![image](/assets/imgs/zhongnanhai-photo6.jpg "Picture Six: Wang Shuda's family photo in Jinggu, 1929.")
+![image](/assets/imgs/zhongnanhai-photo6.jpg "Picture Six: Wang Shuda's family photo in Jinggu, 1929."){: width="250" }
 
 ("Picture Six: Wang Shuda's family photo in Jinggu, 1929.")
 
-![image](/assets/imgs/zhongnanhai-photo7.jpg "Picture Seven: The Nanhai Ice Skating Rink during the public period.")
+![image](/assets/imgs/zhongnanhai-photo7.jpg "Picture Seven: The Nanhai Ice Skating Rink during the public period."){: width="250" }
 
 ("Picture Seven: The Nanhai Ice Skating Rink during the public period.")
 

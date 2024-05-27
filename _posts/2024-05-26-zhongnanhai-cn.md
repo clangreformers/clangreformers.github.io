@@ -45,11 +45,11 @@ lang: 简体中文
 
 交接完成才两周，中南海要对公众试开放半个月，府院办公处未征求编纂处意见，就把颐园也包括在开放范围，钱玄同、黎锦熙等人又得托人协调，后来得知又是那个黄姓官员所为。中南海试开放后，图书馆居仁堂外大卖天津包子、美味馄饨，真是亲民了。
 
-![image](/assets/imgs/zhongnanhai-photo4.jpg "图四，编纂处在西四所的大门")
+![image](/assets/imgs/zhongnanhai-photo4.jpg "图四，编纂处在西四所的大门"){: width="250" }
 
 （图四，编纂处在西四所的大门）
 
-![image](/assets/imgs/zhongnanhai-photo5.jpg "图五，编纂处在西四所的头门")
+![image](/assets/imgs/zhongnanhai-photo5.jpg "图五，编纂处在西四所的头门"){: width="250" }
 
 （图五，编纂处在西四所的头门）
 
