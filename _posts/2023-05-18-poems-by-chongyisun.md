@@ -9,6 +9,10 @@ lang: English
 
 Author: Chongyi Sun
 
+![image](/assets/imgs/sunchongyi_1.jpg "a young Sun Chongyi"){: width="250" }
+
+(a young Sun Chongyi)
+
 Ninety Years of Reflection
 
 In the ordinary city of Yan, a man named Mu Li,
@@ -30,7 +34,9 @@ At the age of ninety, he understands the essence of life,
 
 Hoping to preserve his virtuous heart as evening arrives.
 
+![image](/assets/imgs/sunchongyi_2.jpg "Sun Chongyi at 89"){: width="250" }
 
+(Sun Chongyi at 89)
 
 Solitary Goose's Lament
 
@@ -56,7 +62,9 @@ With deep longing, I recall your graceful and charming ways,
 
 Nurturing our children with your wise words, a legacy that stays.
 
+![image](/assets/imgs/sunchongyi_3.jpg "Sun Chongyi with wife"){: width="250" }
 
+(Sun Chongyi with wife)
 
 
 
