@@ -9,9 +9,9 @@ lang: English
 
 Author: Chongyi Sun
 
-![image](/assets/imgs/sunchongyi_1.jpg "a young Sun Chongyi"){: width="250" }
+![image](/assets/imgs/sunchongyi_1.jpg "Sun Chongyi at Beijing Normal University in 1949"){: width="250" }
 
-(a young Sun Chongyi)
+(Sun Chongyi at Beijing Normal University in 1949)
 
 Ninety Years of Reflection
 
