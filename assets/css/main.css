@@ -87,9 +87,11 @@ nav a:hover {
 }
 
 footer {
-  position: relative;
-  position: relative;
-  padding: 50px 0px;
+  margin-top: 40px;
+  border-top: 1px solid #ccc;
+  padding-top: 20px;
+  font-size: 0.9em;
+  color: #666;
   background-image: url("/assets/images/footer.png");
   background-repeat: repeat-x;
   background-position: center center; }
