@@ -32,7 +32,8 @@ glossaries.forEach((glossary) => {
                 window.location.href = 'https://en.wikipedia.org/wiki/Gwoyeu_Romatzyh';
                 break;
             case 'National Language Unification Committee...':
-                window.location.href = '/glossary/committee';	
+                window.location.href = '/glossary/committee';
+				break;	
             // Simplified Chinese
             case '国语运动...':
                 window.location.href = '/glossary/movement-cn';
