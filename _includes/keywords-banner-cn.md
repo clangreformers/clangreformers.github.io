@@ -8,6 +8,7 @@
 			<span class="glossary">中国大辞典编纂处...</span>
 			<span class="glossary">注音符号...</span>
 			<span class="glossary">国语罗马字...</span>
+			<span class="glossary">国语统一委员会...</span>
         </div>
     </div>
     <script src="{{ site.baseurl }}/assets/js/scrolling_banner_script.js"></script>

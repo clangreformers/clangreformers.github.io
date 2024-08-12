@@ -8,6 +8,7 @@
 			<span class="glossary">Compilation Department of the Chinese Great Dictionary...</span>
 			<span class="glossary">Phonetic symbols...</span>
 			<span class="glossary">Mandarin Romanization...</span>
+			<span class="glossary">National Language Unification Committee...</span>
         </div>
     </div>
     <script src="{{ site.baseurl }}/assets/js/scrolling_banner_script.js"></script>
