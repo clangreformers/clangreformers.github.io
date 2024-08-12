@@ -60,6 +60,7 @@ glossaries.forEach((glossary) => {
                 break;
             case '国语统一委员会...':
                 window.location.href = '/glossary/committee-cn';
+				break;
 			// Traditional Chinese
             case '國語運動...':
                 window.location.href = '/glossary/movement-tw';
@@ -86,7 +87,8 @@ glossaries.forEach((glossary) => {
                 window.location.href = 'https://zh.wikipedia.org/zh-tw/%E5%9C%8B%E8%AA%9E%E7%BE%85%E9%A6%AC%E5%AD%97';
                 break;	
             case '國語統一委員會...':
-                window.location.href = '/glossary/committee-tw';			
+                window.location.href = '/glossary/committee-tw';
+				break;			
         }
     });
 });
