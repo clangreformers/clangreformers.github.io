@@ -31,6 +31,8 @@ glossaries.forEach((glossary) => {
             case 'Mandarin Romanization...':
                 window.location.href = 'https://en.wikipedia.org/wiki/Gwoyeu_Romatzyh';
                 break;
+            case 'National Language Unification Committee...':
+                window.location.href = '/glossary/committee';	
             // Simplified Chinese
             case '国语运动...':
                 window.location.href = '/glossary/movement-cn';
@@ -56,6 +58,8 @@ glossaries.forEach((glossary) => {
             case '国语罗马字...':
                 window.location.href = 'https://baike.baidu.com/item/%E5%9B%BD%E8%AF%AD%E7%BD%97%E9%A9%AC%E5%AD%97/6060641';
                 break;
+            case '国语统一委员会...':
+                window.location.href = '/glossary/committee-cn';
 			// Traditional Chinese
             case '國語運動...':
                 window.location.href = '/glossary/movement-tw';
@@ -80,7 +84,9 @@ glossaries.forEach((glossary) => {
                 break;
             case '國語羅馬字...':
                 window.location.href = 'https://zh.wikipedia.org/zh-tw/%E5%9C%8B%E8%AA%9E%E7%BE%85%E9%A6%AC%E5%AD%97';
-                break;				
+                break;	
+            case '國語統一委員會...':
+                window.location.href = '/glossary/committee-tw';			
         }
     });
 });
