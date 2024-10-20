@@ -3,22 +3,12 @@ layout: post
 title: 奇人王照
 date:  2024-06-19 14:00:00 -0000
 categories: jekyll update
-ref: zhongshanpark
+ref: wangzhao
 lang: 繁體中文
 ---
 
 作者：王昀
 
----
-layout: post
-title: 奇人王照
-date:  2024-10-16 14:00:00 -0000
-categories: jekyll update
-ref: wangzhao
-lang: 簡體中文
----
-
-作者：王昀
 
 如果用今天的語言來說，王照應該算是國語運動中最有氣質的人了。
 
