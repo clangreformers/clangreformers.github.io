@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 尋迹中山公園
+title: 奇人王照
 date:  2024-06-19 14:00:00 -0000
 categories: jekyll update
 ref: zhongshanpark
