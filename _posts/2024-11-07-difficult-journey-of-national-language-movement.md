@@ -77,7 +77,17 @@ Publisher: Commercial Press
 Date: (1937-1947)
 
 
+![image](/assets/imgs/national-lang-dict-8vol1.jpg "The National Language Dictionary (Eight-Volume Edition)"){: width="250" }
 
+![image](/assets/imgs/national-lang-dict-8vol2.jpg "The National Language Dictionary (Eight-Volume Edition)"){: width="250" }
+
+（The National Language Dictionary (Eight-Volume Edition)）
+
+![image](/assets/imgs/national-lang-dict-4vol1.jpg "The National Language Dictionary (Four-Volume Edition's First Volume)"){: width="250" }
+
+![image](/assets/imgs/national-lang-dict-4vol2.jpg "The National Language Dictionary (Four-Volume Edition's First Volume)"){: width="250" }
+
+（The National Language Dictionary (Four-Volume Edition's First Volume)）
 
 
 
