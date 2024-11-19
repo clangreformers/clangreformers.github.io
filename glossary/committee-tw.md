@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 國語統一委員會
+title: 國語推行委員會
 ref: committee
 lang: 繁體中文
 ---

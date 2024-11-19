@@ -1,6 +1,6 @@
 ---
 layout: post
-title: National Language Unification Committee
+title: National Language Promotion Committee
 ref:  committee
 lang: English
 ---

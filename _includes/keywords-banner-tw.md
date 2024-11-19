@@ -8,7 +8,7 @@
 			<span class="glossary">中國大辭典編纂處...</span>
 			<span class="glossary">注音符號...</span>
 			<span class="glossary">國語羅馬字...</span>
-			<span class="glossary">國語統一委員會...</span>
+			<span class="glossary">國語推行委員會...</span>
 		</div>
 	</div>	
     <script src="{{ site.baseurl }}/assets/js/scrolling_banner_script.js"></script>

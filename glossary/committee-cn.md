@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 国语统一委员会
+title: 国语推行委员会
 ref: committee
 lang: 简体中文
 ---
