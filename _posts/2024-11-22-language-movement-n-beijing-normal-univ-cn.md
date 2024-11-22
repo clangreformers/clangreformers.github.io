@@ -3,7 +3,7 @@ layout: post
 title: 国语运动与北师大
 date:  2024-11-22 14:00:00 -0000
 categories: jekyll update
-ref: national-language-movement-and-beijing-normal-university
+ref: language-movement-n-beijing-normal-univ
 lang: 简体中文
 ---
 

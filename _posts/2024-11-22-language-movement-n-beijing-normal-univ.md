@@ -9,7 +9,7 @@ lang: English
 
 Author: Yun Wang
 
-![image](/assets/imgs/beijing_normal_univ_pan.jpg "Panorama of National Beijing Normal University in 1928"){: width="500" }
+![image](/assets/imgs/beijing_normal_univ_pan.jpg "Panorama of National Beijing Normal University in 1928"){: width="600" }
 
 (Panorama of National Beijing Normal University in 1928)
 
@@ -55,7 +55,7 @@ Among these experts, aside from Qian Xuantong and Li Jinxi, PKU representatives 
 
 While these factors represent the objective reasons, the subjective dedication of BNU members provided their true motivation. I believe the ending lines of the BNU school anthem at the time perfectly capture their sense of mission and responsibility: “Expand education, prosper the people, and unite in this shared commitment to succeed.” It was precisely this belief that inspired the individuals at BNU to take on the responsibility of advancing the National Language Movement as their own mission. Through relentless effort, they made contributions that remain indelible in history.
 
-![image](/assets/imgs/shuda_graduation_1928.jpg "1928 Graduation Photo of the Chinese Department at National Beijing Normal University"){: width="500" }
+![image](/assets/imgs/shuda_graduation_1928.jpg "1928 Graduation Photo of the Chinese Department at National Beijing Normal University"){: width="600" }
 
 (1928 Graduation Photo of the Chinese Department at National Beijing Normal University: Li Jinxi is third from the left in the front row, Qian Xuantong is sixth from the left, and Wang Shuda is second from the right)
 
