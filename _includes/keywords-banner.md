@@ -8,7 +8,10 @@
 			<span class="glossary">Compilation Department of the Chinese Great Dictionary...</span>
 			<span class="glossary">Phonetic symbols...</span>
 			<span class="glossary">Mandarin Romanization...</span>
+<<<<<<< Updated upstream
 			<span class="glossary">National Language Promotion Committee...</span>
+=======
+>>>>>>> Stashed changes
         </div>
     </div>
     <script src="{{ site.baseurl }}/assets/js/scrolling_banner_script.js"></script>
