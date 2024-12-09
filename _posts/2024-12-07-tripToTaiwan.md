@@ -15,7 +15,7 @@ The purpose of my trip to Taiwan was to visit Mr. Peter Wang, with whom we have 
 
 On the second day in Taipei, Mr. Peter Wang warmly invited me to have dinner with him and his family. Although Mr. Wang has a background in engineering and once served as a university professor, he is better known as a director and writer. His most famous film is Beijing Story. Director Wang is as humorous and witty in person as he is in his works. He spoke fluent Beijing-accented Mandarin, which made me, as a Beijinger, feel a strong sense of familiarity. His wife, Shu Jing, whom he affectionately referred to as "the boss," has an outstanding demeanor, exuding elegance and intellect. She spoke in a typically gentle Taiwanese tone and was very engaging in conversation. Also present was his wife’s sister, Ms. Shu Qian, a graduate of National Taiwan University's Department of History. After figuring out our relative seniority, I addressed Mr. Wang as "Uncle Wang" and his wife as "Sister Jing." Uncle Wang and Sister Jing chose an authentic Yunnan restaurant for dinner. The owner, a woman from Tengchong, Yunnan, served excellent dishes.
 
-![image](/assets/imgs/dinner_w_peter_family.jpg "With Uncle Wang and Sis Jing"){: width="200" }
+![image](/assets/imgs/with_peterNFamily.jpg "With Uncle Wang and Sis Jing"){: width="200" }
 
 "With Uncle Wang and Sis Jing"
 
