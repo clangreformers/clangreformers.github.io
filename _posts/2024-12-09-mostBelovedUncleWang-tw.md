@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 最受孩子歡迎的王伯伯 - 王壽康先生           
+title: 最受孩子歡迎的王伯伯 - 王壽康先生         
 date:  2024-12-09 14:00:00 -0000
 categories: jekyll update
 ref: most-beloved-uncle-wang

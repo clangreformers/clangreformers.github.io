@@ -3,7 +3,7 @@ layout: post
 title: The Most Beloved Uncle Wang - Mr. Wang Shoukang
 date:  2024-12-09 14:00:00 -0000
 categories: jekyll update
-ref:  most-beloved-uncle-wang
+ref: most-beloved-uncle-wang
 lang: English
 ---
 
@@ -198,7 +198,3 @@ The first requirement for being a “master speaker” is to have flawless pronu
 Only after achieving this foundation can we discuss the elegance, humor, and wit in one’s words, as well as the breadth of knowledge required to draw on a wide range of references. A true master must skillfully balance the weight and flow of their words, maintain logical structure, and deliver insights that leave listeners enlightened, as if a sudden clarity has dawned upon them.
 
 As for the so-called “celebrity speakers” of today, I must say—with reluctance—they are far from deserving such praise. Best not to comment further!
-
-
-
-
