@@ -15,7 +15,7 @@ Excerpt from Ambitious Across the World: A True Man
 
 Ambitious Across the World: A True Man
 
-9. The Most Beloved Uncle Wang
+Chapter 9. The Most Beloved Uncle Wang
 
 In the early days, when we lived on Chongqing South Road, Section 3, Alley 14 in Taipei, my father was the most beloved figure among the neighborhood children. As soon as they saw him coming from afar, they would stop playing and shout loudly, “Uncle Wang!”
 
