@@ -1,15 +1,19 @@
 ---
 layout: post
-title: 最受孩子欢迎的王伯伯 -- 王寿康先生
+title: 最受孩子欢迎的王伯伯 - 王寿康先生
 date:  2024-12-09 14:00:00 -0000
 categories: jekyll update
-ref: childrens-favorite-uncle-wang
+ref: most-beloved-uncle-wang
 lang: 简体中文
 ---
 
 作者：王正方
 
 摘自《志在四方一男儿》
+
+![image](/assets/imgs/peterwang_trilogy3.jpg "志在四方一男儿"){: width="200" }
+
+志在四方一男儿
 
 九，最受孩子欢迎的王伯伯
 
