@@ -13,7 +13,6 @@ Excerpt from Ambitious Across the World: A True Man
 
 ![image](/assets/imgs/peterwang_trilogy3.jpg "Ambitious Across the World: A True Man"){: width="200" }
 
-Ambitious Across the World: A True Man
 
 Chapter 10. 
 
