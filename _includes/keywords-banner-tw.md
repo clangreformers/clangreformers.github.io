@@ -11,4 +11,4 @@
 			<span class="glossary">國語推行委員會...</span>
 		</div>
 	</div>	
-    <!-- <script src="{{ site.baseurl }}/assets/js/scrolling_banner_script.js"></script> -->
+    <script src="{{ site.baseurl }}/assets/js/scrolling_banner_script.js"></script>
