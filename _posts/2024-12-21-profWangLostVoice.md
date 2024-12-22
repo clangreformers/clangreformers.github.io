@@ -1,6 +1,6 @@
 ---
 layout: post
-title: After talking for three days straight, can’t do it anymore" - Mr. Wang Shoukang
+title: After talking for three days straight, can’t do it anymore - Mr. Wang Shoukang
 date:  2024-12-09 14:00:00 -0000
 categories: jekyll update
 ref: prof-wang-lost-voice
