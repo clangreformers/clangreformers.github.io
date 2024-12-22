@@ -7,20 +7,6 @@ ref: prof-wang-lost-voice
 lang: 简体中文
 ---
 
-作者：王正方
-
-摘自《志在四方一男儿》
-
-![image](/assets/imgs/peterwang_trilogy3.jpg "志在四方一男儿"){: width="200" }
-
----
-layout: post
-title: 哇哇哇三天，不行了 - 王寿康先生   
-date:  2024-12-21 14:00:00 -0000
-categories: jekyll update
-ref: prof-wang-lost-voice
-lang: 简体中文
----
 
 作者：王正方
 
@@ -28,7 +14,6 @@ lang: 简体中文
 
 ![image](/assets/imgs/peterwang_trilogy3.jpg "志在四方一男儿"){: width="200" }
 
-志在四方一男儿
 
 十，哇哇哇三天，不行了！
 
