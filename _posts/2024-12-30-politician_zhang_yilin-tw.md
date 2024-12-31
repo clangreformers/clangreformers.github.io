@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 哇哇哇三天，不行了 - 王壽康先生         
+title: 政治家張一麐與國語運動         
 date:  2024-12-30 14:00:00 -0000
 categories: jekyll update
 ref: politician-zhang-yilin
