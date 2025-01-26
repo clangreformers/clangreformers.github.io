@@ -33,9 +33,17 @@ San Min Bookstore
 
 On Sunday, I visited the National Palace Museum in Taipei. One piece of exciting news was shared by a staff member: next year, the Palace Museums in Beijing and Taipei will simultaneously host exhibitions to celebrate the 100th anniversary of the museum’s founding. The special exhibition during my visit featured Qing Dynasty princesses. Initially, I thought it would be a showcase aimed at young girls, but it left me with a profound impression. It turns out that the primary responsibility of Qing princesses throughout their lives was to marry members of other ethnic groups, thereby helping to consolidate the empire's border regions. The exhibit provided detailed displays of their titles, clothing, photos, official wedding documents, and the stories of notable princesses.
 
-Another fascinating special exhibit focused on ancient transportation maps. From primitive postal station diagrams to detailed modern maps, the evolution was truly awe-inspiring. I also enjoyed an exhibit called "Stories Within Paintings," which unraveled narratives embedded in artwork.
+Another fascinating special exhibit focused on ancient transportation maps. From primitive postal station diagrams to detailed modern maps, the evolution was truly awe-inspiring. 
+
+I also enjoyed an exhibit called "Stories Within Paintings," which unraveled narratives embedded in artwork. One of the paintings is titled "Hao Liang Tu." The artwork depicts the story of Zhuangzi and Huizi's "Transformation at Hao Liang." The two walk across the bridge and engage in a debate about whether the fish in the river are happy, how to know if the fish are happy, and how to determine if the other person understands the fish's happiness. The story takes place between 369 BCE and 286 BCE. The philosophical propositions of ancient Chinese thinkers are truly fascinating.
 
 Although I didn’t get to see the museum's famous treasures, such as the “Jadeite Cabbage” or the “Meat-shaped Stone,” the abundant elements of Chinese culture were presented in such an accessible and engaging way that I was left thoroughly impressed and deeply satisfied.
+
+![image](/assets/imgs/story_in_paintings1.jpg "Story in Paintings 1"){: width="200" }
+
+![image](/assets/imgs/story_in_paintings2.jpg "Story in Paintings 2"){: width="200" }
+
+Stories in the Painting
 
 ![image](/assets/imgs/qingdynasty_princess1.jpg "Qing Dynasty Princess 1"){: width="200" }
 
@@ -48,6 +56,8 @@ The next day, I finally had the opportunity to accompany Uncle Wang, Sis Jing, a
 ![image](/assets/imgs/wangshoukang_memorial.jpg "Paying Respects at the Grave of Wang Shoukang and His Wife with Uncle Wang"){: width="200" }
 
 Paying Respects at the Grave of Wang Shoukang and His Wife with Uncle Wang
+
+I asked Uncle Wang many questions about his father and his friends, as well as the stories of those who, together with his father, went to Taiwan to promote the national language. Uncle Wang and many of his father's friends who remained on the mainland also lost contact. This time, he also learned from me that two of his best friends who stayed on the mainland had died under abnormal circumstances during the Cultural Revolution in 1968.
 
 Uncle Wang (or Director Wang) is not only humorous and witty but also highly knowledgeable. I thoroughly enjoyed discussing current affairs with him and Sister Jing. Our conversations ranged from international geopolitics, Marxism and capitalism, and U.S.-China relations, to Taiwan's current state, human nature, the feasibility of relocating TSMC's production to the U.S., and the impact of the U.S.'s restrictions on NVIDIA's AI chips in China. We left no topic untouched, and the discussions were exhilarating. Uncle Wang even arranged for me to meet Lin Wei, the editor-in-chief of Mandarin Daily News. The people Uncle Wang introduced me to were all highly accomplished individuals, yet he did so with such casual ease that I couldn't resist teasing him about his "Versailles" flair.
 
@@ -66,6 +76,12 @@ The back side of Mandarin Daily 50th Anniversary Commemorative Plate
 The next day, I went to the city where Uncle Wang and Sis Jing live and conducted an online interview with Wang Yun (for details of this interview, please see Wang Yun's Please refer to Mr. Peter Wang's article <a href="{{ site.baseurl }}{% link _posts/2024-12-01-chatWPeterWang.md %}">"Perseverance and Commitment - A Remote Dialogue with Mr. Peter Wang"</a> ). During the conversation, an interesting point came up: comparing traditional and simplified Chinese characters—does advanced technology make complex strokes less of a concern? As a pictographic language, Chinese embeds concepts in each part of its characters, which is fully evident in traditional characters. This means that traditional characters carry more information. When my son was young, he attended a bilingual kindergarten in the United States. His teacher, a Taiwanese woman with a master's degree in early childhood education, taught the children traditional characters, referring to them as "standard characters." She said that because they contain more information, they are actually easier to understand, so children don't find learning them difficult and they have advantages over simplified characters. Now, with the support of new technology, inputting traditional and simplified characters on mobile phones or computers has become equally easy.
 
 Four or five years ago, Uncle Wang introduced us to former Director of the Mandarin Promotion Center, Professor Li Zhenqing, and former Director of the Chinese Language Teaching and Research Institute, Professor Shih-Chang Hsin. Professor Hsin is currently the vice president of National Tsing Hua University in Taiwan. Before this trip to Taiwan, I specifically arranged to meet Professor Xin on the Hsinchu campus of Tsing Hua University. As an alumna of Tsinghua University in Beijing, I didn't have high expectations before visiting the Hsinchu campus, knowing that Beijing's Tsinghua Garden was once a Qing Dynasty imperial garden with beautiful scenery. However, this visit gave me a huge surprise! Although the two Tsinghua universities across the strait have developed independently for decades, they share the same motto, emblem, school song, and common history—the Southwest Associated University—as well as the eternal Tsinghua president, Mei Yiqi. It felt so familiar!
+
+Principal Mei holds the distinction of being the greatest modern Chinese university president in my heart. During his tenure, he dedicated over a decade to transforming Tsinghua University in Beijing from a preparatory school for studying in the United States into one of the world's top universities. During the eight-year War of Resistance Against Japan, he led Southwest Associated University to achieve remarkable accomplishments in teaching and education that future generations could scarcely surpass. In the school history exhibition, I discovered Principal Mei's most renowned educational philosophy: "A university is not defined by its grand buildings, but by its great teachers."
+
+![image](/assets/imgs/mei_quote.jpg "The Educational Philosophy of Mei Yiqi, Principal of Tsinghua University"){: width="200" }
+
+The Educational Philosophy of Mei Yiqi, Principal of Tsinghua University
 
 Professor Hsin and I hit it off immediately. He took me to see the school history exhibition, the Yuehan Pavilion, and we visited President Mei's mausoleum, Meiyuan. Tsing Hua University in Hsinchu and Tsinghua University in Beijing have deep exchanges. Unlike other universities, the two Tsinghua universities across the strait interact not only at the university level but also maintain connections at the departmental level.
 
