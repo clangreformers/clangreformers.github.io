@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 國語運動         
+title: 國語運動與民衆教育         
 date:  2025-02-28 14:00:00 -0000
 categories: jekyll update
 ref: popular-education
