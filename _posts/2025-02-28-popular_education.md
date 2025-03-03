@@ -30,12 +30,12 @@ To further enhance the educational level, from 1934 to 1935, with funding from t
 
 Dong Weichuan did not stop there. As the head of the first Social Education Work Team of the Ministry of Education, he led workers in promoting anti-Japanese efforts, popularizing education, and eliminating illiteracy across some regions in Sichuan, Hubei, Hunan, and Guizhou provinces. During this time, he served as the director of the People's Education Institute in Nanchong, Sichuan. In 1941, he participated in the establishment of the National Social Education College. At that time, the National Government placed great importance on civilian education, and despite tight wartime funding, they still established a college dedicated to researching civilian education and training relevant professionals. Civilian education finally entered the mainstream. Xiao Jialin also joined the college, becoming the second director of the National Language Specialized Program. 
 
-![image](/assets/imgs/dongweichuan_copule_.jpg "Dong Weichuan and Kong Wenzhen"){: width="200" }
+![image](/assets/imgs/dongweichuan_couple.jpg "Dong Weichuan and Kong Wenzhen"){: width="200" }
 
 
 Dong Weichuan and Kong Wenzhen couple in Europe
 
-![image](/assets/imgs/mingzhong_weekly_.jpg "Magazine published by the Shandong Provincial Education Bureau"){: width="200" }
+![image](/assets/imgs/minzhong_weekly.jpg "Magazine published by the Shandong Provincial Education Bureau"){: width="200" }
 
 Magazine published by the Shandong Provincial Education Bureau
 

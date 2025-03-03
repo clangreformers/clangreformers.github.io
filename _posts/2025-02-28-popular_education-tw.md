@@ -27,11 +27,11 @@ lang: 繁體中文
 
 董渭川並未止步，作為教育部第一社會教育工作團團長，他帶領職工在川、鄂、湘，黔四省的一些地區宣傳抗日，普及教育，掃除文盲。期間，他曾在四川南充民教館任主任。1941年，他參與了國立社會教育學院的籌建，這時，平民教育被國民政府所看重，在戰時經費緊張的情況下，還建立了專門研究平民教育、培養相關專業人才的學院，平民教育終于走上了殿堂。蕭家霖也加入了學院，成為第二任國語專修科的主任。
 
-![image](/assets/imgs/dongweichuan_copule_.jpg "董渭川與孔文振夫婦在歐洲"){: width="200" }
+![image](/assets/imgs/dongweichuan_couple.jpg "董渭川與孔文振夫婦在歐洲"){: width="200" }
 
 董渭川與孔文振夫婦在歐洲   
 
-![image](/assets/imgs/mingzhong_weekly_.jpg "山東省立教育館出版的雜志"){: width="200" }
+![image](/assets/imgs/minzhong_weekly.jpg "山東省立教育館出版的雜志"){: width="200" }
 
 山東省立教育館出版的雜志
 

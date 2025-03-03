@@ -28,11 +28,11 @@ lang: 简体中文
 
 董渭川并未止步，作为教育部第一社会教育工作团团长，他带领职工在川、鄂、湘，黔四省的一些地区宣传抗日，普及教育，扫除文盲。期间，他曾在四川南充民教馆任主任。1941年，他参与了国立社会教育学院的筹建，这时，平民教育被国民政府所看重，在战时经费紧张的情况下，还建立了专门研究平民教育、培养相关专业人才的学院，平民教育终于走上了殿堂。萧家霖也加入了学院，成为第二任国语专修科的主任。
 
-![image](/assets/imgs/dongweichuan_copule_.jpg "董渭川与孔文振夫妇在欧洲"){: width="200" }
+![image](/assets/imgs/dongweichuan_couple.jpg "董渭川与孔文振夫妇在欧洲"){: width="200" }
 
 董渭川与孔文振夫妇在欧洲   
 
-![image](/assets/imgs/mingzhong_weekly_.jpg "山东省立教育馆出版的杂志"){: width="200" }
+![image](/assets/imgs/minzhong_weekly.jpg "山东省立教育馆出版的杂志"){: width="200" }
 
 山东省立教育馆出版的杂志
 
