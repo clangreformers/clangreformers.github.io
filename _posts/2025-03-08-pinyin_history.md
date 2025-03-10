@@ -25,7 +25,7 @@ If we talk about the conscious use of letters to create a phonetic system for Ch
 
 In 1605, Italian missionary Matteo Ricci and Father Xu Guangqi compiled "The Miracle of Western Characters" (also known as "The Great Western Alphabet," "Western Phonetic Dictionary for Chinese," "Romanized Phonetic Articles of the Late Ming Dynasty") using Latin letters to correspond with the sounds of Chinese characters. This system included twenty-six letters, forty-four finals, and five tones: flat, rising, departing, entering, and neutral. This was the first scheme in China to use Latin letters for Pinyin. Ricci's original manuscript was reprinted in 1927 by Fu Jen Catholic University in Beijing from a copy preserved in the Wang family’s Ming Hui Lu.
 
-![image](/assets/imgs/mingji_roman_zhuyin.jpg "Ming Dynasty's European Art and Romanized Phonetics"){: width="200" }
+![image](/assets/imgs/mingji_roman_zhuyin.jpg "Ming Dynasty's European Art and Romanized Phonetics"){: width="300" }
 
 Ming Dynasty's European Art and Romanized Phonetics
 
@@ -35,7 +35,7 @@ Ming Dynasty's European Art and Romanized Phonetics
 
 In 1626, French missionary Nicolas Trigault completed "Xi Ru Er Mu Zi" (Western Scholars' Resources). This book is divided into three volumes: the first volume, "Introduction to Translation and Pronunciation," serves as a general overview; the second volume, "List of Sound and Rhyme Tables," is an index based on phonetics; the third volume, "List of Word and Sound Tables," is based on characters to find phonetic pronunciations. Trigault created twenty-nine letters, consisting of five “self-resonant” vowels, twenty “co-resonant” consonants, and another four “non-resonant” consonants, which were used in other countries but not in China. Thus, the practical set includes twenty-five letters. This is the first phonetic radical dictionary, with its phonology based on the Nanjing dialect of the Ming dynasty.
 
-![image](/assets/imgs/nicolas_trigault_alphabet.jpg "'Western Scholars' Ears and Eyes': Latin Alphabet"){: width="200" }
+![image](/assets/imgs/nicolas_trigault_alphabet.jpg "'Western Scholars' Ears and Eyes': Latin Alphabet"){: width="300" }
 
 "Western Scholars' Ears and Eyes": Latin Alphabet
 
@@ -51,7 +51,7 @@ In 1629, the Dutch pastor Georgius Candidius, while in Taiwan, translated the ca
 
 In 1841, the first American missionary to China, Elijah Bridgman, published "Selections of Chinese Literature in Cantonese Dialect." He had three purposes for writing this book: 1) to help foreigners learn Cantonese; 2) to assist Chinese people in learning English; and 3) to demonstrate that phonetics can be used to read and write Cantonese. He explained that Cantonese has 15 sets of monophthongs and diphthongs, 18 consonants, includes aspiration markers and 8 tones, and considered the four positions of the palm's edges as “level, rising, entering, and departing” tones (see image below).
 
-![image](/assets/imgs/elijah_bridgman_alphabet.jpg "Selections of Chinese Literature in Cantonese Dialect"){: width="200" }
+![image](/assets/imgs/elijah_bridgman_alphabet.jpg "Selections of Chinese Literature in Cantonese Dialect"){: width="300" }
 
 Selections of Chinese Literature in Cantonese Dialect
 
@@ -72,7 +72,7 @@ Missionaries were the creators of Chinese phonetics, and the earliest Chinese pa
 
 Lu Gengzhang studied English in Singapore. In 1892, utilizing the Romanized letters developed by missionaries, and after more than ten years of research, he selected 55 symbols and created a set of Romanized letters, naming it "China's First Fast Phonetic New Characters," and published the "Elementary Reader" in Xiamen. This book was the first self-created phonetic character scheme for spelling Chinese by the Chinese themselves, marking the beginning of the phonetic character movement. The "new phonetic characters" used in this book adopted 15 lowercase Latin letters: a, b, c, d, e, h, k, m, n, o, r, u, v, w, x, 3 uppercase letters: L, R, G, and 1 handwritten "S," along with a Greek letter θ, in addition to a variant of near-Latin letters designed by himself (generally formed by combining three strokes |, c, and ɔ). The phonetic scheme used the traditional Chinese method of tone and rhyme dual spelling, consisting of three parts: "fifteen sounds" (initials), "letters" (non-nasal finals), and "nasal sounds" (nasal finals), using a total of 37 letters. The phonetic system is called "Xiamen tone," and there are actually only 36 phonemes in the Xiamen sound system, with an additional 2 for Zhangzhou sounds and 7 for Quanzhou sounds; the rest are reserved for spelling other phonetic sounds.
 
-![image](/assets/imgs/lu_ganzhang_alphabet.jpg "Lu Gengzhang's "Elementary Reader""){: width="200" }
+![image](/assets/imgs/lu_ganzhang_alphabet.jpg "Lu Gengzhang's "Elementary Reader""){: width="300" }
 
 Lu Gengzhang's "Elementary Reader"
 
@@ -84,7 +84,7 @@ Title: A shorthand resembling bean sprouts; Changzhou-Wuxi dialect; double phone
 
 The "bean sprout alphabet" was invented by Wu Jingheng in 1895 and was taught in the Wuxi area between 1897 and 1898. This system has 18 finals, known as "overlapping finals," and 58 initials and compound letters, with compound initials forming a double phonetic scheme. The system is also referred to as "Ten-Day Tong," meaning "if there are ten days during which one cannot fully recognize it, there will be no such foolish person in the world;" it is also called "Thousand-Mile Teaching," meaning "literature can only be disseminated within a thousand miles; beyond this, it must be corrected." The original intention of the system's creator was to facilitate literacy through phonetic notation.
 
-![image](/assets/imgs/wu_jingheng_character.jpg "Wu Jingheng's 'Bean Sprout Alphabet'"){: width="200" }
+![image](/assets/imgs/wu_jingheng_character.jpg "Wu Jingheng's 'Bean Sprout Alphabet'"){: width="300" }
 
 Wu Jingheng's "Bean Sprout Alphabet"
 
@@ -94,7 +94,7 @@ Wu Jingheng's "Bean Sprout Alphabet"
 
 Cai Xiyong entered the Tongwen Guan (a school for foreign students) at a young age and later served in the United States, Japan, and Peru. While stationed in Washington, he became aware of "the other country's method of recording congressional debates and court arguments, which has been in practice for a long time. Delighted by its simplicity and speed, and concerned about the complexity of Chinese characters and widespread illiteracy, he referenced the shorthand by American Lindsley and integrated his own ideas with a focus on Mandarin phonetics, making adjustments to accommodate usage and compiled it into a single volume titled 'Chuan Yin Kuai Zi,' published in 1896." His method divides the sounds into twenty-four tones using eight types of arcs and strokes of varying weight and direction, while thirty-two finals are determined using small arcs, small strokes, and dots. Combining sounds and finals forms a character using two strokes, while there are also instances of one stroke corresponding to one character. When discussing the origins of Chinese shorthand, Cai is undoubtedly considered a pioneer.
 
-![image](/assets/imgs/cai_xiyong_shorthand.jpg "Cai Xiyong's 'Chuan Yin Kuai Zi'"){: width="200" }
+![image](/assets/imgs/cai_xiyong_shorthand.jpg "Cai Xiyong's 'Chuan Yin Kuai Zi'"){: width="300" }
 
 Cai Xiyong's "Chuan Yin Kuai Zi"
 
@@ -105,7 +105,7 @@ Cai Xiyong's "Chuan Yin Kuai Zi"
 Li Jie San published a book titled "Min Qiang Kuai Zi" in 1896, which is based on the phonetic elements from the old Fuzhou tradition of "Qi Lin Ba Yin" and employs the structure of Cai Xiyong's "Chuan Yin Kuai Zi." It uses the method of eight types of arcs and arrows, incorporating the fifteen characters of the Qi military alphabet for sounds, using one stroke per sound, no further simplification possible; and employs lines, inches, circles, dots, horizontal, oblique, curved, and straight strokes for thirty-three finals, with one tone matching one final, and two strokes paired to form one sound. The writing method requires the use of grid paper divided into middle, left, and right sections.
 1. The six directions of ascending and descending are defined, with the fifteen coarser strokes as the primary strokes and the thirty-three finer strokes as secondary strokes. Identify the direction of the primary strokes: if it is slightly to the left and above, it represents a rising tone; if slightly left and slightly below, it represents a level tone; if it is directly in the middle and above, it represents a departing tone; if it is directly in the middle but slightly below, it represents an entering tone; if it is slightly to the right and above, it represents a lower departing tone; if it is slightly to the right and slightly below, it represents a lower entering tone. Aside from the same sounding rising tones, only the flat tone remains without a specific position, and it still follows the ancient method of circled positioning with dots to distinguish sounds.
 
-![image](/assets/imgs/li_jiesan_shorthand.jpg "Li Jie San's 'Min Dialect Quick Characters'"){: width="200" }
+![image](/assets/imgs/li_jiesan_shorthand.jpg "Li Jie San's 'Min Dialect Quick Characters'"){: width="300" }
 
 Li Jie San's "Min Dialect Quick Characters"
 
@@ -115,7 +115,7 @@ Li Jie San's "Min Dialect Quick Characters"
 
 Shen Xue was proficient in English and studied medicine at Shanghai Fanwangdu Academy. In 1896, he published "Universal System" in seven parts: the first part "Body and Use," discussing the origin of phonology; the second part "Character Chart," discussing ancient and modern character forms; the third part "Nature and Principle," distinguishing the meaning of characters; the fourth part "Literature," differentiating grammatical applications; the fifth part "Fanqie," including the alphabet and fanqie tables; the sixth part "Calligraphy," attaching a method for writing in Braille and so on; the final part aimed to use characters as a mechanism for understanding things, but the manuscript was not finalized. The original text was in English, titled "Universal System," and was later translated into Classical Chinese, appearing in the August issues of "Shenbao" and "Shiwubao" in the twenty-second year of the Guangxu Emperor. This system also employed shorthand symbols as phonetic letters, and in terms of theory and writing, it demonstrated a certain level of creativity, being the first to classify words and employ connected writing of word classes. The author began writing this book at the age of nineteen, completed it in five years, and even personally went to tea houses to teach the community, but later died of poverty and hunger.
 
-![image](/assets/imgs/shen_xuezhi_vowel.jpg "Shen Xue's 'Universal System'"){: width="200" }
+![image](/assets/imgs/shen_xuezhi_vowel.jpg "Shen Xue's 'Universal System'"){: width="300" }
 
 Shen Xue's "Universal System"
 
@@ -126,7 +126,7 @@ Shen Xue's "Universal System"
 In 1897, Wang Bingyao compiled the "Phonetic Character Chart," claiming, "This new phonetic spelling embodies natural sounds inherent to the characters. By uniting strokes to form characters, the first stroke opens up the sky as a phonetic mother, whether in vertical, horizontal, diagonal, or folded formations, or through combinations and variations to create vowel sounds; by operating an image to represent Taiji, or through vertical, horizontal, or cross examinations, due to varying forms, results in the sound mother of quick writing. Combining the sound mother and vowel to form characters, and organizing sounds and tones..."
 The languages of the eighteen provinces are characterized by simple characters and comprehensive expressions. What is the nature of this? The Guangdong East phonetic inventory consists of fifty-four phonemes, while other provinces may add or subtract from this number. Excluding reductions and additions, there are twenty phonemes in the northern dialect, with ten each in the Fuzhou and Hakka dialects. Therefore, the languages of the eighteen provinces can be summarized to about ninety-four phonemes and thirty initials, totaling one hundred twenty-four characters. This represents a comprehensive capture of the spoken languages in China. The innovation of this plan lies in its early establishment of a phonetic code for reforms in telegraphy using four-character Chinese, as well as the development of flag signals and light codes based on this phonetic system.
 
-![image](/assets/imgs/wang_bingyao_pinyin.jpg "Wang Bingyao's 'Pinyin Alphabet'"){: width="200" }
+![image](/assets/imgs/wang_bingyao_pinyin.jpg "Wang Bingyao's 'Pinyin Alphabet'"){: width="300" }
 
 Wang Bingyao's "Pinyin Alphabet"
 
@@ -140,8 +140,8 @@ The phonetic movement focused on Latin-based phonetics and shorthand symbols, pr
 
 Wang Zhao served in the Qing government and fled to Japan due to his involvement in the Hundred Days' Reform. While in Japan, he emulated the Japanese kana, using components or parts of Chinese characters to develop a phonetic scheme for Chinese characters. In 1900, he published the "Phonetic Alphabet of Mandarin" in Tianjin, and his students, including Wang Pu, opened training classes in Beijing to spread it. Wang Zhao devoted himself to seeking official recognition for his invention, but due to the changing political situation, he never achieved his goal. Nevertheless, through training classes and the establishment of newspapers, he managed to widely disseminate the "Complete Phonetic Alphabet of Mandarin" in Northern China.
 
-![image](/assets/imgs/formal_pronounciation_references1.jpg "'The Phonetic Alphabet of Mandarin' and its reading materials"){: width="200" }
-![image](/assets/imgs/formal_pronounciation_references2.jpg "'The Phonetic Alphabet of Mandarin' and its reading materials"){: width="200" }
+![image](/assets/imgs/formal_pronounciation_references1.jpg "'The Phonetic Alphabet of Mandarin' and its reading materials"){: width="300" }
+![image](/assets/imgs/formal_pronounciation_references2.jpg "'The Phonetic Alphabet of Mandarin' and its reading materials"){: width="300" }
 
 "The Phonetic Alphabet of Mandarin" and its reading materials
 
@@ -153,7 +153,7 @@ Because Wang Zhao's "Mandarin Alphabet" was limited to the Beijing accent, it, a
 Once the phonetic symbols were established, a volume titled "Revised Simplified Phonetic Notation" (i.e., "Ning Phonetic Notation") was created to encompass the phonetics of the Ning influential region, including parts of Anhui. At that time, the simplified character school established by Governor Zhou Fu of the Liangjiang region used the "Ning Phonetic Notation" as its textbook. Over a span of two years, hundreds of students graduated; those who were particularly bright could speak Mandarin indistinguishably from natives of Beijing. After Duan Fang succeeded Zhou Fu as the governor of Liangjiang, he mandated that all forty primary schools in Jiangning incorporate a subject on simplified characters. As a result, women and villagers who had been illiterate suddenly found themselves able to read newspapers and write letters—like the blind suddenly seeing a clear sky. The extent of this achievement can only be imagined.
 
 
-![image](/assets/imgs/lao_naixuan_simplified.jpg "Lao Naixuan's 'Simplified Phonetic Notation'"){: width="200" }
+![image](/assets/imgs/lao_naixuan_simplified.jpg "Lao Naixuan's 'Simplified Phonetic Notation'"){: width="300" }
 
 Lao Naixuan's "Simplified Phonetic Notation"
 
@@ -163,7 +163,7 @@ Lao Naixuan's "Simplified Phonetic Notation"
 
 This book was written in 1909, with twenty-five "initials," twenty-one "finals," and three "medials." Except for "si," "shi," "ci," and "chi," the initials and finals share the same symbols. The method of tone marking is unique to various schools. Liu stated: "If the initial is inside and the final is outside in the formation, it represents the level tone; if the initial is above and the final is below, it represents the rising tone; if the initial is on the left and the final is on the right, it represents the departing tone; when combined vertically, and the medial is attached to the final, it represents the lower level tone; when combined horizontally, and the medial is attached to the final, it represents the entering tone. Thus, even with the initials and finals having the same symbol, without additional dots or markings for the level, rising, departing, and entering tones, they can still be clearly distinguished without confusion—this almost perfectly suits the phonetic symbols of our country."  
 
-![image](/assets/imgs/liu_shien_notes.jpg "Liu Shien's 'Phonetic Notation'"){: width="200" }
+![image](/assets/imgs/liu_shien_notes.jpg "Liu Shien's 'Phonetic Notation'"){: width="300" }
 
 Liu Shien's "Phonetic Notation"
 
@@ -174,7 +174,7 @@ Liu Shien's "Phonetic Notation"
 The "Tongzi" is a long-lost proposal among the Qing dynasty's phonetic systems. Jiang Khanghu believed that the phonetic letters in Mandarin lacked entering tone characters, southern dialects, and regional pronunciations, making the phonetics incomplete. His "Tongzi" categorized initials, finals, and compound finals, translating them into the twenty-six English letters, with additional rhyme symbols (i.e., tone markers). Jiang believed that his "Tongzi" was easier and more convenient than Lao Naixuan's "Simplified Phonetic Characters" and Wang Zhao's "Mandarin Letters."
 
 
-![image](/assets/imgs/jiang_kanghu_character.jpg "Jiang Kanghu's 'Tong Word'"){: width="200" }
+![image](/assets/imgs/jiang_kanghu_character.jpg "Jiang Kanghu's 'Tong Word'"){: width="300" }
 
 Jiang Kanghu's "Tong Word"
 
@@ -188,7 +188,7 @@ During this stage, various pinyin schemes emerged like bamboo shoots after rain,
 
    Published in 1906, *“Pinyin Substitution Method”* has a total of nineteen "father sounds" (initial consonants) and thirty-two "mother sounds" (finals); out of these thirty-two "mother sounds," half are "single mother sounds" (represented by single letters), and half are "double mother sounds" (represented by double letters), so only thirty-five letters are actually in use. These thirty-five letters are derived from the strokes of Chinese characters. This scheme is half a step ahead of the double-sound system, having partially entered the three-sound system; unlike phonetic symbols, it is a half step behind the three-sound system, as some finals still retain remnants of the double-sound system.
 
-   ![image](/assets/imgs/tian_tingjun_pinyin.jpg "Tian Tingjun’s ‘Pinyin Substitution Method’"){: width="200" }
+   ![image](/assets/imgs/tian_tingjun_pinyin.jpg "Tian Tingjun’s ‘Pinyin Substitution Method’"){: width="300" }
    
    **Tian Tingjun**’s *“Pinyin Substitution Method"*
 
@@ -198,7 +198,7 @@ During this stage, various pinyin schemes emerged like bamboo shoots after rain,
 
    Between 1908 and 1910, during the publication period of *“New Century,”* run by Chinese students studying in France in Paris, several anarchists proposed that China should abolish Chinese characters and the Chinese language, instead using "Universal New Language" (Esperanto). Zhang Taiyan disagreed with this naive and extreme proposition, and also had different opinions on the sound-based characters at the time. Therefore, he wrote this article to refute the fallacies of the anarchists while also presenting his views on sound-based characters. He published his proposed system of sound-based characters formed by “extracting and simplifying the shapes of ancient texts” — “Niuwen” and “Yunwen,” which became the precursor to the later "Bopomofo" scheme.
 
-   ![image](/assets/imgs/zhang_shiyan_zhuyin.jpg "Zhang Taiyan’s ‘Refuting the Proposal to Use Esperanto in China’"){: width="200" }
+   ![image](/assets/imgs/zhang_shiyan_zhuyin.jpg "Zhang Taiyan’s ‘Refuting the Proposal to Use Esperanto in China’"){: width="2300" }
    
    **Zhang Taiyan**’s *“Refuting the Proposal to Use Esperanto in China”*
 
@@ -209,7 +209,7 @@ During this stage, various pinyin schemes emerged like bamboo shoots after rain,
    This is the stroke-based sound character scheme published by Zheng Donghu in 1910, also at the end of the Qing Dynasty...
 The last type of phonetic character scheme.
 
-![image](/assets/imgs/zheng_donghu_qieyin.jpg "Zheng Donghu's 'Phonetic Character Manual'"){: width="200"}
+![image](/assets/imgs/zheng_donghu_qieyin.jpg "Zheng Donghu's 'Phonetic Character Manual'"){: width="300"}
 
 Zheng Donghu's 'Phonetic Character Manual'
 
@@ -223,7 +223,7 @@ The stroke-based schemes also include "Dai Sheng Shu" by Li Yuanxun (courtesy na
 
 The "Xing Sheng Tong," co-authored by Yang Qiong and Li Wenzhi in 1906, uses Chinese character strokes as phonetic symbols, somewhat resembling numbers. They state, "This book takes twenty-four characters as phonetic fathers, twenty characters as phonetic mothers, utilizes the principles of harmony and concentrations as the four matrices, utilizes long and short sounds as the four ropes, utilizes the five rules of Gong, Shang, Jiao, Zheng, Yu, and utilizes the four standards of rising and falling." As for "the essence of form boils down to Yin and Yang: one produces two, and both Yin and Yang are included; two produces four, and all things arise. What is the one? In form, it is represented as •, drawn from • to represent one, from • to represent 〡, from • to represent 丿; this is what is called producing two. Combining •, 〡, and 丿 yields four entities, which we further examine through balance, documenting them with figures. Hence, we obtain twenty-four positive forms and twenty negative forms, with Yang forming the foundation and Yin forming the lateral; thus acquiring four hundred eighty, multiplying by four entities results in one thousand nine hundred twenty, and through an additional four multiplications, we obtain a total of seven thousand six hundred eighty, thereby completing the shapes."
 
-![image](/assets/imgs/yang_qiong_xingsheng.jpg "Yang Qiong and Li Wenzhi's 'Xing Sheng Tong'"){: width="200"}
+![image](/assets/imgs/yang_qiong_xingsheng.jpg "Yang Qiong and Li Wenzhi's 'Xing Sheng Tong'"){: width="300"}
 
 Yang Qiong and Li Wenzhi's 'Xing Sheng Tong'
 
@@ -239,7 +239,7 @@ Here is the English translation of the provided text:
 
 "r, t, f, l, and horizontal c, what they represent by double sounds refers to diphthongs, and the so-called熟音 refers to the sounds marked by double consonants. As for the method of tone marking, Zhu already knew how to use letters and avoid additional symbols.
 
-![image](/assets/imgs/zhu_wenxiong_character.jpg "Zhu Wenxiong's ‘Jiangsu New Alphabet’"){: width="200" }
+![image](/assets/imgs/zhu_wenxiong_character.jpg "Zhu Wenxiong's ‘Jiangsu New Alphabet’"){: width="300" }
 
 Zhu Wenxiong's ‘Jiangsu New Alphabet’
 
@@ -249,7 +249,7 @@ Zhu Wenxiong's ‘Jiangsu New Alphabet’
 
 The original preface of the ‘Chinese Phonetic Alphabet Dictionary’ published in 1908 states, “There are twenty-six phonetic symbols. Among them, ten are primary sounds, twenty-one are secondary sounds, seven are compound primary sounds, twenty-nine are auxiliary secondary sounds, and five are half primary and half secondary sounds. Regardless of whether it is Chinese or foreign languages, whether it is the phonetics of Chinese characters or foreign letter phonetics, all can be found within.” Also, it states, “All primary sounds in the letters are pronounced as Yinping (level tone). Words in the Yinping tone do not need tone marks. However, for words in the Yangping (rising tone), Shang (upper tone), Qu (falling tone), and Ru (entering tone), tone marks must be added to the primary sound at the end of the words.” The so-called tone marks are as follows: Yangping (´), Shang (¯), Qu (ˋ), Ru (ˆ).
 
-![image](/assets/imgs/liu_mengyang_pronounciation.jpg "Liu Mengyang's ‘Chinese Phonetic Book’"){: width="200" }
+![image](/assets/imgs/liu_mengyang_pronounciation.jpg "Liu Mengyang's ‘Chinese Phonetic Book’"){: width="300" }
 
 Liu Mengyang's ‘Chinese Phonetic Book’
 
@@ -273,7 +273,7 @@ After the establishment of the People's Republic of China in 1949, efforts were 
 
 "Zhuyin Fuhao" and "Guoyu Luomazi" have been used in conjunction with Mandarin in mainland China to this day.
 
-![image](/assets/imgs/modern_chinese_pinyin_zhuyin_comparison_table.jpg "Modern Chinese Pinyin and Zhuyin Comparison Table"){: width="200" }
+![image](/assets/imgs/modern_chinese_pinyin_zhuyin_comparison_table.jpg "Modern Chinese Pinyin and Zhuyin Comparison Table"){: width="300" }
 
 Modern Chinese Pinyin and Zhuyin Comparison Table
 
