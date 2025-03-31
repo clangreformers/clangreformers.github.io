@@ -63,7 +63,7 @@
 遠紹華
 彭望群
 羅林章
-[孔繁均]({{ site.baseurl }}{% link people/kongfanjun-tw.md %})
+[孔繁均]({{ site.baseurl }}{% link people/kongfanjun-tw.md %}
 [王壽康]({{ site.baseurl }}{% link people/wangshoukang-tw.md %})
 蕭傑五
 蕭坤

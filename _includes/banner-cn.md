@@ -57,14 +57,14 @@
 [王重民](https://baike.baidu.com/item/王重民)
 [马廉](https://baike.baidu.com/item/马廉)
 张蔚瑜 
-[王述达]({{ site.baseurl }}{% link people/wangshuda-cn\.md %}) 
+[王述达]({{ site.baseurl }}{% link people/wangshuda-cn.md %}) 
 崔骥 
 王宗鑑 
 [徐一士](https://baike.baidu.com/item/徐一士) 
 远绍华 
 彭望群 
 罗林章 
-[孔凡均]({{ site.baseurl }}{% link people/kongfanjun-cn.md %}) 
+[孔凡均]({{ site.baseurl }}{% link people/kongfanjun-cn.md %})
 [王寿康]({{ site.baseurl }}{% link people/wangshoukang-cn.md %}) 
 萧杰五 
 萧坤 
