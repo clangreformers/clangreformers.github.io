@@ -149,3 +149,4 @@ Validation Committee：[Shengshu Ding](https://zh.wikipedia.org/wiki/丁聲樹)�
 Main Compiler：Dexuan Kong、[Chongyi Sun]({{ site.baseurl }}{% link people/sunchongyi.md %})、Meicen He、Bochun Li、[Jialin Xiao]({{ site.baseurl }}{% link people/xiaojialin-tw.md %})、Fanjun Kong、[Shuda Wang]({{ site.baseurl }}{% link people/wangshuda.md %})、Qinglong Liu、Di Guo、Wensheng Li、Jiexiu Liu、Heng Mo、Chongkang Wu、Guoyan Li、Xuanmu Zheng、Yaohai Shan、Tiankun Luu、Xiaofu Xuu、Jiyan Fan、Fanglian Fan、Jing Fu、Da Jiang、Lida Wang
 
 Information Staff：Shilu Xuu、[Danjiang He]({{ site.baseurl }}{% link people/hedanjiang-tw.md %})、Zejun Gao、Huanzhen Wang、Guijun Zhao、Yunming Zhao、Xuantian Yao
+

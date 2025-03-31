@@ -144,3 +144,4 @@ lang: 繁體中文
 主要編纂人：孫德宣、[孫崇義]({{ site.baseurl }}{% link people/sunchongyi-tw.md %})、何梅岑、李伯純、[蕭家霖]({{ site.baseurl }}{% link people/xiaojialin-tw.md %})、孔凡均、[王述達]({{ site.baseurl }}{% link people/wangshuda-tw.md %})、劉慶隆、郭地、李文生、劉潔修、莫衡、吳崇康、李國炎、鄭宣沐、單耀海、呂天琛、徐蕭斧、范繼淹、范方蓮、傅婧、姜遠、王立達
 
 資料人員：徐世祿、[賀澹江]({{ site.baseurl }}{% link people/hedanjiang-tw.md %})、高澤均、王煥貞、趙桂鈞、王蘊明、姚宣田
+
