@@ -64,7 +64,7 @@
 远绍华 
 彭望群 
 罗林章 
-孔繁均 
+孔繁均({{ site.baseurl }}{% link people/kongfanjun-cn.md %}) 
 [王寿康]({{ site.baseurl }}{% link people/wangshoukang-cn.md %}) 
 萧杰五 
 萧坤 

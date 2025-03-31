@@ -89,7 +89,7 @@
 李文光
 何梅岑、牛繼昌、傅介石、[高景成](https://baike.baidu.com/item/高景成)、[徐世榮](https://baike.baidu.com/item/徐世榮/1142033)、[孫崇義]({{ site.baseurl }}{% link people/sunchongyi-tw.md %})、安文倬
 [丁聲樹](https://baike.baidu.com/item/丁聲樹)、[李榮](https://baike.baidu.com/item/李榮/132357)、[陸志韋](https://baike.baidu.com/item/陸志韋)、[陸宗達](https://baike.baidu.com/item/陸宗達)、[呂叔湘](https://baike.baidu.com/item/呂叔湘)、[石明遠](https://baike.baidu.com/item/石明遠)、[王力](https://baike.baidu.com/item/王力/3888)、[葉籟士](https://baike.baidu.com/item/葉籟士)、[葉聖陶](https://baike.baidu.com/item/葉聖陶)、[周定一](https://baike.baidu.com/item/周定一/5825154)、周浩然、[周祖謨](https://baike.baidu.com/item/周祖謨)、[朱文叔](https://baike.baidu.com/item/朱文叔)
-[孫德宣](https://baike.baidu.com/item/孫德宣)、李伯純、孔凡均、[劉慶隆](https://baike.baidu.com/item/劉慶隆)、郭地、李文生、[劉潔修](https://baike.baidu.com/item/劉潔修)、[莫衡](https://baike.baidu.com/item/莫衡/5404038)、吳崇康、李國炎、鄭宣沐、[單耀海](https://baike.baidu.com/item/單耀海)、呂天琛、徐蕭斧、[范繼淹](https://baike.baidu.com/item/范繼淹)、范方蓮、傅婧、姜遠、王立達
+[孫德宣](https://baike.baidu.com/item/孫德宣)、李伯純、【孔凡均】({{ site.baseurl }}{% link people/xiaojialin-tw.md %})、[劉慶隆](https://baike.baidu.com/item/劉慶隆)、郭地、李文生、[劉潔修](https://baike.baidu.com/item/劉潔修)、[莫衡](https://baike.baidu.com/item/莫衡/5404038)、吳崇康、李國炎、鄭宣沐、[單耀海](https://baike.baidu.com/item/單耀海)、呂天琛、徐蕭斧、[范繼淹](https://baike.baidu.com/item/范繼淹)、范方蓮、傅婧、姜遠、王立達
 徐世祿、[賀澹江]({{ site.baseurl }}{% link people/hedanjiang-cn.md %})、高澤均、王煥貞、趙桂鈞、王蘊明、姚宣田
                 {% endcapture %}
                 {{ people | markdownify }}
