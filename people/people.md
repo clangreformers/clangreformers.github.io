@@ -86,7 +86,7 @@ Wangqun Peng also Xinru National Pronunciation Popular Dictionary Commissioned E
 
 Linzhang Luo also JiFei National Pronunciation Popular Dictionary Commissioned Editor
 
-Fanjun Kong also Fanjun People Dictionary Commissioned Editor
+[Fanjun Kong]({{ site.baseurl }}{% link people/kongfanjun.md %}) also Fanjun People Dictionary Commissioned Editor
 
 [Shoukang Wang]({{ site.baseurl }}{% link people/wangshoukang.md %}) also Fuqing People Dictionary Commissioned Editor
 

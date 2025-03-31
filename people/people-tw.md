@@ -83,7 +83,7 @@ lang: 繁體中文
 
 羅林章 季斐 國音普通辭典股甲種委託編纂員
 
-孔繁均 凡均 民眾辭典股甲種委託編纂員
+[孔繁均]({{ site.baseurl }}{% link people/kongfanjun-tw.md %}) 凡均 民眾辭典股甲種委託編纂員
 
 [王壽康]({{ site.baseurl }}{% link people/wangshoukang-tw.md %}) 茀青 民眾辭典股甲種委託編纂員
 
