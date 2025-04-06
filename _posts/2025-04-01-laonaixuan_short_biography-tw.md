@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 中國拼音小曆史         
+title: 遜清的國語運動倡導人         
 date:  2025-04-01 14:00:00 -0000
 categories: jekyll update
 ref: laonaixuan-short-biography
