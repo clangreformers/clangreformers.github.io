@@ -49,7 +49,7 @@ On December 1, 1954, the dictionary editorial office (New China Dictionary Press
 
 On July 1, 1956, the Dictionary Editing Office (Xinhua Lexicography Division) was merged into the Institute of Linguistics of the Chinese Academy of Sciences. Together with the editorial staff from the Chinese Dictionary Compilation Office and some members of the Institute of Linguistics, they formed the Lexicon Editing Office, thereby beginning the compilation work for the Modern Chinese Dictionary. Afterwards, she served as an Associate Researcher at the Institute of Linguistics of the Chinese Academy of Sciences (now the Chinese Academy of Social Sciences).
 
-![image](/assets/imgs/modern_chinese_dictionary_editors.JPG "In the summer of 1957, all members of the Modern Chinese Dictionary editorial office took a group photo in front of the office.") {: width="400" }
+![image](/assets/imgs/modern_chinese_dictionary_editors.jpg "In the summer of 1957, all members of the Modern Chinese Dictionary editorial office took a group photo in front of the office.") {: width="400" }
 
 In the summer of 1957, all staff of the "Modern Chinese Dictionary" Editing Room posed for a group photo in front of the office. In the second row, the first on the right is Wang Shuda, the second on the right is Xiao Jialin; in the third row, the sixth from the left is He Danjiang, and the seventh from the left is Sun Chongyi.
 
