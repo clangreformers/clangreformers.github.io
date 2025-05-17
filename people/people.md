@@ -57,7 +57,7 @@ Staff：
 
 Yi Liu also Songming Director of Franco- Chinoise Dictionary Editing Department
 
-Dizhou Bai also Dizhou Director of Sorting Department。
+[Dizhou Bai]({{ site.baseurl }}{% link people/baidizhou.md %}) also Dizhou Director of Sorting Department。
 Contributing Editor
 
 [Kaidi Sun](https://zh.wikipedia.org/wiki/孫楷第) also Zishu Director of Book and Newspaper Collection Department Full-time Editor（Special treatment）（college classmate）

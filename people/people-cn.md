@@ -57,7 +57,7 @@ lang: 简体中文
 
 刘毅 颂铭 纂著部中法辞典股主任
 
-[白涤洲](https://baike.baidu.com/item/白涤洲) 荻洲 整理部主任。专作编纂员
+[白涤洲]({{ site.baseurl }}{% link people/baidizhou-cn.md %}) 荻洲 整理部主任。专作编纂员
 
 [孙楷第](https://baike.baidu.com/item/孙楷第) 子书 归集部书报组主任 专任编纂员（特约待遇）（大学同学）
 

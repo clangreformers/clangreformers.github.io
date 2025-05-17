@@ -57,7 +57,7 @@ lang: 繁體中文
 
 劉毅 頌銘 纂著部中法辭典股主任
 
-白滌洲 荻洲 整理部主任。專作編纂員
+[白滌洲]({{ site.baseurl }}{% link people/baidizhou-tw.md %}) 荻洲 整理部主任。專作編纂員
 
 [孫楷第](https://zh.wikipedia.org/wiki/孫楷第) 子書 歸集部書報組主任 專任編纂員（特約待遇）（大學同學）
 
