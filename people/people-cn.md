@@ -536,7 +536,7 @@ lang: 简体中文
 
 | 张一麐 |  | [張一麐](https://zh.wikipedia.org/wiki/張一麐) | [张一麐](https://baike.baidu.com/item/张一麐/8523856) |  | 会长 |  |  |  | 在教育部任职时支持王璞办注音字母传习所 |
 
-| 张远荫 | [张远荫]({{ site.baseurl }}{% link people/zhangyuanmeng-cn.md %}) |  |  |  |  |  |  |  |  |
+| 张远荫 | [张远荫]({{ site.baseurl }}{% link people/zhangyuanyin-cn.md %}) |  |  |  |  |  |  |  |  |
 
 | 张重光（绍宣） |  |  |  | 是，山东 |  |  |  |  |  |
 
