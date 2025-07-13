@@ -3,20 +3,23 @@
         <div class="col-lg-6 col-md-12 col-12">
           <div class="bottom-box">
 			  <div class="left">
-              <p>國<br>語<br>字<br>運<br>動<br>專<br>語<br>表</p>
+              <p>國<br>語<br>運<br>動<br>專<br>語<br>表</p>
               
             </div>
             <div class="right">
               <p>
-                [國語運動](/glossary/movement-tw),
-				[讀音統一會](/glossary/pronunciation-tw),
-				[國語研究會](/glossary/research-tw),
-				[國語統一籌備會](/glossary/preparation-tw),
-				[數人會](/glossary/persons-tw),
-				[中國大辭典編纂處](/glossary/compilation-tw),
+				 {% capture glossary %}
+                [國語運動]({{ site.baseurl }}{% link glossary/movement-tw.md %}),
+				[讀音統一會]({{ site.baseurl }}{% link glossary/pronunciation-tw.md %}),
+				[國語研究會]({{ site.baseurl }}{% link glossary/research-tw.md %}),
+				[國語統一籌備會]({{ site.baseurl }}{% link glossary/preparation-tw.md %}),
+				[數人會]({{ site.baseurl }}{% link glossary/persons-tw.md %}),
+				[中國大辭典編纂處]({{ site.baseurl }}{% link glossary/compilation-tw.md %}),
 				[注音符號](https://baike.baidu.com/item/%E6%B1%89%E8%AF%AD%E6%B3%A8%E9%9F%B3%E7%AC%A6%E5%8F%B7/115195),
 				[國語羅馬字](https://baike.baidu.com/item/%E5%9B%BD%E8%AF%AD%E7%BD%97%E9%A9%AC%E5%AD%97/6060641),
-				[國語推行委員會](/glossary/committee-tw)
+				[國語推行委員會]({{ site.baseurl }}{% link glossary/committee-tw.md %})
+                 {% endcapture %}
+ 			   {{ glossary | markdownify }}
               </p>          
             </div>
           </div>

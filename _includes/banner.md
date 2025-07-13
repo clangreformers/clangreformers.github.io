@@ -8,7 +8,7 @@
 
 
             <div class="left">
-              <p>国<br>语<br>字<br>运<br>动<br>专<br>语<br>表</p>
+              <p>Mandarin<br>Language<br>Movement<br>Gossary</p>
               
             </div>
             <div class="right">

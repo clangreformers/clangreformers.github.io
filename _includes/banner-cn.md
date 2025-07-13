@@ -3,20 +3,23 @@
         <div class="col-lg-6 col-md-12 col-12">
           <div class="bottom-box">
             <div class="left">
-              <p>国<br>语<br>字<br>运<br>动<br>专<br>语<br>表</p>
+              <p>国<br>语<br>运<br>动<br>专<br>语<br>表</p>
               
             </div>
             <div class="right">
               <p>
-                [国语运动](/glossary/movement-cn),
-				[读音统一会](/glossary/pronunciation-cn),
-				[国语研究会](/glossary/research-cn),
-				[国语统一筹备会](/glossary/preparation-cn),
-				[数人会](/glossary/persons-cn),
-				[中国大辞典编纂处](/glossary/compilation-cn),
+				{% capture glossary %}
+                [国语运动]({{ site.baseurl }}{% link glossary/movement-cn.md %}),
+				[读音统一会]({{ site.baseurl }}{% link glossary/pronunciation-cn.md %}),
+				[国语研究会]({{ site.baseurl }}{% link glossary/research-cn.md %}),
+				[国语统一筹备会]({{ site.baseurl }}{% link glossary/preparation-cn.md %}),
+				[数人会]({{ site.baseurl }}{% link glossary/persons-cn.md %}),
+				[中国大辞典编纂处]({{ site.baseurl }}{% link glossary/compilation-cn.md %}),
 				[注音符号](https://baike.baidu.com/item/%E6%B1%89%E8%AF%AD%E6%B3%A8%E9%9F%B3%E7%AC%A6%E5%8F%B7/115195),
 				[国语罗马字](https://baike.baidu.com/item/%E5%9B%BD%E8%AF%AD%E7%BD%97%E9%A9%AC%E5%AD%97/6060641),
-				[国语推行委员会](/glossary/committee-cn)
+				[国语推行委员会]({{ site.baseurl }}{% link glossary/committee-cn.md %})
+                {% endcapture %}
+			   {{ glossary | markdownify }}
               </p>
             </div>
           </div>
