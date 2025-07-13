@@ -14,15 +14,15 @@
             <div class="right">
               <p>
 			  {% capture glossary %}
-                [Mandarin Language Movement](/glossary/movement),
-				[Pronunciation Standardization Association](/glossary/pronunciation),
-				[Mandarin Language Research Association](/glossary/research),
-				[National Language Unification Preparation Committee](/glossary/preparation),
-				[Several Persons Club](/glossary/persons),
-				[Compilation Department of the Chinese Great Dictionary](/glossary/compilation),
+                [Mandarin Language Movement]({{ site.baseurl }}{% link glossary/movement.md %}),
+				[Pronunciation Standardization Association]({{ site.baseurl }}{% link glossary/pronunciation.md %}),
+				[Mandarin Language Research Association]({{ site.baseurl }}{% link glossary/research.md %}),
+				[National Language Unification Preparation Committee]({{ site.baseurl }}{% link glossary/preparation.md %}),
+				[Several Persons Club]({{ site.baseurl }}{% link glossary/persons.md %}),
+				[Compilation Department of the Chinese Great Dictionary]({{ site.baseurl }}{% link glossary/compilation.md %}),
 				[Phonetic symbols](https://en.wikipedia.org/wiki/Bopomofo),
 				[Mandarin Romanization](https://en.wikipedia.org/wiki/Gwoyeu_Romatzyh),
-				[National Language Promotion Committee](/glossary/committee)
+				[National Language Promotion Committee]({{ site.baseurl }}{% link glossary/committee.md %})
                  {% endcapture %}
  			   {{ glossary | markdownify }}
               </p>
