@@ -3,7 +3,6 @@ layout: default
 ref: shugu
 lang: 繁體中文
 banvar: banner-tw.md
-keywords-banvar: keywords-banner-tw.md
 ---
 
 <div class="home-page">
@@ -14,7 +13,6 @@ keywords-banvar: keywords-banner-tw.md
     <div class="home-banner">
       <img alt="" src="/assets/images/banner.png">
     </div>
-{% include {{ page.keywords-banvar }} %}
     <div class="searchbar">
       <div class="left">
         述 故 / 循 跡 , 現 代 漢 語 的 蒂 基 者

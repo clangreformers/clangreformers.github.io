@@ -4,7 +4,6 @@ ref: shugu
 lang: English
 sidebar: sidebar
 banvar: banner.md
-keywords-banvar: keywords-banner.md
 ---
 
 <div class="home-page">
@@ -13,7 +12,7 @@ keywords-banvar: keywords-banner.md
     <div class="home-banner">
       <img alt="" src="/assets/images/banner.png">
     </div>
-{% include {{ page.keywords-banvar }} %}
+
     <div class="searchbar">
       <div class="left">
         Events and historical figures of modern Chinese
