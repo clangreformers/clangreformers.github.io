@@ -20,9 +20,7 @@
 				[国语推行委员会]({{ site.baseurl }}{% link glossary/committee-cn.md %})
                 {% endcapture %}
 				<div>
-					{% raw %}
 			   	 	{{ glossary | markdownify }}
-					{% endraw %}
            		</div>
             </div>
           </div>
