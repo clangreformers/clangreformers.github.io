@@ -7,7 +7,7 @@
               
             </div>
             <div class="right">
-              <p>
+            
 				{% capture glossary %}
                 [国语运动]({{ site.baseurl }}{% link glossary/movement-cn.md %}),
 				[读音统一会]({{ site.baseurl }}{% link glossary/pronunciation-cn.md %}),
@@ -20,7 +20,7 @@
 				[国语推行委员会]({{ site.baseurl }}{% link glossary/committee-cn.md %})
                 {% endcapture %}
 			   {{ glossary | markdownify }}
-              </p>
+           
             </div>
           </div>
         </div>
