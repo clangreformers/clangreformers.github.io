@@ -8,7 +8,7 @@ lang: 简体中文
 
 ---
 ## 安文倬
-- [说文](安文倬)
+- [说文](https://clangreformers.github.io/people/anwenzhuo-cn.html)
 - 大辞典编纂处: 是
 
 
@@ -312,7 +312,7 @@ lang: 简体中文
 ## 杜同力
 **别名:** 子劲
 
-- [说文](杜子劲)
+- [说文](https://clangreformers.github.io/people/dutongli-cn.html)
 - 大辞典编纂处: 是
 
 
@@ -352,7 +352,7 @@ lang: 简体中文
 
 ---
 ## 方毅
-- [说文](方毅)
+- [说文](https://clangreformers.github.io/people/fangyi-cn.html)
 - 国语会委员: 是
 
 
@@ -453,7 +453,7 @@ lang: 简体中文
 ## 傅严
 **别名:** 介石
 
-- [说文](傅严)
+- [说文](https://clangreformers.github.io/people/fuyan-cn.html)
 - 大辞典编纂处: 是
 
 
@@ -511,7 +511,7 @@ lang: 简体中文
 
 ---
 ## 龚书炽
-- [说文](龚书炽)
+- [说文](https://clangreformers.github.io/people/gongshuzhi-cn.html)
 - 台湾国语推行委员会: 是
 
 
@@ -2123,7 +2123,7 @@ lang: 简体中文
 ## 谢冰
 **别名:** 仁冰
 
-- [说文](谢仁冰)
+- [说文](https://clangreformers.github.io/people/xierenbing-cn.html)
 - 读音统一会委员: 是，江苏
 
 
@@ -2500,7 +2500,7 @@ lang: 简体中文
 ## 张寿林
 **别名:** 任甫
 
-- [说文](张寿林)
+- [说文](https://clangreformers.github.io/people/zhangshoulin-cn.html)
 - 大辞典编纂处: 是，特约编纂
 
 
@@ -2519,7 +2519,7 @@ lang: 简体中文
 
 ---
 ## 张洵如
-- [说文](张洵如)
+- [说文](https://clangreformers.github.io/people/zhangxunru-cn.html)
 - 大辞典编纂处: 是
 
 
@@ -2606,7 +2606,7 @@ lang: 简体中文
 ## 赵水澄
 **别名:** 作雄
 
-- [说文](赵水澄)
+- [说文](https://clangreformers.github.io/people/zhaoshuicheng-cn.html)
 
 
 
