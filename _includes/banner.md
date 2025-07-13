@@ -13,6 +13,7 @@
             </div>
             <div class="right">
               <p>
+			  {% capture glossary %}
                 [Mandarin Language Movement](/glossary/movement),
 				[Pronunciation Standardization Association](/glossary/pronunciation),
 				[Mandarin Language Research Association](/glossary/research),
@@ -22,6 +23,8 @@
 				[Phonetic symbols](https://en.wikipedia.org/wiki/Bopomofo),
 				[Mandarin Romanization](https://en.wikipedia.org/wiki/Gwoyeu_Romatzyh),
 				[National Language Promotion Committee](/glossary/committee)
+                 {% endcapture %}
+ 			   {{ glossary | markdownify }}
               </p>
             </div>
           </div>
