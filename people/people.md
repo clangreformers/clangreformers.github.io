@@ -138,8 +138,6 @@ Current official in Zhili for educational supervision
 
 - Unified Pronunciation Committee Member: Yes  
 
----
-Here is the translation of the provided text from Traditional Chinese to English:
 
 ---
 
@@ -276,7 +274,7 @@ Published "Practical Mandarin Grammar" (Taiwan, 1948)
 **Alias:** Zijing
 
 - [Shuowen](https://clangreformers.github.
-Here is the translation of the provided text from Traditional Chinese to English:
+
 
 ---
 
@@ -392,7 +390,7 @@ Department of Historical Language Research, Language Institute
 
 **Notes/Achievements:**
 Issued "Ministry of Education Order No. 7" changing "Guowen" to "Guoyu," and "Ministry of Education Order No. 8" amending the "Detailed Implementation Rules of the National School Order"
-Here is the translation of the provided text from Traditional Chinese to English:
+
 
 ---
 
@@ -636,7 +634,7 @@ Temporary Senator of the Republic of China from Xinjiang
 **Alias:** Zhi Wu
 
 - Phonetic Unification Committee Member: Yes, Sichuan
-Here is the English translation of the provided text:
+
 
 ---
 
@@ -764,7 +762,7 @@ Co-authored "Xing Sheng Tong" (Phonetic System) with Yang Qiong (1906)
 
 **Remarks/Achievements:**
 National Language Committee Member
-Here is the translated text from Traditional Chinese to English:
+
 
 ---
 
@@ -1166,7 +1164,7 @@ President of the Executive Yuan of the Republic of China
 
 ---
 ## Niu Wengqing
-Here is the translation of the provided text from Traditional Chinese to English:
+
 
 ---
 
@@ -1309,10 +1307,9 @@ Member of the "Revised National Phonetic Dictionary" Committee
 
 --- 
 
-This translation captures the essence of the original Traditional Chinese text while maintaining clarity and comprehension in English.
-Here is the translation of the provided text from Traditional Chinese to English:
 
-:** Duoshan
+
+## Duoshan
 
 - [Baidu](https://baike.baidu.com/item/沈頤/64081418)
 - Member of the Mandarin Promotion Council: Yes
@@ -1477,7 +1474,7 @@ Member of the Commission for the Revised National Pronunciation Dictionary, Firs
 **Also known as:** Yutang
 
 - Dictionary Compilation Office: Yes
-Here is the translated text from Traditional Chinese to English:
+
 
 ---
 
@@ -1852,7 +1849,7 @@ Premier of the Executive Yuan during the Republic of China, Member of the Chines
 
 ---
 ### Xu Xiujun
-Here is the translation of the provided text from Traditional Chinese to English:
+
 
 - [Baidu](https://baike.baidu.com/item/徐秀鈞/930610)
 - Pronunciation Unification Committee Member: Yes, Jiangxi
@@ -1970,14 +1967,10 @@ Consultant at the Ministry of Education during the Republic of China, "Wanguo Xi
 ## Yao Hua
 **Alias:** Mangfu
 
-- [Wikipedia](https://zh.
-Here is the translation of the provided text from Traditional Chinese to English:
-
----
-
-wikipedia.org/wiki/Yao_Hua)
+- [Wikipedia](https://zh.wikipedia.org/wiki/Yao_Hua)
 - [Baidu](https://baike.baidu.com/item/Yao_Hua/26308)
 - Pronunciation Unification Committee member: Yes, Guizhou
+
 
 ---
 
@@ -2104,7 +2097,7 @@ First principal of the Niujie Xiasi
 **Alias:** Xun
 
 - [Wikipedia](https://zh.wikipedia.org/wiki/Zhang_Ji_Xu)
-Here is the translation of the provided text from Traditional Chinese to English:
+
 
 ---
 
@@ -2228,12 +2221,10 @@ One of the initiators of the "Simplified Character Research Association" in 1909
 - [Baidu](https://baike.baidu.com/item/趙蔭棠/1987478)
 - Dictionary Compilation Office: Yes, Special Editor
 
-**Notes/Achievements:** 
-*(The note seems to be incomplete and does not provide further information.)*
-Here is the translation of the provided text from Traditional Chinese to English:
 
 **Notes/Achievements:**
 "Research on Central Plains Phonetics"
+
 
 ---
 ## Zhao Yuanren
