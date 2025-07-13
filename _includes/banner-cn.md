@@ -3,18 +3,20 @@
         <div class="col-lg-6 col-md-12 col-12">
           <div class="bottom-box">
             <div class="left">
-              <p>中 <br>国 <br>字 <br>典<br>史</p>
+              <p>国<br>语<br>字<br>运<br>动<br>专<br>语<br>表</p>
               
             </div>
             <div class="right">
               <p>
-                《说文解字》、《尔雅》、《輏轩使者绝代语释别国方言》（简称《方言》）、
-                《释名》、《广雅》、《玉篇》、《康熙字典》、《辞源》、《辞海》、
-                《新华字典》、《现代汉语词典》、《中文大辞典》、《现代汉语反序词典》、
-                《现代汉语双序大词典》、《同义词词典》、《反义词词典》、《汉语大字典》、
-                《现代汉语方言大词典》、《汉语方言大词典》、《古汉语常用字字典》、
-                《古汉语字词典》、《古代汉语词典》、《古汉语大词典》、《古汉语知识详解词典》
-
+                [国语运动](/glossary/movement-cn),
+				[读音统一会](/glossary/pronunciation-cn),
+				[国语研究会](/glossary/research-cn),
+				[国语统一筹备会](/glossary/preparation-cn),
+				[数人会](/glossary/persons-cn),
+				[中国大辞典编纂处](/glossary/compilation-cn),
+				[注音符号](https://baike.baidu.com/item/%E6%B1%89%E8%AF%AD%E6%B3%A8%E9%9F%B3%E7%AC%A6%E5%8F%B7/115195),
+				[国语罗马字](https://baike.baidu.com/item/%E5%9B%BD%E8%AF%AD%E7%BD%97%E9%A9%AC%E5%AD%97/6060641),
+				[国语推行委员会](/glossary/committee-cn)
               </p>
             </div>
           </div>

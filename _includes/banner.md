@@ -8,12 +8,20 @@
 
 
             <div class="left">
-              <p>History <br>of <br>Chinese <br>Dictionaries</p>
+              <p>国<br>语<br>字<br>运<br>动<br>专<br>语<br>表</p>
+              
             </div>
             <div class="right">
               <p>
-Origin of Chinese Characters, Erya, Ancient words collected by Dialectological Fieldworkers: Explanation of Local Speeches of Other Countries, Lost Erya, Guangya, Yupian, Kangxi Dictionary, Ciyuan, Cihai, Xinhua Dictionary, Modern Chinese Dictioinary, Chinese Dictionary, Reverse order modern Chinese dictionary, Double order Modern Chinese Dictionary, Thesaurus, Dictionary of Antonyms, The Great Chinese Dictionary, Modern Chinese Dialect Dictionary, Chinese Dialect Dictionary, Dictionary of Frequently Used Ancient Chinese Characters, Ancient Chinese Dictionary, Dictionary of Ancient Chinese Knowledge
-
+                [Mandarin Language Movement](/glossary/movement),
+				[Pronunciation Standardization Association](/glossary/pronunciation),
+				[Mandarin Language Research Association](/glossary/research),
+				[National Language Unification Preparation Committee](/glossary/preparation),
+				[Several Persons Club](/glossary/persons),
+				[Compilation Department of the Chinese Great Dictionary](/glossary/compilation),
+				[Phonetic symbols](https://en.wikipedia.org/wiki/Bopomofo),
+				[Mandarin Romanization](https://en.wikipedia.org/wiki/Gwoyeu_Romatzyh),
+				[National Language Promotion Committee](/glossary/committee)
               </p>
             </div>
           </div>

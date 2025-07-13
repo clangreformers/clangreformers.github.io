@@ -2,19 +2,22 @@
       <div class="row">
         <div class="col-lg-6 col-md-12 col-12">
           <div class="bottom-box">
-            <div class="left">
-              <p>中 <br>國 <br>字 <br>典<br>史</p>
+			  <div class="left">
+              <p>國<br>語<br>字<br>運<br>動<br>專<br>語<br>表</p>
+              
             </div>
             <div class="right">
               <p>
-                《說文解字》、《爾雅》、《輏軒使者絕代語釋別國方言》（簡稱《方言》）、
-                《釋名》、《廣雅》、《玉篇》、《康熙字典》、《辭源》、《辭海》、
-                《新華字典》、《現代漢語詞典》、《中文大辭典》、《現代漢語反序詞典》、
-                《現代漢語雙序大詞典》、《同義詞詞典》、《反義詞詞典》、《漢語大字典》、
-                《現代漢語方言大詞典》、《漢語方言大詞典》、《古漢語常用字字典》、
-                《古漢語字詞典》、《古代漢語詞典》、《古漢語大詞典》、《古漢語知識詳解詞典》
-
-              </p>
+                [國語運動](/glossary/movement-tw),
+				[讀音統一會](/glossary/pronunciation-tw),
+				[國語研究會](/glossary/research-tw),
+				[國語統一籌備會](/glossary/preparation-tw),
+				[數人會](/glossary/persons-tw),
+				[中國大辭典編纂處](/glossary/compilation-tw),
+				[注音符號](https://baike.baidu.com/item/%E6%B1%89%E8%AF%AD%E6%B3%A8%E9%9F%B3%E7%AC%A6%E5%8F%B7/115195),
+				[國語羅馬字](https://baike.baidu.com/item/%E5%9B%BD%E8%AF%AD%E7%BD%97%E9%A9%AC%E5%AD%97/6060641),
+				[國語推行委員會](/glossary/committee-tw)
+              </p>          
             </div>
           </div>
         </div>
