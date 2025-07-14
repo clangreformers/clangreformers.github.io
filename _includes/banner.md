@@ -12,7 +12,6 @@
               
             </div>
             <div class="right">
-              <p>
 			  {% capture glossary %}
 [Mandarin Language Movement]({{ site.baseurl }}{% link glossary/movement.md %})
 [Pronunciation Standardization Association]({{ site.baseurl }}{% link glossary/pronunciation.md %})
@@ -25,7 +24,6 @@
 [National Language Promotion Committee]({{ site.baseurl }}{% link glossary/committee.md %})
                  {% endcapture %}
  			   {{ glossary | markdownify }}
-              </p>
             </div>
           </div>
         </div>

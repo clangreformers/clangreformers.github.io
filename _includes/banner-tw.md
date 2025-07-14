@@ -7,7 +7,6 @@
               
             </div>
             <div class="right">
-              <p>
 				 {% capture glossary %}
 [國語運動]({{ site.baseurl }}{% link glossary/movement-tw.md %})
 [讀音統一會]({{ site.baseurl }}{% link glossary/pronunciation-tw.md %})
@@ -19,8 +18,7 @@
 [國語羅馬字](https://baike.baidu.com/item/%E5%9B%BD%E8%AF%AD%E7%BD%97%E9%A9%AC%E5%AD%97/6060641)
 [國語推行委員會]({{ site.baseurl }}{% link glossary/committee-tw.md %})
                  {% endcapture %}
- 			   {{ glossary | markdownify }}
-              </p>          
+ 			   {{ glossary | markdownify }}         
             </div>
           </div>
         </div>
