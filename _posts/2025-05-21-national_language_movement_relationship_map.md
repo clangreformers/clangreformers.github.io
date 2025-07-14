@@ -11,7 +11,7 @@ Author: Yun Wang
 
 The National Language Movement was advanced by a very special group of people, most of whom were engaged in research or education related to the national language and shared common ideals and sentiments. Many of them were colleagues, classmates, or friends, and there were also intricate familial ties among them, which is a fascinating phenomenon.
 
-##Brotherly Love in Battle — Li Jinxī (Shaoxi), Li Jinhui (Junquan), Li Jinxu (Jichun)
+## Brotherly Love in Battle — Li Jinxī (Shaoxi), Li Jinhui (Junquan), Li Jinxu (Jichun)
 
 Li Jinxī is the eldest of the "Eight Talents of the Li Family" and a well-known core figure in the National Language Movement.
 
@@ -23,7 +23,7 @@ Li Jinxu is the fourth eldest and studied in Germany; he later dedicated himself
 
 The Eight Talents of the Li Family, arranged from right to left by birth order
 
-##Celebrities Who Bring Their Own Attention — Zhou Shuren (Lu Xun), Zhou Zuoren (Qiming), Zhou Jianren
+## Celebrities Who Bring Their Own Attention — Zhou Shuren (Lu Xun), Zhou Zuoren (Qiming), Zhou Jianren
 
 In China, this refers to the names of the pelicans. The three Zhou brothers are...
 The individuals actively participated in the Mandarin language movement, and their influence played a significant role in awakening the public.
@@ -32,7 +32,7 @@ Zhou Shuren became an advocate for the Mandarin language movement during his tim
 
 As a professor in the Chinese department at Peking University, Zhou Zuoren was appointed by the university to serve as a member of the Mandarin unification preparatory committee and the committee for organizing the provincial characters. He frequently initiated proposals, actively advocated for children's literature, and gave specialized speeches on the subject. He was a principal contributor to the "Mandarin Weekly" and published articles such as "Mandarin Romanization" in "Language Threads," playing a supportive role in the Mandarin movement.
 
-##A Son Inherits His Father's Profession — Cai Xiyong (Yijing), Cai Qi, Cai Zhang (Ziying), and Cai Wei
+## A Son Inherits His Father's Profession — Cai Xiyong (Yijing), Cai Qi, Cai Zhang (Ziying), and Cai Wei
 
 Cai Xiyong graduated from the Tongwen Institute in Guangzhou. He once served as a translator at the Qing government's embassy in the United States and later held positions as Director-General of the Guangdong Bureau of Foreign Affairs and the Hubei Railway Administration. Using the shorthand system of the American Lindsley, he developed a phonetic script for Chinese and authored the book Fast Characters for Transmitting Sound, which was published in 1896. His shorthand system featured 16 initials and 26 finals, with each initial and final forming a character. His three sons carried on his legacy.
 
@@ -42,7 +42,7 @@ Cai Zhang, the sixth son of Cai Xiyong, went to Japan in 1903 to study shorthand
 
 Cai Wei, the younger brother of Cai Zhang, also inherited the family craft. He was a shorthand expert and worked as a stenographer in institutions such as the Institute of Translation Studies.
 
-##The Father’s Right-Hand Men — Wang Yi (Yi’an), Wang Gongxia, and Wang Gongli
+## The Father’s Right-Hand Men — Wang Yi (Yi’an), Wang Gongxia, and Wang Gongli
 
 Wang Yi was a member of the Preparatory Committee for the Unification of the National Language and a core figure in the editorial office of the Comprehensive Chinese Dictionary, alongside Qian Xuantong and Li Jinxi. During the Japanese occupation, he was entrusted with overseeing the editorial work and, despite having no stable funding, successfully led the publication of the eight-volume edition of the Mandarin Dictionary. The shorthand method he invented was widely used at the time. His two sons—one in Taiwan, the other on the mainland—each inherited his mission and became, in every sense, Wang Yi’s right-hand men.
 
@@ -50,14 +50,14 @@ Wang Gongxia, Wang Yi’s eldest son, was a lead instructor at the Mandarin Shor
 
 Wang Gongli, Wang Yi’s second son, also served as a lead instructor at the Mandarin Shorthand Training Institute. He inherited his father’s dictionary-editing work and remained on the mainland, continuing to promote his father's shorthand system. He once gave a presentation on Wang Yi’s life at the "Symposium Commemorating the 63rd Anniversary of Wang Yi’s Shorthand System."
 
-##Father and son on the battlefield — Lu Ji (Yu'an) and Lu Yiyan
+## Father and son on the battlefield — Lu Ji (Yu'an) and Lu Yiyan
 
 Lu Ji (Yuan'an) was one of the earliest individuals in the Ministry of Education to promote the Mandarin movement through publications. He was later appointed as a committee member of the Mandarin unification preparatory committee by the Ministry of Education and served on the committee for the "Revised Dictionary of Mandarin Phonetics." He published a phonetic teaching book in Suzhou. Although elderly and in poor health, he consistently participated in the meetings of the Mandarin association and diligently fulfilled his responsibilities as a committee member.
 
 Lu Yiyan, the second son of Lu Ji, specialized in phonetics and was particularly devoted to the study and promotion of the standard Mandarin pronunciation. He served as an editor in the Mandarin Literature Department of the Shanghai Zhonghua Bookstore and as an instructor at the Mandarin-specialized school established by the bookstore. He was then appointed as a member of the Ministry of Education's phonetic symbols implementation committee and as a tutor in the phonetic symbols training group. During the "Peking vs. Mandarin" debate, he represented the anti-Peking pronunciation faction. He authored works such as "New Mandarin Textbook" and "Usage of Mandarin Phonetic Symbols," and co-founded the "Children" Weekly with Li Jinhui, focusing on children's literature creation.
 
 
-##Business partners in harmony—Xiao Jialin (Dichen) and Kong Fanjun (Fanjun)
+## Business partners in harmony—Xiao Jialin (Dichen) and Kong Fanjun (Fanjun)
 
 Defining Xiao Jialin and Kong Fanjun's roles in the Mandarin movement with the phrase "husband sings and wife follows" could not be more appropriate, and their steadfast commitment to this endeavor has been unwavering.
 
@@ -74,15 +74,15 @@ Roster for The First National Converence for the Promotion of Romanization of Ch
 
 Eulogy for Bai Dizhōu
 
-##Uncle and Nephew Educators — Qian Xuantong (Yigu) and Qian Daosun
+## Uncle and Nephew Educators — Qian Xuantong (Yigu) and Qian Daosun
 
 Qian Xuantong is already well-known to many; his brother was the famous diplomat Qian Xun from the late Qing dynasty, while Qian Daosun is Qian Xun's eldest son and Qian Xuantong's nephew. Qian Daosun was also a prominent scholar, having studied in Japan and Europe, fluent in multiple languages, and he was the first person to translate Dante's "Divine Comedy" into Chinese. At the first phonetic unification conference, Qian Daosun represented Zhejiang and became one of the supporters of Zhang Taiyan's phonetic alphabet, subsequently serving as a member of the National Language Unification Preparatory Committee.
 
-##Working Together for Education — Xiao Jialin (Dichen) and Dong Weichuan
+## Working Together for Education — Xiao Jialin (Dichen) and Dong Weichuan
 
 Xiao Jialin and Dong Weichuan both graduated from the Chinese Department of Beijing Normal University. During their university years, they participated in the National Language Movement and served together as main contributors to the "National Language Weekly." After graduation, Dong Weichuan began his teaching career, and his wife, Kong Wenzhen, is the elder sister of Kong Fanjun, also dedicated to teaching. After taking the position of director of the Shandong Provincial People's Education Institute, Dong devoted himself to public education. While in Shandong, he actively promoted phonetic symbols alongside Xiao Jialin and others, using them as a tool to eradicate illiteracy and promote education, achieving remarkable success. They were also advocates and promoters of the national phonetic Romanization.
 
-##In-Laws from Afar, Same Sound Across the Straits — Bai Dizhōu (Zhenying) and Qi Tihen (Shaoh)
+## In-Laws from Afar, Same Sound Across the Straits — Bai Dizhōu (Zhenying) and Qi Tihen (Shaoh)
 
 Bai Dizhōu and Qi Tihen were both from "Old Beijing," but they were of Mongolian ethnicity. Bai Dizhōu's original surname was Bai Jite, while Qi Tihen's original surname was Qilute; both later adopted Han surnames. Both were friends of Lao She; the three of them once traveled together in Nanjing, though there is little documented about their familial ties.
 
@@ -93,15 +93,15 @@ The two sides of the Taiwan Strait have become the standard pronunciation for pr
 
 Qi Tiehen served as an editor and translator at the Commercial Press, participated in the editing work of the "Etymological Dictionary," and was the head of the Mandarin department at the Correspondence School of the Commercial Press. The books he compiled, "Elementary Mandarin Conversation" and "Advanced Mandarin Course," were adopted as textbooks by many elementary schools. In July 1946, he was hired by the Ministry of Education's Mandarin Promotion Committee and moved to Taiwan, working at the “Taiwan Provincial Mandarin Promotion Committee,” where he began a 31-year long effort in promoting Mandarin. In Taiwan, every morning at 7 a.m., Mr. Qi Tiehen served as the "Mandarin pronunciation demonstrator" on the radio, reading from popular Mandarin textbooks, Mandarin conversation, and various subjects such as Mandarin, general knowledge, and history from national schools, providing listening material for those learning Mandarin and correcting pronunciation. He became a well-known master, and even now, older Taiwanese people can recall Mr. Qi's charming "Beijing accent." Qi Tiehen became the standard pronunciation for Mandarin in Taiwan and naturally became the pioneer of Mandarin in Taiwan.
 
-##Classmates and Brothers – Fu Yan (Jieshi) and Wang Shuda (Shankai)
+## Classmates and Brothers – Fu Yan (Jieshi) and Wang Shuda (Shankai)
 
 Fu Yan and Wang Shuda were both graduates of the Chinese Department of Beijing Normal University in 1928. Fu Yan's mother was Wang Shuda's paternal cousin, making them distant relatives. Although they were only far relatives, the two brothers shared common interests and hobbies. After graduation, they worked together at the Chinese Dictionary Compilation Office for many years, co-editing dictionaries such as "Enhanced Chinese New Rhyme," "Revised and Annotated Common Words in Mandarin," "Cultural Dictionary," and "Homophones Dictionary." In 1956, they also entered the Dictionary Editorial Office of the Chinese Academy of Sciences together. Fu Yan's main accomplishments were in dictionary compilation; he was also one of the editors of "Cihai," published by the China Publishing House in March 1947. Wang Shuda concentrated his energy on teaching, serving for many years as a Chinese language teacher at Beijing Normal University, the affiliated high school of the Normal University, and Hebei Normal University.
 
-##Teacher-Student Relationship – The Teacher and Student Connecting Past and Future – Wang Zhao and Wang Pu
+## Teacher-Student Relationship – The Teacher and Student Connecting Past and Future – Wang Zhao and Wang Pu
 
 Wang Zhao can be regarded as a pioneer of the Mandarin movement. Because he was wanted by the government multiple times, he mostly lived in seclusion. Wang Pu was his student. In 1902, he submitted a petition to the Minister of Education Zhang Baixi to approve the implementation of Wang Zhao's Mandarin phonetic alphabet, stating that this was a convenient method that allows everyone to read books, everyone to read newspapers, and everyone to read the edicts and announcements. In 1903, without official approval, Wang Zhao established the Mandarin Phonetic School in a rented house in Dongcheng's Biao Pei Hutong in Beijing, using woodblock printing. Wang Pu taught the Mandarin phonetic symbols, while Wang Zhao listened from outside the classroom. When the first meeting for unifying pronunciation was held, both teacher and student attended as representatives of Zhili Province. Due to conflicts over pronunciation during this meeting, both the chairman Wu Jingheng and Wang Zhao resigned in succession, and Wang Pu took over as chairperson, deciding to pass the "National Pronunciation Promotion Plan" and others. After the conclusion of the pronunciation unification meeting, Wang Pu continued to promote the implementation of the meeting's outcomes, and took the initiative to establish a phonetic symbol training institute in Jingzhao. When the National Language Unification Preparation Committee was established, Wang Pu served as a member. He published the book "Compilation of National Pronunciation Draft" and participated in the publication and validation of the initial edition of the "National Pronunciation Dictionary" in 1919. Wang Pu inherited and promoted the Mandarin phonetic symbols invented by Wang Zhao, becoming a pivotal figure in the national language movement.
 
-##Deep Feelings and Sincere Intentions—Qian Xuantong and Wei Jianggong
+## Deep Feelings and Sincere Intentions—Qian Xuantong and Wei Jianggong
 
 Qian Xuantong was Wei Jianggong's teacher, and they became core figures in the national language movement together. Their collaboration was highly tacit; they supported each other not only academically and professionally but also shared a genuine friendship in life. Once, Qian Xuantong discovered errors in Wei Jianggong's article "Similarities of Wu Songs," and he immediately pointed them out and wrote a letter to Wei Jianggong to correct them. When Qian Xuantong wanted to publish the "National Language Weekly" under his own name, he first thought of asking Wei Jianggong for assistance, to which Wei readily agreed. They often engaged in perfect collaborations: for example, on Hu Shi's fortieth birthday, the congratulatory text sent in the name of the National Language Society was written by Wei Jianggong and inscribed by Qian Xuantong. Wei Jianggong wrote the epitaph for Liu Banong, and Qian Xuantong requested Zhang Taiyan to inscribe the title for the tombstone, which brought comfort to the early-departed friend and their family. When Qian Xuantong, as the head of the Chinese Department at Beishi University, struggled to recruit professors amid the uprising of students, Wei Jianggong went to help. Likewise, when Wei Jianggong's Dawn Middle School opened, Qian Xuantong would also go to show support.
 
@@ -111,13 +111,13 @@ At home, regardless of the time, especially when feeling down, Qian Xuantong sai
 
 After Qian Xuantong's death, Wei Jianggong became the leading figure in promoting the national language movement at Peking University.
 
-##Devotion to the National Language Movement—Liu Banong and Bai Dizhou
+## Devotion to the National Language Movement—Liu Banong and Bai Dizhou
 
 Liu Banong was Bai Dazhou's teacher. After obtaining his Ph.D. in phonetics in Paris in 1925, he returned to teach at Peking University and established his own phonetics laboratory. Bai Dazhou, who enrolled in Peking University after starting work, had to study while supporting his family, which was a heavy burden.
 
 Later, he became a teaching assistant in Liu Banong's phonetics laboratory. Bai Dizhou can be said to have closely followed in his teacher's footsteps. They jointly researched phonetics and also participated in the compilation of the Chinese Dictionary, advocating for Chinese character reform, promoting phonetic symbols, and the Romanization of Mandarin. They studied dialects together and conducted in-depth surveys in remote areas. Regrettably, they both contracted a tropical fever while investigating in the northwest, passing away just two months apart in the same year. Liu Banong and Bai Dazhou were the most capable figures in the national language movement, and their untimely deaths not only saddened many but also cast a shadow over the challenging path of the national language movement.
 
-##Supporting the National Language Movement—Qian Xuantong, Li Jinxi, and Their Students
+## Supporting the National Language Movement—Qian Xuantong, Li Jinxi, and Their Students
 
 At the Chinese Dictionary compilation office, there was a group of active young people, all students of Qian Xuantong and Li Jinxi at Beijing Normal University. After graduation, they engaged in teaching or publishing, tirelessly promoting phonetic symbols in their respective positions.
 
