@@ -1,5 +1,5 @@
 <div class="banner-container" style="display: flex;">
-  <div class="left style="flex: 1; padding: 10px; border: 1px solid #ccc;"">
+  <div class="left" style="flex: 1; padding: 10px; border: 1px solid #ccc;">
     <a href="/glossary/glossary.md" class="banner-link">
       <p>Mandarin Language Movement Glossary</p>
     </a>
