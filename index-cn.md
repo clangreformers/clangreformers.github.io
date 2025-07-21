@@ -3,6 +3,7 @@ layout: default
 ref: shugu
 lang:  简体中文
 banvar: banner-cn.md
+glossaryNpeople-banvar: glossaryNpeople-banner-cn.md
 ---
 
 
@@ -13,6 +14,8 @@ banvar: banner-cn.md
     <div class="home-banner">
       <img alt="" src="/assets/images/banner.png">
     </div>
+
+{% include {{ page.glossaryNpeople-banvar }} %}
 
     <div class="searchbar">
       <div class="left">

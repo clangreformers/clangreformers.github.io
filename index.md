@@ -4,6 +4,7 @@ ref: shugu
 lang: English
 sidebar: sidebar
 banvar: banner.md
+glossaryNpeople-banvar: glossaryNpeople-banner.md
 ---
 
 <div class="home-page">
@@ -12,6 +13,8 @@ banvar: banner.md
     <div class="home-banner">
       <img alt="" src="/assets/images/banner.png">
     </div>
+
+{% include {{ page.glossaryNpeople-banvar }} %}
 
     <div class="searchbar">
       <div class="left">
