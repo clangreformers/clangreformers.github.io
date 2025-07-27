@@ -11,6 +11,7 @@
               <p>Mandarin<br>Language<br>Movement<br>Gossary</p>
               
             </div>
+			<div class="left1">
             <div class="right-scroll">
 			  {% capture glossary %}
 [Eight-legged essay](https://zh.wikipedia.org/wiki/八股文)  
@@ -45,6 +46,7 @@
                  {% endcapture %}
  			   {{ glossary | markdownify }}
             </div>
+			</div>
           </div>
         </div>
         <div class="col-lg-6 col-md-12 col-12">
