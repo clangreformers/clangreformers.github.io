@@ -11,7 +11,7 @@
               <p>Mandarin<br>Language<br>Movement<br>Gossary</p>
               
             </div>
-            <div class="right">
+            <div class="right";  overflow-y: auto;>
 			  {% capture glossary %}
 [Eight-legged essay](https://zh.wikipedia.org/wiki/八股文)  
 [Vernacular Chinese](https://zh.wikipedia.org/wiki/白話)  
