@@ -7,11 +7,11 @@ lang: 繁體中文
 
 王述達，字善愷，1904.8.2－1993.12.7，浙江紹興人，九三學社社員
 
-![image](/assets/imgs/wangshuda_at_home_1980s.jpg "20世紀80年代于家中") {: width="400" }
+![image](/assets/imgs/wangshuda_at_home_1980s.jpg "20世紀80年代于家中"){: width="400" }
 
 20世紀80年代于家中
 
-![image](/assets/imgs/wangshudaNChineseDictionaryCompilationBureau1930s.jpg "20世紀30年代與中國大辭典編纂處的同事在一起，左起：徐世榮、孫崇義、汪怡、王述達、何梅岑") {: width="400" }
+![image](/assets/imgs/wangshudaNChineseDictionaryCompilationBureau1930s.jpg "20世紀30年代與中國大辭典編纂處的同事在一起，左起：徐世榮、孫崇義、汪怡、王述達、何梅岑"){: width="400" }
 
 20世紀30年代與中國大辭典編纂處的同事在一起，左起：徐世榮、孫崇義、汪怡、王述達、何梅岑
 

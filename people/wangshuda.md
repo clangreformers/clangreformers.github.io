@@ -7,11 +7,11 @@ lang: English
 
 Wang Shuda, courtesy name Shankai, was born on August 2, 1904, and passed away on December 7, 1993. He was from Shaoxing, Zhejiang, and was a member of the Jiusan Society.
 
-![image](/assets/imgs/wangshuda_at_home_1980s.jpg "At home in the 1980s") {: width="400" }
+![image](/assets/imgs/wangshuda_at_home_1980s.jpg "At home in the 1980s"){: width="400" }
 
 At home in the 1980s
 
-![image](/assets/imgs/wangshudaNChineseDictionaryCompilationBureau1930s.jpg "In the 1930s with colleagues at the Chinese Dictionary Compilation Office, from left: Xu Shirong, Sun Chongyi, Wang Yi, Wang Shuda, He Meicen") {: width="400" }
+![image](/assets/imgs/wangshudaNChineseDictionaryCompilationBureau1930s.jpg "In the 1930s with colleagues at the Chinese Dictionary Compilation Office, from left: Xu Shirong, Sun Chongyi, Wang Yi, Wang Shuda, He Meicen"){: width="400" }
 
 In the 1930s with colleagues at the Chinese Dictionary Compilation Office, from left: Xu Shirong, Sun Chongyi, Wang Yi, Wang Shuda, He Meicen
 
