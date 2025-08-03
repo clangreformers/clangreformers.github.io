@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Trip to Taiwan
+title: Trip to Taiwan -- Visiting Peter Zhengfang Wang
 date:  2024-12-07 14:00:00 -0000
 categories: jekyll update
 ref:  trip-to-taiwan

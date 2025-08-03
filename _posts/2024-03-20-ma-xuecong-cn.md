@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 马学枞
+title: 台湾国语日报编辑 -- 马学枞
 date:  2024-03-20 14:00:00 -0000
 categories: jekyll update
 ref: ma-xuecong

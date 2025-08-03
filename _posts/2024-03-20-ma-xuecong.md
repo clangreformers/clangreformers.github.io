@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ma Xuecong
+title: Ma Xuecong， editor of Taiwan Guoyu Daily
 date:  2024-03-20 14:00:00 -0000
 categories: jekyll update
 ref:  ma-xuecong
