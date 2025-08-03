@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 馬學枞
+title: 台灣國語日報編輯 -- 馬學枞
 date:  2024-03-20 14:00:00 -0000
 categories: jekyll update
 ref: ma-xuecong

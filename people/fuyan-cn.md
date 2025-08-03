@@ -7,6 +7,8 @@ lang: 简体中文
 
 傅严，字介石，号毅盦（庵），浙江人
 
+![image](/assets/imgs/fuyan_graduation.jpg "傅严大学毕业照") {: width="400" }
+
 傅严大学毕业照
 
 1928年，毕业于北京师范大学国文系

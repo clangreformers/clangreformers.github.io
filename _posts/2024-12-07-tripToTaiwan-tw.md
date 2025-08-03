@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 台灣之行
+title: 台灣之行 -- 拜訪王正方先生
 date:  2024-12-07 14:00:00 -0000
 categories: jekyll update
 ref: trip-to-taiwan
