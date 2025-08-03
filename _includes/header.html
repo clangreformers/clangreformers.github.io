@@ -17,7 +17,7 @@
             {%- assign page_paths = site.data.navigation-tw | default: default_paths -%}
       {%- endif -%}
 
-      <div class="locales" style="text-align: right; line-height: 2em">
+      <div class="locales" style="text-align: right; line-height: 1em">
         {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
         {% for post in posts %} <a href="{{ post.url | prepend: site.baseurl }}" class="{{ post.lang }}">{{ post.lang
           }}</a> {% endfor %}
