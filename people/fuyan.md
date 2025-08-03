@@ -7,7 +7,7 @@ lang: English
 
 Fu Yan, courtesy name Jieshi, also known as Yi'an, from Zhejiang.
 
-![image](/assets/imgs/fuyan_graduation.jpg "Fu Yan's University Graduation Photo") {: width="400" }
+![image](/assets/imgs/fuyan_graduation.jpg "Fu Yan's University Graduation Photo"){: width="400" }
 
 Fu Yan's University Graduation Photo
 

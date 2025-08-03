@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 安文倬
+title: 傅嚴，字介石
 ref: fuyan
 lang: 繁體中文
 ---
@@ -8,7 +8,7 @@ lang: 繁體中文
 
 傅嚴，字介石，號毅盦（庵），浙江人
 
-![image](/assets/imgs/fuyan_graduation.jpg "傅嚴大學畢業照") {: width="400" }
+![image](/assets/imgs/fuyan_graduation.jpg "傅嚴大學畢業照"){: width="400" }
 
 傅嚴大學畢業照
 
