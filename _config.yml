@@ -47,6 +47,10 @@ shugu:
   English: index.html
   简体中文: index-cn.html
   繁體中文: index-tw.html
+donate:
+  English: https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif
+  简体中文: https://www.paypalobjects.com/zh_CN/i/btn/btn_donate_LG.gif
+  繁體中文: https://www.paypalobjects.com/zh_TW/i/btn/btn_donate_LG.gif
 guest-comments:
   English: _includes/guest_comments.html
   简体中文: _includes/guest_comments-cn.html
