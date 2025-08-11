@@ -6,9 +6,6 @@ lang: 简体中文
 ---
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>国语运动时间线</title>
     <style>
         body {
             font-family: 'Microsoft YaHei', SimSun, sans-serif;
