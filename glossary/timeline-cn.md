@@ -5,7 +5,6 @@ ref: timeline
 lang: 简体中文
 ---
 
-<html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -195,4 +194,3 @@ lang: 简体中文
             </div>
         </div>
 </body>
-</html>
