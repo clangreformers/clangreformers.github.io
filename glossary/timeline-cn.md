@@ -1,3 +1,9 @@
+---
+layout: page
+title: 国语运动时间线
+ref: timeline
+lang: 简体中文
+---
 
 <html lang="zh-CN">
 <head>

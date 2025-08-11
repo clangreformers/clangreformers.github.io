@@ -1,3 +1,10 @@
+---
+layout: post
+title: National Language Movement Timeline
+ref:  timeline
+lang: English
+---
+
 
 <html lang="zh-CN">
 <head>
@@ -184,7 +191,7 @@
                 <ul>
                     <li><span class="year">1956</span>，In the early years of the People’s Republic of China, the first pinyin scheme was introduced, attracting the attention and cooperation of many linguists.</li>
                     <li><span class="year">1958</span>，The People’s Republic of China officially promulgated the Scheme for the Chinese Phonetic Alphabet of the People’s Republic of China (Hanyu Pinyin), establishing it as the legal phonetic annotation system for Chinese.</li>
-                    <li><span class="year">1960</span>，The Modern Chinese Dictionary was published, setting standards for Chinese character usage and laying the foundation for the promotion of pinyin writing.</li>
+                    <li><span class="year">1960</span>，《现代汉语词典》出版，确定汉语用字规范，为拼音文字的推广奠定基础。</li>
                 </ul>
             </div>
         </div>

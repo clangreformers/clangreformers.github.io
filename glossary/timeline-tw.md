@@ -1,3 +1,9 @@
+---
+layout: page
+title: 國語運動時間線
+ref: timeline
+lang: 繁體中文
+---
 
 <html lang="zh-CN">
 <head>
@@ -190,5 +196,4 @@
         </div>
 </body>
 </html>
-
 
