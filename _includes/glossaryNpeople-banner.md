@@ -10,7 +10,7 @@ Decades ago, communication in China was fragmented by countless dialects and inc
   		</div>
   	  <div class="middle" style="flex: 1; padding: 10px; align-items: center; text-align: center;">
     	  <a href="/people/people.html" class="banner-link">
-      		<p>People</p>
+      		<p>People(more than 300 people)</p>
    	 		</a>
   	  </div>
  	  <div class="right" style="flex: 1; padding: 10px; align-items: center; text-align: center;">

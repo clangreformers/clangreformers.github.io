@@ -8,7 +8,7 @@
   		</div>
   	  <div class="middle" style="flex: 1; padding: 10px; align-items: center; text-align: center;">
     	  <a href="/people/people-tw.html" class="banner-link">
-      		<p>人物表</p>
+      		<p>人物表（300多人）</p>
    	 		</a>
   	  </div>
  	  <div class="right" style="flex: 1; padding: 10px; align-items: center; text-align: center;">
