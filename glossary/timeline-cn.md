@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 时间线
+title: 国语运动时间线
 ref: timeline
 lang: 简体中文
 ---
@@ -143,17 +143,6 @@ lang: 简体中文
     </style>
 </head>
 <body>
-    <div class="timeline-container">
-        <div class="jekyll-frontmatter">---
-layout: post
-title: "国语运动时间线"
-date: 2025-08-10
-categories: [history, language, chinese]
-tags: [国语, 语言政策, 中国历史, 语言运动]
-description: "中国国语运动的历史发展时间线"
----</div>
-        
-        <h1 class="timeline-title">国语运动时间线</h1>
         
         <div class="timeline-flow">
             <div class="timeline-box">
