@@ -1,12 +1,4 @@
----
-layout: post
-title: National Language Movement Timeline
-ref:  timeline
-lang: English
----
 
-
-<!DOCTYPE html>
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
@@ -196,6 +188,5 @@ lang: English
                 </ul>
             </div>
         </div>
-    </div>
 </body>
 </html>
