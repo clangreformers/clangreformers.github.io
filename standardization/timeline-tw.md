@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 現代漢語標準的制定進程
-ref: timeline
+ref: process
 lang: 繁體中文
 ---
 

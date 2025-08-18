@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 现代汉语标准的制定进程
-ref: timeline
+ref: process
 lang: 简体中文
 ---
 

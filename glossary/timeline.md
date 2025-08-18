@@ -1,7 +1,8 @@
 ---
-layout: default
+layout: page
 title: National Language Movement Timeline
 ref: timeline
+lang: English
 ---
 
 <style>

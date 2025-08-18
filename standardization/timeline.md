@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: page
 title: Timeline of the Drafting of Modern Chinese Standard
-ref:  timeline
+ref:  process
 lang: English
 ---
 
