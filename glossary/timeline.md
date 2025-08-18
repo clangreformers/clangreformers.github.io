@@ -122,7 +122,7 @@ body {
 
 <div class="timeline-flow">
     <div class="timeline-box">
-        <div class="period-title">切音运动 (十九世纪末)</div>
+        <div class="period-title">Phonetic Spelling Movement (End of 19th century)</div>
         <ul>
             <li><span class="year">1892</span>，Lu Xizhang published "First Steps to Clarity at a Glance" (What are cut-sound characters?), marking an important beginning for Romanized phonetic schemes.</li>
             <li>Around the same time, Wei Xu's "Rapid Sound Transmission Characters", Qi Baoqi's "Easy Character Method", and Wang Zhao's "Pinyin Method" (a government pronunciation scheme inspired by compound spelling) were introduced.</li>
