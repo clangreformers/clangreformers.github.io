@@ -118,16 +118,6 @@ body {
     }
 }
 
-.jekyll-frontmatter {
-    background: #2c3e50;
-    color: #ecf0f1;
-    padding: 20px;
-    border-radius: 10px;
-    margin-bottom: 30px;
-    font-family: 'Courier New', monospace;
-    font-size: 0.9em;
-    white-space: pre-line;
-}
 </style>
 
 <div class="timeline-flow">
