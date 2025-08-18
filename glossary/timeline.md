@@ -6,6 +6,13 @@ lang: English
 ---
 
 <style>
+body {
+    font-family: 'Microsoft YaHei', SimSun, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #f8f9fa;
+    line-height: 1.6;
+}
 
 .timeline-container {
     max-width: 1200px;
