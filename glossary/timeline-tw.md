@@ -1,8 +1,7 @@
 ---
-layout: page
+layout: default
 title: 國語運動時間線
 ref: timeline
-lang: 繁體中文
 ---
 
 <style>

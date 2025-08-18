@@ -2,7 +2,6 @@
 layout: default
 title: National Language Movement Timeline
 ref: timeline
-lang: English
 ---
 
 <style>
