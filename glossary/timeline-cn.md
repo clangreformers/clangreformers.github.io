@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: 国语运动时间线
 ref: timeline
 lang: 简体中文
