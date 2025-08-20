@@ -167,7 +167,7 @@ body {
         <ul>
             <li><span class="year">1956</span>，In the early years of the People's Republic of China, the first pinyin scheme was introduced, attracting the attention and cooperation of many linguists.</li>
             <li><span class="year">1958</span>，The People's Republic of China officially promulgated the Scheme for the Chinese Phonetic Alphabet of the People's Republic of China (Hanyu Pinyin), establishing it as the legal phonetic annotation system for Chinese.</li>
-            <li><span class="year">1960</span>，《现代汉语词典》出版，确定汉语用字规范，为拼音文字的推广奠定基础。</li>
+            <li><span class="year">1960</span>，The Modern Chinese Dictionary was published, establishing norms for the use of Chinese characters and laying the foundation for the promotion of pinyin writing.</li>
         </ul>
     </div>
 </div>
