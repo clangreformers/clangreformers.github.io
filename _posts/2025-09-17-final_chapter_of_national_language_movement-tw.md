@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 國語運動的終結
-date:  2025-09-24 14:00:00 -0000
+date:  2025-09-17 14:00:00 -0000
 categories: jekyll update
 ref: final_chapter_of_national_langauge_movement
 lang: 繁體中文
