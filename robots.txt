@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Required for Google Search Console to find your sitemap
+Sitemap: https://clangreformers.github.io/sitemap.xml
