@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 「國語教」傳教士——王壽康
-date:  2015-11-03 14:00:00 -0000
+date:  2025-11-03 14:00:00 -0000
 categories: jekyll update
 ref: missionary-of-national-language-movement
 lang: 繁體中文
@@ -11,7 +11,7 @@ lang: 繁體中文
 
 我與王正方先生結緣是2019年的事,我們的「媒人」是我的祖父王述達先生和他的父親王壽康先生。王正方先生所著《十年顛沛一頑童》封底有一張全家福,我手上一本祖父留下的《北京師範大學1948年畢業紀念冊》中有一張國語專修科畢業照,兩張照片的交集就是王壽康先生。感謝互聯網為我和王正方先生牽線,讓我們共同踏上追憶先人國語運動的道路。按照輩份,我稱王正方先生為「王叔」。時隔六年,我們終於相見於北京。剛從美國加州歸來的我,帶來了在加州大學伯克利分校Bancroft圖書館拍照的王壽康先生寫給趙元任先生的兩封信。這勾起我們漫長的回憶,也讓我覺得一定要為王壽康先生寫上幾筆。
 
-![image](/assets/imgs/wangshoukang-photos.jpg "王壽康先生全家福"){: width="250" }
+![image](/assets/imgs/wangshoukang_family.jpg "王壽康先生全家福"){: width="250" }
 
 ![image](/assets/imgs/prof-li-chinese-studies-class.JPG "國語專修科畢業照"){: width="250" }
 

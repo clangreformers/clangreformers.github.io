@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Missionary of the "National Language Religion" — Wang Shoukang
-date:  2015-11-03 14:00:00 -0000
+date:  2025-11-03 14:00:00 -0000
 categories: jekyll update
 ref: missionary-of-national-language-movement
 lang: English
@@ -11,7 +11,7 @@ Author: Wang Yun
 
 My connection with Mr. Wang Zhengfang began in 2019, and our "matchmakers" were my grandfather Wang Shuda and his father Wang Shoukang. On the back cover of Mr. Wang Zhengfang's book "Ten Years of Wandering as a Mischievous Child," there is a family photo. I have a copy of my grandfather's "Beijing Normal University 1948 Graduation Album," which contains a graduation photo of the National Language Special Training Program. The intersection of these two photos is Mr. Wang Shoukang. Thanks to the internet for connecting me with Mr. Wang Zhengfang, allowing us to embark together on a journey to commemorate our ancestors' National Language Movement. According to seniority, I call Mr. Wang Zhengfang "Uncle Wang." Six years later, we finally met in Beijing. Having just returned from California, I brought two letters that Mr. Wang Shoukang had written to Mr. Zhao Yuanren, which I photographed at the Bancroft Library at UC Berkeley. This triggered our long reminiscence and made me feel that I must write something about Mr. Wang Shoukang.
 
-![image](/assets/imgs/wangshoukang-photos.jpg "Wang Shoukang's family photo"){: width="250" }
+![image](/assets/imgs/wangshoukang_family.jpg "Wang Shoukang's family photo"){: width="250" }
 
 ![image](/assets/imgs/prof-li-chinese-studies-class.JPG "National Language Special Training Program graduation photo"){: width="250" }
 
