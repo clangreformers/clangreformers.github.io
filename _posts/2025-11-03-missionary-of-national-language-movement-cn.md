@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "国语教"传教士——王寿康
+title: 「国语教」传教士——王寿康
 date:  2025-11-03 14:00:00 -0000
 categories: jekyll update
 ref: missionary-of-national-language-movement
