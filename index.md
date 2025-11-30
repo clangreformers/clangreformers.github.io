@@ -28,22 +28,55 @@ glossaryNpeople-banvar: glossaryNpeople-banner.md
         </div>
       </div>
     </div>
-    <ul class="post-list">
-      {% assign posts=site.posts | where:"lang", page.lang %}
-      {% for post in posts %}
-      <li>
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}
-          {% if post.author %} • {{ post.author }}{% endif %}
-        </span>
-
-        <a href="{{ post.url | prepend: site.baseurl }}" class="more">More</a>
+    <ul class="nav nav-tabs" id="mainTab" role="tablist">
+      <li class="nav-item" role="presentation">
+        <button class="nav-link active" id="shugu-tab" data-bs-toggle="tab" data-bs-target="#shugu" type="button" role="tab" aria-controls="shugu" aria-selected="true">Shugu</button>
       </li>
-      {% endfor %}
+      <li class="nav-item" role="presentation">
+        <button class="nav-link" id="shuowen-tab" data-bs-toggle="tab" data-bs-target="#shuowen" type="button" role="tab" aria-controls="shuowen" aria-selected="false">Shuowen</button>
+      </li>
     </ul>
+    <div class="tab-content" id="mainTabContent">
+      <div class="tab-pane fade show active" id="shugu" role="tabpanel" aria-labelledby="shugu-tab">
+        <ul class="post-list">
+          {% assign posts=site.posts | where:"lang", page.lang %}
+          {% for post in posts %}
+          <li>
+            <h2>
+              <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+            </h2>
+
+            <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}
+              {% if post.author %} • {{ post.author }}{% endif %}
+            </span>
+
+            <a href="{{ post.url | prepend: site.baseurl }}" class="more">More</a>
+          </li>
+          {% endfor %}
+        </ul>
+      </div>
+      <div class="tab-pane fade" id="shuowen" role="tabpanel" aria-labelledby="shuowen-tab">
+        <div>
+          <ul class="nav nav-tabs" id="myTab" role="tablist">
+            <li class="nav-item" role="presentation">
+              <button class="nav-link active" id="learning-tab" data-bs-toggle="tab" data-bs-target="#learning" type="button" role="tab" aria-controls="learning" aria-selected="true">Learning Chinese</button>
+            </li>
+            <li class="nav-item" role="presentation">
+              <button class="nav-link" id="stories-tab" data-bs-toggle="tab" data-bs-target="#stories" type="button" role="tab" aria-controls="stories" aria-selected="false">Stories of Chinese Characters</button>
+            </li>
+          </ul>
+          <div class="tab-content" id="myTabContent">
+            <div class="tab-pane fade show active" id="learning" role="tabpanel" aria-labelledby="learning-tab">
+              <p>Mandarin Daily News Online Edition, Subscription Page: <a href="https://mdnereading.mdnkids.com/subscription/%E5%9C%8B%E8%AA%9E%E6%97%A5%E5%A0%B1">https://mdnereading.mdnkids.com/subscription/國語日報</a></p>
+              <p>Selected Trial Reading Page: <a href="https://mdnereading.mdnkids.com/product_intro/hard_copy_paper">https://mdnereading.mdnkids.com/product_intro/hard_copy_paper</a></p>
+            </div>
+            <div class="tab-pane fade" id="stories" role="tabpanel" aria-labelledby="stories-tab">
+              <p>Coming soon...</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
     
 
 {% include {{ page.banvar }} %}
