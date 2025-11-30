@@ -5,6 +5,7 @@ date:   2020-01-02 01:00:00 -0000
 categories: jekyll update
 ref: shudawang-book-collections
 lang: English
+author: Yun Wang
 ---
 
 Author: Yun Wang

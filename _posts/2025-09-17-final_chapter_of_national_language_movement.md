@@ -5,6 +5,7 @@ date:  2025-09-17 14:00:00 -0000
 categories: jekyll update
 ref: final_chapter_of_national_langauge_movement
 lang: English
+author: Yun Wang
 ---
 
 Author: Yun Wang

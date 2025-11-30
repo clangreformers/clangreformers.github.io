@@ -32,11 +32,13 @@ glossaryNpeople-banvar: glossaryNpeople-banner-tw.md
       {% assign posts=site.posts | where:"lang", page.lang %}
       {% for post in posts %}
       <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
+
+        <span class="post-meta">{{ post.date | date: "%Y年%m月%d日" }}
+          {% if post.author %} • {{ post.author }}{% endif %}
+        </span>
 
         <a href="{{ post.url | prepend: site.baseurl }}" class="more">More</a>
       </li>

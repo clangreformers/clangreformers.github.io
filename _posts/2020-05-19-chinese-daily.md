@@ -5,6 +5,7 @@ date:   2020-05-19 00:00:00 -0000
 categories: jekyll update
 ref: chinese-daily
 lang: English
+author: Peter Wang
 ---
 
 Author: Peter Wang

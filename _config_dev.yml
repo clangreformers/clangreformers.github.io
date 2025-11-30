@@ -1,0 +1,10 @@
+url: "http://localhost:4000"
+baseurl: ""
+shuowen:
+  English: /shuowen.html
+  简体中文: /shuowen-cn.html
+  繁體中文: /shuowen-tw.html
+shugu:
+  English: /index.html
+  简体中文: /index-cn.html
+  繁體中文: /index-tw.html

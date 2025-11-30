@@ -5,6 +5,7 @@ date:   2022-06-12 14:00:00 -0000
 categories: jekyll update
 ref:  stories-behind-photos
 lang: English
+author: Yun Wang
 ---
 
 Author: Yun Wang

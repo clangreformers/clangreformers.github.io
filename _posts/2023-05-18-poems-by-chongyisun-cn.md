@@ -5,6 +5,7 @@ date:  2023-05-18 14:00:00 -0000
 categories: jekyll update
 ref: poems-by-chongyisun
 lang: 简体中文
+author: 孙崇义
 ---
 作者：孙崇义
 

@@ -5,6 +5,7 @@ date:  2024-12-07 14:00:00 -0000
 categories: jekyll update
 ref:  trip-to-taiwan
 lang: English
+author: Yingxian Wang
 ---
 
 Author: Yingxian Wang

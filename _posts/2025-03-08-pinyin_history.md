@@ -5,6 +5,7 @@ date:  2025-02-28 14:00:00 -0000
 categories: jekyll update
 ref: pinyin-history
 lang: English
+author: Yun Wang
 ---
 
 Author: Yun Wang

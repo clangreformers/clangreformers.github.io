@@ -5,6 +5,7 @@ date:  2024-11-07 14:00:00 -0000
 categories: jekyll update
 ref: difficult-journey-of-national-language-movement
 lang: 简体中文
+author: 王昀
 ---
 
 作者：王昀

@@ -5,6 +5,7 @@ date:  2023-11-16 14:00:00 -0000
 categories: jekyll update
 ref: origin-of-chinese-character-bronze-mold
 lang: 简体中文
+author: 王昀
 ---
 作者：王昀
 
