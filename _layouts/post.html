@@ -2,16 +2,21 @@
 layout: default
 ---
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+  <div class="return-nav" style="margin-bottom: 20px;">
+    <a href="{{ site.baseurl }}/{% if page.lang == '简体中文' %}index-cn.html{% elsif page.lang == '繁體中文' %}index-tw.html{% endif %}"
+      style="display: inline-block; text-decoration: none; font-size: 2em; font-weight: bold; color: #fff; background-color: #999; padding: 5px 15px; border-radius: 5px; line-height: 1;">&#8592;</a>
+  </div>
   <header class="post-header">
     <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
     <p class="post-meta">
       <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-          {{ page.date | date: "%b %-d, %Y" }}
+        {{ page.date | date: "%b %-d, %Y" }}
       </time>
       {%- if page.author -%}
-      • <span itemprop="author" itemscope
-          itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>
-      {%- endif -%}</p>
+      • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author
+          }}</span></span>
+      {%- endif -%}
+    </p>
   </header>
 
   <div class="post-content" itemprop="articleBody">

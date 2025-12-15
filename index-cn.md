@@ -111,3 +111,5 @@ glossaryNpeople-banvar: glossaryNpeople-banner-cn.md
     exclude: ['Welcome']
   })
 </script>
+
+<script src="{{ site.baseurl }}/assets/js/index_slider.js"></script>
