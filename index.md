@@ -9,35 +9,49 @@ glossaryNpeople-banvar: glossaryNpeople-banner.md
 
 <div class="home-page">
   <div class="container">
-    <h1 class="page-heading">Events and historical figures of modern Chinese</h1>
-    <div class="home-banner">
-      <img alt="" src="/assets/images/banner.png">
-    </div>
+    <div id="bannerCarousel" class="carousel slide" data-bs-ride="false" data-bs-interval="false">
 
-{% include {{ page.glossaryNpeople-banvar }} %}
-
-    <div class="searchbar">
-      <div class="left">
-        Events and historical figures of modern Chinese
-      </div>
-      <div class="right">
-        <div id="search-demo-container" class="search-demo-container">
-          <input type="input" id="search-input" placeholder="Search...">
-          <div class="icon"></div>
-          <ul id="results-container" class="results-container"></ul>
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          <h1 class="page-heading">Events and historical figures of modern Chinese</h1>
+          <div class="home-banner">
+            <img src="/assets/images/banner.png" class="d-block w-100" alt="Shugu Banner">
+          </div>
+        </div>
+        <div class="carousel-item">
+          <h1 class="page-heading">Exposition/Exploring the bits and pieces of Chinese characters</h1>
+          <div class="home-banner">
+            <img src="/assets/images/banner1.png" class="d-block w-100" alt="Shuowen Banner">
+          </div>
         </div>
       </div>
+      <button class="carousel-control-prev" type="button" data-bs-target="#bannerCarousel" data-bs-slide="prev" style="width: 5%; justify-content: flex-start;">
+        <span class="carousel-control-prev-icon" aria-hidden="true" style="background-color: black; border-radius: 50%;"></span>
+        <span class="visually-hidden">Previous</span>
+      </button>
+      <button class="carousel-control-next" type="button" data-bs-target="#bannerCarousel" data-bs-slide="next" style="width: 5%; justify-content: flex-end;">
+         <span class="carousel-control-next-icon" aria-hidden="true" style="background-color: black; border-radius: 50%;"></span>
+        <span class="visually-hidden">Next</span>
+      </button>
     </div>
-    <ul class="nav nav-tabs" id="mainTab" role="tablist">
-      <li class="nav-item" role="presentation">
-        <button class="nav-link active" id="shugu-tab" data-bs-toggle="tab" data-bs-target="#shugu" type="button" role="tab" aria-controls="shugu" aria-selected="true">Shugu</button>
-      </li>
-      <li class="nav-item" role="presentation">
-        <button class="nav-link" id="shuowen-tab" data-bs-toggle="tab" data-bs-target="#shuowen" type="button" role="tab" aria-controls="shuowen" aria-selected="false">Shuowen</button>
-      </li>
-    </ul>
-    <div class="tab-content" id="mainTabContent">
-      <div class="tab-pane fade show active" id="shugu" role="tabpanel" aria-labelledby="shugu-tab">
+
+
+    <!-- Content Sections controlled by Carousel -->
+    <div id="content-shugu" class="content-section">
+      {% include {{ page.glossaryNpeople-banvar }} %}
+      <div class="searchbar">
+        <div class="left">
+          Events and historical figures of modern Chinese
+        </div>
+        <div class="right">
+          <div id="search-demo-container" class="search-demo-container">
+            <input type="input" id="search-input" placeholder="Search...">
+            <div class="icon"></div>
+            <ul id="results-container" class="results-container"></ul>
+          </div>
+        </div>
+      </div>
+
         <ul class="post-list">
           {% assign posts=site.posts | where:"lang", page.lang %}
           {% for post in posts %}
@@ -54,8 +68,10 @@ glossaryNpeople-banvar: glossaryNpeople-banner.md
           </li>
           {% endfor %}
         </ul>
-      </div>
-      <div class="tab-pane fade" id="shuowen" role="tabpanel" aria-labelledby="shuowen-tab">
+    </div>
+    
+    <div id="content-shuowen" class="content-section" style="display: none;">
+
         <div>
           <ul class="nav nav-tabs" id="myTab" role="tablist">
             <li class="nav-item" role="presentation">
@@ -75,7 +91,6 @@ glossaryNpeople-banvar: glossaryNpeople-banner.md
             </div>
           </div>
         </div>
-      </div>
     </div>
     
 
@@ -98,3 +113,5 @@ glossaryNpeople-banvar: glossaryNpeople-banner.md
     exclude: ['Welcome']
   })
 </script>
+
+<script src="{{ site.baseurl }}/assets/js/index_slider.js"></script>
