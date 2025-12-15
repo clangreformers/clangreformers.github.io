@@ -1642,6 +1642,7 @@ Member of the National Language Romanization Promotion Association, Speaker at t
 ## Wang Pu
 **Alias:** Yun Shan
 
+- [Shuowen](https://clangreformers.github.io/people/wangpu.html)
 - Unified Pronunciation Committee Member: Yes, Zhili
 - National Language Association Member: Yes
 

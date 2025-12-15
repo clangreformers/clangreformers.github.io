@@ -1896,6 +1896,7 @@ lang: 繁體中文
 ## 王璞
 **別名:** 蘊山
 
+- [說文](https://clangreformers.github.io/people/wangpu-tw.html)
 - 讀音統一會委員: 是，直隸
 - 國語會委員: 是
 

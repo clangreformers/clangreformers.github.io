@@ -1896,6 +1896,7 @@ lang: 简体中文
 ## 王璞
 **别名:** 蕴山
 
+- [说文](https://clangreformers.github.io/people/wangpu-cn.html)
 - 读音统一会委员: 是，直隶
 - 国语会委员: 是
 
