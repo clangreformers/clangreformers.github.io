@@ -56,8 +56,11 @@ Lin Yutang once created Gwoyeu Romatzyh with Yuen Ren Chao. He later dedicated h
 Masters withered, sages departed, and I believe the development of the National Language today is not the ending they expected. Language is the carrier of civilization. When Chinese people must inevitably move towards a higher civilization, if the National Language cannot develop, it will inevitably become a stumbling block to the development of Chinese civilization. So, will the National Language eventually develop or be eliminated? This is a severe question for Chinese people.
 
 References:
+
 "Sound Enters Heart and Connects" by Wang Dongjie, Beijing Normal University Press, April 2019
+
 "Complete Diaries of Ye Shengtao" by Ye Shengtao, China Education Publishing and Media Group People's Education Press, October 2024
+
 Correspondence between Yuen Ren Chao and Wang Shoukang, Wang Yuchuan, Wei Jiangong, etc.
 
 December 23, 2025 in Beijing
