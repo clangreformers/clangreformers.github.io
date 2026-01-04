@@ -35,13 +35,13 @@ The "Lishu" and "Caoshu" scripts during the Han Dynasty.
 
 The "Kaishu" script during the Three Kingdoms period and thereafter.
 
- ![image](/assets/imgs/dict_history/jiesheng.png "结绳记事")
-![image](/assets/imgs/dict_history/zhuanwen.png "籀文")
+ ![image](/assets/imgs/dict_history/jiesheng.png "Knotted Cord Records")
+![image](/assets/imgs/dict_history/zhuanwen.png "Zhou Script")
 
-![image](/assets/imgs/dict_history/xiaozhuan.png "小篆代表泰山石刻")
-![image](/assets/imgs/dict_history/zhongdingwen.png "钟鼎文")
+![image](/assets/imgs/dict_history/xiaozhuan.png "Small Seal Script (Mount Tai Inscription)")
+![image](/assets/imgs/dict_history/zhongdingwen.png "Bronze Script")
 
-![image](/assets/imgs/dict_history/lishu.png "隶书")
+![image](/assets/imgs/dict_history/lishu.png "Clerical Script")
 
 III. The emergence of Chinese dictionaries
 
@@ -61,11 +61,11 @@ IV Main Form-based Dictionaries
 
 1. "Shuowen Jiezi," also known as "Shuowen," is the first Chinese dictionary that systematically analyzes Chinese character forms and investigates their origins. It was written by Xu Shen of the Han dynasty and is one of the earliest dictionaries in the world. The book contains a total of 9,353 characters. The present version of "Shuowen" is the one edited by Xu Xuan of the Song dynasty. The book was the first to classify characters according to radicals and proposed the "Six Categories" theory for analyzing characters. It preserved most of the pre-Qin character forms and many character explanations from the Han dynasty and earlier, reflecting the vocabulary of ancient Chinese.
 
-![image](/assets/imgs/dict_history/song_shuowenjiezi.png "宋本《说文解字》")
+![image](/assets/imgs/dict_history/song_shuowenjiezi.png "Song Edition of Shuowen Jiezi")
 
-![image](/assets/imgs/dict_history/tang_shuowenjiezi.png "唐抄本《说文解字》")
+![image](/assets/imgs/dict_history/tang_shuowenjiezi.png "Tang Dynasty Manuscript of Shuowen Jiezi")
 
-![image](/assets/imgs/dict_history/shuowenjiezi_demo.png "《说文解字》示例")
+![image](/assets/imgs/dict_history/shuowenjiezi_demo.png "Example of Shuowen Jiezi")
 
 2. "Zi Lin" was compiled by the Jin dynasty scholar Lü Chen to collect rare and unusual characters to supplement the shortcomings of "Shuo Wen". The book is mainly written in clerical script and organized by radicals, and it contains a total of 12,824 characters. It was popular during the Northern and Southern Dynasties period and served as a bridge between "Shuo Wen" and "Yu Pian". Unfortunately, the book is now lost.
 
@@ -111,9 +111,9 @@ V "Er Ya" Dictionary Series
 
 "The Er Ya" is considered to be the ancestor of dictionaries, and also the first comprehensive dictionary arranged by semantic categories. It was first recorded in the "Yi Wen Zhi" section of the "Han Shu" but the author's name was not included. "Er" means "near" (later written as "迩") and "Ya" means "correct", and here it specifically refers to "correct language", which conforms to the standard norms in terms of pronunciation, vocabulary, and grammar. The book contains over 4,300 words, divided into 2,091 entries. It is the first book to classify words by their nature, and is considered the founding work of Chinese philology. It has important influence in the fields of philology, phonology, etymology, dialectology, and ancient writing studies. It is an important reference material for studying pre-Qin vocabulary and reading ancient books, and is considered a classic of Confucianism.
 
-![image](/assets/imgs/dict_history/erya.png "尔雅")
+![image](/assets/imgs/dict_history/erya.png "Erya")
 
-![image](/assets/imgs/dict_history/erya_annotated.png "尔雅注疏")
+![image](/assets/imgs/dict_history/erya_annotated.png "Erya Annotations")
 
 After the publication of the "Erya", each generation of scholars compiled or imitated the style of the "Erya" to supplement it, and these books were all named "Ya", forming a systematic tradition.
 
@@ -235,9 +235,9 @@ X. Influential Dictionaries of Modern Times
 
 After its publication, "A Dictionary of Modern Chinese" became a language tool book for teachers, students and various social groups. It is also known as the "Bible" for many countries and regions around the world studying and learning Chinese. Today, in addition to the mainland Chinese edition, there are also several other versions, such as the Singaporean, Korean and Hong Kong editions.
 
-![image](/assets/imgs/dict_history/kangxi.png "康熙字典")
+![image](/assets/imgs/dict_history/kangxi.png "Kangxi Dictionary")
 
-![image](/assets/imgs/dict_history/guoyu.png " 国语辞典（八册本）")
+![image](/assets/imgs/dict_history/guoyu.png "National Language Dictionary (Eight-Volume Edition)")
 
 Note:
 

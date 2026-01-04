@@ -24,7 +24,7 @@ If we talk about the conscious use of letters to create a phonetic system for Ch
 
 "The Miracle of Western Characters": Latin Letters
 
-In 1605, Italian missionary Matteo Ricci and Father Xu Guangqi compiled "The Miracle of Western Characters" (also known as "The Great Western Alphabet," "Western Phonetic Dictionary for Chinese," "Romanized Phonetic Articles of the Late Ming Dynasty") using Latin letters to correspond with the sounds of Chinese characters. This system included twenty-six letters, forty-four finals, and five tones: flat, rising, departing, entering, and neutral. This was the first scheme in China to use Latin letters for Pinyin. Ricci's original manuscript was reprinted in 1927 by Fu Jen Catholic University in Beijing from a copy preserved in the Wang family’s Ming Hui Lu.
+In 1605, Italian missionary Matteo Ricci and Father Xu Guangqi compiled "The Miracle of Western Characters" (also known as "The Great Western Alphabet," "Western Phonetic Dictionary for Chinese," "Romanized Phonetic Articles of the Late Ming Dynasty") using Latin letters to correspond with the sounds of Chinese characters. This system included twenty-six letters, forty-four finals, and five tones: flat, rising, departing, entering, and neutral. This was the first scheme in China to use Latin letters for Pinyin. Ricci's original manuscript was reprinted in 1927 by Fu Jen Catholic University in Beijing from a copy preserved in the Wang family's Ming Hui Lu.
 
 ![image](/assets/imgs/mingji_roman_zhuyin.jpg "Ming Dynasty's European Art and Romanized Phonetics"){: width="300" }
 
@@ -34,7 +34,7 @@ Ming Dynasty's European Art and Romanized Phonetics
 
 "Western Scholars' Ears and Eyes": Latin Alphabet
 
-In 1626, French missionary Nicolas Trigault completed "Xi Ru Er Mu Zi" (Western Scholars' Resources). This book is divided into three volumes: the first volume, "Introduction to Translation and Pronunciation," serves as a general overview; the second volume, "List of Sound and Rhyme Tables," is an index based on phonetics; the third volume, "List of Word and Sound Tables," is based on characters to find phonetic pronunciations. Trigault created twenty-nine letters, consisting of five “self-resonant” vowels, twenty “co-resonant” consonants, and another four “non-resonant” consonants, which were used in other countries but not in China. Thus, the practical set includes twenty-five letters. This is the first phonetic radical dictionary, with its phonology based on the Nanjing dialect of the Ming dynasty.
+In 1626, French missionary Nicolas Trigault completed "Xi Ru Er Mu Zi" (Western Scholars' Resources). This book is divided into three volumes: the first volume, "Introduction to Translation and Pronunciation," serves as a general overview; the second volume, "List of Sound and Rhyme Tables," is an index based on phonetics; the third volume, "List of Word and Sound Tables," is based on characters to find phonetic pronunciations. Trigault created twenty-nine letters, consisting of five "self-resonant" vowels, twenty "co-resonant" consonants, and another four "non-resonant" consonants, which were used in other countries but not in China. Thus, the practical set includes twenty-five letters. This is the first phonetic radical dictionary, with its phonology based on the Nanjing dialect of the Ming dynasty.
 
 ![image](/assets/imgs/nicolas_trigault_alphabet.jpg "'Western Scholars' Ears and Eyes': Latin Alphabet"){: width="300" }
 
@@ -42,15 +42,15 @@ In 1626, French missionary Nicolas Trigault completed "Xi Ru Er Mu Zi" (Western 
 
 **Georgius Candidius** (Dutch missionary, 1597-1647)
 
-“Red-haired Characters”: Latin Letters, Xinguang Language and Other Indigenous Languages
+"Red-haired Characters": Latin Letters, Xinguang Language and Other Indigenous Languages
 
-In 1629, the Dutch pastor Georgius Candidius, while in Taiwan, translated the catechism into Xinguang (then a small tribe of the Siraya people, later known as Xinshi). He subsequently compiled a vocabulary for the Xinguang language, which led to the birth of the Romanized letters for Taiwanese. These Roman letters are not a new script but phonetic symbols for Chinese characters. Later, the Dutch created several dialectal symbols in Taiwan, collectively known as “Xinguang Script” or “Red-haired Characters.”
+In 1629, the Dutch pastor Georgius Candidius, while in Taiwan, translated the catechism into Xinguang (then a small tribe of the Siraya people, later known as Xinshi). He subsequently compiled a vocabulary for the Xinguang language, which led to the birth of the Romanized letters for Taiwanese. These Roman letters are not a new script but phonetic symbols for Chinese characters. Later, the Dutch created several dialectal symbols in Taiwan, collectively known as "Xinguang Script" or "Red-haired Characters."
 
 **Elijah Coleman Bridgman** (American missionary, 1801-1961)
 
 **"Selections of Chinese Literature in Cantonese Dialect"**: Latin Letters, Cantonese
 
-In 1841, the first American missionary to China, Elijah Bridgman, published "Selections of Chinese Literature in Cantonese Dialect." He had three purposes for writing this book: 1) to help foreigners learn Cantonese; 2) to assist Chinese people in learning English; and 3) to demonstrate that phonetics can be used to read and write Cantonese. He explained that Cantonese has 15 sets of monophthongs and diphthongs, 18 consonants, includes aspiration markers and 8 tones, and considered the four positions of the palm's edges as “level, rising, entering, and departing” tones (see image below).
+In 1841, the first American missionary to China, Elijah Bridgman, published "Selections of Chinese Literature in Cantonese Dialect." He had three purposes for writing this book: 1) to help foreigners learn Cantonese; 2) to assist Chinese people in learning English; and 3) to demonstrate that phonetics can be used to read and write Cantonese. He explained that Cantonese has 15 sets of monophthongs and diphthongs, 18 consonants, includes aspiration markers and 8 tones, and considered the four positions of the palm's edges as "level, rising, entering, and departing" tones (see image below).
 
 ![image](/assets/imgs/elijah_bridgman_alphabet.jpg "Selections of Chinese Literature in Cantonese Dialect"){: width="300" }
 
@@ -185,27 +185,27 @@ During this stage, various pinyin schemes emerged like bamboo shoots after rain,
 
    **Tian Tingjun**
 
-   *“Pinyin Substitution Method”:* Chinese character strokes (with Latin letters corresponding); Hubei dialect; an incomplete three-sound system, partially double-sound.
+   *"Pinyin Substitution Method":* Chinese character strokes (with Latin letters corresponding); Hubei dialect; an incomplete three-sound system, partially double-sound.
 
-   Published in 1906, *“Pinyin Substitution Method”* has a total of nineteen "father sounds" (initial consonants) and thirty-two "mother sounds" (finals); out of these thirty-two "mother sounds," half are "single mother sounds" (represented by single letters), and half are "double mother sounds" (represented by double letters), so only thirty-five letters are actually in use. These thirty-five letters are derived from the strokes of Chinese characters. This scheme is half a step ahead of the double-sound system, having partially entered the three-sound system; unlike phonetic symbols, it is a half step behind the three-sound system, as some finals still retain remnants of the double-sound system.
+   Published in 1906, *"Pinyin Substitution Method"* has a total of nineteen "father sounds" (initial consonants) and thirty-two "mother sounds" (finals); out of these thirty-two "mother sounds," half are "single mother sounds" (represented by single letters), and half are "double mother sounds" (represented by double letters), so only thirty-five letters are actually in use. These thirty-five letters are derived from the strokes of Chinese characters. This scheme is half a step ahead of the double-sound system, having partially entered the three-sound system; unlike phonetic symbols, it is a half step behind the three-sound system, as some finals still retain remnants of the double-sound system.
 
-   ![image](/assets/imgs/tian_tingjun_pinyin.jpg "Tian Tingjun’s ‘Pinyin Substitution Method’"){: width="300" }
+   ![image](/assets/imgs/tian_tingjun_pinyin.jpg "Tian Tingjun's 'Pinyin Substitution Method'"){: width="300" }
    
-   **Tian Tingjun**’s *“Pinyin Substitution Method"*
+   **Tian Tingjun**'s *"Pinyin Substitution Method"*
 
    **Zhang Binglin** (from Yuhang, Zhejiang, 1869-1936, originally named Xuecheng, also known as Taiyan, courtesy name Meishu)
 
-   *“Refuting the Proposal to Use Esperanto in China”*: Strokes (single ancient characters); double-sound.
+   *"Refuting the Proposal to Use Esperanto in China"*: Strokes (single ancient characters); double-sound.
 
-   Between 1908 and 1910, during the publication period of *“New Century,”* run by Chinese students studying in France in Paris, several anarchists proposed that China should abolish Chinese characters and the Chinese language, instead using "Universal New Language" (Esperanto). Zhang Taiyan disagreed with this naive and extreme proposition, and also had different opinions on the sound-based characters at the time. Therefore, he wrote this article to refute the fallacies of the anarchists while also presenting his views on sound-based characters. He published his proposed system of sound-based characters formed by “extracting and simplifying the shapes of ancient texts” — “Niuwen” and “Yunwen,” which became the precursor to the later "Bopomofo" scheme.
+   Between 1908 and 1910, during the publication period of *"New Century,"* run by Chinese students studying in France in Paris, several anarchists proposed that China should abolish Chinese characters and the Chinese language, instead using "Universal New Language" (Esperanto). Zhang Taiyan disagreed with this naive and extreme proposition, and also had different opinions on the sound-based characters at the time. Therefore, he wrote this article to refute the fallacies of the anarchists while also presenting his views on sound-based characters. He published his proposed system of sound-based characters formed by "extracting and simplifying the shapes of ancient texts" — "Niuwen" and "Yunwen," which became the precursor to the later "Bopomofo" scheme.
 
-   ![image](/assets/imgs/zhang_shiyan_zhuyin.jpg "Zhang Taiyan’s ‘Refuting the Proposal to Use Esperanto in China’"){: width="2300" }
+   ![image](/assets/imgs/zhang_shiyan_zhuyin.jpg "Zhang Taiyan's 'Refuting the Proposal to Use Esperanto in China'"){: width="2300" }
    
-   **Zhang Taiyan**’s *“Refuting the Proposal to Use Esperanto in China”*
+   **Zhang Taiyan**'s *"Refuting the Proposal to Use Esperanto in China"*
 
    **Zheng Donghu**
 
-   *“Instructions on Sound-based Characters”* (see below): Chinese character strokes; double-sound.
+   *"Instructions on Sound-based Characters"* (see below): Chinese character strokes; double-sound.
 
    This is the stroke-based sound character scheme published by Zheng Donghu in 1910, also at the end of the Qing Dynasty...
 The last type of phonetic character scheme.
@@ -240,29 +240,29 @@ Here is the English translation of the provided text:
 
 "r, t, f, l, and horizontal c, what they represent by double sounds refers to diphthongs, and the so-called熟音 refers to the sounds marked by double consonants. As for the method of tone marking, Zhu already knew how to use letters and avoid additional symbols.
 
-![image](/assets/imgs/zhu_wenxiong_character.jpg "Zhu Wenxiong's ‘Jiangsu New Alphabet’"){: width="300" }
+![image](/assets/imgs/zhu_wenxiong_character.jpg "Zhu Wenxiong's 'Jiangsu New Alphabet'"){: width="300" }
 
-Zhu Wenxiong's ‘Jiangsu New Alphabet’
+Zhu Wenxiong's 'Jiangsu New Alphabet'
 
 **Liu Mengyang** (from Tianjin, 1877-1943, courtesy name Bonian)
 
-‘Chinese Phonetic Alphabet Dictionary’: Latin letters; Mandarin sounds; phoneme rules; parts of compound words connected by short horizontal lines
+'Chinese Phonetic Alphabet Dictionary': Latin letters; Mandarin sounds; phoneme rules; parts of compound words connected by short horizontal lines
 
-The original preface of the ‘Chinese Phonetic Alphabet Dictionary’ published in 1908 states, “There are twenty-six phonetic symbols. Among them, ten are primary sounds, twenty-one are secondary sounds, seven are compound primary sounds, twenty-nine are auxiliary secondary sounds, and five are half primary and half secondary sounds. Regardless of whether it is Chinese or foreign languages, whether it is the phonetics of Chinese characters or foreign letter phonetics, all can be found within.” Also, it states, “All primary sounds in the letters are pronounced as Yinping (level tone). Words in the Yinping tone do not need tone marks. However, for words in the Yangping (rising tone), Shang (upper tone), Qu (falling tone), and Ru (entering tone), tone marks must be added to the primary sound at the end of the words.” The so-called tone marks are as follows: Yangping (´), Shang (¯), Qu (ˋ), Ru (ˆ).
+The original preface of the 'Chinese Phonetic Alphabet Dictionary' published in 1908 states, "There are twenty-six phonetic symbols. Among them, ten are primary sounds, twenty-one are secondary sounds, seven are compound primary sounds, twenty-nine are auxiliary secondary sounds, and five are half primary and half secondary sounds. Regardless of whether it is Chinese or foreign languages, whether it is the phonetics of Chinese characters or foreign letter phonetics, all can be found within." Also, it states, "All primary sounds in the letters are pronounced as Yinping (level tone). Words in the Yinping tone do not need tone marks. However, for words in the Yangping (rising tone), Shang (upper tone), Qu (falling tone), and Ru (entering tone), tone marks must be added to the primary sound at the end of the words." The so-called tone marks are as follows: Yangping (´), Shang (¯), Qu (ˋ), Ru (ˆ).
 
-![image](/assets/imgs/liu_mengyang_pronounciation.jpg "Liu Mengyang's ‘Chinese Phonetic Book’"){: width="300" }
+![image](/assets/imgs/liu_mengyang_pronounciation.jpg "Liu Mengyang's 'Chinese Phonetic Book'"){: width="300" }
 
-Liu Mengyang's ‘Chinese Phonetic Book’
+Liu Mengyang's 'Chinese Phonetic Book'
 
-Fourth, in other forms, there are characters resembling Manchu script, such as Ma Ti Gan’s ‘Chuan Yin Zi Biao’ and ‘Latest Yue Fu Zi Biao’ from Linqu, Hebei (Sanhe); and those resembling musical notes, such as Zheng Zhenling's ‘Simple New Characters’ from Xiangshan, Guangdong, etc.
+Fourth, in other forms, there are characters resembling Manchu script, such as Ma Ti Gan's 'Chuan Yin Zi Biao' and 'Latest Yue Fu Zi Biao' from Linqu, Hebei (Sanhe); and those resembling musical notes, such as Zheng Zhenling's 'Simple New Characters' from Xiangshan, Guangdong, etc.
 
 **Introduction of Zhuyin Symbols**
 
-In 1913, the Republic of China held a meeting of the Pronunciation Unification Association, where there was heated debate over what kind of pinyin to use. At that time, there were mainly three factions: the “Radical Faction” represented by Wang Zhao and others; the “Symbol Faction” represented by Ma Ti Gan and others; and the Roman Alphabet Faction represented by Wu Jingheng and others. As a result, the representatives from Zhejiang, relying on their numbers and with proposals from Ma Yuzhao, Zhu Xizu, Xu Shouchang, Qian Daosun, Zhou Shuren, and others, passed the “Phonetic Alphabet” for temporary use in determining pronunciation, which was initially proposed by their teacher Zhang Binglin in his work ‘Refuting the Use of a Universal Language in China’. After revisions, it was confirmed to be 39 letters, officially issued by the Ministry of Education in 1918. In 1920, the number of Zhuyin letters increased to 40. In 1930, the Zhuyin letters were renamed “Zhuyin Symbols." The phonetic symbols are still in use in Taiwan.
+In 1913, the Republic of China held a meeting of the Pronunciation Unification Association, where there was heated debate over what kind of pinyin to use. At that time, there were mainly three factions: the "Radical Faction" represented by Wang Zhao and others; the "Symbol Faction" represented by Ma Ti Gan and others; and the Roman Alphabet Faction represented by Wu Jingheng and others. As a result, the representatives from Zhejiang, relying on their numbers and with proposals from Ma Yuzhao, Zhu Xizu, Xu Shouchang, Qian Daosun, Zhou Shuren, and others, passed the "Phonetic Alphabet" for temporary use in determining pronunciation, which was initially proposed by their teacher Zhang Binglin in his work 'Refuting the Use of a Universal Language in China'. After revisions, it was confirmed to be 39 letters, officially issued by the Ministry of Education in 1918. In 1920, the number of Zhuyin letters increased to 40. In 1930, the Zhuyin letters were renamed "Zhuyin Symbols." The phonetic symbols are still in use in Taiwan.
 
 **The Introduction of Mandarin Romanization**
 
-In 1923, the fifth regular meeting of the Preparatory Committee for the Standardization of Mandarin in the Republic of China decided to form the "Mandarin Romanization Committee." Several key members of the committee, including Zhao Yuanren, Liu Banong, Li Jinxie, Qian Xuantong, Lin Yutang, and Wang Yi, formed a group known as the "Several People’s Committee." From September 1925, they dedicated an entire year to researching Mandarin Romanization, which was announced by the Academia Sinica in 1928 and named the "Mandarin Romanization Phonetic Method," utilizing 26 standard Latin letters. Thus, there were two systems for Mandarin phonetics: one was the Zhuyin Fuhao (Bopomofo) and the other was the Mandarin Romanization Phonetic Method, and both were used concurrently. In 1940, the Ministry of Education’s Mandarin Promotion Committee resolved to rename the "Mandarin Romanization Phonetic Method" to "Transliteration Symbols." Zhuyin Fuhao, derived from Chinese characters, was generally easier for illiterate citizens to accept, while Mandarin Romanization also played an irreplaceable role in fields such as telegraphs. Various dictionaries published during this period adopted both systems of phonetics.
+In 1923, the fifth regular meeting of the Preparatory Committee for the Standardization of Mandarin in the Republic of China decided to form the "Mandarin Romanization Committee." Several key members of the committee, including Zhao Yuanren, Liu Banong, Li Jinxie, Qian Xuantong, Lin Yutang, and Wang Yi, formed a group known as the "Several People's Committee." From September 1925, they dedicated an entire year to researching Mandarin Romanization, which was announced by the Academia Sinica in 1928 and named the "Mandarin Romanization Phonetic Method," utilizing 26 standard Latin letters. Thus, there were two systems for Mandarin phonetics: one was the Zhuyin Fuhao (Bopomofo) and the other was the Mandarin Romanization Phonetic Method, and both were used concurrently. In 1940, the Ministry of Education's Mandarin Promotion Committee resolved to rename the "Mandarin Romanization Phonetic Method" to "Transliteration Symbols." Zhuyin Fuhao, derived from Chinese characters, was generally easier for illiterate citizens to accept, while Mandarin Romanization also played an irreplaceable role in fields such as telegraphs. Various dictionaries published during this period adopted both systems of phonetics.
 
 ![image](/assets/imgs/national_pronounciation_table.jpg "The Mandarin Phonetic Alphabet announced by the Academia Sinica in 1928"){: width="200" }
 
@@ -270,7 +270,7 @@ Mandarin Phonetic Alphabet announced by the Academia Sinica in 1928
 
 **Modern Chinese Pinyin Ultimately Becomes the Tool for Chinese Characters in Mainland China**
 
-After the establishment of the People's Republic of China in 1949, efforts were immediately made to develop a Pinyin scheme and to replace Chinese characters with phonetic scripts. A civil organization called the "Chinese Character Reform Association" set up a "Pinyin Scheme Research Committee" to discuss which letters should be used in the Pinyin scheme. In October 1955, a national conference on character reform was held in Beijing, where representatives were presented with six Pinyin schemes: four were based on the brush strokes of Chinese characters, one was Latin alphabet-based, and one was Slavonic alphabet-based. Ultimately, Mao Zedong agreed to adopt the Latin alphabet scheme, which was approved at a central meeting. Over the years of discussions on the Chinese Pinyin scheme, various plans were designed totaling more than 3,300, making this scheme regarded as a product of collective wisdom. In February 1956, the Character Reform Committee published the "Chinese Pinyin Scheme (Draft)" and publicly solicited opinions. This draft contained 31 letters. In February 1958, the first session of the Fifth National People’s Congress officially passed the "Chinese Pinyin Scheme," which used 26 letters. After this scheme was adopted,
+After the establishment of the People's Republic of China in 1949, efforts were immediately made to develop a Pinyin scheme and to replace Chinese characters with phonetic scripts. A civil organization called the "Chinese Character Reform Association" set up a "Pinyin Scheme Research Committee" to discuss which letters should be used in the Pinyin scheme. In October 1955, a national conference on character reform was held in Beijing, where representatives were presented with six Pinyin schemes: four were based on the brush strokes of Chinese characters, one was Latin alphabet-based, and one was Slavonic alphabet-based. Ultimately, Mao Zedong agreed to adopt the Latin alphabet scheme, which was approved at a central meeting. Over the years of discussions on the Chinese Pinyin scheme, various plans were designed totaling more than 3,300, making this scheme regarded as a product of collective wisdom. In February 1956, the Character Reform Committee published the "Chinese Pinyin Scheme (Draft)" and publicly solicited opinions. This draft contained 31 letters. In February 1958, the first session of the Fifth National People's Congress officially passed the "Chinese Pinyin Scheme," which used 26 letters. After this scheme was adopted,
 
 "Zhuyin Fuhao" and "Guoyu Luomazi" have been used in conjunction with Mandarin in mainland China to this day.
 

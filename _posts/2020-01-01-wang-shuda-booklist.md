@@ -12,15 +12,15 @@ Author: Yun Wang
 
 Translator: Yingxian Wang
 
-During the earlier part of the 20th century, Grandpa was a long-time teacher of Chinese in the Boy’s High School Affiliate to Beijing Normal University as well as Beijing Normal University. He was also a part-time teacher at the Girls High School Affiliated to Beijing Normal University, the top girls high school in Beijing and other accredited institutions. He taught Chinese, Chinese Phonetics, Chinese Phonology, and more. Grandpa was an extraordinary teacher. His students include Jingcheng Gao, Fuzeng Gao, Shuqing Shi, Cengzhong Xuu, Fushi Wang, Ruiling Deng, Niantai Sun, Nianzeng Sun, Yunzhong Lu, and Xiyan Li etc. They all later made outstanding achievements in the fields of Chinese Study, Literature, and History.
+During the earlier part of the 20th century, Grandpa was a long-time teacher of Chinese in the Boy's High School Affiliate to Beijing Normal University as well as Beijing Normal University. He was also a part-time teacher at the Girls High School Affiliated to Beijing Normal University, the top girls high school in Beijing and other accredited institutions. He taught Chinese, Chinese Phonetics, Chinese Phonology, and more. Grandpa was an extraordinary teacher. His students include Jingcheng Gao, Fuzeng Gao, Shuqing Shi, Cengzhong Xuu, Fushi Wang, Ruiling Deng, Niantai Sun, Nianzeng Sun, Yunzhong Lu, and Xiyan Li etc. They all later made outstanding achievements in the fields of Chinese Study, Literature, and History.
 
-The scholars of this period had a habit of collecting books. Their book collections were not just for the sake of collection, but more for reading and research. Grandpa had a special room in the house dedicated to be his study. It occupied the best location of the family compound. He not only studied there, but often slept there, as if he was totally immersed in books. Grandpa was a not only a teacher, but he also needed to take care of his parents, raise his six children, and help out his younger siblings who were still students. No matter how difficult life was, he would allocate a quarter of his salary to buy books. In his book, Random Essays, the famous actor from Beijing People‘s Art Theater, Shizhi Yuu recalls: “In middle school, I dreamed of becoming a scholar, and would focus my study on Chinese Phonology. Chinese Phonology is so deep and profound, how can children understand it? But teachers knew how to make it not only understandable, but interesting. This intrigued me. I would admire the teacher’s knowledge and everything about them. I still see in my head the study of my middle school teacher Wang Shankai. Books were stacked up on all four sides, in the same glass bookshelves. The shelves were very tall, starting from the floor, reaching the ceiling. Professor Wang taught me, “Prelude to the meaning of words” ( 说文解字序) in this study – ‘‘古者，庖牺氏之王天下也’，‘王’，a verb here, pronounced with the fourth tone (`). In this manner, he broke down the difficult sentences into components and talked about the origin of Chinese characters. He told me it was not very believable that CangJie single handedly invented words: How can one person create all of the words? Why couldn’t other people have created some too? 
+The scholars of this period had a habit of collecting books. Their book collections were not just for the sake of collection, but more for reading and research. Grandpa had a special room in the house dedicated to be his study. It occupied the best location of the family compound. He not only studied there, but often slept there, as if he was totally immersed in books. Grandpa was a not only a teacher, but he also needed to take care of his parents, raise his six children, and help out his younger siblings who were still students. No matter how difficult life was, he would allocate a quarter of his salary to buy books. In his book, Random Essays, the famous actor from Beijing People's Art Theater, Shizhi Yuu recalls: "In middle school, I dreamed of becoming a scholar, and would focus my study on Chinese Phonology. Chinese Phonology is so deep and profound, how can children understand it? But teachers knew how to make it not only understandable, but interesting. This intrigued me. I would admire the teacher's knowledge and everything about them. I still see in my head the study of my middle school teacher Wang Shankai. Books were stacked up on all four sides, in the same glass bookshelves. The shelves were very tall, starting from the floor, reaching the ceiling. Professor Wang taught me, "Prelude to the meaning of words" ( 说文解字序) in this study – ''古者, 庖牺氏之王天下也', '王', a verb here, pronounced with the fourth tone (`). In this manner, he broke down the difficult sentences into components and talked about the origin of Chinese characters. He told me it was not very believable that CangJie single handedly invented words: How can one person create all of the words? Why couldn't other people have created some too? 
 
-Teacher Wang’s study didn’t seem to be very brightly lit, but I still remember the arrangements well- even the posture and positions of the two of us sitting there while he was teaching. How fascinating: the study and the knowledgeable owner of the study!
+Teacher Wang's study didn't seem to be very brightly lit, but I still remember the arrangements well- even the posture and positions of the two of us sitting there while he was teaching. How fascinating: the study and the knowledgeable owner of the study!
 
-Grandpa’s nephew Jingchun remembers: “Uncle loved the books as if they were his life. He asked Aunt to buy lots of dark blue hand-woven clothes. He would make book covers by himself. Then he carefully put those ancient books inside. Children were not allowed to touch them.”
+Grandpa's nephew Jingchun remembers: "Uncle loved the books as if they were his life. He asked Aunt to buy lots of dark blue hand-woven clothes. He would make book covers by himself. Then he carefully put those ancient books inside. Children were not allowed to touch them."
 
-The following are part of grandpa’s book collections. They would make any credible library envyious Hopefully they give a glimpse of grandpa’s academic pursuit.
+The following are part of grandpa's book collections. They would make any credible library envyious Hopefully they give a glimpse of grandpa's academic pursuit.
 
 ![image](/assets/imgs/booklist/confiscated_booklist_1.jpg "figure, book list confiscated 1"){: width="250" }
 ![image](/assets/imgs/booklist/confiscated_booklist_2.jpg "figure, book list confiscated 2"){: width="250" }
@@ -34,293 +34,293 @@ The following are part of grandpa’s book collections. They would make any cred
 
 (Figure: Part of Mr. Wang Shuda's book list confiscated during the Cultural Revolution)
 
-书目答问补正 南京国学图书馆排印二册一函 有详批注 （有本人罢免盖章）
+Shumu Dawen Buzheng (Supplement to Bibliography Q&A), Nanjing Guoxue Library printed edition, 2 volumes in 1 case, with detailed annotations (with personal dismissal seal)
 
-郘亭知见传本书目 上海石印本六册一函
+Lüting Zhijian Chuanben Shumu (Lüting's Bibliography of Known Extant Books), Shanghai lithocopy edition, 6 volumes in 1 case
 
-补后汉艺文志 南京排印本 八册
+Bu Houhan Yiweizhi (Supplement to the Treatise on Literature of the Later Han), Nanjing printed edition, 8 volumes
 
-补晋书艺文志 广雅书局刻本 四册
+Bu Jinshu Yiweizhi (Supplement to the Treatise on Literature of the Book of Jin), Guangya Book Company woodblock edition, 4 volumes
 
-清史稿艺文志 北京排印本 一册
+Qingshigao Yiweizhi (Treatise on Literature of the Draft History of Qing), Beijing printed edition, 1 volume
 
-郡斋读书志 四部丛刊续编本 八册一函
+Junzhai Dushuzhi (Junzhai Reading Notes), Sibu Congkan supplement edition, 8 volumes in 1 case
 
-故宫善本书目 北京排印本 一册
+Gugong Shanben Shumu (Catalogue of Rare Books in the Imperial Palace), Beijing printed edition, 1 volume
 
-故宫普通书目 北京排印本 一册
+Gugong Putong Shumu (Catalogue of General Books in the Imperial Palace), Beijing printed edition, 1 volume
 
-初学记 附校勘记刻本 十六册二函
+Chuxueji (Notes for Beginning Scholars), with collation notes, woodblock edition, 16 volumes in 2 cases
 
-幼学求源 刻本 八册一函
+Youxue Qiuyuan (Seeking Origins for Young Scholars), woodblock edition, 8 volumes in 1 case
 
-抱经堂丛书 直隶书局影印本 一百余册十余函
+Baojingtang Congshu (Baojingtang Collectanea), Zhili Book Bureau photolithograph edition, over 100 volumes in over 10 cases
 
-别下斋丛书 杭州影印本 二十余册二函
+Biexiazhai Congshu (Biexiazhai Collectanea), Hangzhou photolithograph edition, over 20 volumes in 2 cases
 
-晨风阁丛书 刻本 十余册
+Chenfengge Congshu (Chenfeng Pavilion Collectanea), woodblock edition, over 10 volumes
 
-安徽丛书第三期 影印本 十册一函
+Anhui Congshu Di San Qi (Anhui Collectanea, 3rd Series), photolithograph edition, 10 volumes in 1 case
 
-辞通 开明书店印本 二册
+Citong (Standard Dictionary of Classical Chinese Words), Kaiming Bookstore printed edition, 2 volumes
 
-说文解字诂林 医学书局影印 正编66册 续编16册 共十函
+Shuowen Jiezi Gulin (Forest of Glosses on Shuowen Jiezi), Medical Bookstore photolithograph, Main Series 66 volumes, Supplement 16 volumes, total 10 cases
 
-说文解字注 成都存古书局刻本 十六册二函
+Shuowen Jiezi Zhu (Annotated Shuowen Jiezi), Chengdu Cungu Book Company woodblock edition, 16 volumes in 2 cases
 
-说文解字 一篆一行刻本 十册一函 有马氏批注
+Shuowen Jiezi, one seal script one running script woodblock edition, 10 volumes in 1 case, with Ma's annotations
 
-说文释例 王氏篆刻本 十册
+Shuowen Shili (Explanation of Examples in Shuowen), Wang's seal carving edition, 10 volumes
 
-说文通检 广州刻本 二册一函 有批注
+Shuowen Tongjian (General Index to Shuowen), Guangzhou woodblock edition, 2 volumes in 1 case, with annotations
 
-说文解字篆韵谱 刻本 一函 有批校
+Shuowen Jiezi Zhuan Yunpu (Seal Script Rhyme Table of Shuowen Jiezi), woodblock edition, 1 case, with collation notes
 
-说文统释自叙注 刻本 一函 一夹板
+Shuowen Tongshi Zixu Zhu (Annotated Self-Preface to Shuowen Tongshi), woodblock edition, 1 case, 1 clamp board
 
-重辑仓颉篇 排印本 二册
+Chongji Cangjie Pian (Recompiled Cangjie Pian), printed edition, 2 volumes
 
-字林考逸 章氏刻本 四册一函
+Zilin Kaoyi (Study of Lost Text of Zilin), Zhang's woodblock edition, 4 volumes in 1 case
 
-小学钩沈 龙氏刻本 四册一函 有批注
+Xiaoxue Goushen (Exploration of Philology), Long's woodblock edition, 4 volumes in 1 case, with annotations
 
-小乐雅疏 杭州局刻本 二册
+Xiao'erya Shu (Commentary on Little Erya), Hangzhou Bureau woodblock edition, 2 volumes
 
-广雅疏证 王氏家刻本 十册一函
+Guangya Shuzheng (Annotated Evidence for Guangya), Wang's family woodblock edition, 10 volumes in 1 case
 
-埤雅 刻本 四册一函
+Piya, woodblock edition, 4 volumes in 1 case
 
-乐雅翼 刻本 六册一函
+Erya Yi, woodblock edition, 6 volumes in 1 case
 
-通雅 浮山此藏轩刻本 十册一函
+Tongya, Fushan Cicangxuan woodblock edition, 10 volumes in 1 case
 
-拾雅注 刻本 十册一函
+Shiya Zhu (Annotated Shiya), woodblock edition, 10 volumes in 1 case
 
-比雅 北江全集本 二册
+Biya, Beijiang Complete Works edition, 2 volumes
 
-礼器释名 刻本 四册
+Liqi Shiming (Explanation of Names of Ritual Vessels), woodblock edition, 4 volumes
 
-方言注校 湖南局刻本 二册
+Fangyan Zhuxiao (Annotated and Collated Fangyan), Hunan Bureau woodblock edition, 2 volumes
 
-方言疏证 微波榭刻本 四册
+Fangyan Shuzheng (Annotated Evidence for Fangyan), Weiboxie woodblock edition, 4 volumes
 
-方言笺疏 广雅书局刻本 四册
+Fangyan Jianshu (Commentary and Annotation on Fangyan), Guangya Book Company woodblock edition, 4 volumes
 
-通俗编 无不宜斋刻本 十二册一函
+Tongs Bian (Compilation of Common Sayings), Wubuyizhai woodblock edition, 12 volumes in 1 case
 
-越谚 刻本 三册
+Yueyan (Proverbs of Yue), woodblock edition, 3 volumes
 
-和名类聚钞 刻本 四册
+Wamyō Ruijushō (Japanese Encyclopedia), woodblock edition, 4 volumes
 
-十韵汇编 北大影印 三大册
+Shiyun Huibian (Compilation of Ten Rhymes), Peking University photolithograph, 3 large volumes
 
-广韵 泽存堂刻本 二册一函 有批校
+Guangyun, Zecuntang woodblock edition, 2 volumes in 1 case, with collation notes
 
-广韵 顾氏刻明本 五册
+Guangyun, Gu's woodblock edition of Ming dynasty text, 5 volumes
 
-集韵 补曹刻本 十册 有马氏批注
+Jiyun, Bu Cao woodblock edition, 10 volumes, with Ma's annotations
 
-洪武正韵 明刻本 五册一函
+Hongwu Zhengyun (Hongwu Correct Rhymes), Ming woodblock edition, 5 volumes in 1 case
 
-音韵述徽 四库珍本丛刊本 八册一函
+Yinyun Shuhui (Explanation of Phonology), Siku Zhenben Congkan edition, 8 volumes in 1 case
 
-集韵考正 永嘉丛书本 十册一函
+Jiyun Kaozheng (Textual Research on Jiyun), Yongjia Congshu edition, 10 volumes in 1 case
 
-汉魏六朝韵谱 排印本 六册一函
+Han Wei Liuchao Yunpu (Rhyme Tables of Han, Wei, and Six Dynasties), printed edition, 6 volumes in 1 case
 
-西儒耳目资 北大影印本 三册一函
+Xiru Ermuzi (Aid to the Ear and Eye of Western Scholars), Peking University photolithograph edition, 3 volumes in 1 case
 
-甲骨文编 写印本 七册一函
+Jiaguwen Bian (Compilation of Oracle Bone Script), manuscript printed edition, 7 volumes in 1 case
 
-古籀汇编 影印本 十四册一函
+Guzhou Huibian (Compilation of Ancient Seal Script), photolithograph edition, 14 volumes in 1 case
 
-隶篇 刻本 十四册一函
+Lipian (Official Script Compilation), woodblock edition, 14 volumes in 1 case
 
-楷法溯原 刻本 十六册一函
+Kaifa Suyuan (Tracing the Origin of Standard Script), woodblock edition, 16 volumes in 1 case
 
-玉篇零卷 古逸丛书本 三册
+Yupian Lingjuan (Fragmentary Volumes of Yupian), Guyi Congshu edition, 3 volumes
 
-玉篇 玉存堂刻本 三册
+Yupian, Yucuntang woodblock edition, 3 volumes
 
-美篇 曹刻本 十册一夹板
+Meipian, Cao's woodblock edition, 10 volumes in 1 clamp board
 
-龙龛手鑑 北大影印本 四册一函
+Longkan Shoujian (Handy Mirror of Longkan), Peking University photolithograph edition, 4 volumes in 1 case
 
-汗简笺正 广雅局刻本 四册一函
+Hanjian Jianzheng (Commentary and Correction on Hanjian), Guangya Bureau woodblock edition, 4 volumes in 1 case
 
-汉印分韵 原刻本 四册一函
+Hanyin Fenyun (Han Seals Classified by Rhyme), original woodblock edition, 4 volumes in 1 case
 
-周易姚氏学 武昌局刻本 八册一函
+Zhouyi Yaoshi Xue (Yao's Study of Book of Changes), Wuchang Bureau woodblock edition, 8 volumes in 1 case
 
-尚书今古文注疏 苏州局刻本 八册一函
+Shangshu Jinguwen Zhushu (Commentary on New and Old Text Shangshu), Suzhou Bureau woodblock edition, 8 volumes in 1 case
 
-尚书今文考证 长沙局刻本 八册一函
+Shangshu Jinwen Kaozheng (Textual Research on New Text Shangshu), Changsha Bureau woodblock edition, 8 volumes in 1 case
 
-毛诗传疏 苏州局刻本 十册一函
+Maoshi Zhuanshu (Commentary on Mao's Odes), Suzhou Bureau woodblock edition, 10 volumes in 1 case
 
-诗三家义集疏 长沙局刻本 八册
+Shi Sanjiayi Jishu (Collected Commentaries on Three Schools of Poetry), Changsha Bureau woodblock edition, 8 volumes
 
-礼经释例 文选楼刻本 四册
+Lijing Shili (Explanation of Ritual Classics Examples), Wenxuanlou woodblock edition, 4 volumes
 
-仪礼私笺 贵州刻本 四册
+Yili Sijian (Private Commentary on Etiquette and Ceremonial), Guizhou woodblock edition, 4 volumes
 
-礼记训纂 刻本 八册一函
+Liji Xunzhuan (Exegesis on Book of Rites), woodblock edition, 8 volumes in 1 case
 
-礼记笺 郝氏刻本 八册一函
+Liji Jian (Commentary on Book of Rites), Hao's woodblock edition, 8 volumes in 1 case
 
-论语正义 南京局刻本 八册一函
+Lunyu Zhengyi (Correct Meaning of Analects), Nanjing Bureau woodblock edition, 8 volumes in 1 case
 
-尔雅正义 刻本 八册一函
+Erya Zhengyi (Correct Meaning of Erya), woodblock edition, 8 volumes in 1 case
 
-尔雅匡名 广雅局刻 四册
+Erya Kuangming, Guangya Bureau woodblock edition, 4 volumes
 
-十三经索引 开明书店印本 一册
+Shisanjing Suoyin (Index to Thirteen Classics), Kaiming Bookstore printed edition, 1 volume
 
-十三经经文 开明书店印本 一册
+Shisanjing Jingwen (Text of Thirteen Classics), Kaiming Bookstore printed edition, 1 volume
 
-墨子问诂 刻本 八册一夹板
+Mozi Wengu (Inquiry into Mozi), woodblock edition, 8 volumes in 1 clamp board
 
-韩非子集解 长沙局刻本 六册
+Hanfeizi Jijie (Collected Explanations on Hanfeizi), Changsha Bureau woodblock edition, 6 volumes
 
-淮南鸿烈集解 商务执印本 八册一函
+Huainan Honglie Jijie (Collected Explanations on Huainanzi), Commercial Press printed edition, 8 volumes in 1 case
 
-淮南集证 中华执印本 八册一函
+Huainan Jizheng (Collected Evidence on Huainanzi), Zhonghua Book Company printed edition, 8 volumes in 1 case
 
-法言疏证 排印本 四册一函
+Fayan Shuzheng (Annotated Evidence on Fayan), printed edition, 4 volumes in 1 case
 
-潜夫论笺 刻本 四册一函
+Qianfulun Jian (Commentary on Qianfulun), woodblock edition, 4 volumes in 1 case
 
-世说补 刻本 八册一函
+Shishuobu (Supplement to Shishuo Xinyu), woodblock edition, 8 volumes in 1 case
 
-梦溪笔谈 四部丛刊续编本 四册
+Mengxi Bitan (Dream Pool Essays), Sibu Congkan supplement edition, 4 volumes
 
-日知録集释 四部备要本 八册一函
+Rizhilu Jishi (Collected Explanations on Rizhilu), Sibu Beiyao edition, 8 volumes in 1 case
 
-广阳杂记 畿辅丛书本 四册
+Guangyang Zaji (Guangyang Miscellaneous Notes), Jifu Congshu edition, 4 volumes
 
-十驾斋养新录 刻本 八册一函
+Shijiazhai Yangxinlu, woodblock edition, 8 volumes in 1 case
 
-乐塾读书记 广州刻本 四册一函
+Yueshu Dushuji (Yue Studio Reading Notes), Guangzhou woodblock edition, 4 volumes in 1 case
 
-史记 金陵书局刻本 二十册四函
+Shiji (Records of the Grand Historian), Jinling Book Bureau woodblock edition, 20 volumes in 4 cases
 
-史记探原 刻本 四册
+Shiji Tanyuan (Exploration of Origins in Shiji), woodblock edition, 4 volumes
 
-汉书补注 思贤书局刻本 三十二册四函 有加注
+Hanshu Buzhu (Supplementary Commentary on Book of Han), Sixian Book Bureau woodblock edition, 32 volumes in 4 cases, with added annotations
 
-十七史商榷 原刻本 十六册二函 有批校
+Shiqishi Shangque (Discussion on Seventeen Histories), original woodblock edition, 16 volumes in 2 cases, with collation notes
 
-国语校注本三种 王氏刻本 四册一函
+Guoyu Jiaozhuben Sanzhong (Three Collated and Annotated Editions of Guoyu), Wang's woodblock edition, 4 volumes in 1 case
 
-国语集解 中华书局批印本 八册一函
+Guoyu Jijie (Collected Explanations on Guoyu), Zhonghua Book Company printed edition, 8 volumes in 1 case
 
-战国策校注 四部丛刊本 八册
+Zhanguoce Jiaozhu (Collated and Annotated Strategies of the Warring States), Sibu Congkan edition, 8 volumes
 
-资治通鑑 彩印胡刻本 三十二册
+Zizhi Tongjian (Comprehensive Mirror in Aid of Governance), Color printed Hu's woodblock edition, 32 volumes
 
-通鑑纪事本末 排印本 三十二册
+Tongjian Jishi Benmo (Differentiated Narratives of Zizhi Tongjian), printed edition, 32 volumes
 
-水经注合校 思贤书局刻本 十六册二函 有姚大荣批注
+Shuijingzhu Hexiao (Combined Collation of Commentary on Water Classic), Sixian Book Bureau woodblock edition, 16 volumes in 2 cases, with Yao Darong's annotations
 
-水道提纲 刻本 八册一函
+Shuidao Tigang (Outline of Waterways), woodblock edition, 8 volumes in 1 case
 
-大唐西域记 支那撰述刻本 四册一函
+Datang Xiyuji (Great Tang Records on the Western Regions), China authored woodblock edition, 4 volumes in 1 case
 
-括地志 刻本 四册一函
+Kuodizhi (Comprehensive Gazetteer), woodblock edition, 4 volumes in 1 case
 
-通州志 光绪年刻本 十六册二函
+Tongzhou Zhi (Gazetteer of Tongzhou), Guangxu era woodblock edition, 16 volumes in 2 cases
 
-蔚州志 光绪年刻本 八册一函
+Yuzhou Zhi (Gazetteer of Yuzhou), Guangxu era woodblock edition, 8 volumes in 1 case
 
-历代地理志韵编 批印本 八册一函
+Lidai Dilizhi Yunbian (Rhyme Compilation of Historical Geography Treatises), printed edition, 8 volumes in 1 case
 
-元和姓纂 洪民刻本 四册一函
+Yuanhe Xingzuan (Yuanhe Surname Compilation), Hongmin woodblock edition, 4 volumes in 1 case
 
-史姓韵编 排印本 十六册二函
+Shixing Yunbian (Rhyme Compilation of Historical Surnames), printed edition, 16 volumes in 2 cases
 
-历代名人年谱 刻本 十册一函 有校注
+Lidai Mingren Nianpu (Chronological Biographies of Historical Figures), woodblock edition, 10 volumes in 1 case, with collation notes
 
-潜研堂金石目 刻本 一册一夹板 有批校
+Qianyantang Jinshimu await (Qianyantang Catalogue of Bronze and Stone), woodblock edition, 1 volume in 1 clamp board, with collation notes
 
-愙斋集古录 商务馆影印本 二十六册一函
+Kezhai Jigulu (Kezhai Collection of Antiquities), Commercial Press photolithograph edition, 26 volumes in 1 case
 
-愙斋集古录释文賸稿 商务馆影印本 二册
+Kezhai Jigulu Shiwen Shenggao (Deciphered Text Draft of Kezhai Collection), Commercial Press photolithograph edition, 2 volumes
 
-封泥考略 影印本 十册一夹板
+Fengni Kaolue (Brief Study of Sealing Clay), photolithograph edition, 10 volumes in 1 clamp board
 
-铁云藏龟 影印本 十册一夹板
+Tieyun Canggui (Tieyun's Turtle Shell Collection), photolithograph edition, 10 volumes in 1 clamp board
 
-楚辞章句 湖北丛书本 四册一函 有批校
+Chuci Zhangju (Verses of Chu), Hubei Congshu edition, 4 volumes in 1 case, with collation notes
 
-楚辞补注 刻本 四册一函 有批校
+Chuci Buzhu (Supplementary Commentary on Chuci), woodblock edition, 4 volumes in 1 case, with collation notes
 
-六臣经文选 四部丛刊本 三十册一函
+Liuchen Jing Wenxuan (Six Subjects Wenxuan), Sibu Congkan edition, 30 volumes in 1 case
 
-文选集释 朱氏刻本 十二册
+Wenxuan Jishi (Collected Explanations on Wenxuan), Zhu's woodblock edition, 12 volumes
 
-文选理学权舆补 刻本 八册一函
+Wenxuan Lixue Quanyu Bu, woodblock edition, 8 volumes in 1 case
 
-文选李注义疏 高氏排印本 八册
+Wenxuan Li Zhu Yishu (Li's Commentary and Subcommentary on Wenxuan), Gao's printed edition, 8 volumes
 
-骈体文钞 康氏刻本 四册
+Pianti Wenchao (Anthology of Parallel Prose), Kang's woodblock edition, 4 volumes
 
-七十家赋钞 康氏刻本 四册
+Qishijia Fuchao (Anthology of Fu from Seventy Masters), Kang's woodblock edition, 4 volumes
 
-古文辞类要笺 石印本 十二册一函
+Guwenci Leiyao Jian (Annotated Classified Essentials of Ancient Prose), lithocopy edition, 12 volumes in 1 case
 
-全上古三代秦汉三国六朝文 刻本 一百册十函
+Quan Shanggu Sandai Qin Han Sanguo Liuchao Wen (Complete Prose of Antiquity, Three Dynasties, Qin, Han, Three Kingdoms, Six Dynasties), woodblock edition, 100 volumes in 10 cases
 
-乐府诗集 四部丛刊本 十六册
+Yuefu Shiji (Anthology of Yuefu Poetry), Sibu Congkan edition, 16 volumes
 
-曹集诠评 刻本 二册
+Caoji Quanping (Complete Commentary on Cao's Collection), woodblock edition, 2 volumes
 
-庚子山集注 刻本 八册一函
+Geng Zishan Jizhu (Annotated Collection of Geng Zishan), woodblock edition, 8 volumes in 1 case
 
-杜诗详注 影原刊本 卅二册四函
+Dushi Xiangzhu (Detailed Commentary on Du Fu's Poetry), photolithograph of original edition, 32 volumes in 4 cases
 
-读杜心解 刻本 八册一函
+Du Du Xinjie (New Understanding of Reading Du Fu), woodblock edition, 8 volumes in 1 case
 
-分类补注李太白诗集 四部丛刊本 十册
+Fenlei Buzhu Li Taibai Shiji (Classified and Supplemented Commentary on Li Bai's Poetry Collection), Sibu Congkan edition, 10 volumes
 
-王右丞集注 刻本 十四册一函
+Wang Youcheng Jizhu (Annotated Collection of Wang Youcheng), woodblock edition, 14 volumes in 1 case
 
-韩昌黎集 局刻东雅堂本 十六册二函
+Han Changli Ji (Collection of Han Changli), Bureau woodblock Dongyatang edition, 16 volumes in 2 cases
 
-柳河东集 影世䌽堂本本 十六册二函
+Liu Hedong Ji (Collection of Liu Hedong), photolithograph of Shicaitang edition, 16 volumes in 2 cases
 
-李义诗集注 广东刻本 四册一函
+Li Yi Shijizhu (Annotated Poetry Collection of Li Yi), Guangdong woodblock edition, 4 volumes in 1 case
 
-王荆公文集笺注 刻本 四册
+Wang Jinggong Wenji Jianzhu (Annotated Prose Collection of Wang Jinggong), woodblock edition, 4 volumes
 
-王荆公诗集补注 刻本 二册
+Wang Jinggong Shiji Buzhu (Supplemented Commentary on Wang Jinggong's Poetry), woodblock edition, 2 volumes
 
-元丰类稿 四部丛刊本 十册
+Yuanfeng Leigao (Classified Drafts of Yuanfeng), Sibu Congkan edition, 10 volumes
 
-谓南文集 四部丛刊本 十二册
+Weinau Wenji (Weinan Prose Collection), Sibu Congkan edition, 12 volumes
 
-黄山谷内集外集剔集 陈氏仿宋本 八册
+Huang Shangu Neiji Waiji Tiji (Huang Shangu's Inner, Outer, and Selected Collections), Chen's imitation Song edition, 8 volumes
 
-南雷文案 四部丛刊本 八册
+Nanlei Wen'an (Nanlei Prose Cases), Sibu Congkan edition, 8 volumes
 
-亭林诗集文集馀集 四部丛刊本 五册
+Tinglin Shiji Wenji Yuji (Tinglin's Poetry, Prose, and Remaining Collections), Sibu Congkan edition, 5 volumes
 
-霜红龛集 刻本 四册一函
+Shuanghongkan Ji (Shuanghongkan Collection), woodblock edition, 4 volumes in 1 case
 
-戴东原集 四部丛刊本 四册
+Dai Dongyuan Ji (Collection of Dai Dongyuan), Sibu Congkan edition, 4 volumes
 
-龚定庵文集诗集补编 四部丛刊本 四册
+Gong Ding'an Wenji Shiji Bubian (Gong Ding'an's Prose and Poetry Supplement), Sibu Congkan edition, 4 volumes
 
-两当轩诗集 刻本 四册
+Liangdangxuan Shiji (Liangdangxuan Poetry Collection), woodblock edition, 4 volumes
 
-纪评文心雕龙 刻本朱墨套印 八册一函
+Ji Ping Wenxin Diaolong (Ji's Commentary on Wenxin Diaolong), woodblock red and blank ink edition, 8 volumes in 1 case
 
-四大丛话 刻本 八册一函
+Sida Conghua (Four Great Miscellanies), woodblock edition, 8 volumes in 1 case
 
-绝妙好词笺 刻本 四册一函
+Juemiao Haoci Jian (Annotated Excellent Lyrics), woodblock edition, 4 volumes in 1 case
 
-中兴以来启选 四册一函
+Zhongxing Yilai Qixuan (Selections since the Restoration), 4 volumes in 1 case
 
-词律 原刻本 十六册一函
+Cilu (Rules of Ci Poetry), original woodblock edition, 16 volumes in 1 case
 
-Remarks：The above listing comes from grandpa <a href="{{ site.baseurl }}{% link people/wangshuda.md %}">Shuda (Shankai) Wang</a>’s “Highlights of Bibliography from Confiscated Books (During the Culture Revolution)”
+Remarks: The above listing comes from grandpa <a href="{{ site.baseurl }}{% link people/wangshuda.md %}">Shuda (Shankai) Wang</a>'s "Highlights of Bibliography from Confiscated Books (During the Culture Revolution)"
 

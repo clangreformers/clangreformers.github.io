@@ -32,7 +32,28 @@ At the newspaper office, Uncle Ma was always seen at the far end of the editoria
 
 I often visited the editorial department's reading room at the Guoyu Daily to browse through books and magazines. First, I would check the newly arrived magazines, where reading interesting articles could broaden my knowledge. Then, I would go through several newspapers, even carefully reading the classified ads. I frequently saw many ads for "precision foreskin modification," all worded similarly, stating: "The harm of too-long foreskin is widely recognized by famous people worldwide... leading to inability to maintain, maintain for a short duration, impotence, premature ejaculation..." What does that mean?
 
-Asking several young editors, each would only chuckle and not answer. When I asked Uncle Ma, he too laughed in his deep voice for a while before saying, "It's a misprint, it's supposed to be an ad for leather bag repairs." I took a closer look at those ads again and went back to ask Uncle Ma, "That's not right! How can every ad be misprinted, and every newspaper makes the same mistake; it's clearly 'precision foreskin modification'!" Uncle Ma opened his mouth to laugh, gasping for air, and this time, I could clearly see he had at most six teeth. He said, "Ask your father when you get home."
+Asking several young editors, each would only chuckle and not answer. When I asked Uncle Ma, he too laughed in his deep voice for a while before saying, "It's a misprint, it's supposed to be an ad for leather bag repairs." I took a closer look at those ads again and went back to ask Uncle Ma, "That's not right! How can every ad be misprinted, and every newspaper makes the same mistake; it's clearly 'precision foreskin modification'!" Uncle Ma opened his mouth to laugh, gasping for air, and this time, I could clearly see he had at most six tooths. He said, "Ask your father when you get home."
+
+## Uncle Ma Saved My Brother's Math
+
+What to do if my brother fails math? Father said he had found an excellent math teacher. One day, Ma Xuecong, a proofreader at the Mandarin Daily, came to our house for dinner. He was to be my brother's math tutor.
+
+After dinner, Father and Uncle Ma sat face-to-face smoking. Father said that treating him to dinner was for the sake of his eldest son's math, asking Ma to help tutor him. Uncle Ma waved his hand, saying, "I haven't touched math in years, am I still up for it?"
+
+Since the Vice President of the newspaper had treated him to dinner and made the request in person, how could he refuse? Uncle Ma agreed to borrow my brother's math textbook to review for a couple of days before giving an answer, to see if he could pass as a math teacher.
+
+That night, I heard my parents whispering. Mother asked, "I heard Old Ma has leftist thoughts. Will he lead our child astray?"
+
+"What does teaching math have to do with that?" Father replied. "Sigh! In these times, which young person doesn't have leftist thoughts? Who can you blame? Blame those officials in power for being disappointments!"
+
+From then on, Uncle Ma often came to our house for dinner, and afterwards, he would study math with my brother, sometimes until after nine o'clock at night before returning to the staff dormitory.
+
+Years later, my brother recalled those times. Uncle Ma had spent a lot of time tutoring him. He said, "Old Ma really understood math. He was articulate and organized, grasping the key points in just a few words. I understood immediately. He was much better than those math teachers at school. It's just that every time he borrowed my math book, every page he read would have several small holes burned by cigarette ash."
+
+"Old Ma had leftist thoughts. Did he ever talk to you about communism?" I asked.
+"I don't recall that. I was only thirteen then; why would he talk to me about communism? I remember sometimes when Old Ma disagreed with Father's opinions, he would just slowly shake his head and puff heavily on his cigarette."
+
+After that period of intensive tutoring, my brother's math finally caught up with the curriculum, and the threat of being held back a grade was temporarily averted.
 
 Uncle Ma's Family Found Me
 
