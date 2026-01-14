@@ -27,4 +27,17 @@ That year on September 30th, Professor Wang made a speech in No. 2 Middle School
 
 Professor Shoukang Wang passed away on April 12th, 1975. His lifelong pursuit is the great cause of "Language Unification".
 
+Summary of Professor Shoukang Wang's Career
 
+- Sept. 1921 - July 1925: Graduated from Chinese Department, National Peking Normal University
+- Oct. 1925 - Nov. 1926: Graduate student at National Peking Normal University
+- Oct. 1927 - Feb. 1928: Secretary, Workers' Department, Central Party Headquarters
+- Sept. 1928 - April 1929: Discipline Director, Hebei Provincial No. 6 Middle School
+- Aug. 1929 - July 1930: Chinese Lecturer, Law School, National Peking University
+- May - Aug. 1935: General Affairs Section Chief, Peking Public Works Bureau
+- Jan. 1936 - May 1938: Education Director, General Affairs Department, Tianjin-Pukou Railway Bureau
+- May 1940 - Oct. 1945: Colonel Instructor, Training Corps, Third War Zone
+- May 1946 - May 1947: Relief Section Chief, Social Affairs Department, Hebei Provincial Government
+- Aug. 1947 - July 1948: Associate Professor, National Peking Normal University
+- Aug. 1948 - July 1949: Standing Member, Taiwan Mandarin Promotion Committee
+- Aug. 1949 - April 1975: Professor, Taiwan Provincial Normal College; Director/Lecturer, Revolutionary Practice Institute Branch
