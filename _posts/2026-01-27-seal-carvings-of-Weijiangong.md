@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Seal Carving Art of Wei Jiangong (Aliases: Qianren, Tianxing, and Shangui)"
-date: 2026-01-26 00:00:00 -0000
+date: 2026-01-27 00:00:00 -0000
 categories: art
 lang: English
 ref: seal-carvings-wei-jiangong
@@ -9,7 +9,7 @@ author: Yun Wang
 ---
 
 <div style="text-align: center; margin-bottom: 30px;">
-    <img src="/assets/imgs/2026-01-26-seal-carvings/seal-31.jpg" alt="Wei Jiangong Carving a Seal (1928)" style="max-width: 100%; height: auto; border: 1px solid #ddd; padding: 5px;">
+    <img src="/assets/imgs/2026-01-27-seal-carvings/seal-header.jpg" alt="Wei Jiangong Carving a Seal (1928)" style="max-width: 100%; height: auto; border: 1px solid #ddd; padding: 5px;">
     <p><em>Wei Jiangong Carving a Seal (1928)</em></p>
 </div>
 
@@ -23,19 +23,19 @@ Qian Xuantong and Wei Jiangong shared a mentor-student bond that was both intell
 
 <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin: 20px 0;">
     <div style="text-align: center;">
-        <img src="/assets/imgs/2026-01-26-seal-carvings/seal-01.jpg" alt="Figure 1" style="max-height: 200px; border: 1px solid #eee;">
+        <img src="/assets/imgs/2026-01-27-seal-carvings/seal-01.jpg" alt="Figure 1" style="max-height: 200px; border: 1px solid #eee;">
         <p>Figure 1</p>
     </div>
     <div style="text-align: center;">
-        <img src="/assets/imgs/2026-01-26-seal-carvings/seal-02.jpg" alt="Figure 2" style="max-height: 200px; border: 1px solid #eee;">
+        <img src="/assets/imgs/2026-01-27-seal-carvings/seal-02.jpg" alt="Figure 2" style="max-height: 200px; border: 1px solid #eee;">
         <p>Figure 2</p>
     </div>
     <div style="text-align: center;">
-        <img src="/assets/imgs/2026-01-26-seal-carvings/seal-03.jpg" alt="Figure 3" style="max-height: 200px; border: 1px solid #eee;">
+        <img src="/assets/imgs/2026-01-27-seal-carvings/seal-03.jpg" alt="Figure 3" style="max-height: 200px; border: 1px solid #eee;">
         <p>Figure 3</p>
     </div>
     <div style="text-align: center;">
-        <img src="/assets/imgs/2026-01-26-seal-carvings/seal-04.jpg" alt="Figure 4" style="max-height: 200px; border: 1px solid #eee;">
+        <img src="/assets/imgs/2026-01-27-seal-carvings/seal-04.jpg" alt="Figure 4" style="max-height: 200px; border: 1px solid #eee;">
         <p>Figure 4</p>
     </div>
 </div>
@@ -46,11 +46,11 @@ At the time, as a standing committee member of the Preparatory Committee for the
 
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
     <div style="text-align: center;">
-        <img src="/assets/imgs/2026-01-26-seal-carvings/seal-05.jpg" alt="Figure 5" style="max-height: 200px; border: 1px solid #eee;">
+        <img src="/assets/imgs/2026-01-27-seal-carvings/seal-05.jpg" alt="Figure 5" style="max-height: 200px; border: 1px solid #eee;">
         <p>Figure 5, Bai Dizhou</p>
     </div>
     <div style="text-align: center;">
-        <img src="/assets/imgs/2026-01-26-seal-carvings/seal-06.jpg" alt="Figure 6" style="max-height: 200px; border: 1px solid #eee;">
+        <img src="/assets/imgs/2026-01-27-seal-carvings/seal-06.jpg" alt="Figure 6" style="max-height: 200px; border: 1px solid #eee;">
         <p>Figure 6, Luo Kunyi</p>
     </div>
 </div>
@@ -59,39 +59,39 @@ Wei's innovation was unprecedented, and his exquisite skill earned him immense r
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 10px; margin: 20px 0;">
     <div style="text-align: center;">
-        <img src="/assets/imgs/2026-01-26-seal-carvings/seal-07.jpg" alt="Fig 7" style="max-width: 100%; border: 1px solid #eee;">
+        <img src="/assets/imgs/2026-01-27-seal-carvings/seal-07.jpg" alt="Fig 7" style="max-width: 100%; border: 1px solid #eee;">
         <p style="font-size: 0.9em;">Fig 7, Yigu Xuantong</p>
     </div>
     <div style="text-align: center;">
-        <img src="/assets/imgs/2026-01-26-seal-carvings/seal-08.jpg" alt="Fig 8" style="max-width: 100%; border: 1px solid #eee;">
+        <img src="/assets/imgs/2026-01-27-seal-carvings/seal-08.jpg" alt="Fig 8" style="max-width: 100%; border: 1px solid #eee;">
         <p style="font-size: 0.9em;">Fig 8, Yigu Xuantong</p>
     </div>
     <div style="text-align: center;">
-        <img src="/assets/imgs/2026-01-26-seal-carvings/seal-09.jpg" alt="Fig 9" style="max-width: 100%; border: 1px solid #eee;">
+        <img src="/assets/imgs/2026-01-27-seal-carvings/seal-09.jpg" alt="Fig 9" style="max-width: 100%; border: 1px solid #eee;">
         <p style="font-size: 0.9em;">Fig 9, Li Jinxi</p>
     </div>
     <div style="text-align: center;">
-        <img src="/assets/imgs/2026-01-26-seal-carvings/seal-10.jpg" alt="Fig 10" style="max-width: 100%; border: 1px solid #eee;">
+        <img src="/assets/imgs/2026-01-27-seal-carvings/seal-10.jpg" alt="Fig 10" style="max-width: 100%; border: 1px solid #eee;">
         <p style="font-size: 0.9em;">Fig 10, Wang Yi'an</p>
     </div>
     <div style="text-align: center;">
-        <img src="/assets/imgs/2026-01-26-seal-carvings/seal-11.jpg" alt="Fig 11" style="max-width: 100%; border: 1px solid #eee;">
+        <img src="/assets/imgs/2026-01-27-seal-carvings/seal-11.jpg" alt="Fig 11" style="max-width: 100%; border: 1px solid #eee;">
         <p style="font-size: 0.9em;">Fig 11, Wei Jiangong</p>
     </div>
     <div style="text-align: center;">
-        <img src="/assets/imgs/2026-01-26-seal-carvings/seal-12.jpg" alt="Fig 12" style="max-width: 100%; border: 1px solid #eee;">
+        <img src="/assets/imgs/2026-01-27-seal-carvings/seal-12.jpg" alt="Fig 12" style="max-width: 100%; border: 1px solid #eee;">
         <p style="font-size: 0.9em;">Fig 12, Wang Shuda</p>
     </div>
     <div style="text-align: center;">
-        <img src="/assets/imgs/2026-01-26-seal-carvings/seal-13.jpg" alt="Fig 13" style="max-width: 100%; border: 1px solid #eee;">
+        <img src="/assets/imgs/2026-01-27-seal-carvings/seal-13.jpg" alt="Fig 13" style="max-width: 100%; border: 1px solid #eee;">
         <p style="font-size: 0.9em;">Fig 13, Xiao Dichen</p>
     </div>
     <div style="text-align: center;">
-        <img src="/assets/imgs/2026-01-26-seal-carvings/seal-14.jpg" alt="Fig 14" style="max-width: 100%; border: 1px solid #eee;">
+        <img src="/assets/imgs/2026-01-27-seal-carvings/seal-14.jpg" alt="Fig 14" style="max-width: 100%; border: 1px solid #eee;">
         <p style="font-size: 0.9em;">Fig 14, Kong Fanjun</p>
     </div>
     <div style="text-align: center;">
-        <img src="/assets/imgs/2026-01-26-seal-carvings/seal-15.jpg" alt="Fig 15" style="max-width: 100%; border: 1px solid #eee;">
+        <img src="/assets/imgs/2026-01-27-seal-carvings/seal-15.jpg" alt="Fig 15" style="max-width: 100%; border: 1px solid #eee;">
         <p style="font-size: 0.9em;">Fig 15, Qi Tiehen</p>
     </div>
 </div>
@@ -100,15 +100,15 @@ In his design and layout, Wei Jiangong was a traditionalist who wasn't bound by 
 
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
     <div style="text-align: center;">
-        <img src="/assets/imgs/2026-01-26-seal-carvings/seal-16.jpg" alt="Fig 16" style="max-height: 200px; border: 1px solid #eee;">
+        <img src="/assets/imgs/2026-01-27-seal-carvings/seal-16.jpg" alt="Fig 16" style="max-height: 200px; border: 1px solid #eee;">
         <p>Fig 16, Zhou Zuoren</p>
     </div>
     <div style="text-align: center;">
-        <img src="/assets/imgs/2026-01-26-seal-carvings/seal-17.jpg" alt="Fig 17" style="max-height: 200px; border: 1px solid #eee;">
+        <img src="/assets/imgs/2026-01-27-seal-carvings/seal-17.jpg" alt="Fig 17" style="max-height: 200px; border: 1px solid #eee;">
         <p>Fig 17, Liu Fu</p>
     </div>
     <div style="text-align: center;">
-        <img src="/assets/imgs/2026-01-26-seal-carvings/seal-18.jpg" alt="Fig 18" style="max-height: 200px; border: 1px solid #eee;">
+        <img src="/assets/imgs/2026-01-27-seal-carvings/seal-18.jpg" alt="Fig 18" style="max-height: 200px; border: 1px solid #eee;">
         <p>Fig 18, Cai Yuanpei</p>
     </div>
 </div>
@@ -117,15 +117,15 @@ Wei Jiangong was not a professional seal carver; his work carried the scholarly 
 
 In early 1938, Wei moved to Kunming with Peking University and taught at the Southwestern Associated University (Lianda) in Mengzi. The campus was alive with literary activities—night schools, poetry societies, and wall newspapers. In this atmosphere, Wei began carving inscriptions into walking sticks. He carved a stick for Chen Yinque with the inscription: "The staff of Master Chen, to correct the wayward." [Note 2] Chen, who was blind in his later years, was never without this stick and even wrote poetry about it. He also carved sticks for Zheng Yisheng, one inscribed "Commanding with Certainty" and another "Use it when needed, hide it when not."
 
-The rattan used was white rattan from Vietnam, about an inch in diameter. Inspired by Zheng, Wei began cutting sections of rattan to carve seals, reviving his old passion. He was proud of this innovation, saying, "There are thousands of materials for seals in this world; as long as one captures the soul of the art, why must it be cinnabar or Tianhuang stone?" From then on, he frequently carved rattan seals for friends, producing nearly eighty in a year, later collected in his album *Why Need Gold and Jade*. Among them were two seals for his teacher Qian Xuantong, inscribed "Qian Xia" and "May Xuantong Live Long" (Figures 19, 20), with a heartfelt dedication expressing his pupil's devotion. This was also recorded in Qian's diary on September 28, 1938.
+The rattan used was white rattan from Vietnam, about an inch in diameter. Inspired by Zheng, Wei began cutting sections of rattan to carve seals, reviving his old passion. He was proud of this innovation, saying, "There are thousands of materials for seals in this world; as long as one captures the soul of the art, why must it be cinnabar or Tianhuang stone?" From then on, he frequently carved rattan seals for friends, producing nearly eighty in a year, later collected in his album *Why Need Gold and Jade*. Among them were two seals for his teacher Qian Xuantong, inscribed "Qian Xia" and "May Xuantong Live Long" (Figures 19, 20), with a heartfelt dedication expressing his pupil's devotion. When he left Beijing, he had not yet finished the L-shaped seal Qian Xuantong had requested; this was his way of settling that old debt. This was also recorded in Qian's diary on September 28, 1938.
 
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
     <div style="text-align: center;">
-        <img src="/assets/imgs/2026-01-26-seal-carvings/seal-19.jpg" alt="Fig 19" style="max-height: 200px; border: 1px solid #eee;">
+        <img src="/assets/imgs/2026-01-27-seal-carvings/seal-19.jpg" alt="Fig 19" style="max-height: 200px; border: 1px solid #eee;">
         <p>Fig 19, Qian Xia</p>
     </div>
     <div style="text-align: center;">
-        <img src="/assets/imgs/2026-01-26-seal-carvings/seal-20.jpg" alt="Fig 20" style="max-height: 200px; border: 1px solid #eee;">
+        <img src="/assets/imgs/2026-01-27-seal-carvings/seal-20.jpg" alt="Fig 20" style="max-height: 200px; border: 1px solid #eee;">
         <p>Fig 20, Long Life to Xuantong</p>
     </div>
 </div>
@@ -138,31 +138,31 @@ An expert in phonology, Wei began teaching the *History of the Evolution of Chin
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 10px; margin: 20px 0;">
     <div style="text-align: center;">
-        <img src="/assets/imgs/2026-01-26-seal-carvings/seal-21.jpg" alt="Fig 21" style="max-width: 100%; border: 1px solid #eee;">
+        <img src="/assets/imgs/2026-01-27-seal-carvings/seal-21.jpg" alt="Fig 21" style="max-width: 100%; border: 1px solid #eee;">
         <p style="font-size: 0.9em;">Fig 21, Sun Xu</p>
     </div>
     <div style="text-align: center;">
-        <img src="/assets/imgs/2026-01-26-seal-carvings/seal-22.jpg" alt="Fig 22" style="max-width: 100%; border: 1px solid #eee;">
+        <img src="/assets/imgs/2026-01-27-seal-carvings/seal-22.jpg" alt="Fig 22" style="max-width: 100%; border: 1px solid #eee;">
         <p style="font-size: 0.9em;">Fig 22, Xia Jingnong</p>
     </div>
     <div style="text-align: center;">
-        <img src="/assets/imgs/2026-01-26-seal-carvings/seal-23.jpg" alt="Fig 23" style="max-width: 100%; border: 1px solid #eee;">
+        <img src="/assets/imgs/2026-01-27-seal-carvings/seal-23.jpg" alt="Fig 23" style="max-width: 100%; border: 1px solid #eee;">
         <p style="font-size: 0.9em;">Fig 23, Wu Bifei</p>
     </div>
     <div style="text-align: center;">
-        <img src="/assets/imgs/2026-01-26-seal-carvings/seal-24.jpg" alt="Fig 24" style="max-width: 100%; border: 1px solid #eee;">
+        <img src="/assets/imgs/2026-01-27-seal-carvings/seal-24.jpg" alt="Fig 24" style="max-width: 100%; border: 1px solid #eee;">
         <p style="font-size: 0.9em;">Fig 24, Cai Jingping</p>
     </div>
     <div style="text-align: center;">
-        <img src="/assets/imgs/2026-01-26-seal-carvings/seal-25.jpg" alt="Fig 25" style="max-width: 100%; border: 1px solid #eee;">
+        <img src="/assets/imgs/2026-01-27-seal-carvings/seal-25.jpg" alt="Fig 25" style="max-width: 100%; border: 1px solid #eee;">
         <p style="font-size: 0.9em;">Fig 25, Bing Xin</p>
     </div>
     <div style="text-align: center;">
-        <img src="/assets/imgs/2026-01-26-seal-carvings/seal-26.jpg" alt="Fig 26" style="max-width: 100%; border: 1px solid #eee;">
+        <img src="/assets/imgs/2026-01-27-seal-carvings/seal-26.jpg" alt="Fig 26" style="max-width: 100%; border: 1px solid #eee;">
         <p style="font-size: 0.9em;">Fig 26, Zhou Qiming</p>
     </div>
     <div style="text-align: center;">
-        <img src="/assets/imgs/2026-01-26-seal-carvings/seal-27.jpg" alt="Fig 27" style="max-width: 100%; border: 1px solid #eee;">
+        <img src="/assets/imgs/2026-01-27-seal-carvings/seal-27.jpg" alt="Fig 27" style="max-width: 100%; border: 1px solid #eee;">
         <p style="font-size: 0.9em;">Fig 27, Kawashima</p>
     </div>
 </div>
@@ -171,19 +171,19 @@ Wei Jiangong also carved seals for his family, infusing each with deep understan
 
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
     <div style="text-align: center;">
-        <img src="/assets/imgs/2026-01-26-seal-carvings/seal-28.jpg" alt="Fig 28" style="max-height: 180px; border: 1px solid #eee;">
+        <img src="/assets/imgs/2026-01-27-seal-carvings/seal-28.jpg" alt="Fig 28" style="max-height: 180px; border: 1px solid #eee;">
         <p>Fig 28, Wang Bishu</p>
     </div>
     <div style="text-align: center;">
-        <img src="/assets/imgs/2026-01-26-seal-carvings/seal-29.jpg" alt="Fig 29" style="max-height: 180px; border: 1px solid #eee;">
+        <img src="/assets/imgs/2026-01-27-seal-carvings/seal-29.jpg" alt="Fig 29" style="max-height: 180px; border: 1px solid #eee;">
         <p>Fig 29, Wei Nai</p>
     </div>
     <div style="text-align: center;">
-        <img src="/assets/imgs/2026-01-26-seal-carvings/seal-30.jpg" alt="Fig 30" style="max-height: 180px; border: 1px solid #eee;">
+        <img src="/assets/imgs/2026-01-27-seal-carvings/seal-30.jpg" alt="Fig 30" style="max-height: 180px; border: 1px solid #eee;">
         <p>Fig 30, Wei Zhi</p>
     </div>
     <div style="text-align: center;">
-        <img src="/assets/imgs/2026-01-26-seal-carvings/seal-31.jpg" alt="Fig 31" style="max-height: 180px; border: 1px solid #eee;">
+        <img src="/assets/imgs/2026-01-27-seal-carvings/seal-31.jpg" alt="Fig 31" style="max-height: 180px; border: 1px solid #eee;">
         <p>Fig 31, Shangui</p>
     </div>
 </div>

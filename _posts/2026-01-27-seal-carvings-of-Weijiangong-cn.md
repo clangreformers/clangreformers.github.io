@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "钤人天行山鬼之篆刻"
-date: 2026-01-26 00:00:00 -0000
+date: 2026-01-27 00:00:00 -0000
 categories: art
 lang: 简体中文
 ref: seal-carvings-wei-jiangong
@@ -9,7 +9,7 @@ author: 王昀
 ---
 
 <div style="text-align: center; margin-bottom: 30px;">
-    <img src="/assets/imgs/2026-01-26-seal-carvings/seal-31.jpg" alt="天行山鬼制印图（1928年）" style="max-width: 100%; height: auto; border: 1px solid #ddd; padding: 5px;">
+    <img src="/assets/imgs/2026-01-27-seal-carvings/seal-header.jpg" alt="天行山鬼制印图（1928年）" style="max-width: 100%; height: auto; border: 1px solid #ddd; padding: 5px;">
     <p><em>天行山鬼制印图（1928年）</em></p>
 </div>
 
@@ -23,19 +23,19 @@ author: 王昀
 
 <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin: 20px 0;">
     <div style="text-align: center;">
-        <img src="/assets/imgs/2026-01-26-seal-carvings/seal-01.jpg" alt="图1" style="max-height: 200px; border: 1px solid #eee;">
+        <img src="/assets/imgs/2026-01-27-seal-carvings/seal-01.jpg" alt="图1" style="max-height: 200px; border: 1px solid #eee;">
         <p>图1</p>
     </div>
     <div style="text-align: center;">
-        <img src="/assets/imgs/2026-01-26-seal-carvings/seal-02.jpg" alt="图2" style="max-height: 200px; border: 1px solid #eee;">
+        <img src="/assets/imgs/2026-01-27-seal-carvings/seal-02.jpg" alt="图2" style="max-height: 200px; border: 1px solid #eee;">
         <p>图2</p>
     </div>
     <div style="text-align: center;">
-        <img src="/assets/imgs/2026-01-26-seal-carvings/seal-03.jpg" alt="图3" style="max-height: 200px; border: 1px solid #eee;">
+        <img src="/assets/imgs/2026-01-27-seal-carvings/seal-03.jpg" alt="图3" style="max-height: 200px; border: 1px solid #eee;">
         <p>图3</p>
     </div>
     <div style="text-align: center;">
-        <img src="/assets/imgs/2026-01-26-seal-carvings/seal-04.jpg" alt="图4" style="max-height: 200px; border: 1px solid #eee;">
+        <img src="/assets/imgs/2026-01-27-seal-carvings/seal-04.jpg" alt="图4" style="max-height: 200px; border: 1px solid #eee;">
         <p>图4</p>
     </div>
 </div>
@@ -46,11 +46,11 @@ author: 王昀
 
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
     <div style="text-align: center;">
-        <img src="/assets/imgs/2026-01-26-seal-carvings/seal-05.jpg" alt="图5" style="max-height: 200px; border: 1px solid #eee;">
+        <img src="/assets/imgs/2026-01-27-seal-carvings/seal-05.jpg" alt="图5" style="max-height: 200px; border: 1px solid #eee;">
         <p>图5，白涤洲</p>
     </div>
     <div style="text-align: center;">
-        <img src="/assets/imgs/2026-01-26-seal-carvings/seal-06.jpg" alt="图6" style="max-height: 200px; border: 1px solid #eee;">
+        <img src="/assets/imgs/2026-01-27-seal-carvings/seal-06.jpg" alt="图6" style="max-height: 200px; border: 1px solid #eee;">
         <p>图6，罗坤仪</p>
     </div>
 </div>
@@ -59,39 +59,39 @@ author: 王昀
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 10px; margin: 20px 0;">
     <div style="text-align: center;">
-        <img src="/assets/imgs/2026-01-26-seal-carvings/seal-07.jpg" alt="图7" style="max-width: 100%; border: 1px solid #eee;">
+        <img src="/assets/imgs/2026-01-27-seal-carvings/seal-07.jpg" alt="图7" style="max-width: 100%; border: 1px solid #eee;">
         <p style="font-size: 0.9em;">图7，疑古玄同</p>
     </div>
     <div style="text-align: center;">
-        <img src="/assets/imgs/2026-01-26-seal-carvings/seal-08.jpg" alt="图8" style="max-width: 100%; border: 1px solid #eee;">
+        <img src="/assets/imgs/2026-01-27-seal-carvings/seal-08.jpg" alt="图8" style="max-width: 100%; border: 1px solid #eee;">
         <p style="font-size: 0.9em;">图8，疑古玄同</p>
     </div>
     <div style="text-align: center;">
-        <img src="/assets/imgs/2026-01-26-seal-carvings/seal-09.jpg" alt="图9" style="max-width: 100%; border: 1px solid #eee;">
+        <img src="/assets/imgs/2026-01-27-seal-carvings/seal-09.jpg" alt="图9" style="max-width: 100%; border: 1px solid #eee;">
         <p style="font-size: 0.9em;">图9，黎锦熙</p>
     </div>
     <div style="text-align: center;">
-        <img src="/assets/imgs/2026-01-26-seal-carvings/seal-10.jpg" alt="图10" style="max-width: 100%; border: 1px solid #eee;">
+        <img src="/assets/imgs/2026-01-27-seal-carvings/seal-10.jpg" alt="图10" style="max-width: 100%; border: 1px solid #eee;">
         <p style="font-size: 0.9em;">图10，汪怡庵</p>
     </div>
     <div style="text-align: center;">
-        <img src="/assets/imgs/2026-01-26-seal-carvings/seal-11.jpg" alt="图11" style="max-width: 100%; border: 1px solid #eee;">
+        <img src="/assets/imgs/2026-01-27-seal-carvings/seal-11.jpg" alt="图11" style="max-width: 100%; border: 1px solid #eee;">
         <p style="font-size: 0.9em;">图11，魏建功</p>
     </div>
     <div style="text-align: center;">
-        <img src="/assets/imgs/2026-01-26-seal-carvings/seal-12.jpg" alt="图12" style="max-width: 100%; border: 1px solid #eee;">
+        <img src="/assets/imgs/2026-01-27-seal-carvings/seal-12.jpg" alt="图12" style="max-width: 100%; border: 1px solid #eee;">
         <p style="font-size: 0.9em;">图12，王述达</p>
     </div>
     <div style="text-align: center;">
-        <img src="/assets/imgs/2026-01-26-seal-carvings/seal-13.jpg" alt="图13" style="max-width: 100%; border: 1px solid #eee;">
+        <img src="/assets/imgs/2026-01-27-seal-carvings/seal-13.jpg" alt="图13" style="max-width: 100%; border: 1px solid #eee;">
         <p style="font-size: 0.9em;">图13，萧迪忱</p>
     </div>
     <div style="text-align: center;">
-        <img src="/assets/imgs/2026-01-26-seal-carvings/seal-14.jpg" alt="图14" style="max-width: 100%; border: 1px solid #eee;">
+        <img src="/assets/imgs/2026-01-27-seal-carvings/seal-14.jpg" alt="图14" style="max-width: 100%; border: 1px solid #eee;">
         <p style="font-size: 0.9em;">图14，孔凡均</p>
     </div>
     <div style="text-align: center;">
-        <img src="/assets/imgs/2026-01-26-seal-carvings/seal-15.jpg" alt="图15" style="max-width: 100%; border: 1px solid #eee;">
+        <img src="/assets/imgs/2026-01-27-seal-carvings/seal-15.jpg" alt="图15" style="max-width: 100%; border: 1px solid #eee;">
         <p style="font-size: 0.9em;">图15，齐铁恨</p>
     </div>
 </div>
@@ -100,15 +100,15 @@ author: 王昀
 
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
     <div style="text-align: center;">
-        <img src="/assets/imgs/2026-01-26-seal-carvings/seal-16.jpg" alt="图16" style="max-height: 200px; border: 1px solid #eee;">
+        <img src="/assets/imgs/2026-01-27-seal-carvings/seal-16.jpg" alt="图16" style="max-height: 200px; border: 1px solid #eee;">
         <p>图16，周作人</p>
     </div>
     <div style="text-align: center;">
-        <img src="/assets/imgs/2026-01-26-seal-carvings/seal-17.jpg" alt="图17" style="max-height: 200px; border: 1px solid #eee;">
+        <img src="/assets/imgs/2026-01-27-seal-carvings/seal-17.jpg" alt="图17" style="max-height: 200px; border: 1px solid #eee;">
         <p>图17，刘复</p>
     </div>
     <div style="text-align: center;">
-        <img src="/assets/imgs/2026-01-26-seal-carvings/seal-18.jpg" alt="图18" style="max-height: 200px; border: 1px solid #eee;">
+        <img src="/assets/imgs/2026-01-27-seal-carvings/seal-18.jpg" alt="图18" style="max-height: 200px; border: 1px solid #eee;">
         <p>图18，蔡元培</p>
     </div>
 </div>
@@ -117,15 +117,15 @@ author: 王昀
 
 1938年初，魏建功随北大辗转昆明，至西南联大蒙自分校（文法学院）执教。分校师生开夜校、组诗社、办壁报、搞座谈，笳吹弦诵，一时间边城文事极兴。在这种气氛中，魏建功开始尝试为人刻杖镌筷。他为陈寅恪先生刻杖铭曰：“陈君之策，以正衺夨注2。”陈老晚年失明，此杖须臾不离，并有诗记录。魏建功为郑毅生刻杖二枝，一曰：“指挥若定”，一曰：“用之则行，舍则藏。”当时郑毅生正向校长蒋梦麟坚辞北大秘书长行政职务，罗莘田心直口快，见杖铭戏以“危而不持，颠而不扶”八字相讥。此事成为抗战期间文坛一佳话。
 
-那时所镌刻之杖为越南白藤杖，径可盈寸。经郑毅生启发，魏建功试以藤杖截段制印，居然获重操旧业。他为此创举甚为自豪，自谓“天地间堪充印材者何啻百千，但得印中三昧以陶冶性情，又何必鸡血田黄”。此后，他频频治藤印贻诸亲友，一年间竟得藤印近八十方，后收于自订《何必金玉印谱》之中。其中，为其恩师钱玄同先生治“钱夏”、“玄同长寿”二印（图19、20），题词祝曰：“藤性韧直，制尔表德。先生长寿，祝福无极。”孺慕之情，溢于言表。此事在1938年9月28日《钱玄同日记》中也有记载：“下午碧书来，送来天行赠藤章二之印张，云阳历八月廿七日所刻（我未归，未见她）。”
+那时所镌刻之杖为越南白藤杖，径可盈寸。经郑毅生启发，魏建功试以藤杖截段制印，居然获重操旧业。他为此创举甚为自豪，自谓“天地间堪充印材者何啻百千，但得印中三昧以陶冶性情，又何必鸡血田黄”。此后，他频频治藤印贻诸亲友，一年间竟得藤印近八十方，后收于自订《何必金玉印谱》之中。其中，为其恩师钱玄同先生治“钱夏”、“玄同长寿”二印（图19、20），题词祝曰：“藤性韧直，制尔表德。先生长寿，祝福无极。”孺慕之情，溢于言表。当年他离京未及完成钱玄同所托L形印章，也算还债吧。此事在1938年9月28日《钱玄同日记》中也有记载：“下午碧书来，送来天行赠藤章二之印张，云阳历八月廿七日所刻（我未归，未见她）。”
 
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
     <div style="text-align: center;">
-        <img src="/assets/imgs/2026-01-26-seal-carvings/seal-19.jpg" alt="图19" style="max-height: 200px; border: 1px solid #eee;">
+        <img src="/assets/imgs/2026-01-27-seal-carvings/seal-19.jpg" alt="图19" style="max-height: 200px; border: 1px solid #eee;">
         <p>图19，钱夏</p>
     </div>
     <div style="text-align: center;">
-        <img src="/assets/imgs/2026-01-26-seal-carvings/seal-20.jpg" alt="图20" style="max-height: 200px; border: 1px solid #eee;">
+        <img src="/assets/imgs/2026-01-27-seal-carvings/seal-20.jpg" alt="图20" style="max-height: 200px; border: 1px solid #eee;">
         <p>图20，玄同长寿</p>
     </div>
 </div>
@@ -135,35 +135,35 @@ author: 王昀
 沈兼士以昔日遐思之作相赠：“念远伤离候，㷀㷀绝塞身，腥臊何日去，道义一生亲，蕉瘁行吟客，遐荒振铎人，屋梁瞻落月，消息未应真。”沈兼士也是魏建功的老师，抗战期间滞留北平。当时谣传魏建功居滇遭犬噬，又传遭敌机轰炸伤足，沈兼士极为关心，曾以此诗存问。
 张伯驹先生为题七绝二首，一曰：“不须砍作邛州杖，直为摹成汉殿砖；钤入丹青图画里，苍茫犹带五溪烟. ”二曰：“那堪挥泪看山河，腥雨中条战血多；却负流入风义事，阋注3墙今又起干戈。”故人久别重逢，回首前尘，感慨无限，内战又起，更戚戚然。
 
-魏建功精于音韵学，1938年在西南联大曾首开《汉字形体变迁史》一课，对汉字变迁有深入研究。他以其治文字学之兴趣治印，钟鼎甲骨、行草隶篆，随手拈来，涉笔成趣。如孙序名章（图21），“孙”字如顽童捕鱼；夏敬农名单（图22），“夏”字似士兵敬礼；吴蔽芾名章（图23）三字上部压缩，下部拉长，表甘棠注4蔽芾根深叶茂之状；蔡竞平名章（图24），“竞”字以笑脸下两小人携手共达终点，表“竞争持平”之意，用心之细腻，令人拍案叫绝。冰心曾与吴晓铃谈及天行制印：“魏先生是文字学大师，他的制印不拘一体，富于书卷气。我那年从你手里‘义买’了一方藤印（图25），现在有人找我写点什么，我总是钤这方印，我喜欢它，也是怀念他。”这枚冰心的印章以“心”字开出一朵花，也难怪赢得女主的芳心。再来看看周启明（周作人）的这枚印章（图26），以象形文字构思成画，意境恬淡深幽；而川岛（章矛尘）的印章（图27）完全是读图时代的作品了，真令人惊叹！
+魏建功精于音韵学，1938年在西南联大曾首开《汉字形体变迁史》一课，对汉字变迁有深入研究。他以其治文字学之兴趣治印，钟鼎甲骨、行草隶篆，随手拈来，涉笔成趣。如孙序名章（图21），“孙”字如顽童捕鱼；夏敬农名章（图22），“夏”字似士兵敬礼；吴蔽芾名章（图23）三字上部压缩，下部拉长，表甘棠注4蔽芾根深叶茂之状；蔡竞平名章（图24），“竞”字以笑脸下两小人携手共达终点，表“竞争持平”之意，用心之细腻，令人拍案叫绝。冰心曾与吴晓铃谈及天行制印：“魏先生是文字学大师，他的制印不拘一体，富于书卷气。我那年从你手里‘义买’了一方藤印（图25），现在有人找我写点什么，我总是钤这方印，我喜欢它，也是怀念他。”这枚冰心的印章以“心”字开出一朵花，也难怪赢得女主的芳心。再来看看周启明（周作人）的这枚印章（图26），以象形文字构思成画，意境恬淡深幽；而川岛（章矛尘）的印章（图27）完全是读图时代的作品了，真令人惊叹！
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 10px; margin: 20px 0;">
     <div style="text-align: center;">
-        <img src="/assets/imgs/2026-01-26-seal-carvings/seal-21.jpg" alt="图21" style="max-width: 100%; border: 1px solid #eee;">
+        <img src="/assets/imgs/2026-01-27-seal-carvings/seal-21.jpg" alt="图21" style="max-width: 100%; border: 1px solid #eee;">
         <p style="font-size: 0.9em;">图21，孙序彝秉</p>
     </div>
     <div style="text-align: center;">
-        <img src="/assets/imgs/2026-01-26-seal-carvings/seal-22.jpg" alt="图22" style="max-width: 100%; border: 1px solid #eee;">
+        <img src="/assets/imgs/2026-01-27-seal-carvings/seal-22.jpg" alt="图22" style="max-width: 100%; border: 1px solid #eee;">
         <p style="font-size: 0.9em;">图22，夏敬农（双印）</p>
     </div>
     <div style="text-align: center;">
-        <img src="/assets/imgs/2026-01-26-seal-carvings/seal-23.jpg" alt="图23" style="max-width: 100%; border: 1px solid #eee;">
+        <img src="/assets/imgs/2026-01-27-seal-carvings/seal-23.jpg" alt="图23" style="max-width: 100%; border: 1px solid #eee;">
         <p style="font-size: 0.9em;">图23，吴蔽芾</p>
     </div>
     <div style="text-align: center;">
-        <img src="/assets/imgs/2026-01-26-seal-carvings/seal-24.jpg" alt="图24" style="max-width: 100%; border: 1px solid #eee;">
+        <img src="/assets/imgs/2026-01-27-seal-carvings/seal-24.jpg" alt="图24" style="max-width: 100%; border: 1px solid #eee;">
         <p style="font-size: 0.9em;">图24，蔡竞平</p>
     </div>
     <div style="text-align: center;">
-        <img src="/assets/imgs/2026-01-26-seal-carvings/seal-25.jpg" alt="图25" style="max-width: 100%; border: 1px solid #eee;">
+        <img src="/assets/imgs/2026-01-27-seal-carvings/seal-25.jpg" alt="图25" style="max-width: 100%; border: 1px solid #eee;">
         <p style="font-size: 0.9em;">图25，冰心</p>
     </div>
     <div style="text-align: center;">
-        <img src="/assets/imgs/2026-01-26-seal-carvings/seal-26.jpg" alt="图26" style="max-width: 100%; border: 1px solid #eee;">
+        <img src="/assets/imgs/2026-01-27-seal-carvings/seal-26.jpg" alt="图26" style="max-width: 100%; border: 1px solid #eee;">
         <p style="font-size: 0.9em;">图26，周启明</p>
     </div>
     <div style="text-align: center;">
-        <img src="/assets/imgs/2026-01-26-seal-carvings/seal-27.jpg" alt="图27" style="max-width: 100%; border: 1px solid #eee;">
+        <img src="/assets/imgs/2026-01-27-seal-carvings/seal-27.jpg" alt="图27" style="max-width: 100%; border: 1px solid #eee;">
         <p style="font-size: 0.9em;">图27，川岛</p>
     </div>
 </div>
@@ -172,19 +172,19 @@ author: 王昀
 
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
     <div style="text-align: center;">
-        <img src="/assets/imgs/2026-01-26-seal-carvings/seal-28.jpg" alt="图28" style="max-height: 180px; border: 1px solid #eee;">
+        <img src="/assets/imgs/2026-01-27-seal-carvings/seal-28.jpg" alt="图28" style="max-height: 180px; border: 1px solid #eee;">
         <p>图28，王碧书</p>
     </div>
     <div style="text-align: center;">
-        <img src="/assets/imgs/2026-01-26-seal-carvings/seal-29.jpg" alt="图29" style="max-height: 180px; border: 1px solid #eee;">
+        <img src="/assets/imgs/2026-01-27-seal-carvings/seal-29.jpg" alt="图29" style="max-height: 180px; border: 1px solid #eee;">
         <p>图29，魏乃</p>
     </div>
     <div style="text-align: center;">
-        <img src="/assets/imgs/2026-01-26-seal-carvings/seal-30.jpg" alt="图30" style="max-height: 180px; border: 1px solid #eee;">
+        <img src="/assets/imgs/2026-01-27-seal-carvings/seal-30.jpg" alt="图30" style="max-height: 180px; border: 1px solid #eee;">
         <p>图30，魏至</p>
     </div>
     <div style="text-align: center;">
-        <img src="/assets/imgs/2026-01-26-seal-carvings/seal-31.jpg" alt="图31" style="max-height: 180px; border: 1px solid #eee;">
+        <img src="/assets/imgs/2026-01-27-seal-carvings/seal-31.jpg" alt="图31" style="max-height: 180px; border: 1px solid #eee;">
         <p>图31，山鬼</p>
     </div>
 </div>
