@@ -28,6 +28,7 @@ banvar: banner.md
         <div class="tab-pane fade show active" id="learning" role="tabpanel" aria-labelledby="learning-tab">
           <p>Mandarin Daily News Online Edition, Subscription Page: <a href="https://mdnereading.mdnkids.com/subscription/%E5%9C%8B%E8%AA%9E%E6%97%A5%E5%A0%B1">https://mdnereading.mdnkids.com/subscription/國語日報</a></p>
           <p>Selected Trial Reading Page: <a href="https://mdnereading.mdnkids.com/product_intro/hard_copy_paper">https://mdnereading.mdnkids.com/product_intro/hard_copy_paper</a></p>
+          {% include pinyin-zhuyin-table.html %}
         </div>
         <div class="tab-pane fade" id="stories" role="tabpanel" aria-labelledby="stories-tab">
           <p>Coming soon...</p>

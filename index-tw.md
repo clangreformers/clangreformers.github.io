@@ -100,6 +100,7 @@ glossaryNpeople-banvar: glossaryNpeople-banner-tw.md
             <div class="tab-pane fade show active" id="learning" role="tabpanel" aria-labelledby="learning-tab">
               <p>國語日報的網路版，訂閱頁面: <a href="https://mdnereading.mdnkids.com/subscription/%E5%9C%8B%E8%AA%9E%E6%97%A5%E5%A0%B1">https://mdnereading.mdnkids.com/subscription/國語日報</a></p>
               <p>精選試讀的頁面: <a href="https://mdnereading.mdnkids.com/product_intro/hard_copy_paper">https://mdnereading.mdnkids.com/product_intro/hard_copy_paper</a></p>
+              {% include pinyin-zhuyin-table.html %}
             </div>
             <div class="tab-pane fade" id="stories" role="tabpanel" aria-labelledby="stories-tab">
               <p>敬請期待...</p>

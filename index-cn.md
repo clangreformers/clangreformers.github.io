@@ -101,6 +101,7 @@ glossaryNpeople-banvar: glossaryNpeople-banner-cn.md
             <div class="tab-pane fade show active" id="learning" role="tabpanel" aria-labelledby="learning-tab">
               <p>国语日报的网络版，订阅页面: <a href="https://mdnereading.mdnkids.com/subscription/%E5%9C%8B%E8%AA%9E%E6%97%A5%E5%A0%B1">https://mdnereading.mdnkids.com/subscription/國語日報</a></p>
               <p>精选试读的页面: <a href="https://mdnereading.mdnkids.com/product_intro/hard_copy_paper">https://mdnereading.mdnkids.com/product_intro/hard_copy_paper</a></p>
+              {% include pinyin-zhuyin-table.html %}
             </div>
             <div class="tab-pane fade" id="stories" role="tabpanel" aria-labelledby="stories-tab">
               <p>敬请期待...</p>
