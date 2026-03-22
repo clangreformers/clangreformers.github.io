@@ -105,7 +105,7 @@ glossaryNpeople-banvar: glossaryNpeople-banner.md
               {% include pinyin-zhuyin-table.html %}
             </div>
             <div class="tab-pane fade" id="stories" role="tabpanel" aria-labelledby="stories-tab">
-              <p>Coming soon...</p>
+              {% include shuowen-600-list.html %}
             </div>
           </div>
         </div>
