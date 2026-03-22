@@ -6,6 +6,7 @@ categories: jekyll update
 ref: laonaixuan-short-biography
 lang: English
 author: Yun Wang
+timeline_era: 2
 ---
 
 Author: Yun Wang

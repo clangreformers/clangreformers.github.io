@@ -52,7 +52,18 @@ glossaryNpeople-banvar: glossaryNpeople-banner-cn.md
         </div>
       </div>
     </div>
-        <ul class="post-list">
+        
+        <ul class="nav nav-tabs" id="timelineTab-cn" role="tablist" style="margin-bottom: 20px;">
+          <li class="nav-item" role="presentation">
+            <button class="nav-link active" id="list-tab-cn" data-bs-toggle="tab" data-bs-target="#list-view-cn" type="button" role="tab" aria-controls="list-view-cn" aria-selected="true">按发布时间</button>
+          </li>
+          <li class="nav-item" role="presentation">
+            <button class="nav-link" id="timeline-view-tab-cn" data-bs-toggle="tab" data-bs-target="#timeline-view-cn" type="button" role="tab" aria-controls="timeline-view-cn" aria-selected="false">按事件时间线</button>
+          </li>
+        </ul>
+        <div class="tab-content" id="timelineTabContent-cn">
+          <div class="tab-pane fade show active" id="list-view-cn" role="tabpanel" aria-labelledby="list-tab-cn">
+            <ul class="post-list">
           {% assign posts=site.posts | where:"lang", page.lang %}
           {% for post in posts %}
           <li>
@@ -68,6 +79,12 @@ glossaryNpeople-banvar: glossaryNpeople-banner-cn.md
           </li>
           {% endfor %}
         </ul>
+          </div>
+          <div class="tab-pane fade" id="timeline-view-cn" role="tabpanel" aria-labelledby="timeline-view-tab-cn">
+            {% include timeline-widget-cn.html %}
+          </div>
+        </div>
+
     </div>
     <div id="content-shuowen" class="content-section" style="display: none;">
 

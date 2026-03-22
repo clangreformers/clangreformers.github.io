@@ -6,6 +6,7 @@ categories: jekyll update
 ref: politician-zhang-yilin
 lang: 繁體中文
 author: 作者：王昀
+timeline_era: 4
 ---
 
 作者：作者：王昀

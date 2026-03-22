@@ -1,0 +1,20 @@
+{% include timeline-style.html %}
+<div class="timeline-flow">
+{% assign eras = "切音運動 (十九世紀末)|簡字運動 (1900-1912)|注音字母運動時期 (1913-1928)|國語羅馬字運動階段 (1928-1949)|文字改革化階段 (1949-1960)|1960 -- 至今" | split: "|" %}
+{% for era in eras %}
+{% assign era_index = forloop.index %}
+    <div class="timeline-box">
+        <div class="period-title">{{ era }}</div>
+        <ul>
+        {% assign era_posts = site.posts | where: "lang", page.lang %}
+        {% for post in era_posts %}
+            {% assign post_era = post.timeline_era | plus: 0 %}
+            {% if post_era == era_index %}
+            <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
+            {% endif %}
+        {% endfor %}
+        </ul>
+        {% if forloop.last != true %}<div class="arrow">↓</div>{% endif %}
+    </div>
+{% endfor %}
+</div>

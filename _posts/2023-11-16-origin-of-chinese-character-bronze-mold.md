@@ -6,6 +6,7 @@ categories: jekyll update
 ref:  origin-of-chinese-character-bronze-mold
 lang: English
 author: Yun Wang
+timeline_era: 4
 ---
 
 Author: Yun Wang

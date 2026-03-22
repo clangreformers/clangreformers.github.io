@@ -1,0 +1,20 @@
+{% include timeline-style.html %}
+<div class="timeline-flow">
+{% assign eras = "Spelling Reform Movement (Late 19th Century)|Simplified Character Movement (1900-1912)|Phonetic Alphabet Movement (1913-1928)|Gwoyeu Romatzyh Movement (1928-1949)|Script Reform Stage (1949-1960)|1960 -- Present" | split: "|" %}
+{% for era in eras %}
+{% assign era_index = forloop.index %}
+    <div class="timeline-box">
+        <div class="period-title">{{ era }}</div>
+        <ul>
+        {% assign era_posts = site.posts | where: "lang", page.lang %}
+        {% for post in era_posts %}
+            {% assign post_era = post.timeline_era | plus: 0 %}
+            {% if post_era == era_index %}
+            <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
+            {% endif %}
+        {% endfor %}
+        </ul>
+        {% if forloop.last != true %}<div class="arrow">↓</div>{% endif %}
+    </div>
+{% endfor %}
+</div>

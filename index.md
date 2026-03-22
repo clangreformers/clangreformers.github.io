@@ -52,7 +52,18 @@ glossaryNpeople-banvar: glossaryNpeople-banner.md
         </div>
       </div>
 
-        <ul class="post-list">
+        
+        <ul class="nav nav-tabs" id="timelineTab-en" role="tablist" style="margin-bottom: 20px;">
+          <li class="nav-item" role="presentation">
+            <button class="nav-link active" id="list-tab-en" data-bs-toggle="tab" data-bs-target="#list-view-en" type="button" role="tab" aria-controls="list-view-en" aria-selected="true">By Publication Date</button>
+          </li>
+          <li class="nav-item" role="presentation">
+            <button class="nav-link" id="timeline-view-tab-en" data-bs-toggle="tab" data-bs-target="#timeline-view-en" type="button" role="tab" aria-controls="timeline-view-en" aria-selected="false">By Timeline</button>
+          </li>
+        </ul>
+        <div class="tab-content" id="timelineTabContent-en">
+          <div class="tab-pane fade show active" id="list-view-en" role="tabpanel" aria-labelledby="list-tab-en">
+            <ul class="post-list">
           {% assign posts=site.posts | where:"lang", page.lang %}
           {% for post in posts %}
           <li>
@@ -68,6 +79,12 @@ glossaryNpeople-banvar: glossaryNpeople-banner.md
           </li>
           {% endfor %}
         </ul>
+          </div>
+          <div class="tab-pane fade" id="timeline-view-en" role="tabpanel" aria-labelledby="timeline-view-tab-en">
+            {% include timeline-widget.html %}
+          </div>
+        </div>
+
     </div>
     
     <div id="content-shuowen" class="content-section" style="display: none;">

@@ -6,6 +6,7 @@ categories: history
 lang: English
 ref: hushi-and-guoyu-movement
 author: Wang Yun
+timeline_era: 3
 ---
 
 Hu Shi and the National Language Movement

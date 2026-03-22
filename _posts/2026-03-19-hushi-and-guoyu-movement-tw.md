@@ -6,6 +6,7 @@ categories: history
 lang: 繁體中文
 ref: hushi-and-guoyu-movement
 author: 王昀
+timeline_era: 3
 ---
 
 胡適與國語運動

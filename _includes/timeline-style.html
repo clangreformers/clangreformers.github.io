@@ -1,0 +1,20 @@
+<style>
+.timeline-container { max-width: 1200px; margin: 0 auto; padding: 20px; }
+.timeline-title { text-align: center; font-size: 2.5em; color: #2c3e50; margin-bottom: 40px; font-weight: bold; }
+.timeline-flow { display: flex; flex-direction: column; gap: 30px; padding: 20px 0; }
+.timeline-box { background: #bbc2a3; color: #000; padding: 25px; border-radius: 15px; width: 100%; max-width: none; box-shadow: 0 8px 25px rgba(0,0,0,0.15); position: relative; transition: transform 0.3s ease, box-shadow 0.3s ease; }
+.timeline-box:hover { transform: translateY(-5px); box-shadow: 0 12px 35px rgba(0,0,0,0.2); }
+.period-title { font-size: 1.3em; font-weight: bold; text-align: left; margin-bottom: 20px; padding-bottom: 15px; border-bottom: 2px solid rgba(0,0,0,0.1); }
+.timeline-box ul { list-style: none; padding: 0; margin: 0; }
+.timeline-box li { margin-bottom: 15px; font-size: 1em; line-height: 1.5; position: relative; padding-left: 20px; }
+.timeline-box li:before { content: "•"; color: #ffd700; font-weight: bold; position: absolute; left: 0; font-size: 1.2em; }
+.arrow { position: absolute; bottom: -20px; left: 50%; transform: translateX(-50%); font-size: 2em; color: #bbc2a3; z-index: 10; }
+.timeline-box:last-child .arrow { display: none; }
+@media (max-width: 768px) {
+    .timeline-box { padding: 20px; }
+    .period-title { font-size: 1.1em; }
+    .timeline-box li { font-size: 0.9em; padding-left: 15px; }
+}
+.timeline-box a { color: #142d4c; text-decoration: underline; }
+.timeline-box a:hover { color: #457AAA; }
+</style>
