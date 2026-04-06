@@ -1,0 +1,31 @@
+{
+  "project": "Clang Reformers",
+  "preferences": {
+    "language_mapping": {
+      "en": "English",
+      "cn": "简体中文",
+      "tw": "繁體中文"
+    },
+    "image_aspect_ratio": "16/10",
+    "post_naming_convention": "YYYY-MM-DD-slug[-lang].md",
+    "media_path_convention": "/assets/imgs/[post-slug]/[filename]",
+    "dev_server_command": "bundle exec jekyll serve --config _config.yml,_config_dev.yml --livereload"
+  },
+  "learned_lessons": [
+    {
+      "date": "2026-04-05",
+      "context": "Local development setup",
+      "lesson": "Local server should be started using both _config.yml and _config_dev.yml.",
+      "correction": null
+    }
+  ],
+  "common_patterns": {
+    "frontmatter": ["layout", "title", "date", "categories", "lang", "ref", "author", "timeline_era"],
+    "locations": {
+      "posts": "_posts/",
+      "data": "_data/",
+      "images": "assets/imgs/",
+      "assets": "assets/"
+    }
+  }
+}

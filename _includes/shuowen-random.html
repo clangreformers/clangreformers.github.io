@@ -1,0 +1,78 @@
+<div id="random-character-root" style="margin-top: 30px;">
+  <div id="random-character-container" class="row justify-content-center">
+    <!-- Character card will be injected here -->
+    <div class="col-12 text-center py-5">
+      <div class="spinner-border text-primary" role="status">
+        <span class="visually-hidden">Loading...</span>
+      </div>
+    </div>
+  </div>
+  <div class="text-center mt-4">
+    <p style="color: #666; font-style: italic;" id="random-date-msg"></p>
+  </div>
+</div>
+
+<script>
+(function() {
+  function initRandomCharacter() {
+    const container = document.getElementById('random-character-container');
+    const dateMsg = document.getElementById('random-date-msg');
+    if (!container) return;
+
+    // Get all cards from the stories list
+    const allCards = document.querySelectorAll('.shuowen-600-container .card');
+    if (allCards.length === 0) {
+      console.log("No cards found in .shuowen-600-container, retrying in 100ms...");
+      setTimeout(initRandomCharacter, 100);
+      return;
+    }
+
+    // Simple date-based seed
+    const now = new Date();
+    // Use local date string YYYY-MM-DD
+    const dateStr = now.getFullYear() + '-' + String(now.getMonth() + 1).padStart(2, '0') + '-' + String(now.getDate()).padStart(2, '0');
+    
+    // Seed-based random pick
+    // Using a simple hash of the date string
+    let hash = 0;
+    for (let i = 0; i < dateStr.length; i++) {
+        hash = ((hash << 5) - hash) + dateStr.charCodeAt(i);
+        hash |= 0; // Convert to 32bit integer
+    }
+    
+    const index = Math.abs(hash) % allCards.length;
+    const selectedCard = allCards[index];
+    
+    // Find the parent column to clone its structure (col-lg-4 col-md-6 mb-4)
+    const parentCol = selectedCard.closest('.col-lg-4');
+    if (!parentCol) return;
+
+    const clone = parentCol.cloneNode(true);
+    // Adjust classes for single large display
+    clone.className = 'col-lg-6 col-md-8 mx-auto'; 
+    
+    // Remove fixed max-height for better viewing if it's just one
+    const cardBody = clone.querySelector('.card-body');
+    if (cardBody) {
+      cardBody.style.maxHeight = 'none';
+    }
+
+    container.innerHTML = '';
+    container.appendChild(clone);
+    
+    // Update date message
+    const lang = document.documentElement.lang || 'en';
+    if (lang.includes('zh')) {
+        dateMsg.textContent = '今日推荐 - 《说文解字》每日一字 (' + dateStr + ')';
+    } else {
+        dateMsg.textContent = 'Daily Word - Random Character from Shuowen Jiezi (' + dateStr + ')';
+    }
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', initRandomCharacter);
+  } else {
+    initRandomCharacter();
+  }
+})();
+</script>

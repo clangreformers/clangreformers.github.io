@@ -1,0 +1,11 @@
+{
+  "name": "Clang Reformers Agent",
+  "description": "A repository-specific agent specialized in multilingual Jekyll content, translation management, and Chinese language history documentation.",
+  "version": "1.0.0",
+  "author": "Antigravity",
+  "capabilities": {
+    "self_reflection": true,
+    "multilingual_support": ["en", "cn", "tw"],
+    "jekyll_management": true
+  }
+}
