@@ -32,31 +32,38 @@ The standard pronunciation adopted by vote in the 1913 "Commission on the Unific
 
 This lesson compares National Pronunciation with Beijing Pronunciation. Zhen Guoyu speaks the Old National Pronunciation, while Jia Guanua speaks Beijing Pronunciation.
 
-Zhen Guoyu: May I ask your surname?  
-Jia Guanua: My surname is Jia. And yours, sir?  
-Zhen: My surname is Zhen.  
-Jia: Have you been in the north for many years?  
-Zhen: No, I’ve only been in Beijing for six months.  
-Jia: Only six months? Are you perhaps from Nanjing? Your speech sounds a bit like a Nanjing accent.  
-Zhen: No, I am from Shanghai. I am speaking the National Language.  
-Jia: Ha! You mean *this* is the National Language? I heard they recently invented a 'National Language.' What is it used for?  
-Zhen: The National Language is a tongue intended for use across the entire country.  
-Jia: Then, is the National Language just another name for *Putonghua* (Common Speech)?  
-Zhen: No, the term 'Putonghua' is interpreted differently by everyone. Generally, if someone has traveled through several provinces and their tongue isn't very agile, they claim they can speak 'Putonghua.' Sometimes it's a mix of southern and northern accents—harder to understand than a local dialect.  
-Jia: Then why not just have everyone learn Beijing speech? There are already over a million people here in Beijing speaking it right now. Wouldn't it be easier if their speech was simply declared the National Language?  
-Zhen: There is truth in that. But you must understand that the National Language is a highly regular system, a practical common tongue. In fact, Beijing speech and the National Language differ by only about five percent. For instance, in the National Language, we distinguish 'blood' (*xyue5*) from 'snow' (*syue5*). We in Jiangsu Province distinguish them clearly. If we were forced to say 'blood' (*xuě*) and 'snow' (*xuě*) exactly like in Beijing, wouldn't we be learning to speak worse?  
-Jia: Hah! So Jiangsu Mandarin is superior to Beijing Mandarin!  
-Zhen: Not at all! Every region has its strengths. For example, in the National Language, we say, 'This person wasn't poisoned to death (*yo5*), he was destined to die (*yau4*).' The distinction between 'poison' and 'destiny' is very clear in Sichuan, Hubei, and Hunan. If one must say them both the same as in Beijing, isn't that 'aiming for the middle and hitting the bottom'?  
-Jia: Hmph! So Beijing Mandarin has fallen to the level of a 'mediocre' National Language!  
-Zhen: Mr. Jia, don't take offense. Didn't I say Beijing speech is already a 95-point National Language? A standard National Language is like a teacher. A teacher must score 100 to be qualified. But a student only needs to pass. Isn't anything over 85 considered excellent? Thus, the 95-point National Language of Beijing far surpasses the failing National Language of my home province, Jiangsu!  
-Jia: Haha! That’s a bargain then. We in Beijing are already 'graduates' of the National Language by over a million, without even going to school. Not only graduates without studying, but 'excellent' ones at that!  
-Zhen: Quite right! Beijing indeed has a million 'excellent' graduates who never had to study the National Language!
+**Zhen Guoyu:** May I ask your surname?  
+**Jia Guanua:** My surname is Jia. And yours, sir?  
+**Zhen:** My surname is Zhen.  
+**Jia:** Have you been in the north for many years?  
+**Zhen:** No, I’ve only been in Beijing for six months.  
+**Jia:** Only six months? Are you perhaps from Nanjing? Your speech sounds a bit like a Nanjing accent.  
+**Zhen:** No, I am from Shanghai. I am speaking the National Language.  
+**Jia:** Ha! You mean *this* is the National Language? I heard they recently invented a 'National Language.' What is it used for?  
+**Zhen:** The National Language is a tongue intended for use across the entire country.  
+**Jia:** Then, is the National Language just another name for *Putonghua* (Common Speech)?  
+**Zhen:** No, the term 'Putonghua' is interpreted differently by everyone. Generally, if someone has traveled through several provinces and their tongue isn't very agile, they claim they can speak 'Putonghua.' Sometimes it's a mix of southern and northern accents—harder to understand than a local dialect.  
+**Jia:** Then why not just have everyone learn Beijing speech? There are already over a million people here in Beijing speaking it right now. Wouldn't it be easier if their speech was simply declared the National Language?  
+**Zhen:** There is truth in that. But you must understand that the National Language is a highly regular system, a practical common tongue. In fact, Beijing speech and the National Language differ by only about five percent. For instance, in the National Language, we distinguish 'blood' (*xyue5*) from 'snow' (*syue5*). We in Jiangsu Province distinguish them clearly. If we were forced to say 'blood' (*xuě*) and 'snow' (*xuě*) exactly like in Beijing, wouldn't we be learning to speak worse?  
+**Jia:** Hah! So Jiangsu Mandarin is superior to Beijing Mandarin!  
+**Zhen:** Not at all! Every region has its strengths. For example, in the National Language, we say, 'This person wasn't poisoned to death (*yo5*), he was destined to die (*yau4*).' The distinction between 'poison' and 'destiny' is very clear in Sichuan, Hubei, and Hunan. If one must say them both the same as in Beijing, isn't that 'aiming for the middle and hitting the bottom'?  
+**Jia:** Hmph! So Beijing Mandarin has fallen to the level of a 'mediocre' National Language!  
+**Zhen:** Mr. Jia, don't take offense. Didn't I say Beijing speech is already a 95-point National Language? A standard National Language is like a teacher. A teacher must score 100 to be qualified. But a student only needs to pass. Isn't anything over 85 considered excellent? Thus, the 95-point National Language of Beijing far surpasses the failing National Language of my home province, Jiangsu!  
+**Jia:** Haha! That’s a bargain then. We in Beijing are already 'graduates' of the National Language by over a million, without even going to school. Not only graduates without studying, but 'excellent' ones at that!  
+**Zhen:** Quite right! Beijing indeed has a million 'excellent' graduates who never had to study the National Language!
+
+**"Zhen Guoyu and Jia Guanua" Old National Pronunciation Original Recording:**<br>
+<audio controls><source src="/assets/audio/趙元任甄國字和賈觀化原聲老国音.wav" type="audio/wav"></audio>
 
 ![image](/assets/imgs/2026-04-10-zhao-yuan-ren/image4.jpg "Zhao Yuanren recording in New York"){: width="250" }
 
 (Zhao Yuanren recording in New York)
 
 Later, Zhao's "International Phonetic Alphabet National Pronunciation Dictionary" was published in November 1926 by the Commercial Press. This was a reference book that used his phonetic tables to provide standard pronunciations for 10,000 common Chinese characters. In February 1935, his "New National Language Gramophone Records Textbook" was released, featuring much richer content, including instructions on using the phonograph, Sun Yat-sen's testament, the party song, labor songs, nursery rhymes, and poems by Hu Shi. This period of dominance in the field lasted until the publication of Bai Dizhou's records.
+
+**"National Phonetic Alphabet Song" Original Recording:**<br>
+<audio controls><source src="/assets/audio/趙元任國音字母歌原聲.wav" type="audio/wav"></audio>
+
 
 Regarding the influence of Zhao's records, there is a memorable anecdote. In early 1938, as the Institute of History and Philology (IHP) moved south through Guilin, Guangxi, the massive number of refugees meant they were stranded, waiting for the provincial government to allocate vehicles. Zhao and others were forced to stay in a meager hotel used by cart drivers. To leverage Zhao's influence, he was persuaded to meet with the Provincial Chairman, Huang Xuchu. To his surprise, upon meeting, Huang said, "Mr. Zhao, every day before I start work, I always have a chat with you before going to the office." Confused, Zhao followed him into a lounge, only to burst into laughter. There, by Huang's bed, was a set of Zhao's National Language records, with one still spinning on the machine. Huang stopped the machine, listened to Zhao's request, and all their transportation problems were immediately resolved. Zhao's records had an immense impact at the time and remain a delight to listen to even today.
 
