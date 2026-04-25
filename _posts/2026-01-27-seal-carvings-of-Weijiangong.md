@@ -9,11 +9,6 @@ author: Yun Wang
 timeline_era: 4
 ---
 
-<div style="text-align: center; margin-bottom: 30px;">
-    <img src="/assets/imgs/2026-01-27-seal-carvings/seal-header.jpg" alt="Wei Jiangong Carving a Seal (1928)" style="max-width: 100%; height: auto; border: 1px solid #ddd; padding: 5px;">
-    <p><em>Wei Jiangong Carving a Seal (1928)</em></p>
-</div>
-
 My grandfather had a seal that I, as a child, thought was some kind of celestial script, but I knew he cherished it deeply. Decades passed, and while browsing through books left by my great-grandfather, a small slip of paper caught my eye. On it was the impression of that strange seal, with a small note beside it: "Carved by Wei Jiangong" (Figure 12). I knew my grandfather had worked with Wei Jiangong at the National Dictionary Compilation Bureau, but I never knew he was a renowned seal carving artist in his own right.
 
 Wei Jiangong began carving seals in the 1920s. "Tianxing" was his courtesy name, and "Shangui" (Mountain Ghost) was his pseudonym; he often used them together when signing his artistic works. In 1928, as the Northern Expedition approached Beijing and the situation grew chaotic, several mentors from the Peking University Research Institute—including Shen Jianshi, Chen Yuan, Ma Heng, Liu Bannong, and Xu Senyu—founded the Cultural Relics Maintenance Committee to protect Beijing's historical treasures. Younger teachers like Tai Jingnong, Chang Weijun, Zhuang Shangyan, and Wei Jiangong also actively participated. These mentors, mostly experts in paleography and epigraphy, often discussed Han and Wei stele rubbings and ancient seals from the Qin and Han periods. The younger scholars' interest grew, and at Zhuang Shangyan's suggestion, they founded the "Yuantai Seal Society." Its members included Zhuang Shangyan, Tai Jingnong, Chang Weijun, Wei Jiangong, and Jin Manshu, with Wang Fu'an and Ma Heng serving as advisors. "Yuantai" was named by Ma Heng after the historical name of the Circular City (Tuancheng) in Beihai, where they were based. To demonstrate, Ma Heng carved a "Yuantai Seal Society" seal in the Qin style on the spot, followed by Wang Fu'an, who also gifted the group one of his original seal albums for study. Interestingly, while members like Tai, Chang, and Wei threw themselves into the practice, the founder Zhuang Shangyan, despite his profound knowledge and passion for collecting, never actually picked up the carving knife himself.
@@ -168,7 +163,7 @@ An expert in phonology, Wei began teaching the *History of the Evolution of Chin
     </div>
 </div>
 
-Wei Jiangong also carved seals for his family, infusing each with deep understanding and love. His wife Wang Bishu's seal (Figure 28) is half delicate and graceful in red, and half solid and profound in white. The seals for his sons, Wei Nai and Wei Zhi (Figures 29, 30), are different in style, perhaps reflecting their distinct personalities. But his most iconic work remains the "Shangui" (Mountain Ghost) seal (Figure 31). Inspired by Qu Yuan's "Nine Songs," the Mountain Ghost represents a fusion of refined isolation and unbridled freedom. In this seal, "Shan" (Mountain) sits high, while "Gui" (Ghost) stands upright, creating a powerful composition reminiscent of the white space in classical Chinese painting.
+Wei Jiangong also carved seals for his family, infusing each with deep understanding and love. His wife Wang Bishu's seal (Figure 28) is half delicate and graceful in red, and half solid and profound in white. The seals for his daughter Wei Nai and son Wei Zhi (Figures 29, 30), are different in style, perhaps reflecting their distinct personalities. But his most iconic work remains the "Shangui" (Mountain Ghost) seal (Figure 31). Inspired by Qu Yuan's "Nine Songs," the Mountain Ghost represents a fusion of refined isolation and unbridled freedom. In this seal, "Shan" (Mountain) sits high, while "Gui" (Ghost) stands upright, creating a powerful composition reminiscent of the white space in classical Chinese painting.
 
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
     <div style="text-align: center;">
@@ -200,7 +195,7 @@ Wei Jiangong passed away in 1980, leaving behind three major albums containing 4
 "Chen Jun zhi Ce": "Ce" here means walking stick or staff. The inscription refers to a righteous path.
 
 **Note 3**
-"Xiqjang" (Striving within the walls): A metaphor for internal or family strife, from the *Book of Songs*.
+"Xiqiang" (Striving within the walls): A metaphor for internal or family strife, from the *Book of Songs*.
 
 **Note 4**
 "Gantang" (Sweet Pear Tree): A metaphor for the benevolent rule of an official, from the *Book of Songs*.
