@@ -5,6 +5,10 @@ ref:  wangshoukang
 lang: English
 ---
 
+![image](/assets/imgs/wangshoukang_1.jpeg "1925 graduation photo of Wang Shoukang"){: width="300" }
+
+1925 graduation photo of Wang Shoukang
+
 A brief biography of Professor Shoukang Wang
 
 Shoukang Wang (1899-1975), also known as Fuqing, was from Qingzhong village, Wuyi County, Hebei Province. At a young age, he came to study at the Middle School Affiliated with Beijing Normal University. After passing the entrance exam with great extinction, he enrolled in the Chinese Department at Beijing Normal University, where he studied under the great Chinese Linguist Professor Jinxi Li. He continued graduate studies after obtaining his bachelor’s degree.

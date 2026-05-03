@@ -312,7 +312,7 @@ lang: 繁體中文
 ## 杜同力
 **別名:** 子勁
 
-- [說文](https://clangreformers.github.io/people/dutongli-tw.html)
+- [說文](https://clangreformers.github.io/people/duzijin-tw.html)
 - 大辭典編纂處: 是
 
 

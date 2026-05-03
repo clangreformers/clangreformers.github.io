@@ -5,6 +5,10 @@ ref:  duzijin
 lang: English
 ---
 
+![image](/assets/imgs/duzijin_1.jpeg "1925 graduation photo of Du Zijin"){: width="300" }
+
+1925 graduation photo of Du Zijin
+
 Du Zijing, 1897-1955, also known as Du Tongli, was from Xihua County, Henan.
 
 In the early years of the Republic of China, Du Zijing entered the Henan Higher Normal School in Kaifeng. After graduating, he taught Chinese literature at various preparatory schools for studying abroad in Europe and America.

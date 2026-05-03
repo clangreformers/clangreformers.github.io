@@ -312,7 +312,7 @@ lang: 简体中文
 ## 杜同力
 **别名:** 子劲
 
-- [说文](https://clangreformers.github.io/people/dutongli-cn.html)
+- [说文](https://clangreformers.github.io/people/duzijin-cn.html)
 - 大辞典编纂处: 是
 
 

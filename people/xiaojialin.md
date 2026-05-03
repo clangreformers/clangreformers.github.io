@@ -5,6 +5,10 @@ ref:  xiaojialin
 lang: English
 ---
 
+![image](/assets/imgs/xiaojialin_1.jpeg "1925 graduation photo of Xiao Jialin"){: width="300" }
+
+1925 graduation photo of Xiao Jialin
+
 Xiao Jialin (1897-1968)
 
 Courtesy name Xiaocun, and art name Dichen, he was from Jiulong Xiao Village, Taoshu Administrative Village, Chitian Township, Fengxin County, Jiangxi. He graduated from the Department of Chinese Language and Literature at Beijing Normal University, focusing on phonology. Xiao Jialin was a major promoter of the "Mandarin Movement" in 20th century China, a linguist, a dictionary compiler, and a grassroots educator.
