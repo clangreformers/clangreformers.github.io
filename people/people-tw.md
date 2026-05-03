@@ -1664,6 +1664,7 @@ lang: 繁體中文
 
 ---
 ## 孫培良
+- [說文](/people/sunpeiliang-tw.html)
 - 台灣國語推行委員會: 是，常務委員
 
 
@@ -1874,6 +1875,7 @@ lang: 繁體中文
 
 ---
 ## 王玉川
+- [說文](/people/wangyuchuan-tw.html)
 - 台灣國語推行委員會: 是，常務委員
 
 
@@ -2176,6 +2178,7 @@ lang: 繁體中文
 
 ---
 ## 徐敘賢
+- [說文](/people/xuxuxian-tw.html)
 - 台灣國語推行委員會: 是
 
 
@@ -2527,6 +2530,12 @@ lang: 繁體中文
 
 
 ---
+
+---
+## 張宣忱
+- [說文](/people/zhangxuanchen-tw.html)
+- 臺灣國語推行委員會: 是
+
 ## 張一麐
 - [維基](https://zh.wikipedia.org/wiki/張一麐)
 - [百度](https://baike.baidu.com/item/張一麐/8523856)
@@ -2604,6 +2613,16 @@ lang: 繁體中文
 
 
 ---
+
+---
+## 趙迺傳
+**别名:** 彝鼎
+- [維基](https://zh.wikipedia.org/wiki/趙迺傳)
+- 臺灣國語推行委員會: 是
+
+**備註/成就:**
+臺灣首任教育負責人，開啟了臺灣國語運動
+
 ## 趙水澄
 **別名:** 作雄
 
@@ -2826,6 +2845,7 @@ lang: 繁體中文
 
 ---
 ## 朱兆祥
+- [說文](/people/zhuzhaoxiang-tw.html)
 - 台灣國語推行委員會: 是，研究組組長
 
 

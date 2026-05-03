@@ -1454,7 +1454,8 @@ Member of the Commission for the Revised National Pronunciation Dictionary, Firs
 
 ---
 ## Sun Peiliang
-- Taiwan Mandarin Promotion Council: Yes, Executive Member
+- [Shuo Wen](/people/sunpeiliang.html)
+- Taiwan Mandarin Promotion Council: Yes
 
 
 
@@ -1625,6 +1626,7 @@ Representative of the National Assembly for the Constitution during the Republic
 
 ---
 ## Wang Yu-chuan
+- [Shuo Wen](/people/wangyuchuan.html)
 - Taiwanese National Language Promotion Committee: Yes, Executive Committee Member
 
 **Notes/Achievements:**
@@ -1870,6 +1872,7 @@ Premier of the Executive Yuan during the Republic of China, Member of the Chines
 
 ---
 ## Xu Xuxian
+- [Shuo Wen](/people/xuxuxian.html)
 - Taiwan Mandarin Promotion Committee: Yes
 
 ---
@@ -2144,6 +2147,13 @@ Editor of "Mandarin Dictionary," "Expanded and Annotated New Chinese Rhyme," and
 
 ---
 
+
+---
+
+## Zhang Xuanchen
+- [Shuo Wen](/people/zhangxuanchen.html)
+- Taiwan Mandarin Promotion Committee: Yes
+
 ## Zhang Yilin
 - [Wikipedia](https://zh.wikipedia.org/wiki/張一麐)
 - [Baidu](https://baike.baidu.com/item/張一麐/8523856)
@@ -2208,6 +2218,16 @@ Leader of Taiwan's travel agency group, privately recruited Beiping teachers to 
 One of the initiators of the "Simplified Character Research Association" in 1909, Director of the Shanxi Bureau of Industry
 
 ---
+
+
+---
+## Zhao Naichuan
+**Alias:** Yiding
+- [Wikipedia](https://zh.wikipedia.org/wiki/趙迺傳)
+- Taiwan Mandarin Promotion Committee: Yes
+
+**Remarks/Achievements:**
+The first head of education in Taiwan, initiating the Taiwan National Language Movement
 
 ## Zhao Shuicheng
 **Also known as:** Zuo Xiong
@@ -2377,7 +2397,8 @@ Member of the Chinese Character Simplification Committee, Member of the National
 
 ---
 
-# Zhu Zhaoxiang
+## Zhu Zhaoxiang
+- [Shuo Wen](/people/zhuzhaoxiang.html)
 - Taiwan Mandarin Promotion Committee: Yes, Research Group Leader
 
 ---
