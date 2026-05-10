@@ -14,6 +14,53 @@
   {% include footer.html %}
   <!-- {% include guest-comments.html %} -->
   <script src="{{ "/assets/js/bootstrap.bundle.min.js" | relative_url }}"></script>
+  <script src="{{ "/assets/js/simple-jekyll-search.js" | relative_url }}"></script>
+  <script>
+    (function () {
+      const urlParams = new URLSearchParams(window.location.search);
+      const query = urlParams.get('h');
+      if (query) {
+        const decodedQuery = decodeURIComponent(query);
+        const mainContent = document.querySelector('.page-content');
+        if (mainContent) {
+          highlightText(mainContent, decodedQuery);
+        }
+      }
+
+      function highlightText(root, text) {
+        if (!text.trim()) return;
+        const regex = new RegExp('(' + escapeRegExp(text) + ')', 'gi');
+        const walker = document.createTreeWalker(root, NodeFilter.SHOW_TEXT, null, false);
+        const nodes = [];
+        let node;
+        while (node = walker.nextNode()) {
+          if (node.parentNode.nodeName !== 'SCRIPT' && node.parentNode.nodeName !== 'STYLE' && node.parentNode.nodeName !== 'MARK') {
+            nodes.push(node);
+          }
+        }
+
+        nodes.forEach(node => {
+          if (regex.test(node.nodeValue)) {
+            const span = document.createElement('span');
+            span.innerHTML = node.nodeValue.replace(regex, '<mark>$1</mark>');
+            node.parentNode.replaceChild(span, node);
+          }
+        });
+
+        const firstMark = document.querySelector('mark');
+        if (firstMark) {
+          setTimeout(() => {
+            firstMark.scrollIntoView({ behavior: 'smooth', block: 'center' });
+          }, 100);
+        }
+      }
+
+      function escapeRegExp(string) {
+        return string.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+      }
+    })();
+  </script>
+
 </body>
 
 </html>

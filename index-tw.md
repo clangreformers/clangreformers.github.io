@@ -39,18 +39,7 @@ glossaryNpeople-banvar: glossaryNpeople-banner-tw.md
     <!-- Content Sections controlled by Carousel -->
     <div id="content-shugu" class="content-section">
     {% include {{ page.glossaryNpeople-banvar }} %}
-    <div class="searchbar">
-      <div class="left">
-        述 故 / 循 跡 , 現 代 漢 語 的 蒂 基 者
-      </div>
-      <div class="right">
-        <div id="search-demo-container" class="search-demo-container">
-          <input type="input" id="search-input" placeholder="Search...">
-          <div class="icon"></div>
-          <ul id="results-container" class="results-container"></ul>
-        </div>
-      </div>
-    </div>
+
         
         <ul class="nav nav-tabs" id="timelineTab-tw" role="tablist" style="margin-bottom: 20px;">
           <li class="nav-item" role="presentation">
@@ -132,19 +121,6 @@ glossaryNpeople-banvar: glossaryNpeople-banner-tw.md
   </div>
 </div>
 
-<script src="{{ site.baseurl }}/assets/js/simple-jekyll-search.js"></script>
 
-<script>
-  window.simpleJekyllSearch = new SimpleJekyllSearch({
-    searchInput: document.getElementById('search-input'),
-    resultsContainer: document.getElementById('results-container'),
-    json: '{{ site.baseurl }}/search-tw.json',
-    searchResultTemplate: '<li><a href="{url}?query={query}" title="{desc}">{title}</a></li>',
-    noResultsText: '<li>No results found.</li>',
-    limit: 10,
-    fuzzy: false,
-    exclude: ['Welcome']
-  })
-</script>
 
 <script src="{{ site.baseurl }}/assets/js/index_slider.js"></script>

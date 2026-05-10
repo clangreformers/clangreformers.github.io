@@ -17,16 +17,50 @@
             {%- assign page_paths = site.data.navigation-tw | default: default_paths -%}
       {%- endif -%}
 
-      <div class="locales" style="text-align: right; line-height: 1em">
-        {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
-        {% for post in posts %} <a href="{{ post.url | prepend: site.baseurl }}" class="{{ post.lang }}">{{ post.lang
-          }}</a> {% endfor %}
+      <div class="header-right">
+        <div class="locales" style="text-align: right; line-height: 1em">
+          {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
+          {% for post in posts %} <a href="{{ post.url | prepend: site.baseurl }}" class="{{ post.lang }}">{{ post.lang
+            }}</a> {% endfor %}
 
 
-        {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
-        {% for page in pages %} <a href="{{ page.url | prepend: site.baseurl }}" class="{{ page.lang }}">{{ page.lang
-          }}</a> <span>|</span>{% endfor %}
+          {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+          {% for page in pages %} <a href="{{ page.url | prepend: site.baseurl }}" class="{{ page.lang }}">{{ page.lang
+            }}</a> <span>|</span>{% endfor %}
+        </div>
+
+        <div class="header-search">
+          <div id="header-search-demo-container" class="search-demo-container">
+            <input type="input" id="header-search-input" placeholder="{{ site.search[page.lang] | default: 'Search...' }}">
+            <div class="icon"></div>
+            <ul id="header-results-container" class="results-container"></ul>
+          </div>
+        </div>
       </div>
+
+      <script>
+        document.addEventListener('DOMContentLoaded', function () {
+          if (document.getElementById('header-search-input')) {
+            SimpleJekyllSearch({
+              searchInput: document.getElementById('header-search-input'),
+              resultsContainer: document.getElementById('header-results-container'),
+              json: '{{ site.baseurl }}/search{% if page.lang == "简体中文" %}-cn{% elsif page.lang == "繁體中文" %}-tw{% endif %}.json',
+              searchResultTemplate: '<li><a href="{url}?h={query}" title="{title}">{title}</a></li>',
+              templateMiddleware: function (prop, value, template) {
+                if (prop === 'query') {
+                  return encodeURIComponent(value);
+                }
+                return value;
+              },
+              noResultsText: '<li>No results found.</li>',
+              limit: 10,
+              fuzzy: false
+            });
+
+          }
+        });
+      </script>
+
     </div>
     <div class="donation_button" style="text-align: right; line-height: 1em">
 	<form action="https://www.paypal.com/donate" method="post" target="_top">
