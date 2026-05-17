@@ -55,7 +55,7 @@
                 {% capture people %}
 
 [安文倬](https://clangreformers.github.io/people/anwenzhuo-cn.html),
-敖士英,
+[敖士英](https://clangreformers.github.io/people/aoshiying-tw.html),
 [白滌洲](https://clangreformers.github.io/people/baidizhou-cn.html),
 白振民,
 [蔡錫勇](https://zh.wikipedia.org/wiki/蔡錫勇),

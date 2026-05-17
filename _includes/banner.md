@@ -55,7 +55,7 @@
               <div class="right-scroll">
                   {% capture people %}
 [An Wenzhuo](https://clangreformers.github.io/people/anwenzhuo-cn.html),
-Ao Shiying,
+[Ao Shiying](https://clangreformers.github.io/people/aoshiying.html),
 [Bai Dizhou](https://clangreformers.github.io/people/baidizhou-cn.html),
 Bai Zhenmin,
 [Cai Xiyong](https://zh.wikipedia.org/wiki/蔡錫勇),
