@@ -15,6 +15,7 @@ lang: English
 ---
 
 ## Ao Shiying  
+- [Shuo Wen](https://clangreformers.github.io/people/aoshiying.html)
 - Editorial Department of the Great Dictionary: Yes (Special Editor)  
 
 **Remarks/Achievements:**  

@@ -6,7 +6,7 @@ lang: English
 ---
 
 **Zhu Zhaoxiang**
-A native of Longxi, Fujian.
+1914-1990, a native of Longxi, Fujian.
 
 Graduated from the Law Department of Xiamen University in 1938.
 

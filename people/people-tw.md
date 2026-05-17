@@ -16,6 +16,7 @@ lang: 繁體中文
 
 ---
 ## 敖士英
+- [說文](https://clangreformers.github.io/people/aoshiying-tw.html)
 - 大辭典編纂處: 是（特約編纂）
 
 
