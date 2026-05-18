@@ -54,6 +54,13 @@ In the development of Mandarin, Taiwan has largely followed the vision laid out 
 <br>
 <i>Mr. Peter Wang talks about traditional and simplified characters</i>
 
+<video controls width="100%">
+  <source src="/assets/videos/weijiangong-simplified.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+<br>
+<i>Mr. Peter Wang talks about Wei Jiangong's role in promoting simplified characters</i>
+
 Beyond the writing system, one of the major principles of the National Language Movement was the use of vernacular Chinese. In this regard, the mainland seems to have done better, particularly by making written language more colloquial, accessible, and simple. However, in the process, it has also lost some of the original polite expressions, honorifics, and formal written language elements of Mandarin. Our generation often admires the rich vocabulary, allusions, and literary skills displayed in the writings of earlier times, but unfortunately, we lack the training to appreciate or use them. Uncle Wang expressed regret over this outcome, particularly because he feels that this trend of simplification in mainland China is influencing younger generations in Taiwan. Even in popular music, the profound lyrics of older songs are often more memorable. Nowadays, young people in Taiwan are experimenting with further simplifying written language, with some even using Zhuyin symbols to replace Chinese characters in writing. Interestingly, this aligns somewhat with the original intent of creating Romanized Mandarin, offering an intriguing perspective for exploration.
 
 Speaking of our connection with Uncle Wang, it all began five years ago with the launch of our website, Speaking of Language and History. The website is dedicated to studying and commemorating the figures involved in the National Language Movement and represents a commitment to preserving its legacy. It is important to note that the National Language Movement, originally spearheaded by the then-ruling Kuomintang, has nearly faded into the annals of history on the mainland, with little public recognition. The individuals who participated in the movement had different fates depending on their paths and positions—some gained fame, while others have long been forgotten. Even in Taiwan, publications like the Mandarin Daily News, primarily read by elementary and middle school students, now rely on support from civic organizations to survive, struggling to stay afloat. Not long ago, Mandarin Daily News even underwent a major battle to defend its existence.
