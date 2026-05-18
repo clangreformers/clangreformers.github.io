@@ -21,6 +21,20 @@ Our conversation with Uncle Wang was rooted in this shared understanding. Uncle 
 
 Speaking of his father's dedication to the Mandarin language, Uncle Wang shared more stories. He said that during the early years in Taiwan, economic conditions were poor, and many people gave up their professions to go into business. One of Mr. Wang Shoukang's former students, Zhang Boyu, jokingly suggested that Mr. Wang lead a business venture so everyone could earn money instead of sticking to language education. Mr. Wang sternly rebuked him, reminding him that no matter how difficult life became, they must continue teaching Mandarin because that was their belief. Mr. Wang Shoukang remained steadfast in his mission as a member of the Mandarin Promotion Committee in Taiwan. He established the Mandarin Specialized Department at Taiwan Provincial Normal College to train teachers, served as the deputy editor-in-chief of Mandarin Daily News—the world's only newspaper combining phonetic symbols and Chinese characters—delivering its authentic content to Taiwanese readers, and went to great lengths to rescue his students who encountered political difficulties. These students, who taught in various primary and secondary schools, were his crucial allies in spreading Mandarin.
 
+<video controls width="100%">
+  <source src="/assets/videos/teaching-soldiers.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+<br>
+<i>Mr. Wang Shoukang's story of teaching soldiers to read</i>
+
+<video controls width="100%">
+  <source src="/assets/videos/scolding-students.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+<br>
+<i>Mr. Wang Shoukang's story of adhering to the Mandarin cause</i>
+
 Speaking about his father's students, Uncle Wang fondly and vividly recalled several names, such as Da Song, Zhai Jianbang, and Gong Qingxiang. These individuals were often around his father back in the day and were regarded by Uncle Wang as senior brothers. Now, they have all passed away, yet Uncle Wang still speaks of them with deep affection, filled with nostalgia. Hearing this, I told him that I could provide a photocopy of the 1949 graduation yearbook from Beijing Normal University that our family has preserved, which contains photos and information about these individuals. Uncle Wang nodded with satisfaction upon hearing this.
 
 It must be said that it was precisely because of individuals like Mr. Wang Shoukang that Taiwan transformed from a place where Mandarin was virtually unknown to a region where it was most successfully promoted. Uncle Wang proudly shared that, over time, as many people in Taiwan received education, they became fluent in Mandarin but often lost their ability to speak local dialects. This even created communication challenges within families, as younger generations who spoke only Mandarin would struggle to communicate with elders who spoke only in dialects. This highlights the remarkable impact of the Mandarin promotion efforts at the time. In recent years, under the leadership of the Democratic Progressive Party, there have been suggestions to abandon the use of Mandarin. However, it became evident that local languages lacked corresponding written systems and were therefore unsuitable for official use. This underscores the tremendous contributions of the linguists from a century ago.
@@ -32,6 +46,13 @@ Beyond dissemination, the evolution of Mandarin itself is another important topi
 Was this developmental direction correct? Uncle Wang expressed a negative view. He noted that the Romanized Mandarin system was never successfully implemented in Taiwan. With the advent of computer-based Chinese input methods, writing underwent a fundamental revolution, significantly increasing efficiency. As AI technology continues to advance, speed will no longer pose a barrier to learning and using Chinese characters.
 
 In the development of Mandarin, Taiwan has largely followed the vision laid out by the National Language Movement, while mainland China has taken a different path by replacing traditional characters with simplified ones and substituting Zhuyin symbols with Pinyin based on Latin letters. Which approach is better? Uncle Wang favors Taiwan's direction. He even bluntly remarked that in this regard, Wei Jiangong, a figure he deeply respects, could be considered somewhat of a "sinner." This is because Wei Jiangong played a leading role in overturning the achievements of the National Language Movement and promoting simplified characters and Pinyin. While the simplification of many characters by adopting cursive-style forms did reduce the number of strokes, it also, according to Uncle Wang, stripped Chinese characters of their essence. Taiwan, to this day, continues to use the Zhuyin symbols introduced by the Nationalist government in the early 20th century. However, in recent years, some areas in Taiwan have started to accept and use Pinyin. This is partly for political reasons, such as New Taipei City under the pro-mainland Kuomintang government adopting Pinyin, and partly due to the widespread influence of mainland media platforms in Taiwan, which has created a homogenizing effect.
+
+<video controls width="100%">
+  <source src="/assets/videos/simplified-traditional.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+<br>
+<i>Mr. Peter Wang talks about traditional and simplified characters</i>
 
 Beyond the writing system, one of the major principles of the National Language Movement was the use of vernacular Chinese. In this regard, the mainland seems to have done better, particularly by making written language more colloquial, accessible, and simple. However, in the process, it has also lost some of the original polite expressions, honorifics, and formal written language elements of Mandarin. Our generation often admires the rich vocabulary, allusions, and literary skills displayed in the writings of earlier times, but unfortunately, we lack the training to appreciate or use them. Uncle Wang expressed regret over this outcome, particularly because he feels that this trend of simplification in mainland China is influencing younger generations in Taiwan. Even in popular music, the profound lyrics of older songs are often more memorable. Nowadays, young people in Taiwan are experimenting with further simplifying written language, with some even using Zhuyin symbols to replace Chinese characters in writing. Interestingly, this aligns somewhat with the original intent of creating Romanized Mandarin, offering an intriguing perspective for exploration.
 
