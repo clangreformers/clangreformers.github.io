@@ -4,14 +4,14 @@ title: "大辞典编纂处新锐——崔骥"
 date: 2026-05-11 14:00:00 -0000
 categories: history
 lang: 简体中文
-ref: cui-ji
+ref: tsui-chi
 timeline_era: 4
 author: 程士寅
 ---
 
 作者：程士寅
 
-![image](/assets/imgs/2026-05-11-cui-ji/cui-ji-portrait.jpg "崔骥"){: width="250" }
+![image](/assets/imgs/2026-05-11-tsui-chi/cui-ji-portrait.jpg "崔骥"){: width="250" }
 
 上世纪民国时期，由黎锦熙、钱玄同发起，聚集一代语言学精英，计划编纂一部集古今汉语之大成的《中国大辞典》，希冀媲美《牛津大辞典》，然因战乱、经费匮乏与时代变迁，宏愿终未完成，仅留下《国语辞典》等奠基性成果。1956年编纂处并入中科院语言研究所，人员（如魏建功、王述达）、250万张卡片与编纂规则，奠定《现代汉语词典》编纂基础。1960年《现代汉语词典》试印本问世，1978年12月正式第一版公开发行，经多次修订，《现代汉语词典》已是我国现代汉语规范化的标志性典籍，是当代汉语最具公信力、使用最广泛的标准词典。
 
@@ -20,7 +20,7 @@ author: 程士寅
 据中国大词典编纂处职员表（1931年8月），见图一，职员共31名，著名语言学大师黎锦熙、钱玄同、刘复（刘半农）、魏建功等名在前列。崔骥在第14列，职位是：委托编纂员（乙种，甲种待遇）。当时编纂员职务分四种：专任编纂员、特约编纂员、助理编纂员、委托编纂员。甲种委托职务需要按时上下班，乙种职务按工作量计酬，崔骥是在校学生，自然是"乙种"职位；撰写、翻译文章稿酬分甲、乙、丙、丁四类，崔骥是最高的"甲种待遇"。注意到职员表后的附注：乙种委托编纂员及委托蒐集员、委托整理员、委托书记员，因人数过多，此表暂从略。除崔骥外，编纂处职员表还有两位"委托职"的书记员在列，可见崔骥在编纂处"学生军"中是出类拔萃的。
 
 <div style="text-align: center; margin: 20px 0;">
-    <img src="/assets/imgs/2026-05-11-cui-ji/image1.jpeg" alt="编纂处职员表（1931.8）" style="max-width: 100%; border: 1px solid #eee;">
+    <img src="/assets/imgs/2026-05-11-tsui-chi/image1.jpeg" alt="编纂处职员表（1931.8）" style="max-width: 100%; border: 1px solid #eee;">
     <p style="font-size: 0.9em; color: #555;">图一，编纂处职员表（1931.8）</p>
 </div>
 
@@ -28,11 +28,11 @@ author: 程士寅
 
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
     <div style="text-align: center;">
-        <img src="/assets/imgs/2026-05-11-cui-ji/image2.jpeg" alt="《图书馆学季刊》目录" style="max-height: 300px; border: 1px solid #eee;">
+        <img src="/assets/imgs/2026-05-11-tsui-chi/image2.jpeg" alt="《图书馆学季刊》目录" style="max-height: 300px; border: 1px solid #eee;">
         <p style="font-size: 0.9em; color: #555;">图二，原图取自孔网图</p>
     </div>
     <div style="text-align: center;">
-        <img src="/assets/imgs/2026-05-11-cui-ji/image3.png" alt="《方言考》单行本封面" style="max-height: 300px; border: 1px solid #eee;">
+        <img src="/assets/imgs/2026-05-11-tsui-chi/image3.png" alt="《方言考》单行本封面" style="max-height: 300px; border: 1px solid #eee;">
         <p style="font-size: 0.9em; color: #555;">图三，《方言考》单行本封面</p>
     </div>
 </div>
@@ -42,7 +42,7 @@ author: 程士寅
 王重民序文参见右图，兹照录如下：
 
 <div style="text-align: center; margin: 20px 0;">
-    <img src="/assets/imgs/2026-05-11-cui-ji/image4.jpeg" alt="王重民序文" style="max-width: 80%; border: 1px solid #eee;">
+    <img src="/assets/imgs/2026-05-11-tsui-chi/image4.jpeg" alt="王重民序文" style="max-width: 80%; border: 1px solid #eee;">
     <p style="font-size: 0.9em; color: #555;">王重民先生为《方言考》所作序</p>
 </div>
 
@@ -57,7 +57,7 @@ author: 程士寅
 1937年末，崔骥告别家人，负笈远赴英国深造。
 
 <div style="text-align: center; margin: 20px 0;">
-    <img src="/assets/imgs/2026-05-11-cui-ji/image5.png" alt="崔骥" style="max-width: 80%; border: 1px solid #eee;">
+    <img src="/assets/imgs/2026-05-11-tsui-chi/image5.png" alt="崔骥" style="max-width: 80%; border: 1px solid #eee;">
 </div>
 
 2026年05月11日

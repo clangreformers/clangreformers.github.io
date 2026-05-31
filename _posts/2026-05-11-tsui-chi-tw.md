@@ -4,14 +4,14 @@ title: "大辭典編纂處新銳——崔驥"
 date: 2026-05-11 14:00:00 -0000
 categories: history
 lang: 繁體中文
-ref: cui-ji
+ref: tsui-chi
 timeline_era: 4
 author: 程士寅
 ---
 
 作者：程士寅
 
-![image](/assets/imgs/2026-05-11-cui-ji/cui-ji-portrait.jpg "崔驥"){: width="250" }
+![image](/assets/imgs/2026-05-11-tsui-chi/cui-ji-portrait.jpg "崔驥"){: width="250" }
 
 上世紀民國時期，由黎錦熙、錢玄同發起，聚集一代語言學精英，計劃編纂一部集古今漢語之大成的《中國大辭典》，希冀媲美《牛津大辭典》，然因戰亂、經費匱乏與時代變遷，宏願終未完成，僅留下《國語辭典》等奠基性成果。1956年編纂處併入中科院語言研究所，人員（如魏建功、王述達）、250萬張卡片與編纂規則，奠定《現代漢語詞典》編纂基礎。1960年《現代漢語詞典》試印本問世，1978年12月正式第一版公開發行，經多次修訂，《現代漢語詞典》已是我國現代漢語規範化的標誌性典籍，是當代漢語最具公信力、使用最廣泛的標準詞典。
 
@@ -20,7 +20,7 @@ author: 程士寅
 據中國大詞典編纂處職員表（1931年8月），見圖一，職員共31名，著名語言學大師黎錦熙、錢玄同、劉復（劉半農）、魏建功等名在前列。崔驥在第14列，職位是：委託編纂員（乙種，甲種待遇）。當時編纂員職務分四種：專任編纂員、特約編纂員、助理編纂員、委託編纂員。甲種委託職務需要按時上下班，乙種職務按工作量計酬，崔驥是在校學生，自然是「乙種」職位；撰寫、翻譯文章稿酬分甲、乙、丙、丁四類，崔驥是最高的「甲種待遇」。注意到職員表後的附註：乙種委託編纂員及委託蒐集員、委託整理員、委託書記員，因人數過多，此表暫從略。除崔驥外，編纂處職員表還有兩位「委託職」的書記員在列，可見崔驥在編纂處「學生軍」中是出類拔萃的。
 
 <div style="text-align: center; margin: 20px 0;">
-    <img src="/assets/imgs/2026-05-11-cui-ji/image1.jpeg" alt="編纂處職員表（1931.8）" style="max-width: 100%; border: 1px solid #eee;">
+    <img src="/assets/imgs/2026-05-11-tsui-chi/image1.jpeg" alt="編纂處職員表（1931.8）" style="max-width: 100%; border: 1px solid #eee;">
     <p style="font-size: 0.9em; color: #555;">圖一，編纂處職員表（1931.8）</p>
 </div>
 
@@ -28,11 +28,11 @@ author: 程士寅
 
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
     <div style="text-align: center;">
-        <img src="/assets/imgs/2026-05-11-cui-ji/image2.jpeg" alt="《圖書館學季刊》目錄" style="max-height: 300px; border: 1px solid #eee;">
+        <img src="/assets/imgs/2026-05-11-tsui-chi/image2.jpeg" alt="《圖書館學季刊》目錄" style="max-height: 300px; border: 1px solid #eee;">
         <p style="font-size: 0.9em; color: #555;">圖二，原圖取自孔網圖</p>
     </div>
     <div style="text-align: center;">
-        <img src="/assets/imgs/2026-05-11-cui-ji/image3.png" alt="《方言考》單行本封面" style="max-height: 300px; border: 1px solid #eee;">
+        <img src="/assets/imgs/2026-05-11-tsui-chi/image3.png" alt="《方言考》單行本封面" style="max-height: 300px; border: 1px solid #eee;">
         <p style="font-size: 0.9em; color: #555;">圖三，《方言考》單行本封面</p>
     </div>
 </div>
@@ -42,7 +42,7 @@ author: 程士寅
 王重民序文參見右圖，茲照錄如下：
 
 <div style="text-align: center; margin: 20px 0;">
-    <img src="/assets/imgs/2026-05-11-cui-ji/image4.jpeg" alt="王重民序文" style="max-width: 80%; border: 1px solid #eee;">
+    <img src="/assets/imgs/2026-05-11-tsui-chi/image4.jpeg" alt="王重民序文" style="max-width: 80%; border: 1px solid #eee;">
     <p style="font-size: 0.9em; color: #555;">王重民先生為《方言考》所作序</p>
 </div>
 
@@ -57,7 +57,7 @@ author: 程士寅
 1937年末，崔驥告別家人，負笈遠赴英國深造。
 
 <div style="text-align: center; margin: 20px 0;">
-    <img src="/assets/imgs/2026-05-11-cui-ji/image5.png" alt="崔驥" style="max-width: 80%; border: 1px solid #eee;">
+    <img src="/assets/imgs/2026-05-11-tsui-chi/image5.png" alt="崔驥" style="max-width: 80%; border: 1px solid #eee;">
 </div>
 
 2026年05月11日
