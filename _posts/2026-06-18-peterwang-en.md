@@ -82,5 +82,3 @@ This little play ran for several days, and the audience cheered together. Only n
 </div>
 
 Note: Wang Zhengzhong's pieces in *Guoyu Xiaobao* include "The Admirable Gandhi," "My Wild Ideas and Playwriting," "Precious Air," "The Frightening Military Truck," "Our School's Sports Day," "Winter Vacation Life," "Thoughts on Children's Education," "Self-Strengthening and Self-Abandonment," "A Page from My Diary," "Street Notes," "Minutes of the Self-Government Meeting," "Folk Songs," "A Day's Diary," "A Letter," "My Speech," "An Intelligence Test," "Folk Songs from Various Places," "I Want to Meet Chairman Chiang," "The Greedy Old Woman," and "Why Do Dogs Bite Cats on Sight?"
-
-Beijing, June 18, 2026
