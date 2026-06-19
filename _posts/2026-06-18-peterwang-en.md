@@ -6,10 +6,10 @@ categories: history
 lang: English
 ref: peterwang
 timeline_era: 4
-author: Wang Yun
+author: Peter Wang
 ---
 
-Author: Wang Yun
+Author: Peter Wang
 
 Wang Zhengfang (Peter Wang, also known as "Director Wang") returned to Beiping with his parents from the wartime rear after the Japanese surrender, and enrolled at the Second Affiliated Primary School of the Normal College (now Beijing No. 2 Experimental Primary School). Between 1947 and 1948, while in the fourth grade, he published a series of short pieces in *Guoyu Xiaobao* (the National Language Children's Paper) covering family life, school, observations and reflections. The writing is plain and earnest — a vivid sample of how Beiping schoolchildren of the period wrote in vernacular, phonetically annotated Mandarin. His elder brother, Wang Zhengzhong, also contributed many pieces to the same paper during this period. Below are five of Wang Zhengfang's pieces, plus one by Wang Zhengzhong.
 
