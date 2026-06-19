@@ -239,11 +239,14 @@ lang: 简体中文
 
 ---
 ## 崔骥
+**别名:** 少溪
+
+- [说文](https://clangreformers.github.io/people/tsuichi-cn.html)
 - 大辞典编纂处: 是
 
 
 **备注/成就:**
-《方言考》（1932年出版）
+《方言考》（1932年出版），《A Short History of Chinese Civilization》（中国史纲）
 
 
 ---

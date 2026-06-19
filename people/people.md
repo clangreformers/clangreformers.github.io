@@ -206,11 +206,14 @@ Section Chief of the Department of Special Education, Ministry of Education
 
 ---
 
-## Cui Ji
+## Tsui Chi (Cui Ji)
+**Courtesy name:** Shaoxi
+
+- [Bio](https://clangreformers.github.io/people/tsuichi.html)
 - Dictionary Compilation Office: Yes
 
 **Remarks/Achievements:**
-Published "Dialect Studies" (1932)
+Published "Dialect Studies" (1932); *A Short History of Chinese Civilization* (1942)
 
 ---
 

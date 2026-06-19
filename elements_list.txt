@@ -1,0 +1,113 @@
+Index 0: Tag=p, Text Length=9, Images=[]
+  Snippet: 杜鹃啼血 蜡炬成灰
+Index 1: Tag=p, Text Length=18, Images=[]
+  Snippet: 记崔骥，用英语讲述中国故事的旅英学者
+Index 2: Tag=p, Text Length=3, Images=[]
+  Snippet: 程士寅
+Index 3: Tag=p, Text Length=0, Images=[]
+Index 4: Tag=p, Text Length=236, Images=[]
+  Snippet: 1932年秋天，崔骥（少溪）从北京师范大学英文系毕业，辞别中国大辞典编纂处，回到江西南昌，他没有直接执教，而是受聘为江西
+Index 5: Tag=p, Text Length=0, Images=[]
+Index 6: Tag=p, Text Length=15, Images=[]
+  Snippet: TSUI CHI著译，享誉英伦
+Index 7: Tag=p, Text Length=364, Images=[]
+  Snippet: 1942年英国伦敦出版的《A Short History of Chinese Civilization》（中国史纲），
+Index 8: Tag=p, Text Length=0, Images=[]
+Index 9: Tag=p, Text Length=0, Images=[]
+Index 10: Tag=p, Text Length=0, Images=['media/image1.png', 'media/image2.jpeg']
+Index 11: Tag=p, Text Length=349, Images=[]
+  Snippet: 崔骥写的儿童读本《The Story Of China》（中国故事），插画师为卡罗琳・杰克逊，于 1945年由海雀出版社
+Index 12: Tag=p, Text Length=0, Images=['media/image3.jpeg', 'media/image4.png']
+Index 13: Tag=p, Text Length=414, Images=[]
+  Snippet: 崔骥也为英国人欣赏现代中国文学作出了贡献，他翻译了中国女作家谢冰莹的代表作《一个女兵的自传》(Autobiography
+Index 14: Tag=p, Text Length=116, Images=[]
+  Snippet: 此外，崔骥与学者布利特合作，翻译范成大《四时田园杂兴六十首》，定名《The Golden Year of Fan Che
+Index 15: Tag=p, Text Length=86, Images=[]
+  Snippet: 崔骥还为推进中英学者交流默默工作，1945 年，牛津大学有意邀请陈寅恪赴英讲学，崔骥结合实际情况，就薪俸、人手、经费等细
+Index 16: Tag=p, Text Length=131, Images=[]
+  Snippet: 十二时半崔少溪来。一会Hughes来。我请他们到香港楼吃饭。与他谈寅恪翻译唐书计划。他说这计划要成功，他们两人外需有助手
+Index 17: Tag=p, Text Length=42, Images=[]
+  Snippet: ......他今天下午到House of Common与中国委员会谈中英文化合作事。
+Index 18: Tag=p, Text Length=59, Images=[]
+  Snippet: 崔骥耗费多年心血编撰的《中国文学史》 (History of Chinese Literature)，最终却没能完成。
+Index 19: Tag=p, Text Length=0, Images=[]
+Index 20: Tag=p, Text Length=9, Images=[]
+  Snippet: 书生本色 友人称颂
+Index 21: Tag=p, Text Length=38, Images=[]
+  Snippet: 崔骥在英国生活如何？时任中英文化友好协会负责人陈西滢的两则日记留下真实记录：
+Index 22: Tag=p, Text Length=10, Images=[]
+  Snippet: 1944年4月29日
+Index 23: Tag=p, Text Length=97, Images=[]
+  Snippet: 会到了崔骥（少溪）。与他同到旅馆，谈了一小时。他是河北人，生在广东，长在江西。在江西进中学，后入师大英文系。熊式辉送他来
+Index 24: Tag=p, Text Length=9, Images=[]
+  Snippet: 1944年5月8日
+Index 25: Tag=p, Text Length=138, Images=[]
+  Snippet: “中午熊式一來電話。約了去上海樓吃飯。談了一時許。他說崔驥在江西教育廳為秘書。教廳派出洋。送了數千元。熊式輝又贈數千元。
+Index 26: Tag=p, Text Length=214, Images=[]
+  Snippet: 熊式辉是治赣十年的江西省主席，“熊式辉送他来英”，换言之，崔骥是公派来英国。公费用完了，＂靠卖文写书，与B.B.C.写广
+Index 27: Tag=p, Text Length=163, Images=[]
+  Snippet: “纯粹读书人“崔骥形象跃然纸上：不谙世事，生活极简，出门不识路，常闹笑话。他除了“讀”“写”本事，确实无能力去赚其它外快
+Index 28: Tag=p, Text Length=678, Images=[]
+  Snippet: 熊式一（1902-1991），南昌人，是崔骥北平师范大学英文学科的学长，崔骥与熊式一夫妇原是南昌旧识，熊式一曾在南昌一中
+Index 29: Tag=p, Text Length=303, Images=[]
+  Snippet: 崔骥初来伦敦时，住在伦敦汉普斯特德小镇一栋旧式的石砖建筑里，上公园街50号，与熊式一为邻，离蒋彝住地不远，附近还有留学生
+Index 30: Tag=p, Text Length=122, Images=[]
+  Snippet: 熊式一曾回忆：英国作家“韦利把《西游记》节缩译为英名《猴王》 (Monkey) 出版，其中错误百出，友人崔骥，(曾作英文
+Index 31: Tag=p, Text Length=0, Images=[]
+Index 32: Tag=p, Text Length=9, Images=[]
+  Snippet: 乡愁万里 沉疴难愈
+Index 33: Tag=p, Text Length=72, Images=[]
+  Snippet: 崔骥来英国前，小儿子尚未出生，战火阻隔，无时不思念万里外的妻儿。1945年8月15日，日本裕仁天皇宣布无条件投降。一向内
+Index 34: Tag=p, Text Length=51, Images=[]
+  Snippet: 我们这些流亡海外 的华人，难以抑制兴奋之情，真想要互相拥抱。类似的场合，人 生难逢，这一定要庆祝一番!
+Index 35: Tag=p, Text Length=134, Images=[]
+  Snippet: “流亡”两字，蕴含崔骥多少辛酸与乡愁，他终于可以回到梦牵魂绕的家了。抗战胜利后，国立中正大学从泰和农村迁至南昌郊区新建，
+Index 36: Tag=p, Text Length=72, Images=[]
+  Snippet: 崔骥用尽积蓄买了一套大英百科全书，准备回国继续他的写作和研究。昂贵的大英百科全书素为图书馆等机构所收藏，罕见个人购买，尤
+Index 37: Tag=p, Text Length=140, Images=[]
+  Snippet: 祸从天降，崔骥不久经医生检查确诊患肾结核，便马上住院治疗，后来转去肯特的马盖特疗养院住了两年，又回到牛津继续疗养两年，手
+Index 38: Tag=p, Text Length=499, Images=[]
+  Snippet: 崔骥在南昌的家人一再敦促他回国，他的身体状况使他回国的计划一再推迟。战后中正大学师资匮乏，经岳父斡旋，1948年夏天崔骥
+Index 39: Tag=p, Text Length=61, Images=[]
+  Snippet: 转年朝鲜战争爆发，崔骥家人心焦如焚，催他赶紧动身回去。崔骥决心抱病而归，回信说已经订了船票，12月与熊式一的次子一起动身
+Index 40: Tag=p, Text Length=55, Images=[]
+  Snippet: 崔骥回不去了，手握船票却登不了回家的船。1950年10月28日，他因肾结核医治无效在牛津辞世， 年仅四十一岁。
+Index 41: Tag=p, Text Length=155, Images=[]
+  Snippet: 崔骥英年早逝，熟悉他的中外文化友人无不痛惜。崔骥是朋友公认的优秀旅英中国史学家，他学识渊博，待人谦和厚道，不计较名利，学
+Index 42: Tag=p, Text Length=88, Images=[]
+  Snippet: 崔骥的诗人好友杰拉尔德.布利特以诗《崔骥》吊唁：“他饱受了顽疾苦痛的缠扰/站起身来，离我们而去……/他再也不用担心黑夜的
+Index 43: Tag=p, Text Length=0, Images=[]
+Index 44: Tag=p, Text Length=1, Images=['media/image5.png']
+  Snippet: 。
+Index 45: Tag=p, Text Length=0, Images=[]
+Index 46: Tag=p, Text Length=9, Images=[]
+  Snippet: 身后寂寥 文脉长存
+Index 47: Tag=p, Text Length=135, Images=[]
+  Snippet: 崔骥去世半年后，熊式一夫人蔡岱梅的英文自传体小说《海外花实》(Flowering Exile)出版，《海外花实》讲述了一
+Index 48: Tag=p, Text Length=125, Images=[]
+  Snippet: 崔骥去世不久，从法国巴黎大学学成归国的许渊冲途经伦敦，表叔熊式一委托他捎带崔骥部分遗物给崔骥家人。面对崔骥夫人和岳父凄楚
+Index 49: Tag=p, Text Length=65, Images=[]
+  Snippet: 祸不单行。崔骥寄回的《大英百科全书》被江西省图书馆收购，家人用书款买了南昌羊子巷的一间屋子，不料一场大火焚毁了居所，生活
+Index 50: Tag=p, Text Length=157, Images=[]
+  Snippet: 蒋彝、熊式一、先后回国探亲访问，他们已是享誉世界的华人双语作家，受到欢迎和礼遇，蒋彝还曾受邀出席国宴。蒋彝会见了阔别几十
+Index 51: Tag=p, Text Length=131, Images=[]
+  Snippet: 唯有崔骥，崔少溪，仍孤独地躺在万里之遥的牛津博特利公墓，墓前肃立的白玉墓碑，中文和英文碑文，经历七十多年风雨侵袭已模糊不
+Index 52: Tag=p, Text Length=0, Images=[]
+Index 53: Tag=p, Text Length=0, Images=[]
+Index 54: Tag=p, Text Length=4, Images=[]
+  Snippet: 参考书目
+Index 55: Tag=p, Text Length=73, Images=[]
+  Snippet: 《熊式一：消失的“中国莎士比亚》/(美)郑达著 .—北京：生活 ·读书 ·新知三联书店，2023.7，ISBN 978-
+Index 56: Tag=p, Text Length=111, Images=[]
+  Snippet: 《蒋彝和他的文友：旅英华人的艺术创作与社会交往：1930—1950》/(英)保罗 · 贝文，(英)安妮 · 韦查德， 郑
+Index 57: Tag=p, Text Length=63, Images=[]
+  Snippet: 《八十回忆》/熊式一著;陈子善编.—北京：海豚出版，2010.9，ISBN         978-7-5110-039
+Index 58: Tag=p, Text Length=65, Images=[]
+  Snippet: 《陈西滢日记书信选集》、陈西滢著，傅光明编注，东方出版中心（上海），2022年12月，ISBN 978-7-5473-2
+Index 59: Tag=p, Text Length=0, Images=[]
+Index 60: Tag=p, Text Length=0, Images=[]
+Index 61: Tag=p, Text Length=0, Images=[]
+Index 62: Tag=p, Text Length=0, Images=[]
+Index 63: Tag=p, Text Length=0, Images=[]
+Index 64: Tag=p, Text Length=0, Images=[]
+Index 65: Tag=sectPr, Text Length=0, Images=[]

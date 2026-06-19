@@ -1,0 +1,9 @@
+2026-06-19 15:04:39 [ WARNING] slack_mcp.mcp.entry: Environment file not found: /Users/yingxian_wang/workspace/clangreformers/.env
+2026-06-19 15:04:39 [    INFO] slack_mcp.client.manager: All client caches cleared
+2026-06-19 15:04:39 [    INFO] slack_mcp.client.manager: Updated retry count to 3 and cleared client caches
+2026-06-19 15:04:39 [    INFO] slack_mcp.mcp.server: Slack client retry count set to 3 and client cache cleared
+2026-06-19 15:04:39 [    INFO] slack_mcp.mcp.entry: Starting Slack MCP server: transport=MCPTransportType.STUDIO
+2026-06-19 15:04:39 [    INFO] slack_mcp.mcp.entry: Running stdio transport
+2026-06-19 15:04:39 [    INFO] mcp.server.lowlevel.server: Processing request of type ListToolsRequest
+2026-06-19 15:04:39 [    INFO] mcp.server.lowlevel.server: Processing request of type ListPromptsRequest
+2026-06-19 15:04:39 [    INFO] mcp.server.lowlevel.server: Processing request of type ListResourcesRequest

@@ -75,7 +75,7 @@
 陈宗藩,
 陈志先,
 程良楷,
-崔骥,
+[崔骥](https://clangreformers.github.io/people/tsuichi-cn.html),
 戴应观,
 [刁汝钧](https://baike.baidu.com/item/刁汝钧?fromModule=lemma_search-box),
 [丁声树](https://zh.wikipedia.org/wiki/丁聲樹),
