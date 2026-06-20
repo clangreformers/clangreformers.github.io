@@ -6,168 +6,243 @@ lang: 繁體中文
 ---
 
 <style>
-body {
-    font-family: 'Microsoft YaHei', SimSun, sans-serif;
-    margin: 0;
-    padding: 20px;
-    background-color: #f8f9fa;
-    line-height: 1.6;
-}
-
-.timeline-container {
-    max-width: 1200px;
+.tl-wrap {
+    --tl-accent: #b8860b;
+    --tl-accent-soft: #d4af37;
+    --tl-ink: #2c2418;
+    --tl-muted: #6b5d4f;
+    --tl-spine: #d9cfbf;
+    --tl-card: #fffdf8;
+    --tl-card-border: #e8dfcc;
+    max-width: 980px;
     margin: 0 auto;
-    padding: 20px;
+    padding: 1rem 1rem 3rem;
+    color: var(--tl-ink);
+    font-family: 'Songti TC', 'Songti SC', 'STSong', Georgia, serif;
 }
 
-.timeline-title {
+.tl-intro {
     text-align: center;
-    font-size: 2.5em;
-    color: #2c3e50;
-    margin-bottom: 40px;
-    font-weight: bold;
+    color: var(--tl-muted);
+    font-style: italic;
+    margin-bottom: 3rem;
+    font-size: 1.05rem;
 }
 
-.timeline-flow {
-    display: flex;
-    flex-direction: column;
-    gap: 30px;
-    padding: 20px 0;
-}
-
-.timeline-box {
-    background: linear-gradient(135deg, #4a90e2, #357abd);
-    color: white;
-    padding: 25px;
-    border-radius: 15px;
-    width: 100%;
-    max-width: none;
-    box-shadow: 0 8px 25px rgba(0,0,0,0.15);
+.tl-track {
     position: relative;
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    padding: 1rem 0;
 }
 
-.timeline-box:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 12px 35px rgba(0,0,0,0.2);
+.tl-track::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 50%;
+    width: 2px;
+    background: linear-gradient(to bottom,
+        transparent 0,
+        var(--tl-spine) 40px,
+        var(--tl-spine) calc(100% - 40px),
+        transparent 100%);
+    transform: translateX(-50%);
 }
 
-.period-title {
-    font-size: 1.3em;
-    font-weight: bold;
+.tl-item {
+    position: relative;
+    width: 50%;
+    padding: 1rem 2.5rem;
+    box-sizing: border-box;
+}
+
+.tl-item.left { margin-left: 0; text-align: right; }
+.tl-item.right { margin-left: 50%; text-align: left; }
+
+.tl-item::before {
+    content: "";
+    position: absolute;
+    top: 2.2rem;
+    width: 16px;
+    height: 16px;
+    background: var(--tl-card);
+    border: 3px solid var(--tl-accent);
+    border-radius: 50%;
+    z-index: 2;
+    box-shadow: 0 0 0 4px var(--tl-card);
+}
+
+.tl-item.left::before { right: -8px; }
+.tl-item.right::before { left: -8px; }
+
+.tl-card {
+    background: var(--tl-card);
+    border: 1px solid var(--tl-card-border);
+    border-radius: 6px;
+    padding: 1.25rem 1.5rem 1.4rem;
+    box-shadow: 0 2px 8px rgba(40, 30, 15, 0.05);
     text-align: left;
-    margin-bottom: 20px;
-    padding-bottom: 15px;
-    border-bottom: 2px solid rgba(255,255,255,0.3);
-}
-
-.timeline-box ul {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-}
-
-.timeline-box li {
-    margin-bottom: 15px;
-    font-size: 1em;
-    line-height: 1.5;
     position: relative;
-    padding-left: 20px;
 }
 
-.timeline-box li:before {
-    content: "•";
-    color: #ffd700;
-    font-weight: bold;
+.tl-card::before {
+    content: "";
+    position: absolute;
+    top: 1.5rem;
+    width: 0;
+    height: 0;
+    border-style: solid;
+}
+
+.tl-item.left .tl-card::before {
+    right: -10px;
+    border-width: 8px 0 8px 10px;
+    border-color: transparent transparent transparent var(--tl-card-border);
+}
+
+.tl-item.right .tl-card::before {
+    left: -10px;
+    border-width: 8px 10px 8px 0;
+    border-color: transparent var(--tl-card-border) transparent transparent;
+}
+
+.tl-era {
+    display: inline-block;
+    font-size: 0.78rem;
+    letter-spacing: 0.15em;
+    color: var(--tl-accent);
+    font-weight: 700;
+    margin-bottom: 0.35rem;
+    font-family: -apple-system, 'PingFang TC', sans-serif;
+}
+
+.tl-period {
+    font-size: 1.2rem;
+    font-weight: 700;
+    color: var(--tl-ink);
+    line-height: 1.3;
+    margin-bottom: 0.9rem;
+    padding-bottom: 0.6rem;
+    border-bottom: 1px solid var(--tl-card-border);
+}
+
+.tl-card ul { list-style: none; padding: 0; margin: 0; }
+
+.tl-card li {
+    position: relative;
+    padding-left: 1.1rem;
+    margin-bottom: 0.7rem;
+    line-height: 1.7;
+    font-size: 0.97rem;
+    color: var(--tl-ink);
+}
+
+.tl-card li:last-child { margin-bottom: 0; }
+
+.tl-card li::before {
+    content: "";
     position: absolute;
     left: 0;
-    font-size: 1.2em;
+    top: 0.7rem;
+    width: 5px;
+    height: 5px;
+    background: var(--tl-accent-soft);
+    border-radius: 50%;
 }
 
 .year {
-    font-weight: bold;
-    color: #ffd700;
+    display: inline-block;
+    font-weight: 700;
+    color: var(--tl-accent);
+    font-family: -apple-system, 'PingFang TC', sans-serif;
 }
 
-.arrow {
-    position: absolute;
-    bottom: -20px;
-    left: 50%;
-    transform: translateX(-50%);
-    font-size: 2em;
-    color: #4a90e2;
-    z-index: 10;
-}
-
-.timeline-box:last-child .arrow {
-    display: none;
-}
-
-@media (max-width: 768px) {
-    .timeline-box {
-        padding: 20px;
+@media (max-width: 720px) {
+    .tl-track::before { left: 18px; }
+    .tl-item, .tl-item.left, .tl-item.right {
+        width: 100%;
+        margin-left: 0;
+        padding: 0.6rem 0 0.6rem 2.5rem;
+        text-align: left;
     }
-    
-    .period-title {
-        font-size: 1.1em;
+    .tl-item.left::before, .tl-item.right::before {
+        left: 10px; right: auto;
     }
-    
-    .timeline-box li {
-        font-size: 0.9em;
-        padding-left: 15px;
+    .tl-item.left .tl-card::before, .tl-item.right .tl-card::before {
+        left: -10px; right: auto;
+        border-width: 8px 10px 8px 0;
+        border-color: transparent var(--tl-card-border) transparent transparent;
     }
+    .tl-period { font-size: 1.05rem; }
 }
-
 </style>
 
-<div class="timeline-flow">
-    <div class="timeline-box">
-        <div class="period-title">切音運動 (十九世紀末)</div>
-        <ul>
-            <li><span class="year">1892年</span>，盧戲章出版《一目了然初階》（什麽是切音字？），為羅馬字注音方案的重要開始。</li>
-            <li>同時，魏旭等人的《傳音快字》、齊寶琦的《易字法》、王照等人提出的工況繁拼《拼音法》的有感媒助的官音方案。</li>
-            <li>這一時期的官音運動帶有民商性質，民間的。</li>
-        </ul>
-        <div class="arrow">↓</div>
+<div class="tl-wrap">
+
+<p class="tl-intro">漢語文字現代化的五個階段——從清末改良者到統一的拼音方案。</p>
+
+<div class="tl-track">
+
+  <div class="tl-item left">
+    <div class="tl-card">
+      <span class="tl-era">第一階段 · 十九世紀末</span>
+      <div class="tl-period">切音運動</div>
+      <ul>
+        <li><span class="year">1892年</span>，盧戇章出版《一目了然初階》，為羅馬字注音方案的重要開端。</li>
+        <li>同時，魏旭等人的《傳音快字》、齊寶琦的《易字法》、王照等人的《拼音法》相繼問世。</li>
+        <li>這一時期的注音運動帶有民商性質，源於民間。</li>
+      </ul>
     </div>
-    
-    <div class="timeline-box">
-        <div class="period-title">簡字運動 (1900-1912)</div>
-        <ul>
-            <li><span class="year">1900年</span>，王照出版《官話合聲字母》，比先前切音運動較成熟，開始有了廣泛的宣傳和推廣；</li>
-            <li>另外，注音教學及官話教學也大行其道，仍屬民間性質方式。</li>
-        </ul>
-        <div class="arrow">↓</div>
+  </div>
+
+  <div class="tl-item right">
+    <div class="tl-card">
+      <span class="tl-era">第二階段 · 1900–1912</span>
+      <div class="tl-period">簡字運動</div>
+      <ul>
+        <li><span class="year">1900年</span>，王照出版《官話合聲字母》，比此前切音運動更為成熟，開始有了廣泛的宣傳與推廣。</li>
+        <li>此外，注音教學及官話教學也大行其道，仍屬民間性質。</li>
+      </ul>
     </div>
-    
-    <div class="timeline-box">
-        <div class="period-title">注音字母運動時期 (1913-1928)</div>
-        <ul>
-            <li><span class="year">1913年</span>，中華民國教育部召開了"讀音統一會"，決定6500個字的標准音，並制定現在的注音符號。</li>
-            <li><span class="year">1916年</span>，北洋政府會議正式確定"國定字母"教學推廣工作開始。</li>
-            <li><span class="year">1918年</span>，發布由注音字母規定正式規天下，《國語字典》出版。</li>
-            <li><span class="year">1920年</span>，教育部頒會改組漢字委員會，學校開始推行注音文教。</li>
-        </ul>
-        <div class="arrow">↓</div>
+  </div>
+
+  <div class="tl-item left">
+    <div class="tl-card">
+      <span class="tl-era">第三階段 · 1913–1928</span>
+      <div class="tl-period">注音字母運動時期</div>
+      <ul>
+        <li><span class="year">1913年</span>，中華民國教育部召開「讀音統一會」，確定6500字的標準音，並制定現行的注音符號。</li>
+        <li><span class="year">1916年</span>，北洋政府正式確定「國定字母」，教學推廣工作開始。</li>
+        <li><span class="year">1918年</span>，注音字母正式頒行天下，《國語字典》出版。</li>
+        <li><span class="year">1920年</span>，教育部改組漢字委員會，學校開始推行注音教學。</li>
+      </ul>
     </div>
-    
-    <div class="timeline-box">
-        <div class="period-title">國語羅馬字運動階段 (1928-1949)</div>
-        <ul>
-            <li><span class="year">1928年</span>，"中國大學院"頒布"中正式國語羅馬字"，作為正式拼音工具自此開始。</li>
-            <li><span class="year">1932年</span>，中華民國教育部公告《國語羅馬字》（拼音國語），作定羅馬拼音符號的統制度。</li>
-            <li><span class="year">1931年</span>，蘇聯科學院東方研究所和中國文字改革研究會的書面標准。</li>
-            <li><span class="year">1940年</span>，《國語辭典》（四聲版）正式出版，成為日用國語習中國語言標准的拼音。</li>
-        </ul>
-        <div class="arrow">↓</div>
+  </div>
+
+  <div class="tl-item right">
+    <div class="tl-card">
+      <span class="tl-era">第四階段 · 1928–1949</span>
+      <div class="tl-period">國語羅馬字運動階段</div>
+      <ul>
+        <li><span class="year">1928年</span>，「中國大學院」頒布《國語羅馬字》，作為正式拼音工具自此開始。</li>
+        <li><span class="year">1931年</span>，蘇聯科學院東方研究所與中國文字改革研究會頒布書面標準。</li>
+        <li><span class="year">1932年</span>，中華民國教育部公告《國語羅馬字》（拼音國語），確定羅馬拼音符號的統一制度。</li>
+        <li><span class="year">1940年</span>，《國語辭典》（四聲版）正式出版，成為日用國語與漢語標準的拼音依據。</li>
+      </ul>
     </div>
-    
-    <div class="timeline-box">
-        <div class="period-title">文字改革化階段<br>(中華人民共和國)<br>(1949-1960)</div>
-        <ul>
-            <li><span class="year">1956年</span>，中華人民共和國成立60年來的第一段拼音方案，吸引大批文字學者的注意協作合作。</li>
-            <li><span class="year">1958年</span>，中華人民共和國頒布"中華人民共和國漢語拼音方案"，稱為拼音符號，成為法定的漢語注音方案。</li>
-            <li><span class="year">1960年</span>，《現代漢語詞典》出版，確定漢語用字規範，為拼音文字的推廣奠定基礎。</li>
-        </ul>
+  </div>
+
+  <div class="tl-item left">
+    <div class="tl-card">
+      <span class="tl-era">第五階段 · 1949–1960 · 中華人民共和國</span>
+      <div class="tl-period">文字改革階段</div>
+      <ul>
+        <li><span class="year">1956年</span>，中華人民共和國推出第一套拼音方案，吸引大批文字學者關注與協作。</li>
+        <li><span class="year">1958年</span>，《中華人民共和國漢語拼音方案》正式頒布，成為法定的漢語注音方案。</li>
+        <li><span class="year">1960年</span>，《現代漢語詞典》出版，確立漢字規範，為拼音文字的推廣奠定基礎。</li>
+      </ul>
     </div>
+  </div>
+
+</div>
 </div>
