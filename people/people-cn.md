@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: rolodex
 title: 国语运动人物表 (按拼音排序）
 ref: people
 lang: 简体中文

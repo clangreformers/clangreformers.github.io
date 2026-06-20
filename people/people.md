@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: rolodex
 title: Figures in the Mandarin Language Movement (Sorted by Pinyin)  
 ref:  people
 lang: English

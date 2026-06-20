@@ -1,0 +1,279 @@
+---
+layout: default
+---
+<article class="post rolodex-page">
+
+  <div class="return-nav" style="margin-bottom: 20px;">
+    <a href="{{ site.baseurl }}/{% if page.lang == '简体中文' %}index-cn.html{% elsif page.lang == '繁體中文' %}index-tw.html{% endif %}"
+      style="display: inline-block; text-decoration: none; font-size: 2em; font-weight: bold; color: #fff; background-color: #999; padding: 5px 15px; border-radius: 5px; line-height: 1;">&#8592;</a>
+  </div>
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+  </header>
+
+  <div class="rolodex-toolbar">
+    <input type="search" id="rolodex-filter" class="rolodex-search"
+      placeholder="{% if page.lang == '简体中文' %}搜索人物…{% elsif page.lang == '繁體中文' %}搜尋人物…{% else %}Filter by name…{% endif %}" />
+    <span class="rolodex-count" id="rolodex-count"></span>
+  </div>
+
+  <div class="post-content rolodex-source" hidden>
+    {{ content }}
+  </div>
+
+  <div class="rolodex-grid" id="rolodex-grid"></div>
+
+</article>
+
+<style>
+  .rolodex-page .post-title {
+    text-align: center;
+    margin-bottom: 0.5em;
+  }
+  .rolodex-toolbar {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    justify-content: center;
+    margin: 16px 0 28px;
+    flex-wrap: wrap;
+  }
+  .rolodex-search {
+    width: min(420px, 90%);
+    padding: 10px 14px;
+    border: 1px solid #d0d0d0;
+    border-radius: 999px;
+    font-size: 1rem;
+    outline: none;
+    transition: box-shadow .2s, border-color .2s;
+    background: #fff;
+  }
+  .rolodex-search:focus {
+    border-color: #b08a4a;
+    box-shadow: 0 0 0 4px rgba(176, 138, 74, 0.15);
+  }
+  .rolodex-count {
+    color: #777;
+    font-size: 0.9rem;
+  }
+
+  .rolodex-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 18px;
+    align-items: stretch;
+  }
+
+  .rolodex-card {
+    position: relative;
+    background:
+      linear-gradient(180deg, #ffffff 0%, #fbf7ef 100%);
+    border: 1px solid #e6dcc6;
+    border-radius: 10px;
+    padding: 18px 18px 16px 22px;
+    box-shadow: 0 1px 2px rgba(0,0,0,0.04), 0 6px 14px rgba(0,0,0,0.05);
+    transition: transform .15s ease, box-shadow .15s ease;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+  }
+  .rolodex-card::before {
+    content: "";
+    position: absolute;
+    left: 0; top: 0; bottom: 0;
+    width: 5px;
+    background: linear-gradient(180deg, #c9a14a, #8a6a2c);
+  }
+  .rolodex-card::after {
+    content: "";
+    position: absolute;
+    left: 14px;
+    top: 14px;
+    bottom: 14px;
+    width: 1px;
+    border-left: 1px dashed rgba(176, 138, 74, 0.35);
+    pointer-events: none;
+  }
+  .rolodex-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 2px 4px rgba(0,0,0,0.06), 0 12px 24px rgba(0,0,0,0.08);
+  }
+
+  .rolodex-card .card-name {
+    font-size: 1.25rem;
+    font-weight: 700;
+    margin: 0 0 4px;
+    color: #2b2b2b;
+    letter-spacing: 0.01em;
+  }
+  .rolodex-card .card-alias {
+    font-size: 0.9rem;
+    color: #8a6a2c;
+    font-style: italic;
+    margin: 0 0 10px;
+  }
+  .rolodex-card .card-body {
+    font-size: 0.92rem;
+    color: #3a3a3a;
+    line-height: 1.5;
+  }
+  .rolodex-card .card-body ul {
+    list-style: none;
+    padding: 0;
+    margin: 0 0 8px;
+  }
+  .rolodex-card .card-body ul li {
+    padding: 3px 0 3px 14px;
+    position: relative;
+  }
+  .rolodex-card .card-body ul li::before {
+    content: "•";
+    position: absolute;
+    left: 0;
+    color: #b08a4a;
+  }
+  .rolodex-card .card-body p {
+    margin: 6px 0;
+  }
+  .rolodex-card .card-body strong {
+    color: #2b2b2b;
+  }
+  .rolodex-card .card-body a {
+    color: #6b4f1f;
+    text-decoration: none;
+    border-bottom: 1px solid rgba(107, 79, 31, 0.3);
+  }
+  .rolodex-card .card-body a:hover {
+    border-bottom-color: #6b4f1f;
+  }
+
+  .rolodex-card.is-hidden { display: none; }
+
+  .rolodex-empty {
+    grid-column: 1 / -1;
+    text-align: center;
+    color: #999;
+    padding: 40px 0;
+    font-style: italic;
+  }
+
+  @media (max-width: 480px) {
+    .rolodex-grid { grid-template-columns: 1fr; }
+  }
+</style>
+
+<script>
+  (function () {
+    const source = document.querySelector('.rolodex-source');
+    const grid = document.getElementById('rolodex-grid');
+    if (!source || !grid) return;
+
+    // Walk children of the rendered markdown. Each "card" begins at an <h2>
+    // (## Name) and continues until the next <h2> or <hr>. Stray <hr>s end a card.
+    const nodes = Array.from(source.children);
+    const cards = [];
+    let current = null;
+
+    function startCard(h) {
+      const name = h.textContent.trim();
+      if (!name) return null;
+      return { name: name, parts: [] };
+    }
+
+    nodes.forEach(function (n) {
+      const tag = n.tagName;
+      if (tag === 'H2') {
+        if (current) cards.push(current);
+        current = startCard(n);
+      } else if (tag === 'HR') {
+        if (current) { cards.push(current); current = null; }
+      } else if (tag === 'H1') {
+        // ignore
+      } else {
+        if (current) current.parts.push(n.cloneNode(true));
+      }
+    });
+    if (current) cards.push(current);
+
+    // Build cards
+    const frag = document.createDocumentFragment();
+    cards.forEach(function (c) {
+      if (!c.name) return;
+      // Skip junk headings that came from broken markdown (no body content)
+      if (!c.parts.length) {
+        // still render — name only
+      }
+      const card = document.createElement('div');
+      card.className = 'rolodex-card';
+
+      const nameEl = document.createElement('h3');
+      nameEl.className = 'card-name';
+      nameEl.textContent = c.name;
+      card.appendChild(nameEl);
+
+      // Pull the first <p> if it begins with **Alias / 别名 / 別名 / Also known as / Courtesy / Alias** — render as alias
+      const body = document.createElement('div');
+      body.className = 'card-body';
+      let aliasEl = null;
+      c.parts.forEach(function (p, idx) {
+        if (idx === 0 && p.tagName === 'P') {
+          const strong = p.querySelector('strong');
+          if (strong) {
+            const label = strong.textContent.trim().replace(/[:：]$/, '');
+            if (/^(Alias|Also known as|Courtesy name|别名|別名|Also)$/i.test(label)) {
+              aliasEl = document.createElement('div');
+              aliasEl.className = 'card-alias';
+              const text = p.textContent.replace(strong.textContent, '').replace(/^[\s:：]+/, '').trim();
+              aliasEl.textContent = label + ': ' + text;
+              return;
+            }
+          }
+        }
+        body.appendChild(p);
+      });
+      if (aliasEl) card.insertBefore(aliasEl, card.children[1] || null);
+      card.appendChild(body);
+
+      // Searchable text
+      card.dataset.search = (c.name + ' ' + body.textContent + (aliasEl ? ' ' + aliasEl.textContent : '')).toLowerCase();
+      frag.appendChild(card);
+    });
+    grid.appendChild(frag);
+
+    const countEl = document.getElementById('rolodex-count');
+    function updateCount(visible) {
+      if (!countEl) return;
+      const total = grid.querySelectorAll('.rolodex-card').length;
+      countEl.textContent = visible === total
+        ? total + ' / ' + total
+        : visible + ' / ' + total;
+    }
+    updateCount(grid.querySelectorAll('.rolodex-card').length);
+
+    const filter = document.getElementById('rolodex-filter');
+    if (filter) {
+      filter.addEventListener('input', function () {
+        const q = filter.value.trim().toLowerCase();
+        let visible = 0;
+        grid.querySelectorAll('.rolodex-card').forEach(function (card) {
+          const match = !q || card.dataset.search.indexOf(q) !== -1;
+          card.classList.toggle('is-hidden', !match);
+          if (match) visible++;
+        });
+        let empty = grid.querySelector('.rolodex-empty');
+        if (visible === 0) {
+          if (!empty) {
+            empty = document.createElement('div');
+            empty.className = 'rolodex-empty';
+            empty.textContent = 'No matches';
+            grid.appendChild(empty);
+          }
+        } else if (empty) {
+          empty.remove();
+        }
+        updateCount(visible);
+      });
+    }
+  })();
+</script>
