@@ -22,7 +22,7 @@ layout: default
     {{ content }}
   </div>
 
-  <div class="rolodex-grid" id="rolodex-grid"></div>
+  <div class="rolodex-groups" id="rolodex-groups"></div>
 
 </article>
 
@@ -58,12 +58,61 @@ layout: default
     font-size: 0.9rem;
   }
 
+  .rolodex-groups {
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+  }
+
+  .rolodex-group {
+    border: 1px solid #e6dcc6;
+    border-radius: 10px;
+    background: #fbf7ef;
+    overflow: hidden;
+  }
+
+  .rolodex-group-header {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 10px 16px;
+    cursor: pointer;
+    background: linear-gradient(180deg, #f7eedd 0%, #f0e3c5 100%);
+    border-bottom: 1px solid #e6dcc6;
+    user-select: none;
+  }
+  .rolodex-group-header:hover {
+    background: linear-gradient(180deg, #f4e7cd 0%, #ecdcb6 100%);
+  }
+  .rolodex-group-header .group-name {
+    font-size: 1.15rem;
+    font-weight: 700;
+    color: #6b4f1f;
+    letter-spacing: 0.02em;
+  }
+  .rolodex-group-header .group-count {
+    color: #8a6a2c;
+    font-size: 0.85rem;
+  }
+  .rolodex-group-header .group-toggle {
+    margin-left: auto;
+    font-size: 0.9rem;
+    color: #8a6a2c;
+    transition: transform .2s ease;
+  }
+  .rolodex-group.is-expanded .rolodex-group-header .group-toggle {
+    transform: rotate(90deg);
+  }
+
   .rolodex-grid {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
     gap: 18px;
     align-items: stretch;
+    padding: 16px;
   }
+  .rolodex-card.is-collapsed { display: none; }
+  .rolodex-group.is-empty { display: none; }
 
   .rolodex-card {
     position: relative;
@@ -166,8 +215,26 @@ layout: default
 <script>
   (function () {
     const source = document.querySelector('.rolodex-source');
-    const grid = document.getElementById('rolodex-grid');
-    if (!source || !grid) return;
+    const groupsEl = document.getElementById('rolodex-groups');
+    if (!source || !groupsEl) return;
+
+    const lang = {{ page.lang | jsonify }};
+    const isCN = lang === '简体中文' || lang === '繁體中文';
+    const noMatchText = isCN ? '没有匹配' : 'No matches';
+
+    function lastNameOf(name) {
+      // CJK: first character is the surname.
+      // Latin: first whitespace-separated token.
+      const trimmed = name.trim();
+      if (!trimmed) return '';
+      const first = trimmed.codePointAt(0);
+      const isCJK =
+        (first >= 0x4E00 && first <= 0x9FFF) ||
+        (first >= 0x3400 && first <= 0x4DBF) ||
+        (first >= 0x20000 && first <= 0x2A6DF);
+      if (isCJK) return String.fromCodePoint(first);
+      return trimmed.split(/\s+/)[0];
+    }
 
     // Walk children of the rendered markdown. Each "card" begins at an <h2>
     // (## Name) and continues until the next <h2> or <hr>. Stray <hr>s end a card.
@@ -196,14 +263,22 @@ layout: default
     });
     if (current) cards.push(current);
 
-    // Build cards
-    const frag = document.createDocumentFragment();
+    // Group cards by last name, preserving first-occurrence order.
+    const groups = [];
+    const groupIndex = new Map();
     cards.forEach(function (c) {
       if (!c.name) return;
-      // Skip junk headings that came from broken markdown (no body content)
-      if (!c.parts.length) {
-        // still render — name only
+      const ln = lastNameOf(c.name);
+      let g = groupIndex.get(ln);
+      if (!g) {
+        g = { lastName: ln, cards: [] };
+        groupIndex.set(ln, g);
+        groups.push(g);
       }
+      g.cards.push(c);
+    });
+
+    function buildCard(c) {
       const card = document.createElement('div');
       card.className = 'rolodex-card';
 
@@ -212,7 +287,6 @@ layout: default
       nameEl.textContent = c.name;
       card.appendChild(nameEl);
 
-      // Pull the first <p> if it begins with **Alias / 别名 / 別名 / Also known as / Courtesy / Alias** — render as alias
       const body = document.createElement('div');
       body.className = 'card-body';
       let aliasEl = null;
@@ -235,39 +309,119 @@ layout: default
       if (aliasEl) card.insertBefore(aliasEl, card.children[1] || null);
       card.appendChild(body);
 
-      // Searchable text
       card.dataset.search = (c.name + ' ' + body.textContent + (aliasEl ? ' ' + aliasEl.textContent : '')).toLowerCase();
-      frag.appendChild(card);
+      return card;
+    }
+
+    const frag = document.createDocumentFragment();
+    let totalCards = 0;
+    groups.forEach(function (g) {
+      const groupEl = document.createElement('div');
+      groupEl.className = 'rolodex-group';
+      groupEl.dataset.lastName = g.lastName;
+
+      const header = document.createElement('div');
+      header.className = 'rolodex-group-header';
+      header.setAttribute('role', 'button');
+      header.setAttribute('tabindex', '0');
+
+      const nameSpan = document.createElement('span');
+      nameSpan.className = 'group-name';
+      nameSpan.textContent = g.lastName;
+      header.appendChild(nameSpan);
+
+      const countSpan = document.createElement('span');
+      countSpan.className = 'group-count';
+      countSpan.textContent = '(' + g.cards.length + ')';
+      header.appendChild(countSpan);
+
+      const toggle = document.createElement('span');
+      toggle.className = 'group-toggle';
+      toggle.textContent = '▶';
+      header.appendChild(toggle);
+
+      const grid = document.createElement('div');
+      grid.className = 'rolodex-grid';
+
+      g.cards.forEach(function (c, idx) {
+        const cardEl = buildCard(c);
+        // By default: only the first card per last-name group is visible (expanded).
+        if (idx > 0) cardEl.classList.add('is-collapsed');
+        grid.appendChild(cardEl);
+        totalCards++;
+      });
+
+      groupEl.appendChild(header);
+      groupEl.appendChild(grid);
+
+      function toggleGroup() {
+        const expanded = groupEl.classList.toggle('is-expanded');
+        grid.querySelectorAll('.rolodex-card').forEach(function (card, idx) {
+          if (idx === 0) return;
+          card.classList.toggle('is-collapsed', !expanded);
+        });
+      }
+      header.addEventListener('click', toggleGroup);
+      header.addEventListener('keydown', function (e) {
+        if (e.key === 'Enter' || e.key === ' ') {
+          e.preventDefault();
+          toggleGroup();
+        }
+      });
+
+      frag.appendChild(groupEl);
     });
-    grid.appendChild(frag);
+    groupsEl.appendChild(frag);
 
     const countEl = document.getElementById('rolodex-count');
     function updateCount(visible) {
       if (!countEl) return;
-      const total = grid.querySelectorAll('.rolodex-card').length;
-      countEl.textContent = visible === total
-        ? total + ' / ' + total
-        : visible + ' / ' + total;
+      countEl.textContent = visible === totalCards
+        ? totalCards + ' / ' + totalCards
+        : visible + ' / ' + totalCards;
     }
-    updateCount(grid.querySelectorAll('.rolodex-card').length);
+    updateCount(totalCards);
 
     const filter = document.getElementById('rolodex-filter');
     if (filter) {
       filter.addEventListener('input', function () {
         const q = filter.value.trim().toLowerCase();
         let visible = 0;
-        grid.querySelectorAll('.rolodex-card').forEach(function (card) {
-          const match = !q || card.dataset.search.indexOf(q) !== -1;
-          card.classList.toggle('is-hidden', !match);
-          if (match) visible++;
+        groupsEl.querySelectorAll('.rolodex-group').forEach(function (groupEl) {
+          let groupVisible = 0;
+          const cards = groupEl.querySelectorAll('.rolodex-card');
+          cards.forEach(function (card, idx) {
+            const match = !q || card.dataset.search.indexOf(q) !== -1;
+            if (q) {
+              // While searching, ignore collapse and show every match.
+              card.classList.toggle('is-collapsed', !match);
+            } else {
+              // No query: restore default collapsed state (only first card visible
+              // unless the group has been expanded by the user).
+              const expanded = groupEl.classList.contains('is-expanded');
+              card.classList.toggle('is-collapsed', !expanded && idx > 0);
+            }
+            if (match) {
+              groupVisible++;
+              visible++;
+            }
+          });
+          groupEl.classList.toggle('is-empty', q && groupVisible === 0);
+          // Auto-expand the toggle indicator while searching so user sees all hits.
+          if (q && groupVisible > 0) {
+            groupEl.classList.add('is-expanded');
+          } else if (!q) {
+            // Don't force-collapse here — preserve user expansion state.
+          }
         });
-        let empty = grid.querySelector('.rolodex-empty');
+
+        let empty = groupsEl.querySelector('.rolodex-empty');
         if (visible === 0) {
           if (!empty) {
             empty = document.createElement('div');
             empty.className = 'rolodex-empty';
-            empty.textContent = 'No matches';
-            grid.appendChild(empty);
+            empty.textContent = noMatchText;
+            groupsEl.appendChild(empty);
           }
         } else if (empty) {
           empty.remove();
