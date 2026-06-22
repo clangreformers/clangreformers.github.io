@@ -2127,7 +2127,7 @@ lang: 简体中文
 
 
 ---
-## 谢冰
+## [谢冰]({{ site.baseurl }}{% link people/xierenbing-cn.md %})
 **别名:** 仁冰
 
 - [说文](https://clangreformers.github.io/people/xierenbing-cn.html)

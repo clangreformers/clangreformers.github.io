@@ -41,7 +41,7 @@ lang: 繁體中文
 
 《[國語辭典]({{ site.baseurl }}{% link glossary/national-language-dict-tw.md %})》 商務印書館1948年版,1962年再版更名為《漢語詞典》
 
-《新部首索引[國音字典]({{ site.baseurl }}{% link glossary/national-pronounciation-dict-tw.md %})》商務印書館1949年8月初版，黎錦熙主編，[汪怡]({{ site.baseurl }}{% link people/wangyi-tw.md %})、徐仁钰、付[介石]({{ site.baseurl }}{% link people/fuyan-tw.md %})、牛繼昌、高景成、何梅岑、徐世榮、孫崇義、[王述達]({{ site.baseurl }}{% link people/wangshuda-tw.md %})、張廼之、張蔚瑜編校
+《新部首索引[國音字典]({{ site.baseurl }}{% link glossary/national-pronounciation-dict-tw.md %})》商務印書館1949年8月初版，黎錦熙主編，[汪怡]({{ site.baseurl }}{% link people/wangyi-tw.md %})、徐仁钰、付介石、牛繼昌、高景成、何梅岑、徐世榮、孫崇義、[王述達]({{ site.baseurl }}{% link people/wangshuda-tw.md %})、張廼之、張蔚瑜編校
 
 《增注中華新韻》 商務印書館1950年7月版，黎錦熙主編，王述達、何梅岑、付介石、孫崇義、張蔚瑜、張廼芝編校
 

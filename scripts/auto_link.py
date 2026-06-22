@@ -73,16 +73,36 @@ def link_target_for_glossary(path: Path) -> str:
 # ---------- name extraction ----------
 
 def split_chinese_title(title: str) -> list[str]:
-    """Extract names from Chinese title like '陈懋治，字中平,  仲平' or '杜子劲, 别名杜同力'."""
-    # Normalise full-width commas, etc.
+    """Extract name variants from a Chinese title like '陈懋治，字中平,  仲平' or '杜子劲, 别名杜同力'.
+
+    Returns variants suitable for full-name matching. The primary (first) name yields
+    its surname; subsequent tokens that don't already start with that surname are
+    expanded to surname+token (e.g., '傅严，字介石' → ['傅严', '傅介石']). Bare
+    courtesy/alt names are NOT returned alone, since 2-char fragments like '介石' can
+    appear inside unrelated names (e.g., '蒋介石').
+    """
     t = title.replace("，", ",").replace("、", ",")
     parts = [p.strip() for p in t.split(",") if p.strip()]
-    out = []
+    cleaned: list[str] = []
     for p in parts:
-        # Strip prefixes like '字', '别名', '別名', '原名'
-        p = re.sub(r"^(字|别名|別名|原名|号|號)\s*[:：]?\s*", "", p)
+        p = re.sub(r"^(字|别名|別名|原名|本名|号|號|又名)\s*[:：]?\s*", "", p)
         if p:
-            out.append(p)
+            cleaned.append(p)
+    if not cleaned:
+        return []
+    primary = cleaned[0]
+    out: list[str] = [primary]
+    if not primary:
+        return out
+    surname = primary[0]
+    for extra in cleaned[1:]:
+        if not extra:
+            continue
+        if extra.startswith(surname):
+            out.append(extra)
+        else:
+            # Only meaningful when prepending surname yields >=2 chars
+            out.append(surname + extra)
     return out
 
 
@@ -182,7 +202,9 @@ def build_registries() -> dict[str, list[tuple[str, str, str]]]:
         else:
             names = split_chinese_title(title)
             for n in names:
-                # only meaningful CJK names (>=2 chars)
+                # only meaningful CJK names (>=2 chars). Bare courtesy names are
+                # already filtered upstream by split_chinese_title (only full
+                # surname+given-name variants are emitted).
                 if len(n) >= 2:
                     reg[lang].append((n, target, f.name))
 
@@ -261,14 +283,18 @@ def find_first_match(body: str, term: str, lang: str, spans: list[tuple[int, int
         # word boundary on both sides (treat ASCII)
         pattern = r"(?<![A-Za-z0-9])" + re.escape(term) + r"(?![A-Za-z0-9])"
     else:
-        # For CJK: ensure not adjacent to another CJK char that would extend the name
+        # For CJK: literal match. We enforce CJK-neighbour boundaries below for
+        # short (≤2 char) terms, since fragments like 谢冰 can appear inside
+        # unrelated names like 谢冰莹.
         pattern = re.escape(term)
+    short_cjk = lang != LANG_EN and len(term) <= 2
     for m in re.finditer(pattern, body):
         s, e = m.start(), m.end()
-        if lang != LANG_EN:
-            # avoid mid-name matches by checking neighbours aren't CJK letters (already handled
-            # because exact match of full title; for safety, allow it)
-            pass
+        if short_cjk:
+            prev_ch = body[s - 1] if s > 0 else ""
+            next_ch = body[e] if e < len(body) else ""
+            if (prev_ch and is_cjk(prev_ch)) or (next_ch and is_cjk(next_ch)):
+                continue
         if in_spans(s, e, spans):
             continue
         return s

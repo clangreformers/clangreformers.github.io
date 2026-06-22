@@ -41,7 +41,7 @@ lang: 简体中文
 
 《[国语辞典]({{ site.baseurl }}{% link glossary/national-language-dict-cn.md %})》 商务印书馆1948年版,1962年再版更名为《汉语词典》
 
-《新部首索引[国音字典]({{ site.baseurl }}{% link glossary/national-pronounciation-dict-cn.md %})》商务印书馆1949年8月初版，黎锦熙主编，[汪怡]({{ site.baseurl }}{% link people/wangyi-cn.md %})、徐仁钰、付[介石]({{ site.baseurl }}{% link people/fuyan-cn.md %})、牛继昌、高景成、何梅岑、徐世荣、孙崇义、[王述达]({{ site.baseurl }}{% link people/wangshuda-cn.md %})、张廼之、张蔚瑜编校
+《新部首索引[国音字典]({{ site.baseurl }}{% link glossary/national-pronounciation-dict-cn.md %})》商务印书馆1949年8月初版，黎锦熙主编，[汪怡]({{ site.baseurl }}{% link people/wangyi-cn.md %})、徐仁钰、付介石、牛继昌、高景成、何梅岑、徐世荣、孙崇义、[王述达]({{ site.baseurl }}{% link people/wangshuda-cn.md %})、张廼之、张蔚瑜编校
 
 《增注中华新韵》 商务印书馆1950年7月版，黎锦熙主编，王述达、何梅岑、付介石、孙崇义、张蔚瑜、张廼芝编校
 

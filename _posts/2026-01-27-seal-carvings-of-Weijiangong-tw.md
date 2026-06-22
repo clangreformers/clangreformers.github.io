@@ -80,7 +80,7 @@ timeline_era: 4
     </div>
     <div style="text-align: center;">
         <img src="/assets/imgs/2026-01-27-seal-carvings/seal-13.jpg" alt="圖13" style="max-width: 100%; border: 1px solid #eee;">
-        <p style="font-size: 0.9em;">圖13，蕭[迪忱]({{ site.baseurl }}{% link people/xiaojialin-tw.md %})</p>
+        <p style="font-size: 0.9em;">圖13，[蕭迪忱]({{ site.baseurl }}{% link people/xiaojialin-tw.md %})</p>
     </div>
     <div style="text-align: center;">
         <img src="/assets/imgs/2026-01-27-seal-carvings/seal-14.jpg" alt="圖14" style="max-width: 100%; border: 1px solid #eee;">
