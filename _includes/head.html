@@ -2,7 +2,78 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  {%- seo -%}
+
+  {%- comment -%} Resolve language-specific site metadata. {%- endcomment -%}
+  {%- assign page_lang = page.lang | default: "English" -%}
+  {%- case page_lang -%}
+    {%- when "简体中文" -%}{%- assign lang_code = "zh-Hans" -%}
+    {%- when "繁體中文" -%}{%- assign lang_code = "zh-Hant" -%}
+    {%- else -%}{%- assign lang_code = "en" -%}
+  {%- endcase -%}
+  {%- assign site_title = site.title[page_lang] -%}
+  {%- assign site_description = site.description[page_lang] -%}
+
+  {%- if page.title -%}
+    {%- assign page_title = page.title | strip_html | normalize_whitespace -%}
+    {%- capture full_title -%}{{ page_title }} | {{ site_title }}{%- endcapture -%}
+  {%- else -%}
+    {%- assign page_title = site_title -%}
+    {%- assign full_title = site_title -%}
+  {%- endif -%}
+
+  {%- if page.description -%}
+    {%- assign page_description = page.description | strip_html | normalize_whitespace -%}
+  {%- elsif page.excerpt -%}
+    {%- assign raw_excerpt = page.excerpt | strip_html | normalize_whitespace -%}
+    {%- assign excerpt_size = raw_excerpt | size -%}
+    {%- if excerpt_size < 60 and page.content -%}
+      {%- assign page_description = page.content | strip_html | normalize_whitespace | truncate: 200 -%}
+    {%- else -%}
+      {%- assign page_description = raw_excerpt | truncate: 200 -%}
+    {%- endif -%}
+  {%- else -%}
+    {%- assign page_description = site_description -%}
+  {%- endif -%}
+
+  {%- assign canonical_url = page.url | replace: 'index.html', '' | absolute_url -%}
+
+  <title>{{ full_title }}</title>
+  <meta name="description" content="{{ page_description | escape }}">
+  <link rel="canonical" href="{{ canonical_url }}">
+
+  <meta property="og:title" content="{{ page_title | escape }}">
+  <meta property="og:description" content="{{ page_description | escape }}">
+  <meta property="og:url" content="{{ canonical_url }}">
+  <meta property="og:site_name" content="{{ site_title | escape }}">
+  <meta property="og:locale" content="{{ lang_code }}">
+  <meta property="og:type" content="{% if page.layout == 'post' %}article{% else %}website{% endif %}">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="{{ page_title | escape }}">
+  <meta name="twitter:description" content="{{ page_description | escape }}">
+
+  {%- comment -%} hreflang alternates: link to translation siblings via shared `ref`. {%- endcomment -%}
+  {%- if page.ref -%}
+    {%- if page.collection or page.layout == 'post' -%}
+      {%- assign siblings = site.posts | where: "ref", page.ref -%}
+    {%- else -%}
+      {%- assign siblings = site.pages | where: "ref", page.ref -%}
+    {%- endif -%}
+    {%- for sibling in siblings -%}
+      {%- case sibling.lang -%}
+        {%- when "English" -%}{%- assign sib_code = "en" -%}
+        {%- when "简体中文" -%}{%- assign sib_code = "zh-Hans" -%}
+        {%- when "繁體中文" -%}{%- assign sib_code = "zh-Hant" -%}
+        {%- else -%}{%- assign sib_code = nil -%}
+      {%- endcase -%}
+      {%- if sib_code -%}
+        <link rel="alternate" hreflang="{{ sib_code }}" href="{{ sibling.url | absolute_url }}">
+      {%- endif -%}
+      {%- if sibling.lang == "English" -%}
+        <link rel="alternate" hreflang="x-default" href="{{ sibling.url | absolute_url }}">
+      {%- endif -%}
+    {%- endfor -%}
+  {%- endif -%}
+
   <link rel="stylesheet" href="/assets/css/bootstrap.min.css">
   <link rel="stylesheet" href="/assets/css/main.css">
   <link rel="stylesheet" href="/assets/css/scrolling_banner_styles.css">
