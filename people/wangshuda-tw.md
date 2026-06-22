@@ -63,7 +63,7 @@ lang: 繁體中文
 
 《國語辭典》（全四冊）黎錦熙主編，汪怡（主任）、徐一士、孫崇義、徐世榮、傅嚴、[安文倬]({{ site.baseurl }}{% link people/anwenzhuo-tw.md %})、王述達、張蔚瑜、何梅岑、牛繼昌、高景成編纂 商務印書館（1948年），1962年改編再版更名為《漢語詞典》
 
-《新部首索引[國音字典]({{ site.baseurl }}{% link glossary/national-pronounciation-dict-tw.md %})》黎錦熙主編，汪怡（主任）、徐仁钰、傅介石、牛繼昌、高景成、何梅岑、徐世榮、孫崇義、王述達、張迺芝、張蔚瑜編校，商務印書館（1949年8月初版）
+《新部首索引[國音字典]({{ site.baseurl }}{% link glossary/national-pronounciation-dict-tw.md %})》黎錦熙主編，汪怡（主任）、徐仁钰、[傅介石]({{ site.baseurl }}{% link people/fuyan-tw.md %})、牛繼昌、高景成、何梅岑、徐世榮、孫崇義、王述達、張迺芝、張蔚瑜編校，商務印書館（1949年8月初版）
 
 《增注中華新韻》 黎錦熙主編，王述達、何梅岑、傅岩、孫崇義、張蔚瑜、張廼芝編校，商務印書館（1950年7月第一版）
 

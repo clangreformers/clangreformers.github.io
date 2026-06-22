@@ -59,7 +59,7 @@ Lu Ji (Yuan'an) was one of the earliest individuals in the Ministry of Education
 Lu Yiyan, the second son of Lu Ji, specialized in phonetics and was particularly devoted to the study and promotion of the standard Mandarin pronunciation. He served as an editor in the Mandarin Literature Department of the Shanghai Zhonghua Bookstore and as an instructor at the Mandarin-specialized school established by the bookstore. He was then appointed as a member of the Ministry of Education's phonetic symbols implementation committee and as a tutor in the phonetic symbols training group. During the "Peking vs. Mandarin" debate, he represented the anti-Peking pronunciation faction. He authored works such as "New Mandarin Textbook" and "Usage of Mandarin Phonetic Symbols," and co-founded the "Children" Weekly with Li Jinhui, focusing on children's literature creation.
 
 
-## Business partners in harmony—[Xiao Jialin]({{ site.baseurl }}{% link people/xiaojialin.md %}) (Dichen) and [Kong Fanjun]({{ site.baseurl }}{% link people/kongfanjun.md %}) (Fanjun)
+## Business partners in harmony—[Xiao Jialin]({{ site.baseurl }}{% link people/xiaojialin.md %}) ([Dichen]({{ site.baseurl }}{% link people/xiaojialin.md %})) and [Kong Fanjun]({{ site.baseurl }}{% link people/kongfanjun.md %}) (Fanjun)
 
 Defining Xiao Jialin and Kong Fanjun's roles in the Mandarin movement with the phrase "husband sings and wife follows" could not be more appropriate, and their steadfast commitment to this endeavor has been unwavering.
 

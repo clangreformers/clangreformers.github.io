@@ -409,7 +409,7 @@ Issued "Ministry of Education Order No. 75" on the "Bopomofo Alphabet"
 
 ---
 
-## Fu Yan
+## [Fu Yan]({{ site.baseurl }}{% link people/fuyan.md %})
 **Also known as:** Jie Shi
 
 - [Shuo Wen](https://clangreformers.github.io/people/fuyan.html)
@@ -1130,7 +1130,7 @@ Member of the "Revised National Pronunciation Dictionary" Committee, "National L
 
 ---
 ## Ma Xueliang
-**Alias:** Shuyuan
+**Alias:** [Shuyuan]({{ site.baseurl }}{% link people/fangyi.md %})
 
 - [Wikipedia](https://zh.wikipedia.org/wiki/馬學良)
 - [Baidu](https://baike.baidu.com/item/馬學良/75439)
@@ -1447,7 +1447,7 @@ Member of the Commission for the Revised National Pronunciation Dictionary, Firs
 
 ---
 ## [Sun Chongyi]({{ site.baseurl }}{% link people/sunchongyi.md %})
-**Also known as:** Weiyi
+**Also known as:** [Weiyi]({{ site.baseurl }}{% link people/sunchongyi.md %})
 
 - [Shuowen](https://clangreformers.github.io/people/sunchongyi.html)
 - Dictionary Compilation Office: Yes
@@ -1552,7 +1552,7 @@ Member of the Ministry of Education Phonetic Symbol Implementation Committee, Tr
 
 ---
 ## Wang Yi
-**Alias:** Yian
+**Alias:** [Yian]({{ site.baseurl }}{% link people/wangyi.md %})
 
 - [Shuowen](https://clangreformers.github.io/people/wangyi.html)
 - Member of the Pronunciation Unification Committee: Yes, Zhejiang
@@ -1797,7 +1797,7 @@ Member of the Ministry of Education Phonetic Symbol Promotion Committee
 
 ---
 ### [Xiao Jialin]({{ site.baseurl }}{% link people/xiaojialin.md %})
-**Alias:** Dichen
+**Alias:** [Dichen]({{ site.baseurl }}{% link people/xiaojialin.md %})
 
 - [Shuowen](https://clangreformers.github.io/people/xiaojialin.html)
 - National Language Committee Member: Yes
@@ -2234,7 +2234,7 @@ One of the initiators of the "Simplified Character Research Association" in 1909
 The first head of education in Taiwan, initiating the Taiwan National Language Movement
 
 ## [Zhao Shuicheng]({{ site.baseurl }}{% link people/zhaoshuicheng.md %})
-**Also known as:** Zuo Xiong
+**Also known as:** [Zuo Xiong]({{ site.baseurl }}{% link people/zhaoshuicheng.md %})
 
 - [Shuo Wen](https://clangreformers.github.io/people/zhaoshuicheng.html)
 

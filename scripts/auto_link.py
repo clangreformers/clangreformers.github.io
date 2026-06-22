@@ -316,17 +316,22 @@ def link_file(path: Path, registry: dict[str, list[tuple[str, str, str]]]) -> bo
     # Build masked spans once, but they change as we insert links. We'll rebuild
     # the spans after each insertion (cheap given small file sizes).
     changed = False
-    # Track targets already linked to avoid double-linking the same target.
-    linked_targets: set[str] = set()
-    for existing in re.finditer(r"\{%\s*link\s+([^\s%]+)\s*%\}", body):
-        linked_targets.add(existing.group(1))
+    # Track (term, target) pairs already linked. Different name variants for the
+    # same target (e.g. 王述达 / 王善愷) should each get their own first-mention
+    # link, so we key on the surface term, not the target.
+    linked_pairs: set[tuple[str, str]] = set()
+    for existing in re.finditer(
+        r"\[([^\]]+)\]\(\{\{\s*site\.baseurl\s*\}\}\{%\s*link\s+([^\s%]+)\s*%\}\)",
+        body,
+    ):
+        linked_pairs.add((existing.group(1), existing.group(2)))
 
     # Iterate entries; for each, attempt one insertion.
     for term, target, source_name in entries:
         # Skip if this file IS the target page (compare by stem)
         if path.name == source_name:
             continue
-        if target in linked_targets:
+        if (term, target) in linked_pairs:
             continue
         spans = masked_spans(body)
         idx = find_first_match(body, term, lang, spans)
@@ -334,7 +339,7 @@ def link_file(path: Path, registry: dict[str, list[tuple[str, str, str]]]) -> bo
             continue
         replacement = make_link(term, target)
         body = body[:idx] + replacement + body[idx + len(term):]
-        linked_targets.add(target)
+        linked_pairs.add((term, target))
         changed = True
 
     if changed:

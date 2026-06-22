@@ -13,7 +13,7 @@ Author: [Chongyi Sun]({{ site.baseurl }}{% link people/sunchongyi.md %})
 
 ![image](/assets/imgs/sunchongyi_1.jpg "Sun Chongyi at Beijing Normal University in 1949"){: width="250" }
 
-(Sun Chongyi at Beijing Normal University in 1949)
+([Sun Chongyi]({{ site.baseurl }}{% link people/sunchongyi.md %}) at Beijing Normal University in 1949)
 
 Ninety Years of Reflection
 

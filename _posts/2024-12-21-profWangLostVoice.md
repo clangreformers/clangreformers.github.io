@@ -48,7 +48,7 @@ When my father traveled south to support language education, Principal An of Hai
 
 My father's old friend, Uncle [Wang Yuchuan]({{ site.baseurl }}{% link people/wangyuchuan.md %}), once said:
 
-"When something is explained by Mr. Wang Fuqing, no matter how many times—ten times, even—people never tire of listening."
+"When something is explained by Mr. Wang [Fuqing]({{ site.baseurl }}{% link people/wangshoukang.md %}), no matter how many times—ten times, even—people never tire of listening."
 
 Professor Liang Rongruo, a classmate of my father's from Beijing Normal University and later his colleague in founding the Mandarin Daily News in Taiwan, wrote in an article:
 
