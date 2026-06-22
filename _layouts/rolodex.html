@@ -343,10 +343,11 @@ layout: default
       const grid = document.createElement('div');
       grid.className = 'rolodex-grid';
 
-      g.cards.forEach(function (c, idx) {
+      g.cards.forEach(function (c) {
         const cardEl = buildCard(c);
-        // By default: only the first card per last-name group is visible (expanded).
-        if (idx > 0) cardEl.classList.add('is-collapsed');
+        // By default: every card is collapsed — only the banner is visible
+        // until the user clicks the group header to expand it.
+        cardEl.classList.add('is-collapsed');
         grid.appendChild(cardEl);
         totalCards++;
       });
@@ -356,8 +357,7 @@ layout: default
 
       function toggleGroup() {
         const expanded = groupEl.classList.toggle('is-expanded');
-        grid.querySelectorAll('.rolodex-card').forEach(function (card, idx) {
-          if (idx === 0) return;
+        grid.querySelectorAll('.rolodex-card').forEach(function (card) {
           card.classList.toggle('is-collapsed', !expanded);
         });
       }
@@ -390,16 +390,16 @@ layout: default
         groupsEl.querySelectorAll('.rolodex-group').forEach(function (groupEl) {
           let groupVisible = 0;
           const cards = groupEl.querySelectorAll('.rolodex-card');
-          cards.forEach(function (card, idx) {
+          cards.forEach(function (card) {
             const match = !q || card.dataset.search.indexOf(q) !== -1;
             if (q) {
               // While searching, ignore collapse and show every match.
               card.classList.toggle('is-collapsed', !match);
             } else {
-              // No query: restore default collapsed state (only first card visible
-              // unless the group has been expanded by the user).
+              // No query: restore default collapsed state — every card hidden
+              // unless the group has been expanded by the user.
               const expanded = groupEl.classList.contains('is-expanded');
-              card.classList.toggle('is-collapsed', !expanded && idx > 0);
+              card.classList.toggle('is-collapsed', !expanded);
             }
             if (match) {
               groupVisible++;
