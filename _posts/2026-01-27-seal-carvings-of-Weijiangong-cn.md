@@ -9,7 +9,7 @@ author: 王昀
 timeline_era: 4
 ---
 
-我的祖父有一枚印章，让年幼的我以为是天书，但我知道祖父对它情有独钟。几十年过去了，当我无意中翻看曾祖父遗留的书籍时，一张小纸片跃入我的眼帘：那上面是祖父那枚奇怪印章的印迹，不过旁边注示了一行小字“魏建功刻”（图12）。我知道祖父曾与魏建功在中国大辞典编纂处共事，却不知道魏建功竟然是圈内著名的篆刻家。
+我的祖父有一枚印章，让年幼的我以为是天书，但我知道祖父对它情有独钟。几十年过去了，当我无意中翻看曾祖父遗留的书籍时，一张小纸片跃入我的眼帘：那上面是祖父那枚奇怪印章的印迹，不过旁边注示了一行小字“魏建功刻”（图12）。我知道祖父曾与魏建功在[中国大辞典编纂处]({{ site.baseurl }}{% link glossary/compilation-cn.md %})共事，却不知道魏建功竟然是圈内著名的篆刻家。
 
 魏建功治印始于二十世纪二十年代。“天行”是他的字，“山鬼”为其别号，二者联用，常见于其文学艺术作品之署名。1928年，北伐将到北京，局势混乱。有志之士担心北京的文物遭破坏，由北大研究所的几位导师发起成立了一个文物维持会，其委员有沈兼士、陈垣、马衡、刘半农、徐森玉等，年轻教师如台静农、常维钧、庄尚严、魏建功也积极参加。这些导师多为文字金石学家，在一起聊天儿时谈论的皆是汉魏石经拓片、秦汉古印搜求等。年轻教师听后兴趣愈来愈浓，于是经庄尚严提议，成立了“圆台印社”，社员为庄尚严、台静农、常维钧、魏建功、金满叔等。他们邀请王福庵、马衡作为指导顾问。“圆台”是马衡根据他们所在的北海团城之旧称所命名的。马衡为了示范，还现场以秦玺风格刻了一方“圆台印社”，后王福庵也刻了一方，并赠一部自己的原拓印谱，供同人交流观摩。说来有趣，几位社员热情高涨，台静农、常维钧、魏建功纷纷奏刀临摹创作，金满叔甚至后来还专以刻印为生。唯有发起人庄尚严虽精于印学，热衷于古印收藏鉴赏，与篆刻却光说不练，从未试水。
 
@@ -38,7 +38,7 @@ timeline_era: 4
 
 钱玄同对制印极为讲究。1928年3月1日他在同古堂以四元买了一块黑的寿山石章，特托黎锦熙转请齐白石刻“疑古玄同”四字。他的要求是“阳文，要不守绳墨”。黎锦熙家族与齐白石是世交，托黎锦熙办此事自不会错。1931年1月30日，钱玄同又以六元在同古堂购二寿山石，再托黎锦熙转请齐白石刻印。不过，后来齐白石不再制印了。好在钱玄同发现自己的学生魏建功在篆刻方面脱颖而出了。1932年1月29日，他在日记中写道：“建功出示图章（注音符号的），愈刻愈佳矣，仿齐白石，刀法甚好。”能得到钱玄同这样的肯定，可见魏建功的造诣之深厚。（图2-4均为魏建功为钱玄同所制印章）
 
-当时，作为国语统一筹备会常委，推行国语和注音符号是魏建功最重要的职责。他自创注音符号印章，并将刻好的印章以有奖征答方式刊于《国语周刊》，吸引热心读者竟相争猜，以收到寓教于乐的效果。其中，他以注音符号所本之古文字刻制的印章，识别起来颇费周折更是饶有兴味。他曾以古文“包、刀、止、亥、又”拼成“白涤洲”三字（图5）。答案揭晓时即有“二鞑子吃螺蛳——弯弯绕”之戏评。其实，只要读者知道注音符号“ㄅ、ㄉ、ㄓ、ㄞ、ㄆ”系由“包、刀、止、亥、又”五个古文字楷化而来，就不难猜中。难怪语言学家罗莘田先生一见即知这是“白涤洲”三字，遂指点其爱女罗坤仪小姐去信参与竟猜，罗小姐因此获奖，奖品是天行山鬼所刻注音符号印章一枚（图6）。
+当时，作为[国语统一筹备会]({{ site.baseurl }}{% link glossary/preparation-cn.md %})常委，推行国语和注音符号是魏建功最重要的职责。他自创注音符号印章，并将刻好的印章以有奖征答方式刊于《国语周刊》，吸引热心读者竟相争猜，以收到寓教于乐的效果。其中，他以注音符号所本之古文字刻制的印章，识别起来颇费周折更是饶有兴味。他曾以古文“包、刀、止、亥、又”拼成“[白涤洲]({{ site.baseurl }}{% link people/baidizhou-cn.md %})”三字（图5）。答案揭晓时即有“二鞑子吃螺蛳——弯弯绕”之戏评。其实，只要读者知道注音符号“ㄅ、ㄉ、ㄓ、ㄞ、ㄆ”系由“包、刀、止、亥、又”五个古文字楷化而来，就不难猜中。难怪语言学家罗莘田先生一见即知这是“白涤洲”三字，遂指点其爱女罗坤仪小姐去信参与竟猜，罗小姐因此获奖，奖品是天行山鬼所刻注音符号印章一枚（图6）。
 
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
     <div style="text-align: center;">
@@ -51,7 +51,7 @@ timeline_era: 4
     </div>
 </div>
 
-魏建功这一创举可谓前无古人后无来者，加之精湛的技艺，使国语运动同道人推崇万分。他们都以能获得天行山鬼的这种印章为荣，而我的祖父也有幸获得了这样一枚印章，自然被他视为珍宝。魏建功的每个作品都经过精心设计，堪称精妙绝伦，令人耳目一新。要知道，这一符号并无前人标准可参照，且结构不对称，不太适合书法篆刻的应用。（图7-15均为魏建功为同道人所制注音符号印章）
+魏建功这一创举可谓前无古人后无来者，加之精湛的技艺，使[国语运动]({{ site.baseurl }}{% link glossary/movement-cn.md %})同道人推崇万分。他们都以能获得天行山鬼的这种印章为荣，而我的祖父也有幸获得了这样一枚印章，自然被他视为珍宝。魏建功的每个作品都经过精心设计，堪称精妙绝伦，令人耳目一新。要知道，这一符号并无前人标准可参照，且结构不对称，不太适合书法篆刻的应用。（图7-15均为魏建功为同道人所制注音符号印章）
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 10px; margin: 20px 0;">
     <div style="text-align: center;">
@@ -68,7 +68,7 @@ timeline_era: 4
     </div>
     <div style="text-align: center;">
         <img src="/assets/imgs/2026-01-27-seal-carvings/seal-10.jpg" alt="图10" style="max-width: 100%; border: 1px solid #eee;">
-        <p style="font-size: 0.9em;">图10，汪怡庵</p>
+        <p style="font-size: 0.9em;">图10，[汪怡]({{ site.baseurl }}{% link people/wangyi-cn.md %})庵</p>
     </div>
     <div style="text-align: center;">
         <img src="/assets/imgs/2026-01-27-seal-carvings/seal-11.jpg" alt="图11" style="max-width: 100%; border: 1px solid #eee;">
@@ -76,15 +76,15 @@ timeline_era: 4
     </div>
     <div style="text-align: center;">
         <img src="/assets/imgs/2026-01-27-seal-carvings/seal-12.jpg" alt="图12" style="max-width: 100%; border: 1px solid #eee;">
-        <p style="font-size: 0.9em;">图12，王述达</p>
+        <p style="font-size: 0.9em;">图12，[王述达]({{ site.baseurl }}{% link people/wangshuda-cn.md %})</p>
     </div>
     <div style="text-align: center;">
         <img src="/assets/imgs/2026-01-27-seal-carvings/seal-13.jpg" alt="图13" style="max-width: 100%; border: 1px solid #eee;">
-        <p style="font-size: 0.9em;">图13，萧迪忱</p>
+        <p style="font-size: 0.9em;">图13，萧[迪忱]({{ site.baseurl }}{% link people/xiaojialin-cn.md %})</p>
     </div>
     <div style="text-align: center;">
         <img src="/assets/imgs/2026-01-27-seal-carvings/seal-14.jpg" alt="图14" style="max-width: 100%; border: 1px solid #eee;">
-        <p style="font-size: 0.9em;">图14，孔凡均</p>
+        <p style="font-size: 0.9em;">图14，[孔凡均]({{ site.baseurl }}{% link people/kongfanjun-cn.md %})</p>
     </div>
     <div style="text-align: center;">
         <img src="/assets/imgs/2026-01-27-seal-carvings/seal-15.jpg" alt="图15" style="max-width: 100%; border: 1px solid #eee;">

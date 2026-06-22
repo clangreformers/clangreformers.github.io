@@ -13,7 +13,7 @@ In 1912, Fang Yi joined the dictionary department of the Commercial Press as an 
 
 In 1915, due to the eye ailment of the department head Lu Erqui, Fang Yi took over as the head of the dictionary department.
 
-In 1920, the dictionary department of the Commercial Press was transformed into the National Language Dictionary Committee, where Fang Yi served as the chairman while also holding the position of president of the National Language Correspondence Society.
+In 1920, the dictionary department of the Commercial Press was transformed into the [National Language Dictionary]({{ site.baseurl }}{% link glossary/national-language-dict.md %}) Committee, where Fang Yi served as the chairman while also holding the position of president of the National Language Correspondence Society.
 
 During this period,
 

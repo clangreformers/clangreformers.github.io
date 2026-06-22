@@ -9,7 +9,7 @@ author: Chongyi Sun
 timeline_era: 6
 ---
 
-Author: Chongyi Sun
+Author: [Chongyi Sun]({{ site.baseurl }}{% link people/sunchongyi.md %})
 
 ![image](/assets/imgs/sunchongyi_1.jpg "Sun Chongyi at Beijing Normal University in 1949"){: width="250" }
 

@@ -17,7 +17,7 @@ In 1920, Bai Dizhouchou studied phonetics at the Mandarin Training Institute, wh
 
 In 1924, Bai Dizhouchou was admitted to the preparatory program of Peking University and simultaneously supported Mr. Gu Mengyu in serving the Beijing Education Association. In 1926, he entered the English Department at Peking University for his undergraduate studies, and in 1928, he transferred to the Chinese Department, studying under Qian Xuantong, Ma Youyu, Liu Bannan, and others about phonology and phonetics. He also attended the language training program at the Institute of History and Language of the Academia Sinica, studying dialect dictation under Zhao Yuanren.
 
-In 1928, Bai Dizhouchou became an executive member of the Mandarin Unification Preparatory Committee and the Director of the organization department at the Chinese Dictionary Compilation Office.
+In 1928, Bai Dizhouchou became an executive member of the Mandarin Unification Preparatory Committee and the Director of the organization department at the [Chinese Dictionary Compilation Office]({{ site.baseurl }}{% link glossary/compilation.md %}).
 
 He graduated from the Chinese Department of Peking University in 1930 and served as the Director of Academic Affairs at the Beijing Municipal Normal School (now Capital Normal University). 
 

@@ -38,7 +38,7 @@ Qian Xuantong and Wei Jiangong shared a mentor-student bond that was both intell
 
 Qian Xuantong was extremely particular about seals. In 1928, he bought a black Shoushan stone and asked Li Jinxi to request the master Qi Baishi to carve "Yigu Xuantong" in a style that "didn't follow established rules." Later, however, Qi Baishi stopped taking commissions. Fortunately, Qian found that his student Wei Jiangong had excelled in the art. In Jan 1932, he wrote: "Jiangong showed me his seals (using phonetic symbols); they are getting better and better, in the style of Qi Baishi, with excellent knife work." (Figures 2-4 are seals carved by Wei for Qian).
 
-At the time, as a standing committee member of the Preparatory Committee for the Unification of the National Language, promoting the National Language and Zhuyin Fuhao (phonetic symbols) was Wei's primary duty. He innovatively created seals using these phonetic symbols and published them in the *National Language Weekly* as puzzles to engage and educate readers. Some seals were even based on the ancient scripts from which the phonetic symbols were derived. For example, he used ancient forms of "Bao, Dao, Zhi, Hai, You" to spell "Bai Dizhou" (Figure 5). When the answer was revealed, it was humorously described as a "twisting riddle." In fact, if readers knew that the symbols "ㄅ, ㄉ, ㄓ, ㄞ, ㄆ" were stylized versions of those five ancient characters, the riddle was easy to solve. The linguist Luo Shentian recognized it immediately and encouraged his daughter, Luo Kunyi, to enter the contest, winning her a phonetic seal carved by Wei (Figure 6).
+At the time, as a standing committee member of the [Preparatory Committee for the Unification of the National Language]({{ site.baseurl }}{% link glossary/preparation.md %}), promoting the National Language and Zhuyin Fuhao (phonetic symbols) was Wei's primary duty. He innovatively created seals using these phonetic symbols and published them in the *National Language Weekly* as puzzles to engage and educate readers. Some seals were even based on the ancient scripts from which the phonetic symbols were derived. For example, he used ancient forms of "Bao, Dao, Zhi, Hai, You" to spell "[Bai Dizhou]({{ site.baseurl }}{% link people/baidizhou.md %})" (Figure 5). When the answer was revealed, it was humorously described as a "twisting riddle." In fact, if readers knew that the symbols "ㄅ, ㄉ, ㄓ, ㄞ, ㄆ" were stylized versions of those five ancient characters, the riddle was easy to solve. The linguist Luo Shentian recognized it immediately and encouraged his daughter, Luo Kunyi, to enter the contest, winning her a phonetic seal carved by Wei (Figure 6).
 
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
     <div style="text-align: center;">
@@ -68,7 +68,7 @@ Wei's innovation was unprecedented, and his exquisite skill earned him immense r
     </div>
     <div style="text-align: center;">
         <img src="/assets/imgs/2026-01-27-seal-carvings/seal-10.jpg" alt="Fig 10" style="max-width: 100%; border: 1px solid #eee;">
-        <p style="font-size: 0.9em;">Fig 10, Wang Yi'an</p>
+        <p style="font-size: 0.9em;">Fig 10, [Wang Yi]({{ site.baseurl }}{% link people/wangyi.md %})'an</p>
     </div>
     <div style="text-align: center;">
         <img src="/assets/imgs/2026-01-27-seal-carvings/seal-11.jpg" alt="Fig 11" style="max-width: 100%; border: 1px solid #eee;">
@@ -76,15 +76,15 @@ Wei's innovation was unprecedented, and his exquisite skill earned him immense r
     </div>
     <div style="text-align: center;">
         <img src="/assets/imgs/2026-01-27-seal-carvings/seal-12.jpg" alt="Fig 12" style="max-width: 100%; border: 1px solid #eee;">
-        <p style="font-size: 0.9em;">Fig 12, Wang Shuda</p>
+        <p style="font-size: 0.9em;">Fig 12, [Wang Shuda]({{ site.baseurl }}{% link people/wangshuda.md %})</p>
     </div>
     <div style="text-align: center;">
         <img src="/assets/imgs/2026-01-27-seal-carvings/seal-13.jpg" alt="Fig 13" style="max-width: 100%; border: 1px solid #eee;">
-        <p style="font-size: 0.9em;">Fig 13, Xiao Dichen</p>
+        <p style="font-size: 0.9em;">Fig 13, Xiao [Dichen]({{ site.baseurl }}{% link people/xiaojialin.md %})</p>
     </div>
     <div style="text-align: center;">
         <img src="/assets/imgs/2026-01-27-seal-carvings/seal-14.jpg" alt="Fig 14" style="max-width: 100%; border: 1px solid #eee;">
-        <p style="font-size: 0.9em;">Fig 14, Kong Fanjun</p>
+        <p style="font-size: 0.9em;">Fig 14, [Kong Fanjun]({{ site.baseurl }}{% link people/kongfanjun.md %})</p>
     </div>
     <div style="text-align: center;">
         <img src="/assets/imgs/2026-01-27-seal-carvings/seal-15.jpg" alt="Fig 15" style="max-width: 100%; border: 1px solid #eee;">
@@ -130,7 +130,7 @@ On July 7, 1939, the second anniversary of the War of Resistance, Lianda profess
 
 Shen Jianshi gifted him a poem reflecting on their time apart during the war. Shen was also Wei's teacher and had remained in Beiping during the occupation, constantly worried about rumors that Wei had been injured or killed in the south. Zhang Boju also wrote two poems, one praising the rattan seals for carrying the "mist and smoke" of distant rivers into the scholar's studio, and another reflecting poignantly on the tragedies of the war and the internal strife that followed.
 
-An expert in phonology, Wei began teaching the *History of the Evolution of Chinese Character Forms* at Lianda in 1938. He applied his linguistic interest to seal carving, drawing from oracle bones, bronze scripts, and various calligraphic styles with ease. For example, in Sun Xu's seal (Figure 21), the character "Sun" resembles a child catching a fish; in Xia Jingnong's (Figure 22), "Xia" looks like a soldier saluting; the seal for Wu Bifei (Figure 23) compresses the top and elongates the bottom to symbolize deep roots and lush leaves; and Cai Jingping's seal (Figure 24) features the character "Jing" as two people joining hands to reach the finish line, representing "fair competition." Even Bing Xin spoke fondly of his work, mentioning that she had "righteously bought" a rattan seal (Figure 25) and always used it when asked for her calligraphy. The "Xin" in her seal opens like a flower. Zhou Qiming's (Zhou Zuoren) seal (Figure 26) uses pictographs to create a serene scene, while Kawashima's (Zhang Mao-chen) seal (Figure 27) is a purely visual masterpiece.
+An expert in phonology, Wei began teaching the *History of the Evolution of Chinese Character Forms* at Lianda in 1938. He applied his linguistic interest to seal carving, drawing from oracle bones, bronze scripts, and various calligraphic styles with ease. For example, in Sun Xu's seal (Figure 21), the character "Sun" resembles a child catching a fish; in Xia Jingnong's (Figure 22), "Xia" looks like a soldier saluting; the seal for Wu Bifei (Figure 23) compresses the top and elongates the bottom to symbolize deep roots and lush leaves; and Cai Jingping's seal (Figure 24) features the character "Jing" as two people joining hands to reach the finish line, representing "fair competition." Even [Bing]({{ site.baseurl }}{% link people/xierenbing.md %}) Xin spoke fondly of his work, mentioning that she had "righteously bought" a rattan seal (Figure 25) and always used it when asked for her calligraphy. The "Xin" in her seal opens like a flower. Zhou Qiming's (Zhou Zuoren) seal (Figure 26) uses pictographs to create a serene scene, while Kawashima's (Zhang Mao-chen) seal (Figure 27) is a purely visual masterpiece.
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 10px; margin: 20px 0;">
     <div style="text-align: center;">

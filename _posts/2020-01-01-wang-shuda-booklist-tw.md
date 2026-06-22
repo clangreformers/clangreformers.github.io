@@ -44,7 +44,7 @@ timeline_era: 4
 ![image](/assets/imgs/booklist/confiscated_booklist_8.jpg "圖，被查抄部分書目8"){: width="250" }
 ![image](/assets/imgs/booklist/confiscated_booklist_9.jpg "圖，被查抄部分書目9"){: width="250" }
 
-（圖，王述達先生文革期間被查抄部分書目）
+（圖，[王述達]({{ site.baseurl }}{% link people/wangshuda-tw.md %})先生文革期間被查抄部分書目）
 
 書目答問補正 南京國學圖書館排印二冊一函 有詳批註 （有本人罷免蓋章）
 

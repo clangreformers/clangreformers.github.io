@@ -13,7 +13,7 @@ At home in the 1980s
 
 ![image](/assets/imgs/wangshudaNChineseDictionaryCompilationBureau1930s.jpg "In the 1930s with colleagues at the Chinese Dictionary Compilation Office, from left: Xu Shirong, Sun Chongyi, Wang Yi, Wang Shuda, He Meicen"){: width="400" }
 
-In the 1930s with colleagues at the Chinese Dictionary Compilation Office, from left: Xu Shirong, Sun Chongyi, Wang Yi, Wang Shuda, He Meicen
+In the 1930s with colleagues at the [Chinese Dictionary Compilation Office]({{ site.baseurl }}{% link glossary/compilation.md %}), from left: Xu Shirong, [Sun Chongyi]({{ site.baseurl }}{% link people/sunchongyi.md %}), [Wang Yi]({{ site.baseurl }}{% link people/wangyi.md %}), Wang Shuda, He Meicen
 
 Wang Shuda was a Chinese linguist, philologist, and educator. He dedicated his life to the study of language and education, having taught as a Chinese language teacher at several institutions, including Beijing Normal University High School, Beijing Normal University, and Hebei Normal University. He worked at the Chinese Dictionary Compilation Office and the Institute of Linguistics at the Chinese Academy of Sciences, where he authored or contributed to dozens of textbooks and important dictionaries. He held an irreplaceable position in Chinese education and linguistics and made significant contributions to the promotion and teaching of vernacular Chinese. Wang Shuda pursued democratic and progressive ideas from a young age, and after his passing, he donated his entire personal collection of books to the library of Hebei Normal University.
 
@@ -58,9 +58,9 @@ Collective Publications:
 
 "Comprehensive Index of Dialects and Literary Works," Twelve Volumes, Supervised by Wang Shuda and others, completed in September 1932, not printed; manuscript compiled into the Dictionary of China Editing Office
 
-"Mandarin Dictionary" (Complete Eight Volumes) Edited by Wang Yi, with Xu Yishi, Sun Chongyi, Wang Shuda, Peng Xinru, Xu Shirong, He Meicen, Fu Yan, and Niu Wenqing as editors, published by Commercial Press (1945)
+"Mandarin Dictionary" (Complete Eight Volumes) Edited by Wang Yi, with Xu Yishi, Sun Chongyi, Wang Shuda, Peng Xinru, Xu Shirong, He Meicen, [Fu Yan]({{ site.baseurl }}{% link people/fuyan.md %}), and Niu Wenqing as editors, published by Commercial Press (1945)
 
-"Mandarin Dictionary" (Complete Four Volumes) Edited by Li Jinxu, with Wang Yi (Director), Xu Yishi, Sun Chongyi, Xu Shirong, Fu Yan, An Wenzhuo, Wang Shuda, Zhang Weiyu, He Meicen, Niu Jichang, and Gao Jingcheng as editors, published by Commercial Press (1948), revised and reissued in 1962 under the new title "Chinese Dictionary"
+"Mandarin Dictionary" (Complete Four Volumes) Edited by Li Jinxu, with Wang Yi (Director), Xu Yishi, Sun Chongyi, Xu Shirong, Fu Yan, [An Wenzhuo]({{ site.baseurl }}{% link people/anwenzhuo.md %}), Wang Shuda, Zhang Weiyu, He Meicen, Niu Jichang, and Gao Jingcheng as editors, published by Commercial Press (1948), revised and reissued in 1962 under the new title "Chinese Dictionary"
 
 "New Radical Index Pronunciation Dictionary" Edited by Li Jinxu, with Wang Yi (Director), Xu Renyu, Fu Jieshi, Niu Jichang, Gao Jingcheng, He Meicen, Xu Shirong, Sun Chongyi, Wang Shuda, Zhang Naizhi, and Zhang Weiyu as compilers, published by Commercial Press (first edition, August 1949)
 

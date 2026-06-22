@@ -7,7 +7,7 @@ lang: 简体中文
 
 
 ---
-## 安文倬
+## [安文倬]({{ site.baseurl }}{% link people/anwenzhuo-cn.md %})
 - [说文](https://clangreformers.github.io/people/anwenzhuo-cn.html)
 - 大辞典编纂处: 是
 
@@ -15,7 +15,7 @@ lang: 简体中文
 
 
 ---
-## 敖士英
+## [敖士英]({{ site.baseurl }}{% link people/aoshiying-cn.md %})
 - [说文](https://clangreformers.github.io/people/aoshiying-cn.html)
 - 大辞典编纂处: 是（特约编纂）
 
@@ -25,7 +25,7 @@ lang: 简体中文
 
 
 ---
-## 白涤洲
+## [白涤洲]({{ site.baseurl }}{% link people/baidizhou-cn.md %})
 **别名:** 镇瀛
 
 - [说文](https://clangreformers.github.io/people/baidizhou-cn.html)
@@ -38,7 +38,7 @@ lang: 简体中文
 
 ---
 ## 白振民
-- 读音统一会委员: 是，江苏
+- [读音统一会]({{ site.baseurl }}{% link glossary/pronunciation-cn.md %})委员: 是，江苏
 
 
 **备注/成就:**
@@ -148,7 +148,7 @@ lang: 简体中文
 
 
 ---
-## 陈懋治
+## [陈懋治]({{ site.baseurl }}{% link people/chenmaozhi-cn.md %})
 **别名:** 颂平
 
 - [维基](https://zh.wikipedia.org/wiki/陈懋治)
@@ -221,7 +221,7 @@ lang: 简体中文
 
 ---
 ## 陈志先
-- 台湾国语推行委员会: 是，科长，总干事
+- 台湾[国语推行委员会]({{ site.baseurl }}{% link glossary/committee-cn.md %}): 是，科长，总干事
 
 
 
@@ -238,7 +238,7 @@ lang: 简体中文
 
 
 ---
-## 崔骥
+## [崔骥]({{ site.baseurl }}{% link people/tsuichi-cn.md %})
 **别名:** 少溪
 
 - [说文](https://clangreformers.github.io/people/tsuichi-cn.html)
@@ -313,7 +313,7 @@ lang: 简体中文
 
 
 ---
-## 杜同力
+## [杜同力]({{ site.baseurl }}{% link people/duzijin-cn.md %})
 **别名:** 子劲
 
 - [说文](https://clangreformers.github.io/people/duzijin-cn.html)
@@ -355,7 +355,7 @@ lang: 简体中文
 
 
 ---
-## 方毅
+## [方毅]({{ site.baseurl }}{% link people/fangyi-cn.md %})
 - [说文](https://clangreformers.github.io/people/fangyi-cn.html)
 - 国语会委员: 是
 
@@ -454,7 +454,7 @@ lang: 简体中文
 
 
 ---
-## 傅严
+## [傅严]({{ site.baseurl }}{% link people/fuyan-cn.md %})
 **别名:** 介石
 
 - [说文](https://clangreformers.github.io/people/fuyan-cn.html)
@@ -514,7 +514,7 @@ lang: 简体中文
 
 
 ---
-## 龚书炽
+## [龚书炽]({{ site.baseurl }}{% link people/gongshuzhi-cn.md %})
 - [说文](https://clangreformers.github.io/people/gongshuzhi-cn.html)
 - 台湾国语推行委员会: 是
 
@@ -589,7 +589,7 @@ lang: 简体中文
 
 
 **备注/成就:**
-《国语辞典》《增注中华新韵》《增订注解 国音常用字汇》《同音字典》《学文化字典》《现代汉语词典》主要编纂人
+《[国语辞典]({{ site.baseurl }}{% link glossary/national-language-dict-cn.md %})》《增注中华新韵》《增订注解 国音常用字汇》《同音字典》《学文化字典》《现代汉语词典》主要编纂人
 
 
 ---
@@ -762,7 +762,7 @@ lang: 简体中文
 
 
 ---
-## 孔凡均
+## [孔凡均]({{ site.baseurl }}{% link people/kongfanjun-cn.md %})
 **别名:** 繁钧
 
 - [说文](https://clangreformers.github.io/people/kongfanjun-cn.html)
@@ -831,7 +831,7 @@ lang: 简体中文
 
 
 ---
-## 李良材
+## [李良材]({{ site.baseurl }}{% link people/liliangcai-cn.md %})
 **别名:** 桐轩
 
 - [百度](https://baike.baidu.com/item/李桐轩/10728490)
@@ -1197,7 +1197,7 @@ lang: 简体中文
 
 
 **备注/成就:**
-汉字省体委员会委员，《增修国音字典》委员会委员
+汉字省体委员会委员，《增修[国音字典]({{ site.baseurl }}{% link glossary/national-pronounciation-dict-cn.md %})》委员会委员
 
 
 ---
@@ -1212,7 +1212,7 @@ lang: 简体中文
 
 
 **备注/成就:**
-全国国语教育促进会，《国语罗马字使用法》《国语注意符号发声法》，牵头组织全国国语运动大会
+全国国语教育促进会，《国语罗马字使用法》《国语注意符号发声法》，牵头组织全国[国语运动]({{ site.baseurl }}{% link glossary/movement-cn.md %})大会
 
 
 ---
@@ -1522,7 +1522,7 @@ lang: 简体中文
 
 
 ---
-## 沈颐
+## [沈颐]({{ site.baseurl }}{% link people/shenyi-cn.md %})
 **别名:** 朶山
 
 - [百度](https://baike.baidu.com/item/沈颐/64081418)
@@ -1640,7 +1640,7 @@ lang: 简体中文
 
 
 ---
-## 孙世庆
+## [孙世庆]({{ site.baseurl }}{% link people/sunshiqing-cn.md %})
 - 国语会委员: 是
 
 
@@ -1656,7 +1656,7 @@ lang: 简体中文
 
 
 ---
-## 孙崇义
+## [孙崇义]({{ site.baseurl }}{% link people/sunchongyi-cn.md %})
 **别名:** 谓宜
 
 - [说文](https://clangreformers.github.io/people/sunchongyi-cn.html)
@@ -1667,7 +1667,7 @@ lang: 简体中文
 
 
 ---
-## 孙培良
+## [孙培良]({{ site.baseurl }}{% link people/sunpeiliang-cn.md %})
 - [说文](/people/sunpeiliang-cn.html)
 - 台湾国语推行委员会: 是
 
@@ -1709,7 +1709,7 @@ lang: 简体中文
 
 
 **备注/成就:**
-国语速记讲习所主讲人（汪怡次子）
+国语速记讲习所主讲人（[汪怡]({{ site.baseurl }}{% link people/wangyi-cn.md %})次子）
 
 
 ---
@@ -1815,7 +1815,7 @@ lang: 简体中文
 
 
 ---
-## 王寿康
+## [王寿康]({{ site.baseurl }}{% link people/wangshoukang-cn.md %})
 **别名:** 茀青
 
 - [说文](https://clangreformers.github.io/people/wangshoukang-cn.html)
@@ -1827,7 +1827,7 @@ lang: 简体中文
 
 
 ---
-## 王述达
+## [王述达]({{ site.baseurl }}{% link people/wangshuda-cn.md %})
 **别名:** 善愷
 
 - [说文](https://clangreformers.github.io/people/wangshuda-cn.html)
@@ -1878,7 +1878,7 @@ lang: 简体中文
 
 
 ---
-## 王玉川
+## [王玉川]({{ site.baseurl }}{% link people/wangyuchuan-cn.md %})
 - [说文](/people/wangyuchuan-cn.html)
 - 台湾国语推行委员会: 是
 
@@ -1899,7 +1899,7 @@ lang: 简体中文
 
 
 ---
-## 王璞
+## [王璞]({{ site.baseurl }}{% link people/wangpu-cn.md %})
 **别名:** 蕴山
 
 - [说文](https://clangreformers.github.io/people/wangpu-cn.html)
@@ -2085,7 +2085,7 @@ lang: 简体中文
 
 
 ---
-## 萧家霖
+## [萧家霖]({{ site.baseurl }}{% link people/xiaojialin-cn.md %})
 **别名:** 涤忱
 
 - [说文](https://clangreformers.github.io/people/xiaojialin-cn.html)
@@ -2181,7 +2181,7 @@ lang: 简体中文
 
 
 ---
-## 徐叙贤
+## [徐叙贤]({{ site.baseurl }}{% link people/xuxuxian-cn.md %})
 - [说文](/people/xuxuxian-cn.html)
 - 台湾国语推行委员会: 是
 
@@ -2505,7 +2505,7 @@ lang: 简体中文
 
 
 ---
-## 张寿林
+## [张寿林]({{ site.baseurl }}{% link people/zhangshoulin-cn.md %})
 **别名:** 任甫
 
 - [说文](https://clangreformers.github.io/people/zhangshoulin-cn.html)
@@ -2536,7 +2536,7 @@ lang: 简体中文
 ---
 
 ---
-## 张宣忱
+## [张宣忱]({{ site.baseurl }}{% link people/zhangxuanchen-cn.md %})
 - [说文](/people/zhangxuanchen-cn.html)
 - 台湾国语推行委员会: 是
 
@@ -2551,7 +2551,7 @@ lang: 简体中文
 
 
 ---
-## 张远荫
+## [张远荫]({{ site.baseurl }}{% link people/zhangyuanyin-cn.md %})
 - [说文](张远荫)
 
 
@@ -2627,7 +2627,7 @@ lang: 简体中文
 **备注/成就:**
 台湾首任教育负责人，开启了台湾国语运动
 
-## 赵水澄
+## [赵水澄]({{ site.baseurl }}{% link people/zhaoshuicheng-cn.md %})
 **别名:** 作雄
 
 - [说文](https://clangreformers.github.io/people/zhaoshuicheng-cn.html)
@@ -2848,7 +2848,7 @@ lang: 简体中文
 
 
 ---
-## 朱兆祥
+## [朱兆祥]({{ site.baseurl }}{% link people/zhuzhaoxiang-cn.md %})
 - [说文](/people/zhuzhaoxiang-cn.html)
 - 台湾国语推行委员会: 是，研究组组长
 

@@ -10,7 +10,7 @@ A native of Raoyang, Hebei.
 
 In 1930, when the Association for the Promotion of Gwoyeu Romatzyh was established, Wang Yuchuan became a member.
 
-In 1932, he co-hosted the Gwoyeu Romatzyh training institute in Jinan with Xiao Jialin and others.
+In 1932, he co-hosted the Gwoyeu Romatzyh training institute in Jinan with [Xiao Jialin]({{ site.baseurl }}{% link people/xiaojialin.md %}) and others.
 
 During the Anti-Japanese War, he came to the southwest rear area and served as an English teacher at the National Women's Normal College in Baisha Town, Jiangjin, Sichuan, while also teaching National Language in the National Language Department. He invented the "Eclectic Teaching Method of Phonetic Symbols", which greatly benefited the students in the National Language Department.
 

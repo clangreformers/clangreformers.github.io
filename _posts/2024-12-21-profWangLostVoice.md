@@ -46,7 +46,7 @@ Back then, my father's speeches were indeed widely renowned. During his formal l
 
 When my father traveled south to support language education, Principal An of Haiching High School in Kaohsiung was so captivated by his lectures that he followed my father's schedule, attending every event in cities and counties across Kaohsiung just to hear him speak.
 
-My father's old friend, Uncle Wang Yuchuan, once said:
+My father's old friend, Uncle [Wang Yuchuan]({{ site.baseurl }}{% link people/wangyuchuan.md %}), once said:
 
 "When something is explained by Mr. Wang Fuqing, no matter how many times—ten times, even—people never tire of listening."
 
@@ -58,7 +58,7 @@ Around a dozen students from the Mandarin Training Program at Beijing Normal Uni
 
 Professor Fang Zushen, one of my father's students, recalled:
 
-"The thing that left the deepest impression on me in Mr. Wang Shoukang's classes was his public speaking. Standing on stage, he wasn't very tall but was solidly built, with a broad face and full cheeks. His hair was slightly balding on top but thick on the sides. Perched on the bridge of his nose were a pair of old-fashioned, round glasses with red and black frames. Behind the lenses, his eyes radiated strength, a mix of determination and kindness. One hand rested on the small of his back while the other gestured appropriately as he spoke.
+"The thing that left the deepest impression on me in Mr. [Wang Shoukang]({{ site.baseurl }}{% link people/wangshoukang.md %})'s classes was his public speaking. Standing on stage, he wasn't very tall but was solidly built, with a broad face and full cheeks. His hair was slightly balding on top but thick on the sides. Perched on the bridge of his nose were a pair of old-fashioned, round glasses with red and black frames. Behind the lenses, his eyes radiated strength, a mix of determination and kindness. One hand rested on the small of his back while the other gestured appropriately as he spoke.
 
 He spoke with power and clarity, his voice resonating across a crowd of hundreds. His speeches, rich with profound insights and clever metaphors, frequently elicited laughter and thunderous applause.
 

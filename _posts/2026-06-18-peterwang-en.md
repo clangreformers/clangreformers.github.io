@@ -37,7 +37,7 @@ I want to be a worker. Because I feel that "labor" is the happiest and most sacr
 
 In the 35th year of the Republic (1946), we traveled from Yanshan in Jiangxi to Shangrao. After saying goodbye to our friends, we boarded a car. The driver drove very fast. Later we came to a remote stretch of road, where an old lady in a blue cloth gown saw our car coming and dodged to the left side; because dust was flying on the left, she ran back to the right. But she had bound feet and could not run quickly. Our car was going too fast, and one of her legs was broken in the collision. She was covered in blood, lying on the ground crying out. The car had also gotten stuck in the mud. The army officers all got out to look, intending to send the injured woman for treatment. By chance a rickshaw came by, and they had it carry her away. Everyone gave her some money, and the driver gave her some money too. Long after the rickshaw had gone far away, we could still hear her sighing and crying out in pain — truly pitiful!
 
-— Wang Zhengfang, Class 4-Bing, Second Affiliated Primary School of the Normal College
+— Wang Zhengfang, Class 4-[Bing]({{ site.baseurl }}{% link people/xierenbing.md %}), Second Affiliated Primary School of the Normal College
 
 <div style="text-align: center; margin-bottom: 30px;">
     <img src="/assets/imgs/2026-06-18-peterwang/image3.png" alt="The Pitiful Old Lady" style="max-width: 100%; height: auto; border: 1px solid #ddd; padding: 5px;">

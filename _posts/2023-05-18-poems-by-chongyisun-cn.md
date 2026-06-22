@@ -8,7 +8,7 @@ lang: 简体中文
 author: 孙崇义
 timeline_era: 6
 ---
-作者：孙崇义
+作者：[孙崇义]({{ site.baseurl }}{% link people/sunchongyi-cn.md %})
 
 ![image](/assets/imgs/sunchongyi_1.jpg "1949年在北师大任职的孙崇义"){: width="250" }
 

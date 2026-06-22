@@ -7,7 +7,7 @@ lang: 繁體中文
 
 
 ---
-## 安文倬
+## [安文倬]({{ site.baseurl }}{% link people/anwenzhuo-tw.md %})
 - [說文](https://clangreformers.github.io/people/anwenzhuo-tw.html)
 - 大辭典編纂處: 是
 
@@ -15,7 +15,7 @@ lang: 繁體中文
 
 
 ---
-## 敖士英
+## [敖士英]({{ site.baseurl }}{% link people/aoshiying-tw.md %})
 - [說文](https://clangreformers.github.io/people/aoshiying-tw.html)
 - 大辭典編纂處: 是（特約編纂）
 
@@ -25,7 +25,7 @@ lang: 繁體中文
 
 
 ---
-## 白滌洲
+## [白滌洲]({{ site.baseurl }}{% link people/baidizhou-tw.md %})
 **別名:** 鎮瀛
 
 - [說文](https://clangreformers.github.io/people/baidizhou-tw.html)
@@ -38,7 +38,7 @@ lang: 繁體中文
 
 ---
 ## 白振民
-- 讀音統一會委員: 是，江蘇
+- [讀音統一會]({{ site.baseurl }}{% link glossary/pronunciation-tw.md %})委員: 是，江蘇
 
 
 **備注/成就:**
@@ -148,7 +148,7 @@ lang: 繁體中文
 
 
 ---
-## 陳懋治
+## [陳懋治]({{ site.baseurl }}{% link people/chenmaozhi-tw.md %})
 **別名:** 頌平
 
 - [維基](https://zh.wikipedia.org/wiki/陳懋治)
@@ -221,7 +221,7 @@ lang: 繁體中文
 
 ---
 ## 陳志先
-- 台灣國語推行委員會: 是，科長，總幹事
+- 台灣[國語推行委員會]({{ site.baseurl }}{% link glossary/committee-tw.md %}): 是，科長，總幹事
 
 
 
@@ -238,7 +238,7 @@ lang: 繁體中文
 
 
 ---
-## 崔驥
+## [崔驥]({{ site.baseurl }}{% link people/tsuichi-tw.md %})
 **別名:** 少溪
 
 - [說文](https://clangreformers.github.io/people/tsuichi-tw.html)
@@ -313,7 +313,7 @@ lang: 繁體中文
 
 
 ---
-## 杜同力
+## [杜同力]({{ site.baseurl }}{% link people/duzijin-tw.md %})
 **別名:** 子勁
 
 - [說文](https://clangreformers.github.io/people/duzijin-tw.html)
@@ -355,7 +355,7 @@ lang: 繁體中文
 
 
 ---
-## 方毅
+## [方毅]({{ site.baseurl }}{% link people/fangyi-tw.md %})
 - [說文](https://clangreformers.github.io/people/fangyi-tw.html)
 - 國語會委員: 是
 
@@ -454,7 +454,7 @@ lang: 繁體中文
 
 
 ---
-## 傅嚴
+## [傅嚴]({{ site.baseurl }}{% link people/fuyan-tw.md %})
 **別名:** 介石
 
 - [說文](https://clangreformers.github.io/people/fuyan-tw.html)
@@ -514,7 +514,7 @@ lang: 繁體中文
 
 
 ---
-## 龔書熾
+## [龔書熾]({{ site.baseurl }}{% link people/gongshuzhi-tw.md %})
 - [說文](https://clangreformers.github.io/people/gongshuzhi-tw.html)
 - 台灣國語推行委員會: 是
 
@@ -589,7 +589,7 @@ lang: 繁體中文
 
 
 **備注/成就:**
-《國語辭典》《增注中華新韻》《增訂注解 國音常用字彙》《同音字典》《學文化字典》《現代漢語詞典》主要編纂人
+《[國語辭典]({{ site.baseurl }}{% link glossary/national-language-dict-tw.md %})》《增注中華新韻》《增訂注解 國音常用字彙》《同音字典》《學文化字典》《現代漢語詞典》主要編纂人
 
 
 ---
@@ -762,7 +762,7 @@ lang: 繁體中文
 
 
 ---
-## 孔凡均
+## [孔凡均]({{ site.baseurl }}{% link people/kongfanjun-tw.md %})
 **別名:** 繁鈞
 
 - [說文](https://clangreformers.github.io/people/kongfanjun-tw.html)
@@ -831,7 +831,7 @@ lang: 繁體中文
 
 
 ---
-## 李良材
+## [李良材]({{ site.baseurl }}{% link people/liliangcai-tw.md %})
 **別名:** 桐軒
 
 - [百度](https://baike.baidu.com/item/李桐軒/10728490)
@@ -1197,7 +1197,7 @@ lang: 繁體中文
 
 
 **備注/成就:**
-漢字省體委員會委員，《增修國音字典》委員會委員
+漢字省體委員會委員，《增修[國音字典]({{ site.baseurl }}{% link glossary/national-pronounciation-dict-tw.md %})》委員會委員
 
 
 ---
@@ -1212,7 +1212,7 @@ lang: 繁體中文
 
 
 **備注/成就:**
-全國國語教育促進會，《國語羅馬字使用法》《國語注意符號發聲法》，牽頭組織全國國語運動大會
+全國國語教育促進會，《國語羅馬字使用法》《國語注意符號發聲法》，牽頭組織全國[國語運動]({{ site.baseurl }}{% link glossary/movement-tw.md %})大會
 
 
 ---
@@ -1522,7 +1522,7 @@ lang: 繁體中文
 
 
 ---
-## 沈頤
+## [沈頤]({{ site.baseurl }}{% link people/shenyi-tw.md %})
 **別名:** 朶山
 
 - [百度](https://baike.baidu.com/item/沈頤/64081418)
@@ -1640,7 +1640,7 @@ lang: 繁體中文
 
 
 ---
-## 孫世慶
+## [孫世慶]({{ site.baseurl }}{% link people/sunshiqing-tw.md %})
 - 國語會委員: 是
 
 
@@ -1656,7 +1656,7 @@ lang: 繁體中文
 
 
 ---
-## 孫崇義
+## [孫崇義]({{ site.baseurl }}{% link people/sunchongyi-tw.md %})
 **別名:** 謂宜
 
 - [說文](https://clangreformers.github.io/people/sunchongyi-tw.html)
@@ -1667,7 +1667,7 @@ lang: 繁體中文
 
 
 ---
-## 孫培良
+## [孫培良]({{ site.baseurl }}{% link people/sunpeiliang-tw.md %})
 - [說文](/people/sunpeiliang-tw.html)
 - 台灣國語推行委員會: 是，常務委員
 
@@ -1709,7 +1709,7 @@ lang: 繁體中文
 
 
 **備注/成就:**
-國語速記講習所主講人（汪怡次子）
+國語速記講習所主講人（[汪怡]({{ site.baseurl }}{% link people/wangyi-tw.md %})次子）
 
 
 ---
@@ -1815,7 +1815,7 @@ lang: 繁體中文
 
 
 ---
-## 王壽康
+## [王壽康]({{ site.baseurl }}{% link people/wangshoukang-tw.md %})
 **別名:** 茀青
 
 - [說文](https://clangreformers.github.io/people/wangshoukang-tw.html)
@@ -1827,7 +1827,7 @@ lang: 繁體中文
 
 
 ---
-## 王述達
+## [王述達]({{ site.baseurl }}{% link people/wangshuda-tw.md %})
 **別名:** 善愷
 
 - [說文](https://clangreformers.github.io/people/wangshuda-tw.html)
@@ -1878,7 +1878,7 @@ lang: 繁體中文
 
 
 ---
-## 王玉川
+## [王玉川]({{ site.baseurl }}{% link people/wangyuchuan-tw.md %})
 - [說文](/people/wangyuchuan-tw.html)
 - 台灣國語推行委員會: 是，常務委員
 
@@ -1899,7 +1899,7 @@ lang: 繁體中文
 
 
 ---
-## 王璞
+## [王璞]({{ site.baseurl }}{% link people/wangpu-tw.md %})
 **別名:** 蘊山
 
 - [說文](https://clangreformers.github.io/people/wangpu-tw.html)
@@ -2085,7 +2085,7 @@ lang: 繁體中文
 
 
 ---
-## 蕭家霖
+## [蕭家霖]({{ site.baseurl }}{% link people/xiaojialin-tw.md %})
 **別名:** 滌忱
 
 - [說文](https://clangreformers.github.io/people/xiaojialin-tw.html)
@@ -2181,7 +2181,7 @@ lang: 繁體中文
 
 
 ---
-## 徐敘賢
+## [徐敘賢]({{ site.baseurl }}{% link people/xuxuxian-tw.md %})
 - [說文](/people/xuxuxian-tw.html)
 - 台灣國語推行委員會: 是
 
@@ -2505,7 +2505,7 @@ lang: 繁體中文
 
 
 ---
-## 張壽林
+## [張壽林]({{ site.baseurl }}{% link people/zhangshoulin-tw.md %})
 **別名:** 任甫
 
 - [說文](https://clangreformers.github.io/people/zhangshoulin-tw.html)
@@ -2526,7 +2526,7 @@ lang: 繁體中文
 
 
 ---
-## 張洵如
+## [張洵如]({{ site.baseurl }}{% link people/zhangxunru-tw.md %})
 - [說文](https://clangreformers.github.io/people/zhangxunru-tw.html)
 - 大辭典編纂處: 是
 
@@ -2536,7 +2536,7 @@ lang: 繁體中文
 ---
 
 ---
-## 張宣忱
+## [張宣忱]({{ site.baseurl }}{% link people/zhangxuanchen-tw.md %})
 - [說文](/people/zhangxuanchen-tw.html)
 - 臺灣國語推行委員會: 是
 
@@ -2551,7 +2551,7 @@ lang: 繁體中文
 
 
 ---
-## 張遠蔭
+## [張遠蔭]({{ site.baseurl }}{% link people/zhangyuanyin-tw.md %})
 - [說文](張遠蔭)
 
 
@@ -2627,7 +2627,7 @@ lang: 繁體中文
 **備註/成就:**
 臺灣首任教育負責人，開啟了臺灣國語運動
 
-## 趙水澄
+## [趙水澄]({{ site.baseurl }}{% link people/zhaoshuicheng-tw.md %})
 **別名:** 作雄
 
 - [說文](https://clangreformers.github.io/people/zhaoshuicheng-tw.html)
@@ -2848,7 +2848,7 @@ lang: 繁體中文
 
 
 ---
-## 朱兆祥
+## [朱兆祥]({{ site.baseurl }}{% link people/zhuzhaoxiang-tw.md %})
 - [說文](/people/zhuzhaoxiang-tw.html)
 - 台灣國語推行委員會: 是，研究組組長
 

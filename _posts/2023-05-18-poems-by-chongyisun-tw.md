@@ -8,7 +8,7 @@ lang: 繁體中文
 author: 孫崇義
 timeline_era: 6
 ---
-作者：孫崇義
+作者：[孫崇義]({{ site.baseurl }}{% link people/sunchongyi-tw.md %})
 
 ![image](/assets/imgs/sunchongyi_1.jpg "1949年在北師大任職的孫崇義"){: width="250" }
 

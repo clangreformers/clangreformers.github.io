@@ -26,7 +26,7 @@ In 1949, Du Zijing was reassigned to work with the Textbook Editing Committee of
 On April 17, 1950, with the support of the Chinese Script Reform Association, "Guangming Daily" launched the weekly magazine "New Language and Literature," with Du Zijing, Cao Bohan, Sun Fuyuan, and Chen Jianzhong serving as editorial committee members. This was one of the earliest publications in the country to use the term "language and literature."
 
 In August 1950, Du Zijing joined the Xinhua Dictionary Publishing House, becoming one of the earliest editorial staff members and the head of the data group.
-Xiao Jialin and others edited and published the "Commonly Used Vocabulary" (1953) and the first edition of the "Xinhua Dictionary."
+[Xiao Jialin]({{ site.baseurl }}{% link people/xiaojialin.md %}) and others edited and published the "Commonly Used Vocabulary" (1953) and the first edition of the "Xinhua Dictionary."
 
 On May 21, 1955, Du Zijing passed away due to liver disease.
 

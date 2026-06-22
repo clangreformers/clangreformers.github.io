@@ -8,13 +8,13 @@ lang: English
 
 ---
 
-## An Wenzhuo  
+## [An Wenzhuo]({{ site.baseurl }}{% link people/anwenzhuo.md %})  
 - [Shuo Wen](https://clangreformers.github.io/people/anwenzhuo.html)  
 - Editorial Department of the Great Dictionary: Yes  
 
 ---
 
-## Ao Shiying  
+## [Ao Shiying]({{ site.baseurl }}{% link people/aoshiying.md %})  
 - [Shuo Wen](https://clangreformers.github.io/people/aoshiying.html)
 - Editorial Department of the Great Dictionary: Yes (Special Editor)  
 
@@ -206,7 +206,7 @@ Section Chief of the Department of Special Education, Ministry of Education
 
 ---
 
-## Tsui Chi (Cui Ji)
+## [Tsui Chi]({{ site.baseurl }}{% link people/tsuichi.md %}) (Cui Ji)
 **Courtesy name:** Shaoxi
 
 - [Bio](https://clangreformers.github.io/people/tsuichi.html)
@@ -314,7 +314,7 @@ Published "Practical Mandarin Grammar" (Taiwan, 1948)
 
 
 ---
-## Fang Yi
+## [Fang Yi]({{ site.baseurl }}{% link people/fangyi.md %})
 - [Shuo Wen](https://clangreformers.github.io/people/fangyi.html)
 - Member of the National Language Association: Yes
 
@@ -337,7 +337,7 @@ Editor of "Dictionary of Foreign Terms Throughout History," "Study of the Khitan
 **Also known as:** Dafang
 
 - [Wikipedia](https://zh.wikipedia.org/wiki/方師鐸)
-- Taiwan National Language Promotion Committee: Yes, Executive Member
+- Taiwan [National Language Promotion Committee]({{ site.baseurl }}{% link glossary/committee.md %}): Yes, Executive Member
 
 
 **Notes/Achievements:**
@@ -520,7 +520,7 @@ Editor-in-chief of "National Language Weekly"
 - Modern Chinese Dictionary: Main compiler
 
 **Remarks/Achievements:**
-"National Language Dictionary," "Additions and Notes on the New Sounds of Chinese," "Revised Annotations"
+"[National Language Dictionary]({{ site.baseurl }}{% link glossary/national-language-dict.md %})," "Additions and Notes on the New Sounds of Chinese," "Revised Annotations"
 **Phonetic Common Vocabulary**, **Homophone Dictionary**, **Cultural Learning Dictionary**, **Modern Chinese Dictionary** - Main Compilers
 
 ---
@@ -1304,7 +1304,7 @@ Member of the "Revised National Phonetic Dictionary" Committee
 
 ---
 
-## Shen Yi
+## [Shen Yi]({{ site.baseurl }}{% link people/shenyi.md %})
 **Alias:** 
 
 [Note: The text cuts off here, and no alias is provided.]
@@ -1430,7 +1430,7 @@ Citizen Education Promotion Association
 
 
 ---
-## Sun Shiqing
+## [Sun Shiqing]({{ site.baseurl }}{% link people/sunshiqing.md %})
 - Member of the Mandarin Promotion Council: Yes
 
 
@@ -1446,7 +1446,7 @@ Member of the Commission for the Revised National Pronunciation Dictionary, Firs
 
 
 ---
-## Sun Chongyi
+## [Sun Chongyi]({{ site.baseurl }}{% link people/sunchongyi.md %})
 **Also known as:** Weiyi
 
 - [Shuowen](https://clangreformers.github.io/people/sunchongyi.html)
@@ -1457,7 +1457,7 @@ Member of the Commission for the Revised National Pronunciation Dictionary, Firs
 
 
 ---
-## Sun Peiliang
+## [Sun Peiliang]({{ site.baseurl }}{% link people/sunpeiliang.md %})
 - [Shuo Wen](/people/sunpeiliang.html)
 - Taiwan Mandarin Promotion Council: Yes
 
@@ -1499,7 +1499,7 @@ Inventor of the National Phonetic Telegraph
 ## Wang Gongli
 
 **Note/Achievements:**
-Main speaker at the National Language Shorthand Workshop (Wang Yi's second son)
+Main speaker at the National Language Shorthand Workshop ([Wang Yi]({{ site.baseurl }}{% link people/wangyi.md %})'s second son)
 
 ---
 ## Wang Gongxia
@@ -1580,7 +1580,7 @@ Member of the Ministry of Education Phonetic Symbol Implementation Committee, Tr
 Main speaker at the National Luo Workshop in Tianjin, Main speaker at the Tianjin Phonetic Symbol Workshop
 
 ---
-## Wang Shoukang
+## [Wang Shoukang]({{ site.baseurl }}{% link people/wangshoukang.md %})
 **Alias:** Faqing
 
 - [Shuowen](https://clangreformers.github.io/people/wangshoukang.html)
@@ -1589,7 +1589,7 @@ Main speaker at the National Luo Workshop in Tianjin, Main speaker at the Tianji
 - Compilation Office of the Great Dictionary: Yes
 
 ---
-## Wang Shuda
+## [Wang Shuda]({{ site.baseurl }}{% link people/wangshuda.md %})
 **Alias:** Shankai
 
 - [Shuowen](https://clangreformers.github.io/people/wangshuda.html)
@@ -1645,7 +1645,7 @@ Member of the National Language Romanization Promotion Association, Speaker at t
 - Unified Pronunciation Committee Member: Yes, Zhili
 
 ---
-## Wang Pu
+## [Wang Pu]({{ site.baseurl }}{% link people/wangpu.md %})
 **Alias:** Yun Shan
 
 - [Shuowen](https://clangreformers.github.io/people/wangpu.html)
@@ -1796,7 +1796,7 @@ Member of the Ministry of Education Phonetic Symbol Promotion Committee
 
 
 ---
-### Xiao Jialin
+### [Xiao Jialin]({{ site.baseurl }}{% link people/xiaojialin.md %})
 **Alias:** Dichen
 
 - [Shuowen](https://clangreformers.github.io/people/xiaojialin.html)
@@ -1832,7 +1832,7 @@ Member of the Ministry of Education Phonetic Symbol Promotion Committee
 
 
 ---
-### Xie Bing
+### Xie [Bing]({{ site.baseurl }}{% link people/xierenbing.md %})
 **Alias:** Renbing
 
 - [Shuowen](https://clangreformers.github.io/people/xierenbing.html)
@@ -1875,7 +1875,7 @@ Premier of the Executive Yuan during the Republic of China, Member of the Chines
 - Great Dictionary Editorial Office: Yes
 
 ---
-## Xu Xuxian
+## [Xu Xuxian]({{ site.baseurl }}{% link people/xuxuxian.md %})
 - [Shuo Wen](/people/xuxuxian.html)
 - Taiwan Mandarin Promotion Committee: Yes
 
@@ -1898,7 +1898,7 @@ Premier of the Executive Yuan during the Republic of China, Member of the Chines
 - Pronunciation Unification Committee Member: Yes, Zhejiang
 
 ---
-## Yan Fu
+## [Yan Fu]({{ site.baseurl }}{% link people/fuyan.md %})
 - [Wikipedia](https://zh.wikipedia.org/wiki/嚴復)
 
 **Notes/Achievements:**
@@ -2145,7 +2145,7 @@ Editor of "Mandarin Dictionary," "Expanded and Annotated New Chinese Rhyme," and
 
 ---
 
-## Zhang Xunru
+## [Zhang Xunru]({{ site.baseurl }}{% link people/zhangxunru.md %})
 - [Shuo Wen](https://clangreformers.github.io/people/zhangxunru.html)
 - Dictionary Compilation Office: Yes
 
@@ -2154,7 +2154,7 @@ Editor of "Mandarin Dictionary," "Expanded and Annotated New Chinese Rhyme," and
 
 ---
 
-## Zhang Xuanchen
+## [Zhang Xuanchen]({{ site.baseurl }}{% link people/zhangxuanchen.md %})
 - [Shuo Wen](/people/zhangxuanchen.html)
 - Taiwan Mandarin Promotion Committee: Yes
 
@@ -2168,7 +2168,7 @@ Supported the establishment of a phonetic alphabet training center while working
 
 ---
 
-## Zhang Yuanyin
+## [Zhang Yuanyin]({{ site.baseurl }}{% link people/zhangyuanyin.md %})
 - [Shuo Wen](http://zh.wikipedia.org/wiki/張遠蔭)
 
 ---
@@ -2233,7 +2233,7 @@ One of the initiators of the "Simplified Character Research Association" in 1909
 **Remarks/Achievements:**
 The first head of education in Taiwan, initiating the Taiwan National Language Movement
 
-## Zhao Shuicheng
+## [Zhao Shuicheng]({{ site.baseurl }}{% link people/zhaoshuicheng.md %})
 **Also known as:** Zuo Xiong
 
 - [Shuo Wen](https://clangreformers.github.io/people/zhaoshuicheng.html)

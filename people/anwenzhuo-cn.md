@@ -15,7 +15,7 @@ lang: 简体中文
 
 安文倬在清华期间曾任清华大学世界语筹备委员会委员，但无著述。《消夏周刊》（第一期）称其“善辨，多病善愁，不康壮”，时人则评其“学养不足”。
 
-1935年7月，安文倬被蒋廷黻和朱自清辞退，后进入中国大辞典编纂处，曾参与《国语辞典》的编纂工作。
+1935年7月，安文倬被蒋廷黻和朱自清辞退，后进入[中国大辞典编纂处]({{ site.baseurl }}{% link glossary/compilation-cn.md %})，曾参与《[国语辞典]({{ site.baseurl }}{% link glossary/national-language-dict-cn.md %})》的编纂工作。
 
 ![image](/assets/imgs/anwenzhuo.jpg "清华大学中国文学会会员1931年10月28日合影"){: width="300" }
 

@@ -28,7 +28,7 @@ He played a pivotal role in the National Language Movement:
 
 ### Dictionary Compilation and Later Years
 
-In 1928, Wang Yi became the director of the Common Vocabulary Section at the China Dictionary Compiling Office. During the Second Sino-Japanese War, he served as the acting director-general. Despite the hardships of the war, he successfully oversaw the compilation of the eight-volume *National Language Dictionary* (Guoyu Cidian), which later became the standard for the national language.
+In 1928, Wang Yi became the director of the Common Vocabulary Section at the China Dictionary Compiling Office. During the Second Sino-Japanese War, he served as the acting director-general. Despite the hardships of the war, he successfully oversaw the compilation of the eight-volume *[National Language Dictionary]({{ site.baseurl }}{% link glossary/national-language-dict.md %})* (Guoyu Cidian), which later became the standard for the national language.
 
 ![Wang Yi and Colleagues](/assets/imgs/wangyi-3.jpg "Wang Yi with colleagues"){: width="300" }
 

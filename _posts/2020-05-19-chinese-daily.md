@@ -41,7 +41,7 @@ I didn't know that much. But I understood that "Chinese Daily" was different fro
 
 ![image](/assets/imgs/chinese-daily-3.png "Author's father, also the first Vice President of Chinese Daily Shoukang Wang. (Photo contributed by author.)")
 
-Author's father, also the first Vice President of "Chinese Daily" Shoukang Wang. (Photo contributed by author.)
+Author's father, also the first Vice President of "Chinese Daily" [Shoukang Wang]({{ site.baseurl }}{% link people/wangshoukang.md %}). (Photo contributed by author.)
 
 During the early days of the newspaper, father worried daily. Few people knew about "Chinese Daily". It had very limited circulation. I remember him worrying about sales volume. He often paced back and force in our house, talking to himself:
 

@@ -17,7 +17,7 @@ From 1930 to 1937, taught at the Tianjin Municipal Normal School (now "Tianjin N
 
 Previously worked at the Zhonghua Book Company, participating in the compilation of the "Cihai" (Dictionary of Terms).
 
-Served at the Chinese Dictionary Compilation Office, contributing to several dictionaries.
+Served at the [Chinese Dictionary Compilation Office]({{ site.baseurl }}{% link glossary/compilation.md %}), contributing to several dictionaries.
 
 In 1949, he gave a talk on the "Latinized New Writing Scheme" at the "New Script Learning Society" established by the Chinese Department of Beijing Normal University.
 
@@ -31,7 +31,7 @@ Contributions to compiling dictionaries and works:
 
 "Cihai Compendium" (one-volume edition), Zhonghua Book Company (first published March 1947).
 
-"Mandarin Dictionary" (four-volume set), edited by Li Jinxu, Wang Yi (director), Xu Yishi, Sun Chongyi, Xu Shirong, Fu Yan, An Wenzhuo, Wang Shuda, Zhang Weiyu, He Meicen, Niu Jichang, Gao Jingcheng, Commercial Press (1948), reissued and renamed "Chinese Dictionary" in 1962.
+"Mandarin Dictionary" (four-volume set), edited by Li Jinxu, [Wang Yi]({{ site.baseurl }}{% link people/wangyi.md %}) (director), Xu Yishi, [Sun Chongyi]({{ site.baseurl }}{% link people/sunchongyi.md %}), Xu Shirong, Fu Yan, [An Wenzhuo]({{ site.baseurl }}{% link people/anwenzhuo.md %}), [Wang Shuda]({{ site.baseurl }}{% link people/wangshuda.md %}), Zhang Weiyu, He Meicen, Niu Jichang, Gao Jingcheng, Commercial Press (1948), reissued and renamed "Chinese Dictionary" in 1962.
 
 "New Index of Radical Phonetic Dictionary," edited by Li Jinxu, Wang Yi (director), Xu Renyu, Fu Jieshi, Niu Jichang, Gao Jingcheng, He Meicen, Xu Shirong, Sun Chongyi, Wang Shuda, Zhang Naizhi, Zhang Weiyu, Commercial Press (first published August 1949).
 
