@@ -74,9 +74,22 @@
     {%- endfor -%}
   {%- endif -%}
 
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Caveat:wght@500;700&family=Shadows+Into+Light&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="/assets/css/bootstrap.min.css">
   <link rel="stylesheet" href="/assets/css/main.css">
   <link rel="stylesheet" href="/assets/css/scrolling_banner_styles.css">
+  <style>
+    .nav-tabs .nav-link,
+    .nav-pills .nav-link {
+      font-family: "Caveat", "Shadows Into Light", "Kaiti SC", "STKaiti", "KaiTi", cursive;
+      font-weight: 700;
+      font-size: 1.6rem;
+      line-height: 1.2;
+      letter-spacing: 0.5px;
+    }
+  </style>
   {%- if jekyll.environment == 'production' and site.google_analytics -%}
   {%- include google-analytics.html -%}
   {%- endif -%}
