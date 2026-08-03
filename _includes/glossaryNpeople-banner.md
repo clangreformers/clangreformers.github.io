@@ -3,51 +3,101 @@
 Decades ago, communication in China was fragmented by countless dialects and inconsistent written characters. The vision of these reformers—"words with universal meaning and language with universal pronunciation"—transformed this challenge into a reality. Today, students across mainland China, Taiwan, and Hong Kong can learn Standard Mandarin using Pinyin or Zhuyin, allowing them to communicate seamlessly across regions and generations.
 
 <style>
-  .hl-badges {
+  .gp-cards {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 18px;
+    padding: 32px 8px 24px;
+    max-width: 960px;
+    margin: 0 auto;
+  }
+  @media (max-width: 780px) {
+    .gp-cards { grid-template-columns: repeat(2, 1fr); }
+  }
+  @media (max-width: 420px) {
+    .gp-cards { grid-template-columns: 1fr; }
+  }
+  .gp-card {
     display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
+    flex-direction: column;
     align-items: center;
-    gap: 22px 32px;
-    padding: 28px 12px 24px;
-  }
-  .hl-badge {
-    display: inline-block;
-    position: relative;
-    padding: 4px 14px;
-    color: #111 !important;
-    font-family: "Comic Sans MS", "Bradley Hand", "Segoe Script", cursive;
-    font-weight: 700;
-    font-size: 1.15rem;
-    line-height: 1.35;
-    text-decoration: none !important;
+    justify-content: flex-start;
     text-align: center;
-    background: linear-gradient(
-      100deg,
-      rgba(179, 255, 90, 0) 0.5%,
-      rgba(179, 255, 90, 0.9) 3%,
-      rgba(179, 255, 90, 0.95) 96%,
-      rgba(179, 255, 90, 0) 99.5%
-    );
-    box-shadow: inset 0 -0.08em 0 rgba(120, 200, 40, 0.35);
-    transition: transform 0.15s ease;
+    padding: 22px 16px 18px;
+    background: #fffdf5;
+    border: 1px solid #e8e0c8;
+    border-radius: 14px;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.04);
+    color: #2a2a2a !important;
+    text-decoration: none !important;
+    transition: transform 0.18s ease, box-shadow 0.18s ease, border-color 0.18s ease;
+    position: relative;
+    overflow: hidden;
   }
-  .hl-badge:nth-child(1) { transform: rotate(-3deg); }
-  .hl-badge:nth-child(2) { transform: rotate(2deg); }
-  .hl-badge:nth-child(3) { transform: rotate(-1.5deg); }
-  .hl-badge:nth-child(4) { transform: rotate(2.5deg); }
-  .hl-badge:hover { transform: rotate(0deg) scale(1.05); }
-  .hl-badge small {
-    display: block;
-    font-size: 0.8rem;
-    font-weight: 500;
-    color: #222;
+  .gp-card::before {
+    content: "";
+    position: absolute;
+    top: 0; left: 0; right: 0;
+    height: 4px;
+    background: linear-gradient(90deg, #c69a4a, #b3ff5a);
+    opacity: 0.85;
+  }
+  .gp-card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 10px 22px rgba(60, 40, 10, 0.10);
+    border-color: #c69a4a;
+  }
+  .gp-icon {
+    font-size: 1.9rem;
+    line-height: 1;
+    margin-bottom: 8px;
+  }
+  .gp-title {
+    font-family: "Caveat", "Shadows Into Light", cursive;
+    font-weight: 700;
+    font-size: 1.75rem;
+    line-height: 1.15;
+    margin: 2px 0 6px;
+    color: #1e1e1e;
+  }
+  .gp-count {
+    display: inline-block;
+    font-family: "Caveat", cursive;
+    font-size: 1.05rem;
+    color: #7a5a1a;
+    background: rgba(198, 154, 74, 0.12);
+    border-radius: 999px;
+    padding: 1px 10px;
+    margin-bottom: 6px;
+  }
+  .gp-desc {
+    font-size: 0.9rem;
+    line-height: 1.4;
+    color: #555;
+    margin: 0;
   }
 </style>
 
-<div class="hl-badges">
-  <a href="/glossary/glossary.html" class="hl-badge">Mandarin Movement Glossary</a>
-  <a href="/people/people.html" class="hl-badge">People<small>(more than 300)</small></a>
-  <a href="/glossary/references.html" class="hl-badge">References</a>
-  <a href="/glossary/timeline.html" class="hl-badge">Timeline</a>
+<div class="gp-cards">
+  <a href="/glossary/glossary.html" class="gp-card">
+    <div class="gp-icon">📖</div>
+    <div class="gp-title">Glossary</div>
+    <p class="gp-desc">Key terms from the Mandarin Movement</p>
+  </a>
+  <a href="/people/people.html" class="gp-card">
+    <div class="gp-icon">👥</div>
+    <div class="gp-title">People</div>
+    <span class="gp-count">300+</span>
+    <p class="gp-desc">Reformers, educators, lexicographers</p>
+  </a>
+  <a href="/glossary/references.html" class="gp-card">
+    <div class="gp-icon">🔖</div>
+    <div class="gp-title">References</div>
+    <p class="gp-desc">Sources and further reading</p>
+  </a>
+  <a href="/glossary/timeline.html" class="gp-card">
+    <div class="gp-icon">🕰️</div>
+    <div class="gp-title">Timeline</div>
+    <p class="gp-desc">A century of language reform</p>
+  </a>
 </div>
