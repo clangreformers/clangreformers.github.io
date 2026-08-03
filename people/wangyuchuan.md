@@ -8,6 +8,8 @@ lang: English
 **Wang Yuchuan**
 A native of Raoyang, Hebei.
 
+He originally worked as an English teacher in a middle school. After coming into contact with Gwoyeu Romatzyh, he developed a firm belief in it and dedicated himself with great enthusiasm to the promotion and implementation of Gwoyeu Romatzyh, remaining steadfast in his commitment.
+
 In 1930, when the Association for the Promotion of Gwoyeu Romatzyh was established, Wang Yuchuan became a member.
 
 In 1932, he co-hosted the Gwoyeu Romatzyh training institute in Jinan with [Xiao Jialin]({{ site.baseurl }}{% link people/xiaojialin.md %}) and others.
@@ -19,6 +21,7 @@ In 1946, he and Wei Jiangong and others were invited to become standing committe
 **Monographs and Papers:**
 
 - "The Problem of Differentiation of Retroflex Rhymes in the National Language" ("National Language Weekly" Issue 49)
+- "The Promotion Method of Gwoyeu Romatzyh" ("National Language Weekly" Issue 121)
 - "National Language Speaking Materials and Teaching Methods", Taiwan National Language Committee, 1948. This book featured prefaces by Wei Jiangong and He Rong.
 
 ![image](/assets/imgs/wangyuchuan.PNG "Group photo of key personnel of the 1946 Taiwan National Language Committee, second from left is Wang Yuchuan"){: width="300" }

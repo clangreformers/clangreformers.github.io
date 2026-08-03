@@ -345,6 +345,14 @@ Editor of "Dictionary of Foreign Terms Throughout History," "Study of the Khitan
 
 
 ---
+## [Fan Yuepei]({{ site.baseurl }}{% link people/fanyuepei.md %})
+- [Shuowen](/people/fanyuepei.html)
+
+**Notes/Achievements:**
+Editor of the "National Language Tabloid"
+
+
+---
 ## Fan Jiyan
 - [Baidu](https://baike.baidu.com/item/範繼淹?fromModule=lemma_search-box)
 - Principal Compiler of the Modern Chinese Dictionary
@@ -1167,16 +1175,8 @@ President of the Executive Yuan of the Republic of China
 
 
 ---
-## Niu Wengqing
-
-
----
-
-## Dictionary Editorial Office: Yes
-
----
-
-## Niu Jichang
+## [Niu Jichang, style name Wenqing]({{ site.baseurl }}{% link people/niuwenqing.md %})
+- [Shuowen](/people/niuwenqing.html)
 - Dictionary Editorial Office: Yes
 
 **Notes/Achievements:**

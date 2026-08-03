@@ -388,6 +388,15 @@ lang: 简体中文
 
 
 ---
+## [樊月培]({{ site.baseurl }}{% link people/fanyuepei-cn.md %})
+- [说文](/people/fanyuepei-cn.html)
+
+
+**备注/成就:**
+《国语小报》编辑
+
+
+---
 ## 范继淹
 - [百度](https://baike.baidu.com/item/范继淹?fromModule=lemma_search-box)
 - 现代汉语词典: 主要编纂人
@@ -1365,14 +1374,8 @@ lang: 简体中文
 
 
 ---
-## 牛文青
-- 大辞典编纂处: 是
-
-
-
-
----
-## 牛继昌
+## [牛继昌，号文青]({{ site.baseurl }}{% link people/niuwenqing-cn.md %})
+- [说文](/people/niuwenqing-cn.html)
 - 大辞典编纂处: 是
 
 

@@ -388,6 +388,15 @@ lang: 繁體中文
 
 
 ---
+## [樊月培]({{ site.baseurl }}{% link people/fanyuepei-tw.md %})
+- [說文](/people/fanyuepei-tw.html)
+
+
+**備注/成就:**
+《國語小報》編輯
+
+
+---
 ## 範繼淹
 - [百度](https://baike.baidu.com/item/範繼淹?fromModule=lemma_search-box)
 - 現代漢語詞典: 主要編纂人
@@ -1365,14 +1374,8 @@ lang: 繁體中文
 
 
 ---
-## 牛文青
-- 大辭典編纂處: 是
-
-
-
-
----
-## 牛繼昌
+## [牛繼昌，號文青]({{ site.baseurl }}{% link people/niuwenqing-tw.md %})
+- [說文](/people/niuwenqing-tw.html)
 - 大辭典編纂處: 是
 
 
