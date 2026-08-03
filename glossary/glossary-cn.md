@@ -37,6 +37,8 @@ lang: 简体中文
 
 [国语推行委员会]({{ site.baseurl }}{% link glossary/committee-cn.md %})
 
+[国语小报]({{ site.baseurl }}{% link glossary/little_chinese_daily-cn.md %})
+
 [国语研究会]({{ site.baseurl }}{% link glossary/research-cn.md %})
 
 [国语运动]({{ site.baseurl }}{% link glossary/movement-cn.md %})

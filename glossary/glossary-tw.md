@@ -37,6 +37,8 @@ lang: 繁體中文
 
 [國語推行委員會]({{ site.baseurl }}{% link glossary/committee-tw.md %})
 
+[國語小報]({{ site.baseurl }}{% link glossary/little_chinese_daily-tw.md %})
+
 [國語研究會]({{ site.baseurl }}{% link glossary/research-tw.md %})
 
 [國語運動]({{ site.baseurl }}{% link glossary/movement-tw.md %})

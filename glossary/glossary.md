@@ -37,6 +37,8 @@ lang: English
 
 [National Language Promotion Committee]({{ site.baseurl }}{% link glossary/committee.md %})  
 
+[Chinese Little Daily]({{ site.baseurl }}{% link glossary/little_chinese_daily.md %})  
+
 [National Language Research Society]({{ site.baseurl }}{% link glossary/research.md %})  
 
 [National Language Movement]({{ site.baseurl }}{% link glossary/movement.md %})  
