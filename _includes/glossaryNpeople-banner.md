@@ -4,10 +4,11 @@
   .gp-cards {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
-    gap: 18px;
+    gap: 24px 22px;
     padding: 32px 8px 24px;
     max-width: 960px;
     margin: 0 auto;
+    justify-items: center;
   }
   @media (max-width: 780px) {
     .gp-cards { grid-template-columns: repeat(2, 1fr); }
@@ -19,83 +20,75 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: flex-start;
-    text-align: center;
-    padding: 22px 16px 18px;
-    background: #fffdf5;
-    border: 1px solid #e8e0c8;
-    border-radius: 14px;
-    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.04);
-    color: #2a2a2a !important;
     text-decoration: none !important;
-    transition: transform 0.18s ease, box-shadow 0.18s ease, border-color 0.18s ease;
-    position: relative;
-    overflow: hidden;
+    color: inherit !important;
+    width: 100%;
   }
-  .gp-card::before {
-    content: "";
-    position: absolute;
-    top: 0; left: 0; right: 0;
-    height: 4px;
-    background: linear-gradient(90deg, #c69a4a, #b3ff5a);
-    opacity: 0.85;
+  .gp-oval {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    width: 100%;
+    min-height: 110px;
+    padding: 14px 18px;
+    background: #fffdf5;
+    border: 1.5px solid #c69a4a;
+    border-radius: 50%/50%;
+    box-shadow: 0 2px 6px rgba(60, 40, 10, 0.06);
+    transition: transform 0.18s ease, box-shadow 0.18s ease, background 0.18s ease;
   }
-  .gp-card:hover {
+  .gp-card:hover .gp-oval {
     transform: translateY(-3px);
-    box-shadow: 0 10px 22px rgba(60, 40, 10, 0.10);
-    border-color: #c69a4a;
+    background: #fff8e6;
+    box-shadow: 0 8px 20px rgba(60, 40, 10, 0.12);
   }
-  .gp-icon {
-    font-size: 1.9rem;
-    line-height: 1;
-    margin-bottom: 8px;
-  }
-  .gp-title {
+  .gp-topic {
     font-family: "Caveat", "Shadows Into Light", cursive;
     font-weight: 700;
-    font-size: 1.75rem;
-    line-height: 1.15;
-    margin: 2px 0 6px;
-    color: #1e1e1e;
-  }
-  .gp-count {
-    display: inline-block;
-    font-family: "Caveat", cursive;
-    font-size: 1.05rem;
+    font-size: 1.4rem;
     color: #7a5a1a;
-    background: rgba(198, 154, 74, 0.12);
-    border-radius: 999px;
-    padding: 1px 10px;
-    margin-bottom: 6px;
+    line-height: 1.1;
+    margin-bottom: 4px;
+  }
+  .gp-sub {
+    font-size: 0.9rem;
+    color: #2a2a2a;
+    line-height: 1.25;
   }
   .gp-desc {
-    font-size: 0.9rem;
+    font-size: 0.8rem;
     line-height: 1.4;
-    color: #555;
-    margin: 0;
+    color: #666;
+    text-align: center;
+    margin: 10px 6px 0;
   }
 </style>
 
 <div class="gp-cards">
   <a href="/glossary/glossary.html" class="gp-card">
-    <div class="gp-icon">📖</div>
-    <div class="gp-title">Glossary</div>
-    <p class="gp-desc">Key terms from the Mandarin Movement</p>
+    <div class="gp-oval">
+      <div class="gp-topic">Topics</div>
+      <div class="gp-sub">Glossary</div>
+    </div>
   </a>
   <a href="/people/people.html" class="gp-card">
-    <div class="gp-icon">👥</div>
-    <div class="gp-title">People</div>
-    <span class="gp-count">300+</span>
-    <p class="gp-desc">Reformers, educators, lexicographers</p>
+    <div class="gp-oval">
+      <div class="gp-topic">People</div>
+      <div class="gp-sub">300+ participants</div>
+    </div>
   </a>
   <a href="/glossary/references.html" class="gp-card">
-    <div class="gp-icon">🔖</div>
-    <div class="gp-title">References</div>
-    <p class="gp-desc">Sources and further reading</p>
+    <div class="gp-oval">
+      <div class="gp-topic">References</div>
+      <div class="gp-sub">Primary sources</div>
+    </div>
   </a>
   <a href="/glossary/timeline.html" class="gp-card">
-    <div class="gp-icon">🕰️</div>
-    <div class="gp-title">Timeline</div>
-    <p class="gp-desc">A century of language reform</p>
+    <div class="gp-oval">
+      <div class="gp-topic">Timeline</div>
+      <div class="gp-sub">A century in view</div>
+    </div>
   </a>
 </div>

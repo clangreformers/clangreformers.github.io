@@ -9,6 +9,11 @@ glossaryNpeople-banvar: glossaryNpeople-banner-cn.md
 
 <div class="home-page">
 
+<style>
+  .nav-tabs .nav-link { font-size: 0.85rem; padding: 0.4rem 0.75rem; }
+  .nav-pills .nav-link { font-size: 0.85rem; padding: 0.35rem 0.75rem; }
+</style>
+
   <div class="container">
     
     <div id="bannerCarousel" class="carousel slide" data-bs-ride="false" data-bs-interval="false">

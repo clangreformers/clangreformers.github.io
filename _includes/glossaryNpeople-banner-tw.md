@@ -4,10 +4,11 @@
   .gp-cards {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
-    gap: 18px;
+    gap: 24px 22px;
     padding: 32px 8px 24px;
     max-width: 960px;
     margin: 0 auto;
+    justify-items: center;
   }
   @media (max-width: 780px) {
     .gp-cards { grid-template-columns: repeat(2, 1fr); }
@@ -19,83 +20,75 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: flex-start;
-    text-align: center;
-    padding: 22px 16px 18px;
-    background: #fffdf5;
-    border: 1px solid #e8e0c8;
-    border-radius: 14px;
-    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.04);
-    color: #2a2a2a !important;
     text-decoration: none !important;
-    transition: transform 0.18s ease, box-shadow 0.18s ease, border-color 0.18s ease;
-    position: relative;
-    overflow: hidden;
+    color: inherit !important;
+    width: 100%;
   }
-  .gp-card::before {
-    content: "";
-    position: absolute;
-    top: 0; left: 0; right: 0;
-    height: 4px;
-    background: linear-gradient(90deg, #c69a4a, #b3ff5a);
-    opacity: 0.85;
+  .gp-oval {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    width: 100%;
+    min-height: 110px;
+    padding: 14px 18px;
+    background: #fffdf5;
+    border: 1.5px solid #c69a4a;
+    border-radius: 50%/50%;
+    box-shadow: 0 2px 6px rgba(60, 40, 10, 0.06);
+    transition: transform 0.18s ease, box-shadow 0.18s ease, background 0.18s ease;
   }
-  .gp-card:hover {
+  .gp-card:hover .gp-oval {
     transform: translateY(-3px);
-    box-shadow: 0 10px 22px rgba(60, 40, 10, 0.10);
-    border-color: #c69a4a;
+    background: #fff8e6;
+    box-shadow: 0 8px 20px rgba(60, 40, 10, 0.12);
   }
-  .gp-icon {
-    font-size: 1.9rem;
-    line-height: 1;
-    margin-bottom: 8px;
-  }
-  .gp-title {
-    font-family: "Caveat", "Kaiti TC", "STKaiti", "KaiTi", cursive;
+  .gp-topic {
+    font-family: "Caveat", "Kaiti TC", "BiauKai", "DFKai-SB", cursive;
     font-weight: 700;
-    font-size: 1.8rem;
-    line-height: 1.15;
-    margin: 2px 0 6px;
-    color: #1e1e1e;
-  }
-  .gp-count {
-    display: inline-block;
-    font-family: "Caveat", "Kaiti TC", cursive;
-    font-size: 1.1rem;
+    font-size: 1.35rem;
     color: #7a5a1a;
-    background: rgba(198, 154, 74, 0.12);
-    border-radius: 999px;
-    padding: 1px 10px;
-    margin-bottom: 6px;
+    line-height: 1.1;
+    margin-bottom: 4px;
+  }
+  .gp-sub {
+    font-size: 0.95rem;
+    color: #2a2a2a;
+    line-height: 1.25;
   }
   .gp-desc {
-    font-size: 0.92rem;
-    line-height: 1.5;
-    color: #555;
-    margin: 0;
+    font-size: 0.82rem;
+    line-height: 1.4;
+    color: #666;
+    text-align: center;
+    margin: 10px 6px 0;
   }
 </style>
 
 <div class="gp-cards">
   <a href="/glossary/glossary-tw.html" class="gp-card">
-    <div class="gp-icon">📖</div>
-    <div class="gp-title">國語運動專語</div>
-    <p class="gp-desc">運動中的關鍵術語與概念</p>
+    <div class="gp-oval">
+      <div class="gp-topic">主題</div>
+      <div class="gp-sub">國語運動專語</div>
+    </div>
   </a>
   <a href="/people/people-tw.html" class="gp-card">
-    <div class="gp-icon">👥</div>
-    <div class="gp-title">人物</div>
-    <span class="gp-count">多達 300 人</span>
-    <p class="gp-desc">改革者、教育家、辭書編纂家</p>
+    <div class="gp-oval">
+      <div class="gp-topic">人物</div>
+      <div class="gp-sub">多達 300 參與者</div>
+    </div>
   </a>
   <a href="/glossary/references-tw.html" class="gp-card">
-    <div class="gp-icon">🔖</div>
-    <div class="gp-title">參考資料</div>
-    <p class="gp-desc">文獻來源與延伸閱讀</p>
+    <div class="gp-oval">
+      <div class="gp-topic">參考資料</div>
+      <div class="gp-sub">珍貴資料</div>
+    </div>
   </a>
   <a href="/glossary/timeline-tw.html" class="gp-card">
-    <div class="gp-icon">🕰️</div>
-    <div class="gp-title">時間線</div>
-    <p class="gp-desc">百年語文改革歷程</p>
+    <div class="gp-oval">
+      <div class="gp-topic">時間線</div>
+      <div class="gp-sub">縱覽百年</div>
+    </div>
   </a>
 </div>
