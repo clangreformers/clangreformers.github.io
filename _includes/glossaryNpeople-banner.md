@@ -1,6 +1,4 @@
-"Case Studies of Chinese Language Reformers" is a U.S. registered non-profit (Tax ID: 83-2358327) committed to exploring the pioneers and events that shaped the Chinese language. We collect, study, and document this critical chapter of history to provide a deeper understanding of modern Chinese culture and education.
-
-Decades ago, communication in China was fragmented by countless dialects and inconsistent written characters. The vision of these reformers—"words with universal meaning and language with universal pronunciation"—transformed this challenge into a reality. Today, students across mainland China, Taiwan, and Hong Kong can learn Standard Mandarin using Pinyin or Zhuyin, allowing them to communicate seamlessly across regions and generations.
+"Shuowen Shugu" (People and Events in the Standardization and Modernization of the Chinese Language) is a U.S. registered non-profit tax-exempt organization (Federal Tax ID: 83-2358327), dedicated to uncovering, organizing, documenting, and researching the participants and contributions of China's 20th-century National Language Movement. From a human perspective, it seeks to restore and present this precious history—commemorating the pioneers while sparking interest in the Chinese language and inspiring further exploration of its development.
 
 <style>
   .gp-cards {

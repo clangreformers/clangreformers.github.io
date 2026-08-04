@@ -13,7 +13,7 @@ Xiao Jialin (1897-1968)
 
 Courtesy name Xiaocun, art name Dichen. Born in Jiulong Xiao Village, Taoshu Administrative Village, Chitian Township, Fengxin County, Jiangxi. Educator, linguist, and dictionary compiler.
 
-In 1925, Xiao Jialin graduated from the Department of Chinese Language and Literature at Peking Normal University, after which he took up a long tenure at the Ministry of Education of the Republic of China. During this time he devoted himself to the [Mandarin Movement]({{ site.baseurl }}{% link glossary/movement.md %}) and to mass education, making important contributions to both.
+In 1925, Xiao Jialin graduated from the Department of Chinese Language and Literature at Peking Normal University, where he majored in phonology, after which he took up a long tenure at the Ministry of Education of the Republic of China. During this time he devoted himself to the [Mandarin Movement]({{ site.baseurl }}{% link glossary/movement.md %}) and to mass education, making important contributions to both.
 
 In September 1919, when the [National Language Unification Preparatory Committee]({{ site.baseurl }}{% link glossary/preparation.md %}) was founded, he served as a committee member.
 
