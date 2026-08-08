@@ -1,11 +1,20 @@
 ---
 layout: default
 ---
+{% assign home_url = site.baseurl | append: '/' %}
+{% if page.lang == '简体中文' %}
+  {% assign home_url = site.baseurl | append: '/index-cn.html' %}
+  {% assign home_label = '返回' %}
+{% elsif page.lang == '繁體中文' %}
+  {% assign home_url = site.baseurl | append: '/index-tw.html' %}
+  {% assign home_label = '返回' %}
+{% else %}
+  {% assign home_label = 'Back' %}
+{% endif %}
 <article class="post rolodex-page">
 
-  <div class="return-nav" style="margin-bottom: 20px;">
-    <a href="{{ site.baseurl }}/{% if page.lang == '简体中文' %}index-cn.html{% elsif page.lang == '繁體中文' %}index-tw.html{% endif %}"
-      style="display: inline-block; text-decoration: none; font-size: 2em; font-weight: bold; color: #fff; background-color: #999; padding: 5px 15px; border-radius: 5px; line-height: 1;">&#8592;</a>
+  <div class="return-nav">
+    <a href="{{ home_url }}" class="return-btn"><span class="arrow">&#8592;</span>{{ home_label }}</a>
   </div>
 
   <header class="post-header">
@@ -24,9 +33,42 @@ layout: default
 
   <div class="rolodex-groups" id="rolodex-groups"></div>
 
+  <div class="return-nav bottom">
+    <a href="{{ home_url }}" class="return-btn"><span class="arrow">&#8592;</span>{{ home_label }}</a>
+  </div>
+
 </article>
 
 <style>
+  .return-nav { margin: 0 0 24px; }
+  .return-nav.bottom { margin: 32px 0 12px; text-align: right; }
+  .return-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    text-decoration: none !important;
+    font-family: "Caveat", "Kaiti SC", "STKaiti", "KaiTi", cursive;
+    font-size: 1.15rem;
+    color: #7a5a1a !important;
+    background: #fffdf5;
+    border: 1.5px solid #c69a4a;
+    padding: 6px 16px 6px 12px;
+    border-radius: 999px;
+    line-height: 1;
+    box-shadow: 0 2px 4px rgba(60, 40, 10, 0.06);
+    transition: transform 0.18s ease, background 0.18s ease, box-shadow 0.18s ease;
+  }
+  .return-btn .arrow {
+    display: inline-block;
+    font-size: 1.25rem;
+    transition: transform 0.18s ease;
+  }
+  .return-btn:hover {
+    background: #fff2d6;
+    box-shadow: 0 6px 14px rgba(60, 40, 10, 0.12);
+    color: #5a4210 !important;
+  }
+  .return-btn:hover .arrow { transform: translateX(-3px); }
   .rolodex-page .post-title {
     text-align: center;
     margin-bottom: 0.5em;
