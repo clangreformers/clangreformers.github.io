@@ -5,94 +5,83 @@ ref:  baidizhou
 lang: English
 ---
 
-Bai Dizhouchou (May 5, 1900 - October 12, 1934) was from Beijing, born with the name Zhenying, and he is known by his courtesy name. His ancestors came from the Mongolian Baijite clan. 
+Bai Dizhou (May 5, 1900 – October 12, 1934) was from Beijing. His given name was Zhenying, and he was also known as Huozhou, but he went by his courtesy name Dizhou. His ancestors came from the Mongolian Baijite clan and were enrolled in the Bordered Blue Banner during the Qing dynasty.
 
-![image](/assets/imgs/baidizhou.jpg "Bai Dizhouchou"){: width="300" }
+![image](/assets/imgs/baidizhou.jpg "Bai Dizhou"){: width="300" }
 
-![image](/assets/imgs/baidizhou_and_friends.jpg "Bai Dizhouchou (third from right) with friends"){: width="300" }
+![image](/assets/imgs/baidizhou_and_friends.jpg "Bai Dizhou (third from right) with friends"){: width="300" }
 
-In 1915, Bai Dizhouchou was admitted to Beijing Normal School. He worked hard and was among the top students in every examination. After graduation, he served as the principal of the 17th Public Primary School in Beijing (now Fangjia Hutong Primary School) and the 7th Primary School (located at the southern end of Zongxue Hutong, Xidan).
+From 1915 to 1920, Bai Dizhou studied at Beijing Normal School. He worked hard and consistently ranked at the top of his class. After graduation, he served as principal of the 17th Public Higher Primary School of Beijing (now Fangjia Hutong Primary School) and later of the 7th Higher Primary School (located at Zongxue Hutong, south of Xidan).
 
-In 1920, Bai Dizhouchou studied phonetics at the Mandarin Training Institute, where he was noticed by Li Jinxin, who invited him to join in the Mandarin movement. Thereafter, Bai Dizhouchou devoted his life to this cause—he was involved in teaching, discussions, promotion, inspections, and editing concerning Mandarin phonetics. The first drafts of the "Mandarin Dictionary," which was revised by the Mandarin Unification Preparatory Committee in 1926, and the "Common Vocabulary of Mandarin," published by the Ministry of Education in 1932, were both authored by him. Bai Dizhouchou also served as the Director of Academic Affairs at the "Mandarin Letter Training Institute" and was a major contributor to the "Mandarin Weekly."
+In 1924, he was admitted to the preparatory program of Peking University and simultaneously handled administrative affairs at the Beijing Education Association. In 1926, he entered the English Department at Peking University for his undergraduate studies, and in 1928 he transferred to the Chinese Department, studying phonology and phonetics under Qian Xuantong, Ma Youyu, Liu Bannong, and others. He also attended the language training class at the Institute of History and Philology, Academia Sinica, where he studied dialect dictation under Zhao Yuanren.
 
-In 1924, Bai Dizhouchou was admitted to the preparatory program of Peking University and simultaneously supported Mr. Gu Mengyu in serving the Beijing Education Association. In 1926, he entered the English Department at Peking University for his undergraduate studies, and in 1928, he transferred to the Chinese Department, studying under Qian Xuantong, Ma Youyu, Liu Bannan, and others about phonology and phonetics. He also attended the language training program at the Institute of History and Language of the Academia Sinica, studying dialect dictation under Zhao Yuanren.
+He graduated from the Chinese Department of Peking University in 1930 and afterward served as Director of Academic Affairs at Beiping Municipal Normal School.
 
-In 1928, Bai Dizhouchou became an executive member of the Mandarin Unification Preparatory Committee and the Director of the organization department at the [Chinese Dictionary Compilation Office]({{ site.baseurl }}{% link glossary/compilation.md %}).
+In October 1933, at Liu Bannong's invitation, he became a teaching assistant at the Phonetics and Music Laboratory of the Literature and History Department at the Peking University Research Institute.
 
-He graduated from the Chinese Department of Peking University in 1930 and served as the Director of Academic Affairs at the Beijing Municipal Normal School (now Capital Normal University). 
+Bai Dizhou was an active participant in the [Mandarin Movement]({{ site.baseurl }}{% link glossary/movement.md %}) and contributed a great deal to it:
 
-From late 1932 to January 1933, Bai Dizhouchou faced immense family tragedies with the passing of his wife, three children, and father one after another.
+In April 1919, when the [Mandarin Unification Preparatory Society]({{ site.baseurl }}{% link glossary/preparation.md %}) was founded, he was appointed as a member.
 
-In March 1933, Fu Sinian invited him to investigate the vowel alterations in the entering tone of dialects in Henan, Shanxi, Shaanxi, and Gansu. Bai Dizhouchou went to Shaanxi to survey dialects until mid-August. During this time, he investigated dialects in 50 locations across 42 counties in the Guanzhong area, leaving behind a wealth of survey materials. In mid-August, after returning to Beijing, Bai Dizhouchou went to Shanghai for work with the Zhonghua Book Company.
+In 1920, while studying National Pronunciation at the Mandarin Training Institute, Bai Dizhou was recognized by Li Jinxi, who invited him to join in advancing the Mandarin Movement. In 1923, he accompanied Li Jinxi to Hangzhou to teach Mandarin.
 
-At the end of October 1933, invited by Liu Ban Nong, Bai Di Zhou entered the Department of Language and Music Rhythm Laboratory at the Peking University Research Institute as a teaching assistant.
+When the Mandarin Society was reorganized as the Mandarin Unification Preparatory Committee in 1928, he served successively as member and executive member. During his tenure he made many trips to inspect Mandarin promotion work in various regions. As an executive member he submitted 16 proposals, including publishing popular reading materials, reviewing various Mandarin textbooks, urging the Ministries of Railways and Communications to promote National Phonetic telegraphs, promoting Zhuyin symbols, and surveying regional dialects.
 
-During the summer of 1934, Bai Di Zhou accompanied Liu Ban Nong to Guizui to investigate dialects, which lasted for three weeks. After returning, Liu Ban Nong succumbed to a relapse of a returning fever, while Bai Di Zhou hurried to Chang’an to represent the National Language Society in a lecture. On September 23, Bai Di Zhou went to Zhengzhou again to attend the National Representative Conference on the Romanization of the National Language.
+That same year, Bai Dizhou became Director of the Organization Department at the [Chinese Dictionary Compilation Office]({{ site.baseurl }}{% link glossary/compilation.md %}). Over several years he organized 200,000 cards and completed nearly 20 research projects. After the National Phonetic Alphabet Training Institute was established, he served as its Director of Academic Affairs and taught classes personally.
 
-On October 12, 1934, Bai Di Zhou passed away at Lin Bao Luo Hospital in Beijing and was later buried in the western mountains. In fact, he contracted the returning fever during the investigation with Liu Ban Nong and died from exhaustion.
+On September 5, 1931, "Mandarin Weekly" (a supplement of "Shijie Ribao"), the official publication of the Mandarin Society, was launched, with Bai Dizhou and He Zhaoxiong serving as co-editors.
 
-On the morning of November 11, 1934, the National Language Society held a memorial service for Bai Di Zhou, presided over by Li Jinxi, with Qian Xuantong delivering a eulogy. Friends and colleagues, including Wei Jianggong, Luo Changpei, and Lao She, published articles to commemorate him.
+From late 1932 to January 1933, Bai Dizhou suffered the enormous family tragedy of losing his wife, three children, and father in quick succession. In March 1933, Fu Sinian invited him to investigate the entering-tone changes in Henan, Shanxi, Shaanxi, and Gansu, and he went to Shaanxi to conduct dialect surveys until mid-August. During that period he investigated dialects at 50 sites across 42 counties of the Guanzhong region, leaving behind a large body of survey material. This material was preserved by Luo Changpei and edited by Yu Shichang, and was published in 1954 as "Report on the Dialects of Guanzhong."
 
-**Bai Di Zhou's Academic Achievements:**
+In the summer of 1934, Bai Dizhou accompanied Liu Bannong to Guisui to survey dialects, spending three weeks there. Upon their return Liu Bannong died of relapsing fever, and Bai Dizhou hurried to Chang'an to lecture on behalf of the Mandarin Society. On September 23, he went to Zhengzhou to attend the National Congress on Gwoyeu Romatzyh.
 
-1. **Research**
+On October 12, 1934, Bai Dizhou died at Lin Baoluo Hospital in Beiping and was later buried in the Western Hills. On the morning of November 11, 1934, the Mandarin Society held a memorial service for him, presided over by Li Jinxi, with Qian Xuantong delivering the eulogy. Friends and colleagues including Wei Jiangong, Luo Changpei, and Lao She published articles in his memory.
 
-   - "A Study on the Evolution of the Entering Tone in Northern Dialects," published in the Women’s Normal University Academic Quarterly, Volume 2, Issue 2 (April 1931).
-   
-   - "A Study on Phonetic Classes in Collected Rhyme," published in the Central Research Institute History and Language Research Institute Collection, Volume 3, Issue 2 (December 1931).
-   
-   - "Statistics on the Rhyme Units of the Guangyun," published in the Women’s Normal University Academic Quarterly, Volume 2, Issue 1 (April 1931).
+**Works and Publications**
 
-2. **Editing**
+In 1925, Bai Dizhou drafted the manuscript of "People's Dictionary" for the Mass Education Promotion Association. The initial drafts of the "[National Pronunciation Dictionary]({{ site.baseurl }}{% link glossary/national-pronounciation-dict.md %})" (revised by the Mandarin Unification Preparatory Society beginning in 1926) and the "Vocabulary of Common Characters in National Pronunciation" (published by the Ministry of Education in 1932) were both authored by him. At the invitation of Zhonghua Book Company, he also recorded three sets of phonograph records: "Standard National Pronunciation," "Standard Mandarin," and "Selected Readings from Primary School Mandarin Textbooks."
 
-   - Draft of "Commonly Used Characters in National Sound" and "Revised National Sound Dictionary."
-   
-   - "Guangyun Tongjian" (1931 oil-printed edition).
-   
-   - "Guangyun Entering Tone Reading Table" (1930).
-   
-   - Manuscript of "The People’s Dictionary" (compiled by the People's Education Promotion Association in 1925).
+**Books:**
 
-3. **Experiments**
+- "Elegance vs. Excess," co-authored with Tang Yue (1925)
+- "Learning Zhuyin Without a Teacher," co-authored with Li Jinxi, Beiping Cultural Society (1929)
+- "Table of Modern Pronunciations of Guangyun Entering Tones," mimeographed edition (1930)
+- "Guangyun Concordance," mimeographed edition (1931)
+- "Guangyun Fanqie Phonetic Guide," mimeographed edition (1931)
+- "Vocabulary of Common Characters in National Pronunciation," Qian Xuantong (editor-in-chief), co-edited with Li Jinxi, Bai Dizhou, and Xiao Jialin, Mandarin Unification Preparatory Committee (1932)
+- "Index to the Jingdian Shiwen and Yiqiejing Yinyi," supervised with Wei Jiangong (1932)
+- "Table of Common Characters Arranged by Rhyme in National Pronunciation," co-authored with Li Jinxi, Beiping Peiwenzhai (Renwen Bookstore) (1932)
+- "Standard National Pronunciation and Mandarin Phonograph Textbook," Zhonghua Book Company (1932)
+- "Report on the Dialects of Guanzhong" (posthumous), edited by Yu Shichang, Chinese Academy of Sciences (1954)
 
-   - "Changes in the Entering Tone in Guanzhong," published in the "Collection of Papers Celebrating Mr. Cai Yuanpei's 65th Birthday" after the 1933 survey.
-   
-   - "Record of Experiments on the Four Tones," a follow-up to Liu Ban Nong's "Record of Four Tone Experiments," published in the Central Research Institute History and Language Research Institute Collection, Volume 4, Issue 4.
-   
-   - Manuscript of "Guanzhong Phonology."
-   
-   - "Standard National Sound National Language Phonograph Record," published by Zhonghua Book Company (August 1933).
-   
-   - "A Study of Beiping Tones."
-   
-   - "Records of Hebei Dialects."
-   
-   - "Annotation of Homophones in Yixian."
-   
-   - "Investigation of the Guizui Dialect."
+**Articles:**
 
-4. **Articles**
-
-   - "Introducing the Vanguard of the National Language Movement—Lu Hanzhang" (National Language Weekly, Issues 10-12).
-   
-   - "A Brief Discussion on Changes in Dictionary Radicals" (National Language Weekly, Issues 10 and 19).
-   
-   - "What is 'New National Sound'" (National Language Weekly, Issues 28-30).
-
-"Examples of the Four Tones" (Issue 100 of National Language Weekly)
-
-"The Evolution of the Entering Tone in Mandarin" (Volume 1, Issues 6 and 7 of National Language Biweekly)
-
-"Study on the Changes of the Entering Tone in Yanggu, Shandong" (Issue 117 of National Language Weekly)
-
-"Discussion on Qin Dialect" (Issue 98 of National Language Weekly)
-
-"A Comparative View of Central Plains Phonology" (Beichen Academy, January 14, 1931)
-
-5. Collaborative Achievements
-
-"Learning Zhuyin Without a Teacher" (Co-edited with Li Jinxie, before 1930)
-
-"New Rhymes of Peiwen" (Co-edited with Li Jinxie, published by Peiwen Studio in Beiping)
-
-"Elegance vs. Excess" (Collaborated with Tang Yue, 1925)
+- "Is This a Conspiracy to Restore Classical Chinese?" "Mandarin Weekly" (Beixin), Issue 2 (1925)
+- "Interpretations of Beijing Dialect," co-authored with Qi Tiehen, "Mandarin Weekly" (Beixin), Issues 11, 14, 15, 17, 19, 23, 24, 26 (1925)
+- "A Brief Discussion on the Evolution of Dictionary Radicals," "Mandarin Weekly" (Beixin), Issues 18, 19 (1925)
+- "The Pronunciations of Two 'Bai' Characters," "Mandarin Weekly" (Beixin), Issue 20 (1925)
+- "Several Questions on National Pronunciation" (in reply to Wu Jiren), "Mandarin Ten-Day Journal," combined Issues 10 and 11 (1929)
+- "Tense-Marking in the Beijing Dialect," "Weekly of the Institute of Language and History, Sun Yat-sen University," Vol. 8, combined Issues 85–87 (1929)
+- "Statistics of Initials and Rhyme Groups in the Guangyun," "Academic Quarterly of Women's Normal University," Vol. 2, No. 2 (1931)
+- "A Study on the Evolution of the Entering Tone in Northern Sounds," "Academic Quarterly of Women's Normal University," Vol. 2, No. 2 (1931)
+- "A Study on the Initial Classes of the Jiyun," "Bulletin of the Institute of History and Philology, Academia Sinica," Vol. 3, Part 2 (1931)
+- "Introducing the Vanguard of the Mandarin Movement—Lu Ganzhang," "Shijie Ribao Mandarin Weekly," Issues 10–12 (1931)
+- "Discussion on Retroflex Rhymes," Xiao Dichen, Zhao Yuanren, Bai Dizhou, "Shijie Ribao Mandarin Weekly," Issue 13 (1931)
+- "A Casual Talk on Mandarin," "Shijie Ribao Mandarin Weekly," Issue 15 (1931)
+- "Discussion on 'Shi' and 'Qian'," Qi Tiehen, Bai Dizhou, Wei Jiangong, "Shijie Ribao Mandarin Weekly," Issues 14–17 (1931, 1932)
+- "A Comparative View of Zhongyuan Yinyun and Zhongzhou Yinyun," "Chenbao Xueyuan," Issue 18 (1931)
+- "The 'ueng, ong' Rhyme Problem," Shen Bing and Huozhou, "Shijie Ribao Mandarin Weekly," Issue 19 (1932)
+- "Four Questions on Gwoyeu Romatzyh," Pang Jingren and Bai Dizhou, "Shijie Ribao Mandarin Weekly," Issue 22 (1932)
+- "What is the 'New National Pronunciation'?" "Shijie Ribao Mandarin Weekly," Issues 28–30 (1932)
+- "From Fanqie to Pinyin," "Shijie Ribao Mandarin Weekly," Issues 57–62 (1932)
+- "Miscellaneous Notes on Qin Sounds," "Shijie Ribao Mandarin Weekly," Issues 98, 99 (1932)
+- "Examples of the Four Tones," "Shijie Ribao Mandarin Weekly," Issue 100 (1933)
+- "The Evolution of the Entering Tone in Yanggu, Shandong," "Shijie Ribao Mandarin Weekly," Issue 117 (1933)
+- "Notes on the Cause of Mr. Liu Bannong's Illness," "Shijie Ribao Mandarin Weekly," Issue 151 (1934)
+- "Records of Tone Experiments in Guanzhong," "Bulletin of the Institute of History and Philology, Academia Sinica," Vol. 4, Part 4 (1934)
+- "The Evolution of Chinese Character Transcription Methods," "Chinese Studies Quarterly," Vol. 4, No. 4 (1935)
+- "Records of Homophone Pronunciations in the Yixian Dialect," co-authored with Liu Fu and Wei Jiangong, "Chinese Studies Quarterly," Vol. 4, No. 4 (1935)
+- "Prefatory Notes to the Table of Modern Pronunciations of Guangyun Entering Tones," "Shijie Ribao Mandarin Weekly," Issue 182 (1935)
+- "Changes of the Entering Tone in Guanzhong," "Collected Papers Celebrating Mr. Cai Yuanpei's 65th Birthday" (1935)
+- "Draft Prefatory Notes to the Guangyun Concordance," "Shijie Ribao Mandarin Weekly," Issue 252 (1936)
+- "Complete Table of Direct-Pronunciation Characters in Mandarin," "Shijie Ribao Mandarin Weekly," Issues 260, 261 (1936)

@@ -592,7 +592,8 @@ lang: 简体中文
 
 
 ---
-## 何梅岑
+## [何梅岑]({{ site.baseurl }}{% link people/hemeicen-cn.md %})
+- [说文](https://clangreformers.github.io/people/hemeicen.html)
 - 大辞典编纂处: 是
 - 现代汉语词典: 主要编纂人
 

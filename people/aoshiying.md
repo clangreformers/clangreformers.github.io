@@ -6,7 +6,9 @@ lang: English
 ---
 
 **Ao Shiying**
-A native of Jiangxi.
+A native of Qingjiang, Jiangxi.
+
+Graduated from the Institute of Chinese Studies (Guoxuemen), Peking University Research Institute.
 
 Served as a special compiler for the [Chinese Dictionary Compilation Office]({{ site.baseurl }}{% link glossary/compilation.md %}).
 
@@ -16,11 +18,13 @@ In 1932, during the circulation of the manuscript "Xu Fangyan" written by Dai Zh
 
 After 1934, during Fu Tong's tenure as president, he taught at Anhui University.
 
-In 1946, he taught the "I Ching" at Central University.
+He later taught at Central University until 1947, teaching the "I Ching" there in 1946.
 
 From May to October 1947, he was a main contributor to the "Zhengqi Weekly." The purpose of the newspaper was to uphold the righteousness of overseas Chinese society, increase the knowledge of modern youth, guide compatriots in their policies of establishing themselves and serving the country, and also serve as a forum for assisting construction and discussing academics.
 
-After 1949, he presided over the affairs of the Chinese Department at Anhui Normal University.
+In 1948, he served as professor and chair of the Department of Chinese Literature at Yingshi University. During the same period, he served as head of the Chinese Guoxue Research Association.
+
+After 1949, he presided over the affairs of the Chinese Department at Anhui Normal College.
 
 **Major Achievements:**
 

@@ -523,7 +523,8 @@ Editor-in-chief of "National Language Weekly"
 
 ---
 
-## He Mei Cen
+## [He Meicen]({{ site.baseurl }}{% link people/hemeicen.md %})
+- [Shuo Wen](https://clangreformers.github.io/people/hemeicen.html)
 - Dictionary Compilation Department: Yes
 - Modern Chinese Dictionary: Main compiler
 
