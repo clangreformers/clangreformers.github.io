@@ -10,8 +10,6 @@ lang: English
 ## [An Wenzhuo]({{ site.baseurl }}{% link people/anwenzhuo.md %}) &nbsp;&nbsp; [Shuo Wen](https://clangreformers.github.io/people/anwenzhuo.html) &nbsp; Wikipedia &nbsp; Baidu
 
 - Native place: 江苏无锡
-- Debut: 清华，刘文典
-- Dictionary Compilation Office: Yes
 
 **Contribution to the Mandarin Movement:**
 曾任职于中国大辞典编纂处，并参与《国语辞典》（四本版）的编纂工作。
@@ -19,7 +17,6 @@ lang: English
 ---
 ## [Ao Shiying]({{ site.baseurl }}{% link people/aoshiying.md %}) &nbsp;&nbsp; [Shuo Wen](https://clangreformers.github.io/people/aoshiying.html) &nbsp; Wikipedia &nbsp; Baidu
 
-- Dictionary Compilation Office: 是（特约编纂）
 
 **Contribution to the Mandarin Movement:**
 中国大辞典编纂处特约编纂员，著有《中国文学年表》二十卷 。
@@ -32,9 +29,7 @@ lang: English
 **Also known as:** 镇瀛、荻舟
 
 - Native place: 河北宛平
-- Debut: 北大
 - National Language Association: Yes
-- Dictionary Compilation Office: Yes
 
 **Contribution to the Mandarin Movement:**
 国语统一筹备会会员；国语统一筹备委员会委员、常务委员；中国大辞典编纂处整理部主任；国音字母讲习所教务主任；《国语周刊》主编；《国音常用字汇》编纂人；多部著作或文章
@@ -43,7 +38,6 @@ lang: English
 ## 白振民 &nbsp;&nbsp; Shuo Wen &nbsp; Wikipedia &nbsp; Baidu
 
 - Government post: 教育部
-- Pronunciation Unification Committee: 是，江苏
 
 **Contribution to the Mandarin Movement:**
 读音统一会江苏会员
@@ -57,7 +51,6 @@ lang: English
 
 - Native place: 福建龙溪
 - Education: 驻美使馆
-- Debut: 广州同文馆
 
 **Contribution to the Mandarin Movement:**
 出版《传音快字》，是中国最早的速记法
@@ -66,7 +59,6 @@ lang: English
 ## 蔡琦 &nbsp;&nbsp; Shuo Wen &nbsp; Wikipedia &nbsp; Baidu
 
 - Native place: 福建龙溪
-- Debut: 从父
 
 **Contribution to the Mandarin Movement:**
 《传音快字》之校对
@@ -79,8 +71,6 @@ lang: English
 **Also known as:** 子英
 
 - Native place: 福建龙溪
-- Debut: 从父
-- Pronunciation Unification Committee: 是，福建
 
 **Contribution to the Mandarin Movement:**
 编写《中国速记学》，是中国第一部速记著作
@@ -89,7 +79,6 @@ lang: English
 ## 蔡玮 &nbsp;&nbsp; Shuo Wen &nbsp; Wikipedia &nbsp; Baidu
 
 - Native place: 福建龙溪
-- Debut: 从父
 
 **Contribution to the Mandarin Movement:**
 使用和传播“传音快字”
@@ -112,7 +101,6 @@ lang: English
 ---
 ## 曹士清 &nbsp;&nbsp; Shuo Wen &nbsp; Wikipedia &nbsp; Baidu
 
-- Dictionary Compilation Office: Yes
 
 **Contribution to the Mandarin Movement:**
 中国大辞典编纂处委托整理员
@@ -122,8 +110,6 @@ lang: English
 
 - Native place: 浙江绍兴
 - Education: 里昂大学历史，巴黎大学语音学
-- Debut: 孔德
-- Dictionary Compilation Office: 是（特约编纂）
 
 **Contribution to the Mandarin Movement:**
 中国大辞典编纂处特约编纂员
@@ -136,7 +122,6 @@ lang: English
 **Also known as:** 哲甫
 
 - Government post: 直隶视学
-- Pronunciation Unification Committee: 是，直隶
 
 **Contribution to the Mandarin Movement:**
 读音统一会直隶会员
@@ -149,7 +134,6 @@ lang: English
 **Also known as:** 光尧
 
 - Native place: 陕西城固
-- Debut: 从父（陈五峰）
 
 **Contribution to the Mandarin Movement:**
 创造“简字”
@@ -169,7 +153,6 @@ lang: English
 ## 陈浚 &nbsp;&nbsp; Shuo Wen &nbsp; Wikipedia &nbsp; Baidu
 **Also known as:** 子英
 
-- Pronunciation Unification Committee: 是，浙江
 
 **Contribution to the Mandarin Movement:**
 读音统一会浙江会员
@@ -179,10 +162,7 @@ lang: English
 **Also known as:** 颂平
 
 - Native place: 江苏元和
-- Debut: 编教科书
-- Pronunciation Unification Committee: 是，江苏
 - National Language Association: Yes
-- Dictionary Compilation Office: Yes
 
 **Contribution to the Mandarin Movement:**
 读音统一会江苏会员；国语统一筹备会会员；《国音字典》初印本审核人；《增修国音字典》委员会委员；国语统一筹备委员会常务委员
@@ -191,7 +171,6 @@ lang: English
 ## 陈遂意 &nbsp;&nbsp; Shuo Wen &nbsp; Wikipedia &nbsp; Baidu
 **Also known as:** 文会
 
-- Pronunciation Unification Committee: 是，湖南
 
 **Contribution to the Mandarin Movement:**
 读音统一会湖南会员
@@ -200,7 +179,6 @@ lang: English
 ## 陈廷骥 &nbsp;&nbsp; Shuo Wen &nbsp; Wikipedia &nbsp; Baidu
 
 - Government post: 邮电部
-- Pronunciation Unification Committee: 是，广东
 
 **Contribution to the Mandarin Movement:**
 读音统一会广东会员
@@ -214,7 +192,6 @@ lang: English
 
 - Native place: 河南荥阳
 - Government post: 河南河阴劝学所
-- Pronunciation Unification Committee: 是，河南
 
 **Contribution to the Mandarin Movement:**
 读音统一会河南会员
@@ -223,7 +200,6 @@ lang: English
 ## 陈曾 &nbsp;&nbsp; Shuo Wen &nbsp; Wikipedia &nbsp; Baidu
 **Also known as:** 孝通
 
-- Pronunciation Unification Committee: 是。湖北
 
 **Contribution to the Mandarin Movement:**
 读音统一会湖北会员
@@ -247,7 +223,6 @@ lang: English
 **Also known as:** 莼衷
 
 - Government post: 邮传部
-- Pronunciation Unification Committee: 是，福建
 
 **Contribution to the Mandarin Movement:**
 读音统一会福建会员
@@ -258,7 +233,6 @@ lang: English
 ---
 ## 陈志先 &nbsp;&nbsp; Shuo Wen &nbsp; Wikipedia &nbsp; Baidu
 
-- Taiwan Mandarin Promotion Committee: 是，科长，总干事
 
 **Contribution to the Mandarin Movement:**
 台湾国语推行委员会科长、总干事
@@ -268,7 +242,6 @@ lang: English
 **Also known as:** 子箴
 
 - Government post: 教育部专门司
-- Pronunciation Unification Committee: 是，安徽
 
 **Contribution to the Mandarin Movement:**
 读音统一会安徽会员
@@ -281,7 +254,6 @@ lang: English
 **Also known as:** 少溪
 
 - Native place: 河北沧县
-- Dictionary Compilation Office: Yes
 
 **Contribution to the Mandarin Movement:**
 大辞典编纂处委托编纂员
@@ -305,8 +277,6 @@ lang: English
 
 - Native place: 河北邯郸
 - Education: 巴黎大学文学
-- Debut: 上海暨南大学
-- Dictionary Compilation Office: 是（特约编纂）
 
 **Contribution to the Mandarin Movement:**
 中国大辞典编纂处特约编纂员
@@ -319,7 +289,6 @@ lang: English
 
 - Native place: 河南邓州
 - Education: 哈佛、耶鲁语言研究员
-- Debut: 北大
 - Modern Chinese Dictionary: 审订委员会
 
 **Contribution to the Mandarin Movement:**
@@ -334,7 +303,6 @@ lang: English
 
 - Native place: 山东邹县
 - Education: 欧洲十国考察
-- Debut: 北师大
 - Government post: 教育部视察员
 
 **Contribution to the Mandarin Movement:**
@@ -348,7 +316,6 @@ lang: English
 **Also known as:** 懋堂
 
 - Government post: 内务部礼俗司
-- Pronunciation Unification Committee: 是，江苏
 
 **Contribution to the Mandarin Movement:**
 读音统一会江苏会员
@@ -359,7 +326,6 @@ lang: English
 ---
 ## 董长志 &nbsp;&nbsp; Shuo Wen &nbsp; Wikipedia &nbsp; Baidu
 
-- Taiwan Mandarin Promotion Committee: 是，专委
 
 **Contribution to the Mandarin Movement:**
 台湾国语推行委员会专委
@@ -382,9 +348,7 @@ lang: English
 **Also known as:** 子劲
 
 - Native place: 河南西华
-- Debut: 北师大
 - Government post: 河南注音符号推行委
-- Dictionary Compilation Office: Yes
 
 **Contribution to the Mandarin Movement:**
 《国语周刊》主要撰稿人；国语罗马字促进会会员；河南注音符号推行委员会委员；首版《新华字典》的主要编纂人
@@ -395,8 +359,6 @@ lang: English
 
 - Native place: 浙江绍兴
 - Education: 日本考察
-- Debut: 办学
-- Pronunciation Unification Committee: 是，浙江
 
 **Contribution to the Mandarin Movement:**
 读音统一会浙江会员
@@ -409,7 +371,6 @@ lang: English
 **Also known as:** 星南
 
 - Government post: 内政部参事
-- Pronunciation Unification Committee: 是，山西
 
 **Contribution to the Mandarin Movement:**
 读音统一会山西会员
@@ -420,7 +381,6 @@ lang: English
 ---
 ## 方宾观 &nbsp;&nbsp; Shuo Wen &nbsp; Wikipedia &nbsp; Baidu
 
-- Debut: 商务印书馆
 
 **Contribution to the Mandarin Movement:**
 编写《注音符号传习小册》及常州、苏州两种《注音符号教本》
@@ -432,7 +392,6 @@ lang: English
 ## [Fang Yi]({{ site.baseurl }}{% link people/fangyi.md %}) &nbsp;&nbsp; [Shuo Wen](https://clangreformers.github.io/people/fangyi.html) &nbsp; Wikipedia &nbsp; Baidu
 **Also known as:** 叔远
 
-- Debut: 商务印书馆
 - National Language Association: Yes
 
 **Contribution to the Mandarin Movement:**
@@ -444,8 +403,6 @@ lang: English
 
 - Native place: 湖南湘潭
 - Education: 东京大学
-- Debut: 北师大
-- Dictionary Compilation Office: 是（特约编纂）
 
 **Contribution to the Mandarin Movement:**
 中国大辞典编纂处特约编纂员
@@ -457,7 +414,6 @@ lang: English
 ## 方师铎 &nbsp;&nbsp; Shuo Wen &nbsp; [Wikipedia](https://zh.wikipedia.org/wiki/%E6%96%B9%E5%B8%AB%E9%90%B8) &nbsp; Baidu
 **Also known as:** 大方
 
-- Taiwan Mandarin Promotion Committee: 是，常务委员
 
 **Contribution to the Mandarin Movement:**
 台湾国语推行委员会常务委员；《国语日报》社董事会董事、常务董事
@@ -491,7 +447,6 @@ lang: English
 ## 范继淹 &nbsp;&nbsp; Shuo Wen &nbsp; Wikipedia &nbsp; [Baidu](https://baike.baidu.com/item/%E8%8C%83%E7%BB%A7%E6%B7%B9)
 
 - Native place: 重庆
-- Debut: 语言所
 - Modern Chinese Dictionary: 主要编纂人
 
 **Contribution to the Mandarin Movement:**
@@ -513,9 +468,7 @@ lang: English
 **Also known as:** 宇澄
 
 - Native place: 湖南衡山
-- Debut: 办学
 - Government post: 湖南教育总会
-- Dictionary Compilation Office: 是（特约编纂）
 
 **Contribution to the Mandarin Movement:**
 中国大辞典编纂处特约编纂员，编纂《联绵字典》三十六卷
@@ -529,7 +482,6 @@ lang: English
 
 - Native place: 山东聊城
 - Education: 爱丁堡大学、伦敦大学心理学生理学等
-- Debut: 北大
 
 **Contribution to the Mandarin Movement:**
 《新潮》第一期编辑，采用白话文、注意字母、新式标点。
@@ -567,7 +519,6 @@ lang: English
 ## [Fu Yan (courtesy name Jieshi)]({{ site.baseurl }}{% link people/fuyan.md %}) &nbsp;&nbsp; [Shuo Wen](https://clangreformers.github.io/people/fuyan.html) &nbsp; Wikipedia &nbsp; Baidu
 **Also known as:** 介石，毅盦（庵）
 
-- Dictionary Compilation Office: Yes
 
 **Contribution to the Mandarin Movement:**
 中国大辞典编纂处编纂员，《国语辞典》等编纂人；出版《中国文字学纲要》
@@ -584,7 +535,6 @@ lang: English
 ## 高辊南 &nbsp;&nbsp; Shuo Wen &nbsp; Wikipedia &nbsp; Baidu
 **Also known as:** 瀚九
 
-- Pronunciation Unification Committee: 是，江西
 
 **Contribution to the Mandarin Movement:**
 读音统一会江西会员
@@ -603,7 +553,6 @@ lang: English
 ## 高树基 &nbsp;&nbsp; Shuo Wen &nbsp; Wikipedia &nbsp; Baidu
 **Also known as:** 培支
 
-- Pronunciation Unification Committee: 是，陕西
 
 **Contribution to the Mandarin Movement:**
 读音统一会陕西会员
@@ -613,8 +562,6 @@ lang: English
 
 - Native place: 北京
 - Education: 毕业于燕京大学
-- Debut: 北大
-- Dictionary Compilation Office: Yes
 
 **Contribution to the Mandarin Movement:**
 中国大辞典编纂处编纂员，《国语辞典》等编纂人
@@ -630,8 +577,6 @@ lang: English
 ## [Gong Shuzhi]({{ site.baseurl }}{% link people/gongshuzhi.md %}) &nbsp;&nbsp; [Shuo Wen](https://clangreformers.github.io/people/gongshuzhi.html) &nbsp; Wikipedia &nbsp; Baidu
 
 - Native place: 福建泉州
-- Debut: 北大
-- Taiwan Mandarin Promotion Committee: Yes
 
 **Contribution to the Mandarin Movement:**
 台湾国语推行委员会委员
@@ -641,8 +586,6 @@ lang: English
 **Also known as:** 惕生
 
 - Native place: 江苏常州
-- Debut: 南京高师
-- Pronunciation Unification Committee: 是，江苏
 
 **Contribution to the Mandarin Movement:**
 读音统一会江苏会员
@@ -653,7 +596,6 @@ lang: English
 
 - Native place: 重庆
 - Education: 巴黎大学文学
-- Debut: 北大
 - Government post: 四川教育厅
 
 **Contribution to the Mandarin Movement:**
@@ -685,9 +627,7 @@ lang: English
 **Also known as:** 兆熊
 
 - Native place: 河北深泽
-- Debut: 北大
 - National Language Association: 是，特委
-- Taiwan Mandarin Promotion Committee: 是，副主任委员
 
 **Contribution to the Mandarin Movement:**
 国语推行委员会专门委员；台湾国语推行委员会副主任委员、主任委员；《国语日报》创办人之一
@@ -699,7 +639,6 @@ lang: English
 ## 何士骥 &nbsp;&nbsp; Shuo Wen &nbsp; Wikipedia &nbsp; [Baidu](https://baike.baidu.com/item/%E4%BD%95%E5%A3%AB%E9%AA%A5)
 **Also known as:** 乐夫
 
-- Dictionary Compilation Office: 是，特约编纂
 
 **Contribution to the Mandarin Movement:**
 中国大辞典编纂处特约编纂员
@@ -707,7 +646,6 @@ lang: English
 ---
 ## [He Meicen]({{ site.baseurl }}{% link people/hemeicen.md %}) &nbsp;&nbsp; [Shuo Wen](https://clangreformers.github.io/people/hemeicen.html) &nbsp; Wikipedia &nbsp; Baidu
 
-- Dictionary Compilation Office: Yes
 - Modern Chinese Dictionary: 主要编纂人
 
 **Contribution to the Mandarin Movement:**
@@ -727,7 +665,6 @@ lang: English
 ## 洪逵 &nbsp;&nbsp; Shuo Wen &nbsp; Wikipedia &nbsp; Baidu
 **Also known as:** 芰舲
 
-- Pronunciation Unification Committee: 是，安徽
 
 **Contribution to the Mandarin Movement:**
 读音统一会安徽会员
@@ -740,8 +677,6 @@ lang: English
 **Also known as:** 炎秋
 
 - Native place: 台湾彰化
-- Debut: 北大，台湾师大
-- Taiwan Mandarin Promotion Committee: 是，副主任委员
 
 **Contribution to the Mandarin Movement:**
 台湾国语推行委员会副副主任；《国语日报》社长、发行人
@@ -752,7 +687,6 @@ lang: English
 
 - Native place: 安徽绩溪
 - Education: 康奈尔大学农科
-- Debut: 北大
 - National Language Association: Yes
 
 **Contribution to the Mandarin Movement:**
@@ -764,8 +698,6 @@ lang: English
 
 - Native place: 浙江宁波
 - Education: 日本帝国大学博言科
-- Debut: 北大
-- Pronunciation Unification Committee: 是，浙江
 
 **Contribution to the Mandarin Movement:**
 读音统一会浙江会员
@@ -785,8 +717,6 @@ lang: English
 
 - Native place: 江苏无锡
 - Education: 日本弘文学院师范科
-- Debut: 办学
-- Pronunciation Unification Committee: 是，江苏
 
 **Contribution to the Mandarin Movement:**
 读音统一会江苏会员
@@ -794,7 +724,6 @@ lang: English
 ---
 ## 华南奎 &nbsp;&nbsp; Shuo Wen &nbsp; Wikipedia &nbsp; Baidu
 
-- Pronunciation Unification Committee: 是，江苏
 
 **Contribution to the Mandarin Movement:**
 读音统一会江苏会员
@@ -824,7 +753,6 @@ lang: English
 ## 黄中强 &nbsp;&nbsp; Shuo Wen &nbsp; Wikipedia &nbsp; Baidu
 **Also known as:** 适园
 
-- Pronunciation Unification Committee: 是，江苏
 
 **Contribution to the Mandarin Movement:**
 读音统一会江苏会员
@@ -845,7 +773,6 @@ lang: English
 
 - Native place: 台湾台北
 - Government post: 内政部礼俗司
-- Taiwan Mandarin Promotion Committee: 是，兼委
 
 **Contribution to the Mandarin Movement:**
 台湾国语推行委员会兼委
@@ -856,7 +783,6 @@ lang: English
 
 - Native place: 江西弋阳
 - Education: 留学、游历日本和欧洲
-- Debut: 京师大学堂
 
 **Contribution to the Mandarin Movement:**
 出版《通字》，为罗马字的简字，以阿拉伯数字表声调
@@ -888,7 +814,6 @@ lang: English
 ## 蒋举清 &nbsp;&nbsp; Shuo Wen &nbsp; [Wikipedia](https://zh.wikipedia.org/wiki/%E8%94%A3%E8%88%89%E6%B8%85) &nbsp; Baidu
 **Also known as:** 渭高
 
-- Pronunciation Unification Committee: 是，新疆
 
 **Contribution to the Mandarin Movement:**
 读音统一会新疆会员
@@ -900,7 +825,6 @@ lang: English
 ## 蒋言诗 &nbsp;&nbsp; Shuo Wen &nbsp; Wikipedia &nbsp; Baidu
 **Also known as:** 志吾
 
-- Pronunciation Unification Committee: 是，四川
 
 **Contribution to the Mandarin Movement:**
 读音统一会四川会员
@@ -909,7 +833,6 @@ lang: English
 ## 康乃璋 &nbsp;&nbsp; Shuo Wen &nbsp; Wikipedia &nbsp; Baidu
 **Also known as:** 载之
 
-- Dictionary Compilation Office: Yes
 
 **Contribution to the Mandarin Movement:**
 中国大辞典编纂处委托整理员
@@ -927,9 +850,7 @@ lang: English
 **Also known as:** 繁钧
 
 - Native place: 山东曲阜
-- Debut: 北师大
 - National Language Association: Yes
-- Dictionary Compilation Office: Yes
 
 **Contribution to the Mandarin Movement:**
 中国大辞典编纂处委托编纂员；首版《新华字典》编纂人；《现代汉语词典》（试印本）主要编纂人
@@ -941,7 +862,6 @@ lang: English
 - Native place: 山西大同
 - Education: 日本经纬学校哲学
 - Government post: 山西教育会会长
-- Pronunciation Unification Committee: 是，山西
 
 **Contribution to the Mandarin Movement:**
 读音统一会山西会员
@@ -951,7 +871,6 @@ lang: English
 **Also known as:** 均荃
 
 - Native place: 湖南湘潭
-- Debut: 从兄
 - National Language Association: Yes
 
 **Contribution to the Mandarin Movement:**
@@ -963,7 +882,6 @@ lang: English
 
 - Native place: 湖南湘潭
 - Education: 柏林大学哲学
-- Debut: 从兄
 
 **Contribution to the Mandarin Movement:**
 在中华平民教育促进会推行注音符号
@@ -978,8 +896,6 @@ lang: English
 - Native place: 湖南湘潭
 - Government post: 教育部
 - National Language Association: Yes
-- Taiwan Mandarin Promotion Committee: Yes
-- Dictionary Compilation Office: Yes
 
 **Contribution to the Mandarin Movement:**
 国语运动倡导者；汉字省体委员会委员；国语统一筹备会会员；《国音字典》初印本审核人；《增修国音字典》委员会委员；国语罗马字拼音研究委员会委员；数人会成员；《国语周刊》发起人；国语统一筹备委员会常务委员；中国大辞典编纂处董事会当然董事、总主任；《国语运动史纲》作者；《新著国语文法》作者，奠定国语语法基础；出版《国语四千年来变化潮流图》；；《国音常用字汇》编纂人；《现代汉语词典》（试印本）审订委员会委员
@@ -1001,8 +917,6 @@ lang: English
 **Also known as:** 桐轩
 
 - Native place: 陕西蒲城
-- Debut: 易俗社
-- Pronunciation Unification Committee: 是，陕西
 
 **Contribution to the Mandarin Movement:**
 读音统一会陕西会员
@@ -1023,7 +937,6 @@ lang: English
 ## 李维藩 &nbsp;&nbsp; Shuo Wen &nbsp; Wikipedia &nbsp; Baidu
 **Also known as:** 麓石
 
-- Pronunciation Unification Committee: 是，湖南
 
 **Contribution to the Mandarin Movement:**
 读音统一会湖南会员
@@ -1044,7 +957,6 @@ lang: English
 
 - Native place: 河北高阳
 - Education: 巴斯德学校、巴黎大学生物
-- Debut: 留法俭学会
 - National Language Association: Yes
 
 **Contribution to the Mandarin Movement:**
@@ -1067,7 +979,6 @@ lang: English
 
 - Native place: 湖北汉阳
 - Government post: 湖北翰林
-- Pronunciation Unification Committee: 是，湖北
 
 **Contribution to the Mandarin Movement:**
 读音统一会湖北会员
@@ -1097,7 +1008,6 @@ lang: English
 **Also known as:** 友琴
 
 - Native place: 北京
-- Dictionary Compilation Office: 是，书记员
 
 **Contribution to the Mandarin Movement:**
 中国大辞典编纂处书记员（兼事务）
@@ -1106,7 +1016,6 @@ lang: English
 ## 李文光 &nbsp;&nbsp; Shuo Wen &nbsp; Wikipedia &nbsp; Baidu
 **Also known as:** 石农
 
-- Dictionary Compilation Office: 是，书记员
 
 **Contribution to the Mandarin Movement:**
 中国大辞典编纂处书记员
@@ -1114,7 +1023,6 @@ lang: English
 ---
 ## 李剑南 &nbsp;&nbsp; Shuo Wen &nbsp; Wikipedia &nbsp; Baidu
 
-- Taiwan Mandarin Promotion Committee: 是，常务委员
 
 **Contribution to the Mandarin Movement:**
 台湾国语推行委员会常务委员
@@ -1123,7 +1031,6 @@ lang: English
 ## 李荣 &nbsp;&nbsp; Shuo Wen &nbsp; Wikipedia &nbsp; [Baidu](https://baike.baidu.com/item/%E6%9D%8E%E8%8D%A3)
 
 - Native place: 浙江温岭
-- Debut: 西南联大
 - Modern Chinese Dictionary: 审订委员会
 
 **Contribution to the Mandarin Movement:**
@@ -1151,7 +1058,6 @@ lang: English
 ---
 ## 李国炎 &nbsp;&nbsp; Shuo Wen &nbsp; Wikipedia &nbsp; [Baidu](https://baike.baidu.com/item/%E6%9D%8E%E5%9B%BD%E7%82%8E)
 
-- Debut: 语言所
 - Modern Chinese Dictionary: 主要编纂人
 
 **Contribution to the Mandarin Movement:**
@@ -1164,7 +1070,6 @@ lang: English
 - Native place: 台湾云林
 - Education: 巴黎大学社会学
 - Government post: 省议会议员
-- Taiwan Mandarin Promotion Committee: 是，兼委 
 
 **Contribution to the Mandarin Movement:**
 台湾国语推行委员会兼委
@@ -1185,8 +1090,6 @@ lang: English
 
 - Native place: 河北正定
 - Education: 东京帝国大学文学
-- Debut: 北师大
-- Taiwan Mandarin Promotion Committee: 是，常务委员
 
 **Contribution to the Mandarin Movement:**
 《国语日报》常务委员、副编辑
@@ -1210,8 +1113,6 @@ lang: English
 **Also known as:** 季平
 
 - Native place: 四川井研
-- Debut: 四川国学院
-- Pronunciation Unification Committee: 是，四川
 
 **Contribution to the Mandarin Movement:**
 读音统一会四川会员
@@ -1232,7 +1133,6 @@ lang: English
 
 - Native place: 福建龙溪
 - Education: 哈佛大学文学，莱比锡大学语言学
-- Debut: 北大
 - National Language Association: Yes
 
 **Contribution to the Mandarin Movement:**
@@ -1241,7 +1141,6 @@ lang: English
 ---
 ## 林志煊 &nbsp;&nbsp; Shuo Wen &nbsp; Wikipedia &nbsp; Baidu
 
-- Pronunciation Unification Committee: 是，福建
 
 **Contribution to the Mandarin Movement:**
 读音统一会福建会员
@@ -1259,7 +1158,6 @@ lang: English
 ---
 ## 林绍贤 &nbsp;&nbsp; Shuo Wen &nbsp; Wikipedia &nbsp; Baidu
 
-- Taiwan Mandarin Promotion Committee: 是，秘书
 
 **Contribution to the Mandarin Movement:**
 台湾国语推行委员会秘书
@@ -1273,9 +1171,7 @@ lang: English
 
 - Native place: 江苏江阴
 - Education: 巴黎大学音韵学
-- Debut: 北大
 - National Language Association: Yes
-- Dictionary Compilation Office: Yes
 
 **Contribution to the Mandarin Movement:**
 白话文运动倡导者；国语统一筹备会会员；数人会成员；国语统一筹备委员会委员；中国大辞典编纂处董事会董事、纂著部大学辞典编纂股主任；中国方言调查实践者
@@ -1284,7 +1180,6 @@ lang: English
 ## 刘继善 &nbsp;&nbsp; Shuo Wen &nbsp; Wikipedia &nbsp; Baidu
 **Also known as:** 敬之
 
-- Pronunciation Unification Committee: 是，直隶
 
 **Contribution to the Mandarin Movement:**
 读音统一会直隶会员
@@ -1303,7 +1198,6 @@ lang: English
 ---
 ## 刘孟扬 &nbsp;&nbsp; Shuo Wen &nbsp; Wikipedia &nbsp; [Baidu](https://baike.baidu.com/item/%E5%88%98%E5%AD%9F%E6%89%AC)
 
-- Debut: 《大公报》
 
 **Contribution to the Mandarin Movement:**
 出版《中国音标字书》，使用罗马字母
@@ -1315,7 +1209,6 @@ lang: English
 ## 刘盼遂 &nbsp;&nbsp; Shuo Wen &nbsp; Wikipedia &nbsp; [Baidu](https://baike.baidu.com/item/%E5%88%98%E7%9B%BC%E9%81%82)
 
 - Native place: 河南信阳
-- Debut: 清华
 
 **Contribution to the Mandarin Movement:**
 中国大辞典编纂处特约编纂员
@@ -1326,7 +1219,6 @@ lang: English
 ---
 ## 刘澍田 &nbsp;&nbsp; Shuo Wen &nbsp; Wikipedia &nbsp; Baidu
 
-- Pronunciation Unification Committee: 是，黑龙江
 
 **Contribution to the Mandarin Movement:**
 读音统一会黑龙江会员
@@ -1336,7 +1228,6 @@ lang: English
 **Also known as:** 颂铭
 
 - Native place: 湖南邵阳
-- Dictionary Compilation Office: Yes
 
 **Contribution to the Mandarin Movement:**
 中国大辞典编纂处纂著部中法辞典股主任
@@ -1348,8 +1239,6 @@ lang: English
 ## 刘汝霖 &nbsp;&nbsp; Shuo Wen &nbsp; Wikipedia &nbsp; [Baidu](https://baike.baidu.com/item/%E5%88%98%E6%B1%9D%E9%9C%96)
 **Also known as:** 泽民
 
-- Debut: 北师大
-- Dictionary Compilation Office: 是，特约编纂
 
 **Contribution to the Mandarin Movement:**
 中国大辞典编纂处特约编纂员
@@ -1358,7 +1247,6 @@ lang: English
 ## 刘庆隆 &nbsp;&nbsp; Shuo Wen &nbsp; Wikipedia &nbsp; [Baidu](https://baike.baidu.com/item/%E5%88%98%E5%BA%86%E9%9A%86)
 
 - Native place: 河北献县
-- Debut: 语言所
 - Modern Chinese Dictionary: 主要编纂人
 
 **Contribution to the Mandarin Movement:**
@@ -1367,7 +1255,6 @@ lang: English
 ---
 ## 刘洁修 &nbsp;&nbsp; Shuo Wen &nbsp; Wikipedia &nbsp; [Baidu](https://baike.baidu.com/item/%E5%88%98%E6%B4%81%E4%BF%AE)
 
-- Debut: 语言所
 - Modern Chinese Dictionary: 主要编纂人
 
 **Contribution to the Mandarin Movement:**
@@ -1379,8 +1266,6 @@ lang: English
 
 - Native place: 广东梅县
 - Education: 早稻田政治经济学
-- Debut: 台湾大学
-- Taiwan Mandarin Promotion Committee: 是，兼委
 
 **Contribution to the Mandarin Movement:**
 台湾国语推行委员会兼委
@@ -1394,7 +1279,6 @@ lang: English
 
 - Native place: 福建同安
 - Education: 新加坡学英文
-- Debut: 做翻译
 
 **Contribution to the Mandarin Movement:**
 中国切音运动第一人，出版《一目了然初阶》
@@ -1405,7 +1289,6 @@ lang: English
 ---
 ## 卢自然 &nbsp;&nbsp; Shuo Wen &nbsp; Wikipedia &nbsp; Baidu
 
-- Dictionary Compilation Office: Yes
 
 **Contribution to the Mandarin Movement:**
 曾任职于中国大辞典编纂处
@@ -1418,8 +1301,6 @@ lang: English
 **Also known as:** 炜士
 
 - Native place: 陕西高陵
-- Debut: 商务印书馆
-- Pronunciation Unification Committee: 是，江苏
 
 **Contribution to the Mandarin Movement:**
 读音统一会江苏会员
@@ -1442,7 +1323,6 @@ lang: English
 ---
 ## 陆秀如 &nbsp;&nbsp; Shuo Wen &nbsp; Wikipedia &nbsp; Baidu
 
-- Dictionary Compilation Office: Yes
 
 **Contribution to the Mandarin Movement:**
 曾任职于中国大辞典编纂处
@@ -1462,7 +1342,6 @@ lang: English
 
 - Native place: 浙江湖洲
 - Education: 芝加哥大学心理学
-- Debut: 语言所
 - Modern Chinese Dictionary: 审订委员会
 
 **Contribution to the Mandarin Movement:**
@@ -1472,7 +1351,6 @@ lang: English
 ## 陆宗达 &nbsp;&nbsp; Shuo Wen &nbsp; [Wikipedia](https://zh.wikipedia.org/wiki/%E9%99%B8%E5%AE%97%E9%81%94) &nbsp; [Baidu](https://baike.baidu.com/item/%E9%99%86%E5%AE%97%E8%BE%BE)
 
 - Native place: 浙江慈溪
-- Debut: 北大
 - Modern Chinese Dictionary: 审订委员会
 
 **Contribution to the Mandarin Movement:**
@@ -1483,7 +1361,6 @@ lang: English
 **Also known as:** 莘田、心恬
 
 - Native place: 北京
-- Debut: 北大
 
 **Contribution to the Mandarin Movement:**
 《国语周刊》特约撰稿人；白涤洲相关研究
@@ -1492,7 +1369,6 @@ lang: English
 ## 罗赞勤 &nbsp;&nbsp; Shuo Wen &nbsp; Wikipedia &nbsp; Baidu
 **Also known as:** 世芳
 
-- Pronunciation Unification Committee: 是，广东
 
 **Contribution to the Mandarin Movement:**
 读音统一会广东会员
@@ -1505,7 +1381,6 @@ lang: English
 **Also known as:** 季斐
 
 - Native place: 天津
-- Dictionary Compilation Office: Yes
 
 **Contribution to the Mandarin Movement:**
 中国大辞典编纂处委托编纂员
@@ -1513,7 +1388,6 @@ lang: English
 ---
 ## 罗维梁 &nbsp;&nbsp; Shuo Wen &nbsp; Wikipedia &nbsp; Baidu
 
-- Taiwan Mandarin Promotion Committee: 是，兼委
 
 **Contribution to the Mandarin Movement:**
 台湾国语推行委员会兼委
@@ -1523,7 +1397,6 @@ lang: English
 
 - Native place: 江苏丹阳
 - Education: 牛津大学人类学，伦敦大学图书馆学
-- Debut: 语言所
 - Modern Chinese Dictionary: 审订委员会
 
 **Contribution to the Mandarin Movement:**
@@ -1550,8 +1423,6 @@ lang: English
 **Also known as:** 隅卿
 
 - Native place: 浙江鄞县
-- Debut: 孔德，北大
-- Dictionary Compilation Office: 是，董事
 
 **Contribution to the Mandarin Movement:**
 中国大辞典编纂处董事会董事
@@ -1560,7 +1431,6 @@ lang: English
 ## 马体乾 &nbsp;&nbsp; Shuo Wen &nbsp; Wikipedia &nbsp; Baidu
 **Also known as:** 子良
 
-- Pronunciation Unification Committee: 是，直隶
 - National Language Association: Yes
 
 **Contribution to the Mandarin Movement:**
@@ -1575,8 +1445,6 @@ lang: English
 
 - Native place: 浙江鄞县
 - Education: 早稻田，东京帝国大学
-- Debut: 北大
-- Pronunciation Unification Committee: 是，浙江
 
 **Contribution to the Mandarin Movement:**
 读音统一会浙江会员；国语统一筹备会会员；《国音字典》初印本审核人；国语统一筹备委员会委员
@@ -1586,8 +1454,6 @@ lang: English
 **Also known as:** 蜀原
 
 - Native place: 山东荣成
-- Debut: 北大
-- Taiwan Mandarin Promotion Committee: Yes
 
 **Contribution to the Mandarin Movement:**
 台湾国语推行委员会委员
@@ -1596,7 +1462,6 @@ lang: English
 ## 蒙启谟 &nbsp;&nbsp; Shuo Wen &nbsp; Wikipedia &nbsp; Baidu
 **Also known as:** 警民
 
-- Pronunciation Unification Committee: 是，广西
 
 **Contribution to the Mandarin Movement:**
 读音统一会广西会员
@@ -1607,7 +1472,6 @@ lang: English
 ---
 ## 莫衡 &nbsp;&nbsp; Shuo Wen &nbsp; Wikipedia &nbsp; [Baidu](https://baike.baidu.com/item/%E8%8E%AB%E8%A1%A1)
 
-- Debut: 语言所
 - Modern Chinese Dictionary: 主要编纂人
 
 **Contribution to the Mandarin Movement:**
@@ -1617,8 +1481,6 @@ lang: English
 ## 南志信 &nbsp;&nbsp; Shuo Wen &nbsp; [Wikipedia](https://zh.wikipedia.org/wiki/%E5%8D%97%E5%BF%97%E4%BF%A1) &nbsp; Baidu
 
 - Native place: 台湾
-- Debut: 台湾志信内科医院
-- Taiwan Mandarin Promotion Committee: 是，兼委
 
 **Contribution to the Mandarin Movement:**
 台湾国语推行委员会兼委
@@ -1628,7 +1490,6 @@ lang: English
 **Also known as:** 文青
 
 - Native place: 河北昌平
-- Dictionary Compilation Office: Yes
 
 **Contribution to the Mandarin Movement:**
 中国大辞典编纂处编纂员；北师大国语专修科讲师
@@ -1654,7 +1515,6 @@ lang: English
 **Also known as:** 心如
 
 - Native place: 江苏吴县
-- Dictionary Compilation Office: Yes
 
 **Contribution to the Mandarin Movement:**
 曾就职于中国大辞典编纂处，是《国语辞典》（八本版）编纂人
@@ -1667,8 +1527,6 @@ lang: English
 **Also known as:** 劭
 
 - Native place: 北京
-- Debut: 商务印书馆
-- Taiwan Mandarin Promotion Committee: 是，副主任委员
 
 **Contribution to the Mandarin Movement:**
 台湾国语推行委员会副主任委员
@@ -1676,7 +1534,6 @@ lang: English
 ---
 ## 祁致贤 &nbsp;&nbsp; Shuo Wen &nbsp; Wikipedia &nbsp; Baidu
 
-- Taiwan Mandarin Promotion Committee: 是，常务委员
 
 **Contribution to the Mandarin Movement:**
 台湾国语推行委员会常务委员
@@ -1689,8 +1546,6 @@ lang: English
 
 - Native place: 浙江吴兴
 - Education: 意大利国立大学，比利时等国大学
-- Debut: 北大
-- Pronunciation Unification Committee: 是，浙江
 - National Language Association: Yes
 
 **Contribution to the Mandarin Movement:**
@@ -1717,9 +1572,7 @@ lang: English
 
 - Native place: 浙江吴兴
 - Education: 早稻田大学师范
-- Debut: 北大
 - National Language Association: Yes
-- Dictionary Compilation Office: Yes
 
 **Contribution to the Mandarin Movement:**
 国语运动主要推动人；汉字省体委员会委员；国语统一筹备会会员；《国音字典》初印本审核人；《增修国音字典》委员会委员；《国语周刊》发起人；国语罗马字拼音委员会委员；数人会成员；国语统一筹备委员会常务委员；国音字母讲习所所长；中国大辞典编纂处董事会董事、纂著部国音大字典股主任、总编纂；《国音常用字汇》主编；首版简体字方案制定者；《国语辞典》第一册主编
@@ -1739,7 +1592,6 @@ lang: English
 
 - Native place: 江苏常州
 - Education: 哈佛哲学、教育学
-- Debut: 平教会
 
 **Contribution to the Mandarin Movement:**
 在领导中华平民教育促进会时推行注音符号、扫盲
@@ -1760,7 +1612,6 @@ lang: English
 ## 单耀海 &nbsp;&nbsp; Shuo Wen &nbsp; Wikipedia &nbsp; [Baidu](https://baike.baidu.com/item/%E5%8D%95%E8%80%80%E6%B5%B7)
 
 - Native place: 江苏南通
-- Debut: 语言所
 - Modern Chinese Dictionary: 主要编纂人
 
 **Contribution to the Mandarin Movement:**
@@ -1771,7 +1622,6 @@ lang: English
 **Also known as:** 阔泉
 
 - Native place: 北京
-- Dictionary Compilation Office: Yes
 
 **Contribution to the Mandarin Movement:**
 中国大辞典编纂处书记员
@@ -1795,7 +1645,6 @@ lang: English
 
 - Native place: 浙江吴兴
 - Education: 东京物理学校
-- Debut: 北大
 - National Language Association: Yes
 
 **Contribution to the Mandarin Movement:**
@@ -1819,7 +1668,6 @@ lang: English
 ## [Shen Yi]({{ site.baseurl }}{% link people/shenyi.md %}) &nbsp;&nbsp; [Shuo Wen](https://clangreformers.github.io/people/shenyi.html) &nbsp; Wikipedia &nbsp; [Baidu](https://baike.baidu.com/item/%E6%B2%88%E9%A2%90)
 **Also known as:** 朶山
 
-- Debut: 中华书局
 - National Language Association: Yes
 
 **Contribution to the Mandarin Movement:**
@@ -1832,7 +1680,6 @@ lang: English
 ## 沈其蕃 &nbsp;&nbsp; Shuo Wen &nbsp; Wikipedia &nbsp; Baidu
 **Also known as:** 天梦
 
-- Dictionary Compilation Office: 是，特约编纂
 
 **Contribution to the Mandarin Movement:**
 中国大辞典编纂处特约编纂员
@@ -1841,8 +1688,6 @@ lang: English
 ## 沈仲章 &nbsp;&nbsp; Shuo Wen &nbsp; [Wikipedia](https://zh.wikipedia.org/wiki/%E6%B2%88%E4%BB%B2%E7%AB%A0) &nbsp; Baidu
 
 - Native place: 浙江湖州
-- Debut: 北大
-- Taiwan Mandarin Promotion Committee: Yes
 
 **Contribution to the Mandarin Movement:**
 台湾国语推行委员会委员
@@ -1850,7 +1695,6 @@ lang: English
 ---
 ## 石明远 &nbsp;&nbsp; Shuo Wen &nbsp; Wikipedia &nbsp; [Baidu](https://baike.baidu.com/item/%E7%9F%B3%E6%98%8E%E8%BF%9C)
 
-- Debut: 语言所
 - Modern Chinese Dictionary: 审订委员会
 
 **Contribution to the Mandarin Movement:**
@@ -1870,7 +1714,6 @@ lang: English
 ## 舒之鎏 &nbsp;&nbsp; Shuo Wen &nbsp; Wikipedia &nbsp; Baidu
 **Also known as:** 贻上
 
-- Pronunciation Unification Committee: 是，湖南
 
 **Contribution to the Mandarin Movement:**
 读音统一会湖南会员
@@ -1881,7 +1724,6 @@ lang: English
 
 - Native place: 甘肃兰州
 - Government post: 甘肃教育厅长
-- Pronunciation Unification Committee: 是，甘肃
 
 **Contribution to the Mandarin Movement:**
 读音统一会甘肃会员
@@ -1889,7 +1731,6 @@ lang: English
 ---
 ## 司马融编 &nbsp;&nbsp; Shuo Wen &nbsp; Wikipedia &nbsp; Baidu
 
-- Taiwan Mandarin Promotion Committee: 是，当然常委
 
 **Contribution to the Mandarin Movement:**
 台湾国语推行委员会当然委员
@@ -1910,7 +1751,6 @@ lang: English
 ---
 ## 隋廷瑞 &nbsp;&nbsp; Shuo Wen &nbsp; Wikipedia &nbsp; Baidu
 
-- Pronunciation Unification Committee: 是，山东
 
 **Contribution to the Mandarin Movement:**
 读音统一会山东会员
@@ -1919,7 +1759,6 @@ lang: English
 ## 孙伏园 &nbsp;&nbsp; Shuo Wen &nbsp; [Wikipedia](https://zh.wikipedia.org/wiki/%E5%AD%AB%E4%BC%8F%E5%9C%92) &nbsp; [Baidu](https://baike.baidu.com/item/%E5%AD%99%E4%BC%8F%E5%9B%AD)
 
 - Native place: 浙江绍兴
-- Debut: 《晨报》副刊
 
 **Contribution to the Mandarin Movement:**
 在中华平民教育促进会推行注音符号
@@ -1932,8 +1771,6 @@ lang: English
 
 - Native place: 江苏无锡
 - Education: 爱丁堡大学机械系
-- Debut: 唐山交大校长
-- Pronunciation Unification Committee: Yes
 
 **Contribution to the Mandarin Movement:**
 读音统一会会员
@@ -1944,8 +1781,6 @@ lang: English
 
 - Native place: 河北沧县
 - Education: 赴日寻书
-- Debut: 北师大
-- Dictionary Compilation Office: Yes
 
 **Contribution to the Mandarin Movement:**
 中国大辞典编纂处蒐集部书报组主任、专任编纂员
@@ -1966,7 +1801,6 @@ lang: English
 ## 孙锐第 &nbsp;&nbsp; Shuo Wen &nbsp; Wikipedia &nbsp; Baidu
 **Also known as:** 叔岩
 
-- Dictionary Compilation Office: 是，书记员
 
 **Contribution to the Mandarin Movement:**
 中国大辞典编纂处书记员
@@ -1976,8 +1810,6 @@ lang: English
 **Also known as:** 谓宜
 
 - Native place: 北京
-- Debut: 北师大
-- Dictionary Compilation Office: Yes
 - Modern Chinese Dictionary: 主要编纂人
 
 **Contribution to the Mandarin Movement:**
@@ -1986,7 +1818,6 @@ lang: English
 ---
 ## [Sun Peiliang]({{ site.baseurl }}{% link people/sunpeiliang.md %}) &nbsp;&nbsp; [Shuo Wen](https://clangreformers.github.io/people/sunpeiliang.html) &nbsp; Wikipedia &nbsp; Baidu
 
-- Taiwan Mandarin Promotion Committee: 是，常务委员
 
 **Contribution to the Mandarin Movement:**
 台湾国语推行委员会常务委员
@@ -1996,7 +1827,6 @@ lang: English
 **Also known as:** 浚三
 
 - Native place: 山东滕州
-- Debut: 语言所
 - Modern Chinese Dictionary: 主要编纂人
 
 **Contribution to the Mandarin Movement:**
@@ -2007,7 +1837,6 @@ lang: English
 **Also known as:** 玉堂
 
 - Native place: 北京
-- Dictionary Compilation Office: Yes
 
 **Contribution to the Mandarin Movement:**
 中国大辞典编纂处书记员（委托职）
@@ -2050,7 +1879,6 @@ lang: English
 ## 汪海清 &nbsp;&nbsp; Shuo Wen &nbsp; Wikipedia &nbsp; Baidu
 **Also known as:** 子瑞
 
-- Pronunciation Unification Committee: 是，内蒙
 
 **Contribution to the Mandarin Movement:**
 读音统一会内蒙古会员
@@ -2060,8 +1888,6 @@ lang: English
 **Also known as:** 巩庵
 
 - Native place: 广西桂林
-- Debut: 北师大
-- Pronunciation Unification Committee: 是、广西
 
 **Contribution to the Mandarin Movement:**
 读音统一会广西会员
@@ -2072,7 +1898,6 @@ lang: English
 
 - Native place: 江苏苏州
 - Education: 哥伦比亚大学教育系
-- Debut: 北师大
 
 **Contribution to the Mandarin Movement:**
 为教育部最早倡导国语运动者
@@ -2087,7 +1912,6 @@ lang: English
 - Native place: 江苏苏州
 - Education: 早稻田法政专业
 - Government post: 参议院议员
-- Pronunciation Unification Committee: 是，江苏
 
 **Contribution to the Mandarin Movement:**
 简字研究会发起人；读音统一会江苏会员
@@ -2100,7 +1924,6 @@ lang: English
 
 - Native place: 内蒙
 - Education: 东京振武学堂军事
-- Debut: 蒙藏学校
 
 **Contribution to the Mandarin Movement:**
 教育部注音符号推行委员会委员
@@ -2114,10 +1937,7 @@ lang: English
 
 - Native place: 浙江杭州
 - Government post: 教育部
-- Pronunciation Unification Committee: 是，浙江
 - National Language Association: Yes
-- Taiwan Mandarin Promotion Committee: 是，台北市委员
-- Dictionary Compilation Office: Yes
 
 **Contribution to the Mandarin Movement:**
 读音统一会浙江会员；国语统一筹备会会员；《国音字典》校订专员；《增修国音字典》委员会委员；国语罗马字拼音研究委员会委员；数人会成员；国语统一筹备委员会常务委员；国语速记讲习所所长，发明汪怡速记法；中国大辞典编纂处董事会董事、纂著部普通辞典股主任、沦陷期代总主任；《国音常用字汇》参订人；《国语辞典》（八本版）主编
@@ -2138,8 +1958,6 @@ lang: English
 **Also known as:** 云轩
 
 - Native place: 江苏无锡
-- Debut: 四角号码发明
-- Pronunciation Unification Committee: 是，江苏
 
 **Contribution to the Mandarin Movement:**
 读音统一会江苏会员
@@ -2159,9 +1977,6 @@ lang: English
 **Also known as:** 茀青
 
 - Native place: 河北武邑
-- Debut: 北师大
-- Taiwan Mandarin Promotion Committee: Yes
-- Dictionary Compilation Office: Yes
 
 **Contribution to the Mandarin Movement:**
 中国大辞典编纂处民众辞典股甲种委托编纂员；北师大国语专修班副教授；《国语小报》编印主任；《国语日报》副总编；台湾国语推行委员会委员
@@ -2171,8 +1986,6 @@ lang: English
 **Also known as:** 善愷
 
 - Native place: 浙江绍兴
-- Debut: 北师大
-- Dictionary Compilation Office: Yes
 - Modern Chinese Dictionary: 主要编纂人
 
 **Contribution to the Mandarin Movement:**
@@ -2182,7 +1995,6 @@ lang: English
 ## 王树声 &nbsp;&nbsp; Shuo Wen &nbsp; Wikipedia &nbsp; Baidu
 **Also known as:** 宇清
 
-- Pronunciation Unification Committee: 是，吉林
 
 **Contribution to the Mandarin Movement:**
 读音统一会吉林会员
@@ -2194,7 +2006,6 @@ lang: English
 ## 王锡恩 &nbsp;&nbsp; Shuo Wen &nbsp; Wikipedia &nbsp; Baidu
 **Also known as:** 捷三
 
-- Pronunciation Unification Committee: 是，四川
 
 **Contribution to the Mandarin Movement:**
 读音统一会四川会员
@@ -2206,7 +2017,6 @@ lang: English
 ## 王修德 &nbsp;&nbsp; Shuo Wen &nbsp; Wikipedia &nbsp; Baidu
 **Also known as:** 新邦
 
-- Pronunciation Unification Committee: 是，直隶
 
 **Contribution to the Mandarin Movement:**
 读音统一会直隶会员
@@ -2215,7 +2025,6 @@ lang: English
 ## 王仪型 &nbsp;&nbsp; Shuo Wen &nbsp; Wikipedia &nbsp; Baidu
 **Also known as:** 式文
 
-- Pronunciation Unification Committee: 是，直隶
 
 **Contribution to the Mandarin Movement:**
 读音统一会直隶会员
@@ -2224,7 +2033,6 @@ lang: English
 ## [Wang Yuchuan]({{ site.baseurl }}{% link people/wangyuchuan.md %}) &nbsp;&nbsp; [Shuo Wen](https://clangreformers.github.io/people/wangyuchuan.html) &nbsp; Wikipedia &nbsp; Baidu
 
 - Native place: 河北饶阳
-- Taiwan Mandarin Promotion Committee: 是，常务委员
 
 **Contribution to the Mandarin Movement:**
 国语罗马字促进会会员；济南国语罗马字讲习班主持兼主讲人；台湾国语推行委员会常务委员
@@ -2238,8 +2046,6 @@ lang: English
 
 - Native place: 直隶宁河
 - Education: 流亡日本
-- Debut: 官话字母
-- Pronunciation Unification Committee: 是，直隶
 
 **Contribution to the Mandarin Movement:**
 出版《官话合声字母》；读音统一会副议长
@@ -2248,7 +2054,6 @@ lang: English
 ## [Wang Pu]({{ site.baseurl }}{% link people/wangpu.md %}) &nbsp;&nbsp; [Shuo Wen](https://clangreformers.github.io/people/wangpu.html) &nbsp; Wikipedia &nbsp; Baidu
 **Also known as:** 蕴山
 
-- Pronunciation Unification Committee: 是，直隶
 - National Language Association: Yes
 
 **Contribution to the Mandarin Movement:**
@@ -2262,8 +2067,6 @@ lang: English
 **Also known as:** 有三
 
 - Native place: 河北高阳
-- Debut: 北师大
-- Dictionary Compilation Office: Yes
 
 **Contribution to the Mandarin Movement:**
 中国大辞典编纂处特约编纂员
@@ -2273,7 +2076,6 @@ lang: English
 **Also known as:** 镜亭
 
 - Native place: 北京
-- Dictionary Compilation Office: Yes
 
 **Contribution to the Mandarin Movement:**
 中国大辞典编纂处国音普通辞典股甲种委托编纂员
@@ -2282,7 +2084,6 @@ lang: English
 ## 王炬 &nbsp;&nbsp; Shuo Wen &nbsp; [Wikipedia](https://zh.wikipedia.org/wiki/%E7%8E%8B%E7%82%AC) &nbsp; Baidu
 **Also known as:** 子和
 
-- Taiwan Mandarin Promotion Committee: 是，宣传组组长
 
 **Contribution to the Mandarin Movement:**
 国语推行委员会委员；台湾国语推行委员会宣传委员
@@ -2295,7 +2096,6 @@ lang: English
 
 - Native place: 广西博白
 - Education: 巴黎大学实验语音学
-- Debut: 清华
 - Modern Chinese Dictionary: 审订委员会
 
 **Contribution to the Mandarin Movement:**
@@ -2340,10 +2140,7 @@ lang: English
 **Also known as:** 天行
 
 - Native place: 江苏如皋
-- Debut: 北大
 - National Language Association: Yes
-- Taiwan Mandarin Promotion Committee: 是，主任委员
-- Dictionary Compilation Office: Yes
 - Modern Chinese Dictionary: 审订委员会
 
 **Contribution to the Mandarin Movement:**
@@ -2352,7 +2149,6 @@ lang: English
 ---
 ## 温锡田 &nbsp;&nbsp; Shuo Wen &nbsp; Wikipedia &nbsp; Baidu
 
-- Taiwan Mandarin Promotion Committee: Yes
 
 **Contribution to the Mandarin Movement:**
 《国语罗马马字周刊》主编；《国语专刊》（《老百姓日报副刊）主编；国音字母讲习所主讲人；台湾国语推行委员会委员
@@ -2365,7 +2161,6 @@ lang: English
 **Also known as:** 德辉
 
 - Native place: 浙江杭县
-- Dictionary Compilation Office: 是，书记员
 
 **Contribution to the Mandarin Movement:**
 中国大辞典编纂处书记员
@@ -2374,7 +2169,6 @@ lang: English
 ## 乌泽声 &nbsp;&nbsp; Shuo Wen &nbsp; [Wikipedia](https://zh.wikipedia.org/wiki/%E7%83%8F%E6%BE%A4%E8%81%B2) &nbsp; Baidu
 **Also known as:** 谪生
 
-- Pronunciation Unification Committee: 是，吉林
 
 **Contribution to the Mandarin Movement:**
 读音统一会吉林会员
@@ -2388,9 +2182,7 @@ lang: English
 
 - Native place: 江苏武进
 - Education: 日本留学
-- Debut: 创豆芽字母
 - Government post: 国语会
-- Pronunciation Unification Committee: Yes
 - National Language Association: Yes
 
 **Contribution to the Mandarin Movement:**
@@ -2401,7 +2193,6 @@ lang: English
 
 - Native place: 安徽桐城
 - Education: 东渡日本考察教育
-- Debut: 京师大学堂
 
 **Contribution to the Mandarin Movement:**
 喊出“国语统一”第一人
@@ -2423,7 +2214,6 @@ lang: English
 ---
 ## 吴守礼 &nbsp;&nbsp; Shuo Wen &nbsp; [Wikipedia](https://zh.wikipedia.org/wiki/%E5%90%B3%E5%AE%88%E7%A6%AE) &nbsp; Baidu
 
-- Taiwan Mandarin Promotion Committee: Yes
 
 **Contribution to the Mandarin Movement:**
 台湾国语推行委员会委员
@@ -2448,7 +2238,6 @@ lang: English
 ## 伍达 &nbsp;&nbsp; Shuo Wen &nbsp; Wikipedia &nbsp; Baidu
 **Also known as:** 博纯
 
-- Pronunciation Unification Committee: 是，江苏
 
 **Contribution to the Mandarin Movement:**
 读音统一会江苏会员
@@ -2457,7 +2246,6 @@ lang: English
 ## 夏瑞庚 &nbsp;&nbsp; Shuo Wen &nbsp; [Wikipedia](https://zh.wikipedia.org/wiki/%E5%A4%8F%E7%91%9E%E5%BA%9A) &nbsp; [Baidu](https://baike.baidu.com/item/%E5%A4%8F%E7%91%9E%E5%BA%9A)
 **Also known as:** 小琅
 
-- Pronunciation Unification Committee: 是，云南
 
 **Contribution to the Mandarin Movement:**
 读音统一会云南会员
@@ -2467,11 +2255,8 @@ lang: English
 **Also known as:** 涤忱、涤尘
 
 - Native place: 江西奉新
-- Debut: 北师大
 - Government post: 教育部
 - National Language Association: Yes
-- Taiwan Mandarin Promotion Committee: Yes
-- Dictionary Compilation Office: Yes
 
 **Contribution to the Mandarin Movement:**
 国语统一筹备会会员；《国语周刊》主要撰稿人；《国语罗马字周刊》主编；国语罗马字促进会主持人；国语统一筹备委员会常务委员；中国大辞典编纂处纂著部民众辞典股主任；《国音常用字汇》编纂人；《民众辞典》主编；国语罗马字讲习班主讲人；国语推行委员会委员；台湾国语推行委员会委员；首版《新华字典》编纂人；《现代汉语词典》（试印本）主要编纂人
@@ -2482,9 +2267,7 @@ lang: English
 
 - Native place: 湖南湘乡
 - Education: 巴黎大学
-- Debut: 教小学
 - Government post: 华法教育会
-- Dictionary Compilation Office: 是，董事
 
 **Contribution to the Mandarin Movement:**
 中国大辞典编纂处董事会董事
@@ -2494,7 +2277,6 @@ lang: English
 **Also known as:** 特夫
 
 - Native place: 湖南湘乡
-- Dictionary Compilation Office: Yes
 
 **Contribution to the Mandarin Movement:**
 中国大辞典编纂处中法辞典股甲种委托编纂员
@@ -2506,7 +2288,6 @@ lang: English
 - Native place: 湖南湘乡
 - Education: 日本留学
 - Government post: 总统府咨议
-- Dictionary Compilation Office: Yes
 
 **Contribution to the Mandarin Movement:**
 中国大辞典编纂处中法辞典股甲种委托助理编纂员
@@ -2518,7 +2299,6 @@ lang: English
 ## [Xie Renbing]({{ site.baseurl }}{% link people/xierenbing.md %}) &nbsp;&nbsp; [Shuo Wen](https://clangreformers.github.io/people/xierenbing.html) &nbsp; Wikipedia &nbsp; Baidu
 **Also known as:** 仁冰
 
-- Pronunciation Unification Committee: 是，江苏
 
 **Contribution to the Mandarin Movement:**
 读音统一会江苏会员
@@ -2527,7 +2307,6 @@ lang: English
 ## 邢岛 &nbsp;&nbsp; Shuo Wen &nbsp; Wikipedia &nbsp; Baidu
 **Also known as:** 瘦山
 
-- Pronunciation Unification Committee: 是，江苏
 
 **Contribution to the Mandarin Movement:**
 读音统一会江苏会员
@@ -2548,7 +2327,6 @@ lang: English
 - Native place: 江西九江
 - Education: 日本留学
 - Government post: 众议会议员
-- Pronunciation Unification Committee: 是，江西
 
 **Contribution to the Mandarin Movement:**
 读音统一会江西会员
@@ -2558,8 +2336,6 @@ lang: English
 **Also known as:** 仁钰
 
 - Native place: 江苏宜兴
-- Debut: 《晨报》
-- Dictionary Compilation Office: Yes
 
 **Contribution to the Mandarin Movement:**
 中国大辞典编纂处国音普通辞典股甲种委托编纂员
@@ -2569,8 +2345,6 @@ lang: English
 **Also known as:** 知白，一飞
 
 - Native place: 北京
-- Debut: 北师大
-- Dictionary Compilation Office: Yes
 
 **Contribution to the Mandarin Movement:**
 北师大国语专修科讲师；《国语小报》编辑；中国大辞典编纂处编纂员；《国语辞典》编纂人
@@ -2586,7 +2360,6 @@ lang: English
 ---
 ## [Xu Xuxian]({{ site.baseurl }}{% link people/xuxuxian.md %}) &nbsp;&nbsp; [Shuo Wen](https://clangreformers.github.io/people/xuxuxian.html) &nbsp; [Wikipedia](https://zh.wikipedia.org/wiki/%E5%BE%90%E5%8F%99%E8%B4%A4) &nbsp; Baidu
 
-- Taiwan Mandarin Promotion Committee: Yes
 
 **Contribution to the Mandarin Movement:**
 台湾国语推行委员会委员
@@ -2596,7 +2369,6 @@ lang: English
 
 - Native place: 广东揭阳
 - Education: 哥伦比亚大学哲学系
-- Debut: 燕大
 - National Language Association: Yes
 
 **Contribution to the Mandarin Movement:**
@@ -2616,8 +2388,6 @@ lang: English
 
 - Native place: 浙江绍兴
 - Education: 东京弘文学院
-- Debut: 北大
-- Pronunciation Unification Committee: 是，浙江
 
 **Contribution to the Mandarin Movement:**
 读音统一会浙江会员
@@ -2638,7 +2408,6 @@ lang: English
 
 - Native place: 天津
 - Education: 日本考察教育
-- Debut: 办学
 
 **Contribution to the Mandarin Movement:**
 王照官话字母的有力支持者
@@ -2650,7 +2419,6 @@ lang: English
 ## 严正炜 &nbsp;&nbsp; Shuo Wen &nbsp; Wikipedia &nbsp; Baidu
 **Also known as:** 彤甫
 
-- Pronunciation Unification Committee: 是，湖北
 
 **Contribution to the Mandarin Movement:**
 读音统一会湖北会员
@@ -2660,8 +2428,6 @@ lang: English
 **Also known as:** 子君
 
 - Native place: 江西分宜
-- Debut: 北大
-- Taiwan Mandarin Promotion Committee: Yes
 
 **Contribution to the Mandarin Movement:**
 台湾国语推行委员会委员
@@ -2671,7 +2437,6 @@ lang: English
 
 - Native place: 四川巴中
 - Education: 耶鲁政治经济，普林斯顿历史
-- Debut: 平教会
 
 **Contribution to the Mandarin Movement:**
 在中华平民教育促进会干事长位上支持推行注音符号
@@ -2680,7 +2445,6 @@ lang: English
 ## 杨汉公 &nbsp;&nbsp; Shuo Wen &nbsp; Wikipedia &nbsp; Baidu
 **Also known as:** 显泽
 
-- Pronunciation Unification Committee: 是，甘肃
 
 **Contribution to the Mandarin Movement:**
 读音统一会甘肃会员
@@ -2699,7 +2463,6 @@ lang: English
 ## 杨麴 &nbsp;&nbsp; Shuo Wen &nbsp; Wikipedia &nbsp; Baidu
 **Also known as:** 洁臣
 
-- Pronunciation Unification Committee: 是，浙江
 
 **Contribution to the Mandarin Movement:**
 读音统一会浙江会员
@@ -2709,7 +2472,6 @@ lang: English
 
 - Native place: 湖南长沙
 - Education: 日本京都第三高等学校
-- Debut: 北师大
 - Government post: 湖南教育司
 - National Language Association: Yes
 
@@ -2719,7 +2481,6 @@ lang: English
 ---
 ## 杨耀焜 &nbsp;&nbsp; Shuo Wen &nbsp; Wikipedia &nbsp; Baidu
 
-- Pronunciation Unification Committee: 是，广东
 
 **Contribution to the Mandarin Movement:**
 读音统一会广东会员
@@ -2731,7 +2492,6 @@ lang: English
 ## 杨曾诰 &nbsp;&nbsp; Shuo Wen &nbsp; Wikipedia &nbsp; Baidu
 **Also known as:** 焕芝
 
-- Pronunciation Unification Committee: 是，江苏
 
 **Contribution to the Mandarin Movement:**
 读音统一会江苏会员
@@ -2745,7 +2505,6 @@ lang: English
 
 - Native place: 贵州贵阳
 - Education: 日本法政大学法律
-- Pronunciation Unification Committee: 是，贵州
 
 **Contribution to the Mandarin Movement:**
 读音统一会贵州会员
@@ -2755,7 +2514,6 @@ lang: English
 **Also known as:** 绍钧
 
 - Native place: 江苏苏州
-- Debut: 商务印书馆
 - Modern Chinese Dictionary: 审订委员会
 
 **Contribution to the Mandarin Movement:**
@@ -2764,7 +2522,6 @@ lang: English
 ---
 ## 叶桐 &nbsp;&nbsp; Shuo Wen &nbsp; Wikipedia &nbsp; Baidu
 
-- Taiwan Mandarin Promotion Committee: Yes
 
 **Contribution to the Mandarin Movement:**
 台湾国语推行委员会委员
@@ -2783,7 +2540,6 @@ lang: English
 **Also known as:** 剑楼
 
 - Native place: 江苏南通
-- Debut: 中华书局
 - Government post: 江苏教育厅
 
 **Contribution to the Mandarin Movement:**
@@ -2798,7 +2554,6 @@ lang: English
 
 - Education: 日本，巴黎大学
 - Government post: 台湾教育会理事长
-- Taiwan Mandarin Promotion Committee: 是，兼委
 
 **Contribution to the Mandarin Movement:**
 台湾国语推行委员会兼委
@@ -2817,7 +2572,6 @@ lang: English
 ## 袁世凯 &nbsp;&nbsp; Shuo Wen &nbsp; [Wikipedia](https://zh.wikipedia.org/wiki/%E8%A2%81%E4%B8%96%E5%87%B1) &nbsp; [Baidu](https://baike.baidu.com/item/%E8%A2%81%E4%B8%96%E5%87%AF)
 
 - Native place: 河南项城
-- Debut: 直隶总督
 - Government post: 总统
 
 **Contribution to the Mandarin Movement:**
@@ -2843,8 +2597,6 @@ lang: English
 
 - Native place: 河北徐水
 - Education: 哥伦比亚大学图书馆系
-- Debut: 北平图书馆
-- Dictionary Compilation Office: 是，董事
 
 **Contribution to the Mandarin Movement:**
 中国大辞典编纂处董事会董事
@@ -2854,7 +2606,6 @@ lang: English
 **Also known as:** 喆笙
 
 - Native place: 河北任丘
-- Dictionary Compilation Office: Yes
 
 **Contribution to the Mandarin Movement:**
 中国大辞典编纂处国音普通辞典股甲种委托编纂员
@@ -2881,7 +2632,6 @@ lang: English
 ---
 ## 曾德培 &nbsp;&nbsp; Shuo Wen &nbsp; Wikipedia &nbsp; Baidu
 
-- Taiwan Mandarin Promotion Committee: Yes
 
 **Contribution to the Mandarin Movement:**
 台湾国语推行委员会委员
@@ -2902,7 +2652,6 @@ lang: English
 ## 张德纯 &nbsp;&nbsp; Shuo Wen &nbsp; Wikipedia &nbsp; Baidu
 **Also known as:** 子文
 
-- Pronunciation Unification Committee: 是，奉天
 
 **Contribution to the Mandarin Movement:**
 读音统一会奉天会员
@@ -2926,7 +2675,6 @@ lang: English
 ## 张瑾 &nbsp;&nbsp; Shuo Wen &nbsp; Wikipedia &nbsp; Baidu
 **Also known as:** 促苏
 
-- Pronunciation Unification Committee: 是，直隶
 
 **Contribution to the Mandarin Movement:**
 读音统一会直隶会员
@@ -2937,7 +2685,6 @@ lang: English
 
 - Native place: 江苏吴江
 - Education: 哥伦比亚大学教育学院
-- Debut: 中华书局
 
 **Contribution to the Mandarin Movement:**
 国语统一筹备会会员；《增修国音字典》委员会委员；注音符号符号推行委员会委员
@@ -2950,8 +2697,6 @@ lang: English
 **Also known as:** 任甫
 
 - Native place: 安徽寿县
-- Debut: 燕大国学所
-- Dictionary Compilation Office: 是，特约编纂
 
 **Contribution to the Mandarin Movement:**
 中国大辞典编纂处特约编纂员
@@ -2961,7 +2706,6 @@ lang: English
 **Also known as:** 裕生
 
 - Native place: 湖南湘潭
-- Dictionary Compilation Office: Yes
 
 **Contribution to the Mandarin Movement:**
 中国大辞典编纂处助理编纂员；《国语辞典》（四本版）编纂员
@@ -2974,8 +2718,6 @@ lang: English
 **Also known as:** 清泽
 
 - Native place: 河北东光
-- Debut: 魏建功举
-- Dictionary Compilation Office: Yes
 
 **Contribution to the Mandarin Movement:**
 中国大辞典编纂处书记员、委托编纂员
@@ -3007,7 +2749,6 @@ lang: English
 ## 张重光 &nbsp;&nbsp; Shuo Wen &nbsp; Wikipedia &nbsp; Baidu
 **Also known as:** 绍宣
 
-- Pronunciation Unification Committee: 是，山东
 
 **Contribution to the Mandarin Movement:**
 读音统一会山东会员
@@ -3017,8 +2758,6 @@ lang: English
 **Also known as:** 洞观
 
 - Native place: 浙江浦江
-- Debut: 台湾师大
-- Taiwan Mandarin Promotion Committee: Yes
 
 **Contribution to the Mandarin Movement:**
 台湾国语推行委员会委员
@@ -3026,7 +2765,6 @@ lang: English
 ---
 ## 张逎芝 &nbsp;&nbsp; Shuo Wen &nbsp; Wikipedia &nbsp; Baidu
 
-- Dictionary Compilation Office: Yes
 
 **Contribution to the Mandarin Movement:**
 中国大辞典编纂处编纂员
@@ -3038,7 +2776,6 @@ lang: English
 ## 张深切 &nbsp;&nbsp; Shuo Wen &nbsp; [Wikipedia](https://zh.wikipedia.org/wiki/%E5%BC%B5%E6%B7%B1%E5%88%87) &nbsp; [Baidu](https://baike.baidu.com/item/%E5%BC%A0%E6%B7%B1%E5%88%87)
 
 - Native place: 台湾南投
-- Debut: 《台湾文艺》
 
 **Contribution to the Mandarin Movement:**
 民间招募北平教师去台推广国语
@@ -3050,7 +2787,6 @@ lang: English
 ## [Zhang Xuanchen]({{ site.baseurl }}{% link people/zhangxuanchen.md %}) &nbsp;&nbsp; [Shuo Wen](https://clangreformers.github.io/people/zhangxuanchen.html) &nbsp; Wikipedia &nbsp; Baidu
 
 - Native place: 山东平原
-- Taiwan Mandarin Promotion Committee: Yes
 
 **Contribution to the Mandarin Movement:**
 台湾国语推行委员会总务组组长
@@ -3061,7 +2797,6 @@ lang: English
 
 - Native place: 浙江余杭
 - Education: 流亡日本
-- Debut: 注音字母
 
 **Contribution to the Mandarin Movement:**
 注音符号方案之发明人
@@ -3082,7 +2817,6 @@ lang: English
 **Also known as:** 作雄
 
 - Native place: 北京
-- Debut: 平教会定县扫盲
 
 **Contribution to the Mandarin Movement:**
 在中华平民教育促进会推行注音符号
@@ -3092,8 +2826,6 @@ lang: English
 **Also known as:** 憇之
 
 - Native place: 河南巩县
-- Debut: 从钱玄同
-- Dictionary Compilation Office: 是，特约编纂
 
 **Contribution to the Mandarin Movement:**
 中国大辞典编纂处特约编纂员
@@ -3107,9 +2839,7 @@ lang: English
 
 - Native place: 江苏武进
 - Education: 康奈尔，哈佛
-- Debut: 北大
 - National Language Association: Yes
-- Dictionary Compilation Office: Yes
 
 **Contribution to the Mandarin Movement:**
 国语统一筹备会会员；所录制《中华国音留声机片》为标准国音规范；国语罗马字拼音研究委员会委员；数人会成员；《国音常用字汇》参订人；国语统一筹备委员会委员；中国大辞典编纂处董事会董事；完成数种方言调查报告
@@ -3117,7 +2847,6 @@ lang: English
 ---
 ## 赵仲仁 &nbsp;&nbsp; Shuo Wen &nbsp; Wikipedia &nbsp; Baidu
 
-- Pronunciation Unification Committee: 是，黑龙江
 
 **Contribution to the Mandarin Movement:**
 读音统一会黑龙江会员
@@ -3166,7 +2895,6 @@ lang: English
 ---
 ## 郑藻裳 &nbsp;&nbsp; Shuo Wen &nbsp; Wikipedia &nbsp; Baidu
 
-- Pronunciation Unification Committee: 是，广东
 
 **Contribution to the Mandarin Movement:**
 读音统一会广东会员
@@ -3187,8 +2915,6 @@ lang: English
 
 - Native place: 福建惠安
 - Education: 汉堡大学语文学
-- Debut: 厦大文学院
-- Taiwan Mandarin Promotion Committee: Yes
 
 **Contribution to the Mandarin Movement:**
 国语罗马字拼音研究委员会委员
@@ -3210,7 +2936,6 @@ lang: English
 ## 周明珂 &nbsp;&nbsp; Shuo Wen &nbsp; Wikipedia &nbsp; Baidu
 **Also known as:** 芷佩
 
-- Pronunciation Unification Committee: 是，湖南
 
 **Contribution to the Mandarin Movement:**
 读音统一会湖南会员
@@ -3224,8 +2949,6 @@ lang: English
 
 - Native place: 浙江绍兴
 - Education: 日本法政大学，东京立教大学希腊文专业
-- Debut: 北大
-- Pronunciation Unification Committee: 是，浙江
 - National Language Association: Yes
 
 **Contribution to the Mandarin Movement:**
@@ -3236,7 +2959,6 @@ lang: English
 **Also known as:** 因梦
 
 - Native place: 湖南酃县
-- Debut: 语言所
 - Modern Chinese Dictionary: 审订委员会
 
 **Contribution to the Mandarin Movement:**
@@ -3253,7 +2975,6 @@ lang: English
 ## 周祖谟 &nbsp;&nbsp; Shuo Wen &nbsp; [Wikipedia](https://zh.wikipedia.org/wiki/%E5%91%A8%E7%A5%96%E8%AC%A8) &nbsp; [Baidu](https://baike.baidu.com/item/%E5%91%A8%E7%A5%96%E8%B0%9F)
 
 - Native place: 北京
-- Debut: 北大
 - Modern Chinese Dictionary: 审订委员会
 
 **Contribution to the Mandarin Movement:**
@@ -3278,8 +2999,6 @@ lang: English
 **Also known as:** 仲我
 
 - Native place: 江苏苏州
-- Debut: 乡贤
-- Pronunciation Unification Committee: 是，安徽
 
 **Contribution to the Mandarin Movement:**
 读音统一会安徽会员
@@ -3288,8 +3007,6 @@ lang: English
 ## 朱起凤 &nbsp;&nbsp; Shuo Wen &nbsp; Wikipedia &nbsp; [Baidu](https://baike.baidu.com/item/%E6%9C%B1%E8%B5%B7%E5%87%A4)
 
 - Native place: 浙江海宁
-- Debut: 《辞通》
-- Dictionary Compilation Office: 是，特约编纂
 
 **Contribution to the Mandarin Movement:**
 中国大辞典编纂处特约编纂员
@@ -3314,8 +3031,6 @@ lang: English
 
 - Native place: 浙江嘉兴
 - Education: 早稻田史学专业
-- Debut: 北大
-- Pronunciation Unification Committee: 是，浙江
 - National Language Association: Yes
 
 **Contribution to the Mandarin Movement:**
@@ -3325,7 +3040,6 @@ lang: English
 ## 朱炎 &nbsp;&nbsp; Shuo Wen &nbsp; Wikipedia &nbsp; Baidu
 **Also known as:** 炎之
 
-- Pronunciation Unification Committee: 是，江苏
 
 **Contribution to the Mandarin Movement:**
 读音统一会江苏会员
@@ -3333,7 +3047,6 @@ lang: English
 ---
 ## 朱资生 &nbsp;&nbsp; Shuo Wen &nbsp; Wikipedia &nbsp; Baidu
 
-- Pronunciation Unification Committee: 是，广西
 
 **Contribution to the Mandarin Movement:**
 读音统一会广西会员
@@ -3342,7 +3055,6 @@ lang: English
 ## [Zhu Zhaoxiang]({{ site.baseurl }}{% link people/zhuzhaoxiang.md %}) &nbsp;&nbsp; [Shuo Wen](https://clangreformers.github.io/people/zhuzhaoxiang.html) &nbsp; Wikipedia &nbsp; Baidu
 
 - Native place: 福建龙溪
-- Taiwan Mandarin Promotion Committee: 是，研究组组长
 
 **Contribution to the Mandarin Movement:**
 台湾国语推行委员会研究组组长
@@ -3352,7 +3064,6 @@ lang: English
 
 - Native place: 浙江桐乡
 - Education: 日本留学
-- Debut: 中华书局
 - Modern Chinese Dictionary: 审订委员会
 
 **Contribution to the Mandarin Movement:**
@@ -3365,7 +3076,6 @@ lang: English
 - Native place: 江苏南通
 - Education: 密西根州立西部大学
 - Government post: 台湾教育厅
-- Taiwan Mandarin Promotion Committee: 是，科长
 
 **Contribution to the Mandarin Movement:**
 台湾国语推行委员会科长
