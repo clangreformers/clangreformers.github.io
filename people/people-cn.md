@@ -175,7 +175,7 @@ lang: 简体中文
 读音统一会浙江会员
 
 ---
-## [陈懋治]({{ site.baseurl }}{% link people/chenmaozhi-cn.md %}) &nbsp;&nbsp; 说文 &nbsp; [维基](https://zh.wikipedia.org/wiki/%E9%99%B3%E6%87%8B%E6%B2%BB) &nbsp; 百度
+## [陈懋治]({{ site.baseurl }}{% link people/chenmaozhi-cn.md %}) &nbsp;&nbsp; [说文](https://clangreformers.github.io/people/chenmaozhi-cn.html) &nbsp; [维基](https://zh.wikipedia.org/wiki/%E9%99%B3%E6%87%8B%E6%B2%BB) &nbsp; 百度
 **曾用名:** 颂平
 
 - 籍贯: 江苏元和
@@ -717,7 +717,7 @@ lang: 简体中文
 《国语辞典》《增注中华新韵》《增订注解 国音常用字汇》《同音字典》《学文化字典》《现代汉语词典》主要编纂人
 
 ---
-## [贺澹江]({{ site.baseurl }}{% link people/hedanjiang-cn.md %}) &nbsp;&nbsp; 说文 &nbsp; 维基 &nbsp; 百度
+## [贺澹江]({{ site.baseurl }}{% link people/hedanjiang-cn.md %}) &nbsp;&nbsp; [说文](https://clangreformers.github.io/people/hedanjiang-cn.html) &nbsp; 维基 &nbsp; 百度
 
 
 **国语运动贡献:**
@@ -997,7 +997,7 @@ lang: 简体中文
 教育部注音符号推行委员会委员，国定小学教科书主编
 
 ---
-## [李良材]({{ site.baseurl }}{% link people/liliangcai-cn.md %}) &nbsp;&nbsp; 说文 &nbsp; 维基 &nbsp; [百度](https://baike.baidu.com/item/%E6%9D%8E%E6%A1%90%E8%BD%A9)
+## [李良材]({{ site.baseurl }}{% link people/liliangcai-cn.md %}) &nbsp;&nbsp; [说文](https://clangreformers.github.io/people/liliangcai-cn.html) &nbsp; 维基 &nbsp; [百度](https://baike.baidu.com/item/%E6%9D%8E%E6%A1%90%E8%BD%A9)
 **曾用名:** 桐轩
 
 - 籍贯: 陕西蒲城
@@ -1816,7 +1816,7 @@ lang: 简体中文
 《盛世元音》（1896年）
 
 ---
-## [沈颐]({{ site.baseurl }}{% link people/shenyi-cn.md %}) &nbsp;&nbsp; 说文 &nbsp; 维基 &nbsp; [百度](https://baike.baidu.com/item/%E6%B2%88%E9%A2%90)
+## [沈颐]({{ site.baseurl }}{% link people/shenyi-cn.md %}) &nbsp;&nbsp; [说文](https://clangreformers.github.io/people/shenyi-cn.html) &nbsp; 维基 &nbsp; [百度](https://baike.baidu.com/item/%E6%B2%88%E9%A2%90)
 **曾用名:** 朶山
 
 - 出道: 中华书局
@@ -1951,7 +1951,7 @@ lang: 简体中文
 中国大辞典编纂处蒐集部书报组主任、专任编纂员
 
 ---
-## [孙世庆]({{ site.baseurl }}{% link people/sunshiqing-cn.md %}) &nbsp;&nbsp; 说文 &nbsp; 维基 &nbsp; 百度
+## [孙世庆]({{ site.baseurl }}{% link people/sunshiqing-cn.md %}) &nbsp;&nbsp; [说文](https://clangreformers.github.io/people/sunshiqing-cn.html) &nbsp; 维基 &nbsp; 百度
 **曾用名:** 惠卿
 
 - 国语会委员: 是
@@ -1984,7 +1984,7 @@ lang: 简体中文
 中国大辞典编纂处编纂员；北师大国语专修科讲师
 
 ---
-## [孙培良]({{ site.baseurl }}{% link people/sunpeiliang-cn.md %}) &nbsp;&nbsp; 说文 &nbsp; 维基 &nbsp; 百度
+## [孙培良]({{ site.baseurl }}{% link people/sunpeiliang-cn.md %}) &nbsp;&nbsp; [说文](https://clangreformers.github.io/people/sunpeiliang-cn.html) &nbsp; 维基 &nbsp; 百度
 
 - 台湾国语推行委员会: 是，常务委员
 
@@ -2245,7 +2245,7 @@ lang: 简体中文
 出版《官话合声字母》；读音统一会副议长
 
 ---
-## [王璞]({{ site.baseurl }}{% link people/wangpu-cn.md %}) &nbsp;&nbsp; 说文 &nbsp; 维基 &nbsp; 百度
+## [王璞]({{ site.baseurl }}{% link people/wangpu-cn.md %}) &nbsp;&nbsp; [说文](https://clangreformers.github.io/people/wangpu-cn.html) &nbsp; 维基 &nbsp; 百度
 **曾用名:** 蕴山
 
 - 读音统一会委员: 是，直隶
@@ -2584,7 +2584,7 @@ lang: 简体中文
 中国大辞典编纂处职员；《现代汉语词典》（试印本）资料员
 
 ---
-## [徐叙贤]({{ site.baseurl }}{% link people/xuxuxian-cn.md %}) &nbsp;&nbsp; 说文 &nbsp; [维基](https://zh.wikipedia.org/wiki/%E5%BE%90%E5%8F%99%E8%B4%A4) &nbsp; 百度
+## [徐叙贤]({{ site.baseurl }}{% link people/xuxuxian-cn.md %}) &nbsp;&nbsp; [说文](https://clangreformers.github.io/people/xuxuxian-cn.html) &nbsp; [维基](https://zh.wikipedia.org/wiki/%E5%BE%90%E5%8F%99%E8%B4%A4) &nbsp; 百度
 
 - 台湾国语推行委员会: 是
 

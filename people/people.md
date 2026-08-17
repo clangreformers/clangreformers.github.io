@@ -175,7 +175,7 @@ lang: English
 读音统一会浙江会员
 
 ---
-## [Ruizhi Chen]({{ site.baseurl }}{% link people/chenmaozhi.md %}) &nbsp;&nbsp; Shuo Wen &nbsp; [Wikipedia](https://zh.wikipedia.org/wiki/%E9%99%B3%E6%87%8B%E6%B2%BB) &nbsp; Baidu
+## [Ruizhi Chen]({{ site.baseurl }}{% link people/chenmaozhi.md %}) &nbsp;&nbsp; [Shuo Wen](https://clangreformers.github.io/people/chenmaozhi.html) &nbsp; [Wikipedia](https://zh.wikipedia.org/wiki/%E9%99%B3%E6%87%8B%E6%B2%BB) &nbsp; Baidu
 **Also known as:** 颂平
 
 - Native place: 江苏元和
@@ -717,7 +717,7 @@ lang: English
 《国语辞典》《增注中华新韵》《增订注解 国音常用字汇》《同音字典》《学文化字典》《现代汉语词典》主要编纂人
 
 ---
-## [Zhanjiang He]({{ site.baseurl }}{% link people/hedanjiang.md %}) &nbsp;&nbsp; Shuo Wen &nbsp; Wikipedia &nbsp; Baidu
+## [Zhanjiang He]({{ site.baseurl }}{% link people/hedanjiang.md %}) &nbsp;&nbsp; [Shuo Wen](https://clangreformers.github.io/people/hedanjiang.html) &nbsp; Wikipedia &nbsp; Baidu
 
 
 **Contribution to the Mandarin Movement:**
@@ -997,7 +997,7 @@ lang: English
 教育部注音符号推行委员会委员，国定小学教科书主编
 
 ---
-## [Li Liangcai]({{ site.baseurl }}{% link people/liliangcai.md %}) &nbsp;&nbsp; Shuo Wen &nbsp; Wikipedia &nbsp; [Baidu](https://baike.baidu.com/item/%E6%9D%8E%E6%A1%90%E8%BD%A9)
+## [Li Liangcai]({{ site.baseurl }}{% link people/liliangcai.md %}) &nbsp;&nbsp; [Shuo Wen](https://clangreformers.github.io/people/liliangcai.html) &nbsp; Wikipedia &nbsp; [Baidu](https://baike.baidu.com/item/%E6%9D%8E%E6%A1%90%E8%BD%A9)
 **Also known as:** 桐轩
 
 - Native place: 陕西蒲城
@@ -1816,7 +1816,7 @@ lang: English
 《盛世元音》（1896年）
 
 ---
-## [Shen Yi]({{ site.baseurl }}{% link people/shenyi.md %}) &nbsp;&nbsp; Shuo Wen &nbsp; Wikipedia &nbsp; [Baidu](https://baike.baidu.com/item/%E6%B2%88%E9%A2%90)
+## [Shen Yi]({{ site.baseurl }}{% link people/shenyi.md %}) &nbsp;&nbsp; [Shuo Wen](https://clangreformers.github.io/people/shenyi.html) &nbsp; Wikipedia &nbsp; [Baidu](https://baike.baidu.com/item/%E6%B2%88%E9%A2%90)
 **Also known as:** 朶山
 
 - Debut: 中华书局
@@ -1951,7 +1951,7 @@ lang: English
 中国大辞典编纂处蒐集部书报组主任、专任编纂员
 
 ---
-## [Shiqing Sun]({{ site.baseurl }}{% link people/sunshiqing.md %}) &nbsp;&nbsp; Shuo Wen &nbsp; Wikipedia &nbsp; Baidu
+## [Shiqing Sun]({{ site.baseurl }}{% link people/sunshiqing.md %}) &nbsp;&nbsp; [Shuo Wen](https://clangreformers.github.io/people/sunshiqing.html) &nbsp; Wikipedia &nbsp; Baidu
 **Also known as:** 惠卿
 
 - National Language Association: Yes
@@ -1984,7 +1984,7 @@ lang: English
 中国大辞典编纂处编纂员；北师大国语专修科讲师
 
 ---
-## [Sun Peiliang]({{ site.baseurl }}{% link people/sunpeiliang.md %}) &nbsp;&nbsp; Shuo Wen &nbsp; Wikipedia &nbsp; Baidu
+## [Sun Peiliang]({{ site.baseurl }}{% link people/sunpeiliang.md %}) &nbsp;&nbsp; [Shuo Wen](https://clangreformers.github.io/people/sunpeiliang.html) &nbsp; Wikipedia &nbsp; Baidu
 
 - Taiwan Mandarin Promotion Committee: 是，常务委员
 
@@ -2245,7 +2245,7 @@ lang: English
 出版《官话合声字母》；读音统一会副议长
 
 ---
-## [Wang Pu]({{ site.baseurl }}{% link people/wangpu.md %}) &nbsp;&nbsp; Shuo Wen &nbsp; Wikipedia &nbsp; Baidu
+## [Wang Pu]({{ site.baseurl }}{% link people/wangpu.md %}) &nbsp;&nbsp; [Shuo Wen](https://clangreformers.github.io/people/wangpu.html) &nbsp; Wikipedia &nbsp; Baidu
 **Also known as:** 蕴山
 
 - Pronunciation Unification Committee: 是，直隶
@@ -2584,7 +2584,7 @@ lang: English
 中国大辞典编纂处职员；《现代汉语词典》（试印本）资料员
 
 ---
-## [Xu Xuxian]({{ site.baseurl }}{% link people/xuxuxian.md %}) &nbsp;&nbsp; Shuo Wen &nbsp; [Wikipedia](https://zh.wikipedia.org/wiki/%E5%BE%90%E5%8F%99%E8%B4%A4) &nbsp; Baidu
+## [Xu Xuxian]({{ site.baseurl }}{% link people/xuxuxian.md %}) &nbsp;&nbsp; [Shuo Wen](https://clangreformers.github.io/people/xuxuxian.html) &nbsp; [Wikipedia](https://zh.wikipedia.org/wiki/%E5%BE%90%E5%8F%99%E8%B4%A4) &nbsp; Baidu
 
 - Taiwan Mandarin Promotion Committee: Yes
 
