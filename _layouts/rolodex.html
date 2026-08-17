@@ -198,6 +198,16 @@ layout: default
     color: #2b2b2b;
     letter-spacing: 0.01em;
   }
+  .rolodex-card .card-name a {
+    color: #1a6bd6;
+    font-weight: 500;
+    text-decoration: none;
+    border-bottom: 1px solid rgba(26, 107, 214, 0.35);
+  }
+  .rolodex-card .card-name a:hover {
+    color: #0d4ea6;
+    border-bottom-color: #0d4ea6;
+  }
   .rolodex-card .card-alias {
     font-size: 0.9rem;
     color: #8a6a2c;
@@ -285,9 +295,10 @@ layout: default
     let current = null;
 
     function startCard(h) {
-      const name = h.textContent.trim();
-      if (!name) return null;
-      return { name: name, parts: [] };
+      const html = h.innerHTML.trim();
+      const text = h.textContent.trim();
+      if (!text) return null;
+      return { name: html, nameText: text, parts: [] };
     }
 
     nodes.forEach(function (n) {
@@ -309,8 +320,8 @@ layout: default
     const groups = [];
     const groupIndex = new Map();
     cards.forEach(function (c) {
-      if (!c.name) return;
-      const ln = lastNameOf(c.name);
+      if (!c.nameText) return;
+      const ln = lastNameOf(c.nameText);
       let g = groupIndex.get(ln);
       if (!g) {
         g = { lastName: ln, cards: [] };
@@ -326,7 +337,7 @@ layout: default
 
       const nameEl = document.createElement('h3');
       nameEl.className = 'card-name';
-      nameEl.textContent = c.name;
+      nameEl.innerHTML = c.name;
       card.appendChild(nameEl);
 
       const body = document.createElement('div');
@@ -351,7 +362,7 @@ layout: default
       if (aliasEl) card.insertBefore(aliasEl, card.children[1] || null);
       card.appendChild(body);
 
-      card.dataset.search = (c.name + ' ' + body.textContent + (aliasEl ? ' ' + aliasEl.textContent : '')).toLowerCase();
+      card.dataset.search = (c.nameText + ' ' + body.textContent + (aliasEl ? ' ' + aliasEl.textContent : '')).toLowerCase();
       return card;
     }
 
