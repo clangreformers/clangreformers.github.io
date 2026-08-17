@@ -17,7 +17,7 @@ lang: 简体中文
 曾任职于中国大辞典编纂处，并参与《国语辞典》（四本版）的编纂工作。
 
 ---
-## [敖士英]({{ site.baseurl }}{% link people/aoshiying-cn.md %}) &nbsp;&nbsp; 说文 &nbsp; 维基 &nbsp; 百度
+## [敖士英]({{ site.baseurl }}{% link people/aoshiying-cn.md %}) &nbsp;&nbsp; [说文](https://clangreformers.github.io/people/aoshiying-cn.html) &nbsp; 维基 &nbsp; 百度
 
 - 大辞典编纂处: 是（特约编纂）
 

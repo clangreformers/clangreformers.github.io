@@ -17,7 +17,7 @@ lang: English
 曾任职于中国大辞典编纂处，并参与《国语辞典》（四本版）的编纂工作。
 
 ---
-## [Ao Shiying]({{ site.baseurl }}{% link people/aoshiying.md %}) &nbsp;&nbsp; Shuo Wen &nbsp; Wikipedia &nbsp; Baidu
+## [Ao Shiying]({{ site.baseurl }}{% link people/aoshiying.md %}) &nbsp;&nbsp; [Shuo Wen](https://clangreformers.github.io/people/aoshiying.html) &nbsp; Wikipedia &nbsp; Baidu
 
 - Dictionary Compilation Office: 是（特约编纂）
 
