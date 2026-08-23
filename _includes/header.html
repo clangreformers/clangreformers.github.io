@@ -69,6 +69,16 @@
 	<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
 	</form>
     </div>
+    {%- if page.lang == "简体中文" -%}
+      {%- assign qr_img = "/assets/imgs/qr-index-cn.png" -%}
+    {%- elsif page.lang == "繁體中文" -%}
+      {%- assign qr_img = "/assets/imgs/qr-index-tw.png" -%}
+    {%- else -%}
+      {%- assign qr_img = "/assets/imgs/qr-index.png" -%}
+    {%- endif -%}
+    <div class="header-qr" style="text-align: left; margin-top: 8px;">
+      <img src="{{ qr_img | prepend: site.baseurl }}" alt="QR code" style="width:80px;height:80px;">
+    </div>
     <!-- <a class="site-title" href="{{ site.url }}">{{ site.title[page.lang] | escape }}</a> -->
 
     <!-- {%- if page_paths -%}
