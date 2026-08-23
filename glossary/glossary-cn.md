@@ -31,7 +31,7 @@ lang: 简体中文
 
 [国语罗马字](https://baike.baidu.com/item/%E5%9B%BD%E8%AF%AD%E7%BD%97%E9%A9%AC%E5%AD%97/6060641)
 
-[国语罗马字促进会]()
+[国语罗马字促进会]({{ site.baseurl }}{% link glossary/gr-promotion-cn.md %})
 
 [国语日报](https://zh.wikipedia.org/wiki/國語日報)
 

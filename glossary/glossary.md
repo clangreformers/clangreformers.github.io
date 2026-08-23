@@ -31,7 +31,7 @@ lang: English
 
 [Guoyu Romanization](https://baike.baidu.com/item/%E5%9B%BD%E8%AF%AD%E7%BD%97%E9%A9%AC%E5%AD%97/6060641)  
 
-[Guoyu Romanization Promotion Association]()  
+[Guoyu Romanization Promotion Association]({{ site.baseurl }}{% link glossary/gr-promotion.md %})  
 
 [Mandarin Daily News](https://zh.wikipedia.org/wiki/國語日報)  
 

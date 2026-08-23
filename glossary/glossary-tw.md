@@ -31,7 +31,7 @@ lang: 繁體中文
 
 [國語羅馬字](https://baike.baidu.com/item/%E5%9B%BD%E8%AF%AD%E7%BD%97%E9%A9%AC%E5%AD%97/6060641)
 
-[國語羅馬字促進會]()
+[國語羅馬字促進會]({{ site.baseurl }}{% link glossary/gr-promotion-tw.md %})
 
 [國語日報](https://zh.wikipedia.org/wiki/國語日報)
 

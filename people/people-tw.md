@@ -906,7 +906,7 @@ lang: 繁體中文
 推動河北定縣注音符號教學
 
 ---
-## 黎錦熙 &nbsp;&nbsp; 說文 &nbsp; [維基](https://zh.wikipedia.org/wiki/%E9%BB%8E%E9%94%A6%E7%86%99) &nbsp; [百度](https://baike.baidu.com/item/%E9%BB%8E%E9%94%A6%E7%86%99)
+## [黎錦熙]({{ site.baseurl }}{% link people/lijinxi-tw.md %}) &nbsp;&nbsp; [說文](https://clangreformers.github.io/people/lijinxi-tw.html) &nbsp; [維基](https://zh.wikipedia.org/wiki/%E9%BB%8E%E9%94%A6%E7%86%99) &nbsp; [百度](https://baike.baidu.com/item/%E9%BB%8E%E9%94%A6%E7%86%99)
 **曾用名:** 邵西
 
 - 籍貫: 湖南湘潭

@@ -915,7 +915,7 @@ Promoted Zhuyin Fuhao through the Chinese Mass Education Movement
 Promoted Zhuyin Fuhao instruction in Ding County, Hebei
 
 ---
-## Li Jinxi &nbsp;&nbsp; Shuo Wen &nbsp; [Wikipedia](https://zh.wikipedia.org/wiki/%E9%BB%8E%E9%94%A6%E7%86%99) &nbsp; [Baidu](https://baike.baidu.com/item/%E9%BB%8E%E9%94%A6%E7%86%99)
+## [Li Jinxi]({{ site.baseurl }}{% link people/lijinxi.md %}) &nbsp;&nbsp; [Shuo Wen](https://clangreformers.github.io/people/lijinxi.html) &nbsp; [Wikipedia](https://zh.wikipedia.org/wiki/%E9%BB%8E%E9%94%A6%E7%86%99) &nbsp; [Baidu](https://baike.baidu.com/item/%E9%BB%8E%E9%94%A6%E7%86%99)
 **Also known as:** Shaoxi
 
 - Native place: Xiangtan, Hunan
