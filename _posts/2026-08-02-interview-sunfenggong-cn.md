@@ -56,7 +56,7 @@ author: 王昀
     </div>
     <div style="text-align: center;">
         <img src="/assets/imgs/2026-08-02-interview-sunfenggong/image2.jpeg" alt="抗战时的大辞典编纂处同仁" style="max-height: 300px; border: 1px solid #eee;">
-        <p>抗战时的大辞典编纂处同仁（左起：徐世荣、孙崇义、汪怡、王述达、何梅岑）</p>
+        <p>抗战时的大辞典编纂处同仁（左起：徐世荣、孙崇义、徐一士、王述达、何梅岑）</p>
     </div>
 </div>
 
@@ -77,7 +77,7 @@ author: 王昀
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
     <div style="text-align: center;">
         <img src="/assets/imgs/2026-08-02-interview-sunfenggong/image3.jpeg" alt="1957年夏，《现代汉语词典》编辑室全体人员合影" style="max-height: 350px; border: 1px solid #eee;">
-        <p>1957年夏，《现代汉语词典》编辑室全体人员在办公室前合影，二排右一为[王述达]({{ site.baseurl }}{% link people/wangshuda-cn.md %})，右二为[萧家霖]({{ site.baseurl }}{% link people/xiaojialin-cn.md %})，左二为[何梅岑]({{ site.baseurl }}{% link people/hedanjiang-cn.md %})；三排左一为[傅严]({{ site.baseurl }}{% link people/fuyan-cn.md %})，左六为贺澹江，左七为[孙崇义]({{ site.baseurl }}{% link people/sunchongyi-cn.md %})</p>
+        <p markdown="1">1957年夏，《现代汉语词典》编辑室全体人员在办公室前合影，二排右一为[王述达]({{ site.baseurl }}{% link people/wangshuda-cn.md %})，右二为[萧家霖]({{ site.baseurl }}{% link people/xiaojialin-cn.md %})，左二为[何梅岑]({{ site.baseurl }}{% link people/hemeicen-cn.md %})；三排左一为[傅严]({{ site.baseurl }}{% link people/fuyan-cn.md %})，左六为[贺澹江]({{ site.baseurl }}{% link people/hedanjiang-cn.md %})，左七为[孙崇义]({{ site.baseurl }}{% link people/sunchongyi-cn.md %})</p>
     </div>
 </div>
 

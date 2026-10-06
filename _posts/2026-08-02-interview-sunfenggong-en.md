@@ -56,7 +56,7 @@ After the victory in the War of Resistance, Li Jinxi returned to Beiping and bec
     </div>
     <div style="text-align: center;">
         <img src="/assets/imgs/2026-08-02-interview-sunfenggong/image2.jpeg" alt="Colleagues of the Chinese Dictionary Compilation Office during the War of Resistance" style="max-height: 300px; border: 1px solid #eee;">
-        <p>Colleagues of the Chinese Dictionary Compilation Office during the War of Resistance (from left: Xu Shirong, Sun Chongyi, Wang Yi, Wang Shuda, He Meicen)</p>
+        <p>Colleagues of the Chinese Dictionary Compilation Office during the War of Resistance (from left: Xu Shirong, Sun Chongyi, Xu Yishi, Wang Shuda, He Meicen)</p>
     </div>
 </div>
 
@@ -77,7 +77,7 @@ In 1996, on his ninetieth birthday, [Sun Chongyi]({{ site.baseurl }}{% link peop
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
     <div style="text-align: center;">
         <img src="/assets/imgs/2026-08-02-interview-sunfenggong/image3.jpeg" alt="Summer 1957 group photo of the Contemporary Chinese Dictionary Editorial Office" style="max-height: 350px; border: 1px solid #eee;">
-        <p>Summer 1957: full group photo of the Editorial Office of the <em>Contemporary Chinese Dictionary</em> in front of their office. Second row, first from right: [Wang Shuda]({{ site.baseurl }}{% link people/wangshuda.md %}); second from right: [Xiao Jialin]({{ site.baseurl }}{% link people/xiaojialin.md %}); second from left: [He Meicen]({{ site.baseurl }}{% link people/hedanjiang.md %}). Third row, first from left: [Fu Yan]({{ site.baseurl }}{% link people/fuyan.md %}); sixth from left: He Danjiang; seventh from left: [Sun Chongyi]({{ site.baseurl }}{% link people/sunchongyi.md %}).</p>
+        <p markdown="1">Summer 1957: full group photo of the Editorial Office of the <em>Contemporary Chinese Dictionary</em> in front of their office. Second row, first from right: [Wang Shuda]({{ site.baseurl }}{% link people/wangshuda.md %}); second from right: [Xiao Jialin]({{ site.baseurl }}{% link people/xiaojialin.md %}); second from left: [He Meicen]({{ site.baseurl }}{% link people/hemeicen.md %}). Third row, first from left: [Fu Yan]({{ site.baseurl }}{% link people/fuyan.md %}); sixth from left: [He Danjiang]({{ site.baseurl }}{% link people/hedanjiang.md %}); seventh from left: [Sun Chongyi]({{ site.baseurl }}{% link people/sunchongyi.md %}).</p>
     </div>
 </div>
 
