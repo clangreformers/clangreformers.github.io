@@ -7,6 +7,10 @@ lang: English
 
 Gong Shuzhi, 1910-1946, was from Quanzhou, Fujian.
 
+![March 1939: faculty and students of the Chinese Department of Southwest Associated University at Huating, Western Hills, Kunming. Gong Shuzhi is 7th from the right.](/assets/imgs/gongshuzhi_1939_xishan.jpg "March 1939: faculty and students of the Chinese Department of Southwest Associated University at Huating, Western Hills, Kunming. Gong Shuzhi is 7th from the right."){: width="600" }
+
+*March 1939: faculty and students of the Chinese Department of Southwest Associated University at Huating, Western Hills, Kunming. Gong Shuzhi is 7th from the right.*
+
 In 1927, Gong Shuzhi was admitted to the Department of Chinese Literature at Peking University. After graduating, he taught at Peking University and Southwest Associated University, and later was sent to teach at the Chinese High School for Overseas Chinese in Yangon, Myanmar, while also serving as a researcher at the Nanyang Research Institute.
 
 During his time in Nanyang, Gong Shuzhi diligently studied ancient culture since the Tang and Song dynasties as well as the history of overseas Chinese in Southeast Asia, producing a large number of works that promoted the study of classical literature and history. His book "Han Yu and His Ancient Literature Movement," published in Chongqing, had its cover inscribed by Mr. Wei Jiangong and is considered a representative work of the study of ancient culture from the Tang and Song periods.
