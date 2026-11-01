@@ -18,19 +18,23 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+brand:
+  English: Shuowen Shugu
+  简体中文: 说文述故
+  繁體中文: 說文述故
 title:
-  English: Case Studies of Chinese Language Reformers
-  简体中文: 中国语言标准化现代化进程中的人与事
-  繁體中文: 中國語言標準化現代化進程中的人與事
+  English: Shuowen Shugu 说文述故 | Case Studies of Chinese Language Reformers
+  简体中文: 说文述故 | 中国语言标准化现代化进程中的人与事
+  繁體中文: 說文述故 | 中國語言標準化現代化進程中的人與事
 search:
   English: Search...
   简体中文: 搜索...
   繁體中文: 搜尋...
 email: chinese.language.reformers@gmail.com
 description: #>- # this means to ignore newlines until "baseurl:"
-  English: This website is dedicated to the collection, research, and writings of the  people and events that lead to the standardization and modernization of present day Chinese.
-  简体中文: 此网站奉献给收集，研究，并撰写现代中国语言标准化现代化进程中的人与事。
-  繁體中文: 此網站奉獻給收集，研究，並撰寫現代中國語言標準化現代化進程中的人與事。
+  English: Shuowen Shugu (说文述故) is a non-profit dedicated to the collection, research, and writings of the people and events that led to the standardization and modernization of present day Chinese.
+  简体中文: 说文述故是一个非营利机构，致力于收集，研究，并撰写现代中国语言标准化现代化进程中的人与事。
+  繁體中文: 說文述故是一個非營利機構，致力於收集，研究，並撰寫現代中國語言標準化現代化進程中的人與事。
 index:
   English:
   简体中文: index-cn.html
