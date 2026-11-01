@@ -12,9 +12,9 @@ timeline_era: 6
 
 ![image](/assets/imgs/sunchongyi_1.jpg "1949年在北師大任職的孫崇義"){: width="250" }
 
-(1949年在北師大任職的孫崇義)
+(1949年在北師大任職的[孫崇義]({{ site.baseurl }}{% link people/sunchongyi-tw.md %}))
 
-孫崇義先生寫詩填詞只是業余愛好，許多是抄在小紙片上的。他的後人把它們保留下來，讓後人看到他對生活、親人的熱愛。
+[孫崇義]({{ site.baseurl }}{% link people/sunchongyi-tw.md %})先生寫詩填詞只是業余愛好，許多是抄在小紙片上的。他的後人把它們保留下來，讓後人看到他對生活、親人的熱愛。
 
 九十抒懷
 
@@ -28,7 +28,7 @@ timeline_era: 6
 
 ![image](/assets/imgs/sunchongyi_2.jpg "孫崇義89歲留影"){: width="250" }
 
-(孫崇義89歲留影)
+([孫崇義]({{ site.baseurl }}{% link people/sunchongyi-tw.md %})89歲留影)
 
 
 孤雁吟
@@ -49,5 +49,5 @@ timeline_era: 6
 
 ![image](/assets/imgs/sunchongyi_3.jpg "孫崇義夫妻的合影"){: width="250" }
 
-(孫崇義夫妻的合影)
+([孫崇義]({{ site.baseurl }}{% link people/sunchongyi-tw.md %})夫妻的合影)
 

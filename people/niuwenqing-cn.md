@@ -24,7 +24,7 @@ lang: 简体中文
 
 **集体著作：**
 
-- 《国语辞典》（全八册），汪怡主编，徐一士、孙崇义、王述达、彭心如、[徐世荣]({{ site.baseurl }}{% link people/people-cn.md %})、何梅岑、傅严、牛文青编纂，商务印书馆印行（1945年）
-- 《国语辞典》（全四册），黎锦熙主编，汪怡（主任）、徐一士、孙崇义、徐世荣、傅严、安文倬、王述达、张蔚瑜、何梅岑、牛继昌、高景成编纂，商务印书馆（1948年）。1962年改编再版更名为《汉语词典》
-- 《新部首索引国音字典》，黎锦熙主编，汪怡（主任）、徐仁钰、傅介石、牛继昌、高景成、何梅岑、徐世荣、孙崇义、王述达、张迺芝、张蔚瑜编校，商务印书馆（1949年8月初版）
-- 《增订注解 国音常用字汇》，黎锦熙主编，汪怡、何梅岑、付介石、牛继昌、高景成、徐仁钰、徐世荣、孙崇义、王述达、张廼之、张蔚瑜、李曾笃、诸昌祁编校，商务印书馆（1949年8月初版）
+- 《[国语辞典]({{ site.baseurl }}{% link glossary/national-language-dict-cn.md %})》（全八册），汪怡主编，徐一士、[孙崇义]({{ site.baseurl }}{% link people/sunchongyi-cn.md %})、[王述达]({{ site.baseurl }}{% link people/wangshuda-cn.md %})、彭心如、[徐世荣]({{ site.baseurl }}{% link people/people-cn.md %})、[何梅岑]({{ site.baseurl }}{% link people/hemeicen-cn.md %})、[傅严]({{ site.baseurl }}{% link people/fuyan-cn.md %})、牛文青编纂，商务印书馆印行（1945年）
+- 《国语辞典》（全四册），[黎锦熙]({{ site.baseurl }}{% link people/lijinxi-cn.md %})主编，[汪怡]({{ site.baseurl }}{% link people/wangyi-cn.md %})（主任）、徐一士、[孙崇义]({{ site.baseurl }}{% link people/sunchongyi-cn.md %})、徐世荣、[傅严]({{ site.baseurl }}{% link people/fuyan-cn.md %})、[安文倬]({{ site.baseurl }}{% link people/anwenzhuo-cn.md %})、[王述达]({{ site.baseurl }}{% link people/wangshuda-cn.md %})、张蔚瑜、[何梅岑]({{ site.baseurl }}{% link people/hemeicen-cn.md %})、牛继昌、高景成编纂，商务印书馆（1948年）。1962年改编再版更名为《汉语词典》
+- 《新部首索引[国音字典]({{ site.baseurl }}{% link glossary/national-pronounciation-dict-cn.md %})》，[黎锦熙]({{ site.baseurl }}{% link people/lijinxi-cn.md %})主编，[汪怡]({{ site.baseurl }}{% link people/wangyi-cn.md %})（主任）、徐仁钰、[傅介石]({{ site.baseurl }}{% link people/fuyan-cn.md %})、牛继昌、高景成、[何梅岑]({{ site.baseurl }}{% link people/hemeicen-cn.md %})、徐世荣、[孙崇义]({{ site.baseurl }}{% link people/sunchongyi-cn.md %})、[王述达]({{ site.baseurl }}{% link people/wangshuda-cn.md %})、张迺芝、张蔚瑜编校，商务印书馆（1949年8月初版）
+- 《增订注解 国音常用字汇》，[黎锦熙]({{ site.baseurl }}{% link people/lijinxi-cn.md %})主编，[汪怡]({{ site.baseurl }}{% link people/wangyi-cn.md %})、[何梅岑]({{ site.baseurl }}{% link people/hemeicen-cn.md %})、付介石、牛继昌、高景成、徐仁钰、徐世荣、[孙崇义]({{ site.baseurl }}{% link people/sunchongyi-cn.md %})、[王述达]({{ site.baseurl }}{% link people/wangshuda-cn.md %})、张廼之、张蔚瑜、李曾笃、诸昌祁编校，商务印书馆（1949年8月初版）

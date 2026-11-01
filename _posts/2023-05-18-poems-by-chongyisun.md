@@ -38,7 +38,7 @@ Hoping to preserve his virtuous heart as evening arrives.
 
 ![image](/assets/imgs/sunchongyi_2.jpg "Sun Chongyi at 89"){: width="250" }
 
-(Sun Chongyi at 89)
+([Sun Chongyi]({{ site.baseurl }}{% link people/sunchongyi.md %}) at 89)
 
 Solitary Goose's Lament
 
@@ -66,7 +66,7 @@ Nurturing our children with your wise words, a legacy that stays.
 
 ![image](/assets/imgs/sunchongyi_3.jpg "Sun Chongyi with wife"){: width="250" }
 
-(Sun Chongyi with wife)
+([Sun Chongyi]({{ site.baseurl }}{% link people/sunchongyi.md %}) with wife)
 
 
 

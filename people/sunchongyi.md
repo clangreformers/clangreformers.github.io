@@ -27,7 +27,7 @@ From 1946 to 1950, he was a lecturer at Beijing Normal University.
 
 From 1934 to 1956, he worked as a compiler and general secretary at the Compilation Office of the Chinese Dictionary.
 
-In May 1951, he joined the "Nine Three Study Society" introduced by Li Jinxi and Ye Dingyi.
+In May 1951, he joined the "Nine Three Study Society" introduced by [Li Jinxi]({{ site.baseurl }}{% link people/lijinxi.md %}) and Ye Dingyi.
 
 From July 1956 to November 1962, he served as a senior editor in the Lexicographic Editing Department of the Language Research Institute of the Chinese Academy of Sciences.
 
@@ -41,15 +41,15 @@ Collective Works:
 
 "Guoyu Dictionary" (1948 edition, reissued in 1962 as "Chinese Dictionary") published by the Commercial Press.
 
-"New Radical Index National Phonetic Dictionary" (August 1949 edition) edited by Li Jinxi, with co-editors including Sun Chongyi.
+"New Radical Index National Phonetic Dictionary" (August 1949 edition) edited by [Li Jinxi]({{ site.baseurl }}{% link people/lijinxi.md %}), with co-editors including Sun Chongyi.
 
-"Annotated Zhonghua Rhyme" (July 1950 edition) edited by Li Jinxi, with co-editors including Sun Chongyi.
+"Annotated Zhonghua Rhyme" (July 1950 edition) edited by [Li Jinxi]({{ site.baseurl }}{% link people/lijinxi.md %}), with co-editors including Sun Chongyi.
 
-"Annotated National Phonetic Commonly Used Character Vocabulary" (August 1950 edition) edited by Li Jinxi, with co-editors including Sun Chongyi.
+"Annotated National Phonetic Commonly Used Character Vocabulary" (August 1950 edition) edited by [Li Jinxi]({{ site.baseurl }}{% link people/lijinxi.md %}), with co-editors including Sun Chongyi.
 
-"Dictionary of Learning and Culture" (October 1952 edition) edited by Li Jinxi, with co-editors including Sun Chongyi.
+"Dictionary of Learning and Culture" (October 1952 edition) edited by [Li Jinxi]({{ site.baseurl }}{% link people/lijinxi.md %}), with co-editors including Sun Chongyi.
 
-"Homonym Dictionary" (May 1956 edition) edited by Li Jinxi, with co-editors including Sun Chongyi.
+"Homonym Dictionary" (May 1956 edition) edited by [Li Jinxi]({{ site.baseurl }}{% link people/lijinxi.md %}), with co-editors including Sun Chongyi.
 
 "Trial Edition of Modern Chinese Dictionary" (1956-1960), with Sun Chongyi as the main editor.
 

@@ -30,7 +30,7 @@ In August 1961, he was transferred back to the Central Archives, where he worked
 
 **Personal Works:**
 
-- "Thirteen Rhyme Categories of the Beiping Phonological System" (also titled "A Small Beiping Homophone Dictionary"), reviewed by Wei Jiangong, with prefaces by Li Jinxi, Luo Xintian, and Wei Jiangong. Published by the Chinese Great Dictionary Compilation Office (1937)
+- "Thirteen Rhyme Categories of the Beiping Phonological System" (also titled "A Small Beiping Homophone Dictionary"), reviewed by Wei Jiangong, with prefaces by [Li Jinxi]({{ site.baseurl }}{% link people/lijinxi.md %}), Luo Xintian, and Wei Jiangong. Published by the Chinese Great Dictionary Compilation Office (1937)
 - "Compilation of Minor Rhyme Categories of the Beiping Phonological System", Kaiming Bookstore (1949)
 - "Neutral-Tone Vocabulary of Beijing Speech", Zhonghua Book Company (1957)
 

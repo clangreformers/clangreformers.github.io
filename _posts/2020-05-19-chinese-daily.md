@@ -71,7 +71,7 @@ The seniors for Chinese education established a board of directors for "Chinese 
 
 ![image](/assets/imgs/chinese-daily-4.png "The Little Chinese Paper managed by Mr. Shoukang Wang in Peking. (Photo is contributed by author.)")
 
-The Little Chinese Paper managed by Mr. Shoukang Wang in Peking. (Photo is contributed by author.)
+The Little Chinese Paper managed by Mr. [Shoukang Wang]({{ site.baseurl }}{% link people/wangshoukang.md %}) in Peking. (Photo is contributed by author.)
 
 "Chinese Daily' was an "abandoned baby" of the Department of Education. However, after all these years, this abandoned baby has accomplished something big: every generation of children in Taiwan would strive to read "Chinese Daily". I often hear people say "I grew up reading Chinese Daily". It is so true. It helped people read classical and modern selected works, and improve their Chinese. It published many kinds of books and publications. Many of these publications garnered awards. Every year, it holds the Youth Mandarin Billiards Contest. The contest cultivated many national players. It is hard to enumerate its many contributions.
 

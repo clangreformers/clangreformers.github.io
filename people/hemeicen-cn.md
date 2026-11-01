@@ -13,17 +13,17 @@ lang: 简体中文
 
 长期在[中国大辞典编纂处]({{ site.baseurl }}{% link glossary/compilation-cn.md %})担任编纂员，参与了以下辞书的编纂工作：
 
-- 《[国语辞典]({{ site.baseurl }}{% link glossary/national-language-dict-cn.md %})》（全八册） 汪怡主编，徐一士、孙崇义、王述达、彭心如、徐世荣、何梅岑、傅严、牛文青编纂 商务印书馆印行（1945年）
-- 《国语辞典》（全四册） 黎锦熙主编，汪怡（主任）、徐一士、孙崇义、徐世荣、傅严、安文倬、王述达、张蔚瑜、何梅岑、牛继昌、高景成编纂 商务印书馆（1948年），1962年改编再版更名为《汉语词典》
-- 《新部首索引国音字典》 黎锦熙主编，汪怡（主任）、徐仁钰、傅介石、牛继昌、高景成、何梅岑、徐世荣、孙崇义、王述达、张迺芝、张蔚瑜编校 商务印书馆（1949年8月初版）
-- 《增注中华新韵》 黎锦熙主编，王述达、何梅岑、傅岩、孙崇义、张蔚瑜、张廼芝编校 商务印书馆（1950年7月第一版）
-- 《增订注解 国音常用字汇》 黎锦熙主编，汪怡、何梅岑、付介石、牛继昌、高景成、徐仁钰、徐世荣、孙崇义、王述达、张廼之、张蔚瑜、李曾笃、诸昌祁编校 商务印书馆（1949年8月初版）
-- 《学文化字典》 黎锦熙主编，王述达、何梅岑、高景成、孙崇义、徐仁钰、徐世荣、傅介石编纂 商务印书馆（1952年10月第一版）
-- 《同音字典》 黎锦熙主编，何梅岑、孙崇义、徐世荣、王述达、高景成、傅严编纂 商务印书馆（1956年5月第一版）
+- 《[国语辞典]({{ site.baseurl }}{% link glossary/national-language-dict-cn.md %})》（全八册） 汪怡主编，徐一士、[孙崇义]({{ site.baseurl }}{% link people/sunchongyi-cn.md %})、[王述达]({{ site.baseurl }}{% link people/wangshuda-cn.md %})、彭心如、徐世荣、何梅岑、[傅严]({{ site.baseurl }}{% link people/fuyan-cn.md %})、[牛文青]({{ site.baseurl }}{% link people/niuwenqing-cn.md %})编纂 商务印书馆印行（1945年）
+- 《国语辞典》（全四册） [黎锦熙]({{ site.baseurl }}{% link people/lijinxi-cn.md %})主编，[汪怡]({{ site.baseurl }}{% link people/wangyi-cn.md %})（主任）、徐一士、[孙崇义]({{ site.baseurl }}{% link people/sunchongyi-cn.md %})、徐世荣、[傅严]({{ site.baseurl }}{% link people/fuyan-cn.md %})、[安文倬]({{ site.baseurl }}{% link people/anwenzhuo-cn.md %})、[王述达]({{ site.baseurl }}{% link people/wangshuda-cn.md %})、张蔚瑜、何梅岑、[牛继昌]({{ site.baseurl }}{% link people/niuwenqing-cn.md %})、高景成编纂 商务印书馆（1948年），1962年改编再版更名为《汉语词典》
+- 《新部首索引[国音字典]({{ site.baseurl }}{% link glossary/national-pronounciation-dict-cn.md %})》 [黎锦熙]({{ site.baseurl }}{% link people/lijinxi-cn.md %})主编，[汪怡]({{ site.baseurl }}{% link people/wangyi-cn.md %})（主任）、徐仁钰、[傅介石]({{ site.baseurl }}{% link people/fuyan-cn.md %})、[牛继昌]({{ site.baseurl }}{% link people/niuwenqing-cn.md %})、高景成、何梅岑、徐世荣、[孙崇义]({{ site.baseurl }}{% link people/sunchongyi-cn.md %})、[王述达]({{ site.baseurl }}{% link people/wangshuda-cn.md %})、张迺芝、张蔚瑜编校 商务印书馆（1949年8月初版）
+- 《增注中华新韵》 [黎锦熙]({{ site.baseurl }}{% link people/lijinxi-cn.md %})主编，[王述达]({{ site.baseurl }}{% link people/wangshuda-cn.md %})、何梅岑、傅岩、[孙崇义]({{ site.baseurl }}{% link people/sunchongyi-cn.md %})、张蔚瑜、张廼芝编校 商务印书馆（1950年7月第一版）
+- 《增订注解 国音常用字汇》 [黎锦熙]({{ site.baseurl }}{% link people/lijinxi-cn.md %})主编，[汪怡]({{ site.baseurl }}{% link people/wangyi-cn.md %})、何梅岑、付介石、[牛继昌]({{ site.baseurl }}{% link people/niuwenqing-cn.md %})、高景成、徐仁钰、徐世荣、[孙崇义]({{ site.baseurl }}{% link people/sunchongyi-cn.md %})、[王述达]({{ site.baseurl }}{% link people/wangshuda-cn.md %})、张廼之、张蔚瑜、李曾笃、诸昌祁编校 商务印书馆（1949年8月初版）
+- 《学文化字典》 [黎锦熙]({{ site.baseurl }}{% link people/lijinxi-cn.md %})主编，[王述达]({{ site.baseurl }}{% link people/wangshuda-cn.md %})、何梅岑、高景成、[孙崇义]({{ site.baseurl }}{% link people/sunchongyi-cn.md %})、徐仁钰、徐世荣、[傅介石]({{ site.baseurl }}{% link people/fuyan-cn.md %})编纂 商务印书馆（1952年10月第一版）
+- 《同音字典》 [黎锦熙]({{ site.baseurl }}{% link people/lijinxi-cn.md %})主编，何梅岑、[孙崇义]({{ site.baseurl }}{% link people/sunchongyi-cn.md %})、徐世荣、[王述达]({{ site.baseurl }}{% link people/wangshuda-cn.md %})、高景成、傅严编纂 商务印书馆（1956年5月第一版）
 
 1956年7月，在中国科学院语言研究所词典编辑室任编辑，参与《现代汉语词典》（试印本）的编纂工作，是哲学社会组的组长。文革期间曾被下放河南"五七干校"劳动，虽历经坎坷但坚持学术理想。1982年8月，因急性肾炎去世，享年76岁。学界对其评价极高，社科院语言所曾献挽联"学富五车一生节槪媲先哲，家徒四壁数卷辞书传后昆"，肯定其人品与学识。
 
 **发表文章：**
 
-- 《对"汉语拼音方案（草案）"的意见》 王述达、孙崇义、何梅岑、傅介石 《光明日报》专刊《文字改革》第53期（1956年12月15日）
+- 《对"汉语拼音方案（草案）"的意见》 [王述达]({{ site.baseurl }}{% link people/wangshuda-cn.md %})、[孙崇义]({{ site.baseurl }}{% link people/sunchongyi-cn.md %})、何梅岑、[傅介石]({{ site.baseurl }}{% link people/fuyan-cn.md %}) 《光明日报》专刊《文字改革》第53期（1956年12月15日）
 - 《词典里如何表现思想性》 《中国语文》1960年第12期

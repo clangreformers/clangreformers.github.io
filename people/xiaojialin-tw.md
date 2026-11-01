@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 蕭家霖, 字迪忱
+aka: 筱村
 ref: xiaojialin
 lang: 繁體中文
 ---
@@ -19,7 +20,7 @@ lang: 繁體中文
 
 1925年6月始，任《國語週刊》撰稿人。
 
-1926年9月3日-10月29日，與錢玄同、黎錦熙、[汪怡]({{ site.baseurl }}{% link people/wangyi-tw.md %})、[白滌洲]({{ site.baseurl }}{% link people/baidizhou-tw.md %})五人完成對《增修[國音字典]({{ site.baseurl }}{% link glossary/national-pronounciation-dict-tw.md %})》的逐字審音工作。
+1926年9月3日-10月29日，與錢玄同、[黎錦熙]({{ site.baseurl }}{% link people/lijinxi-tw.md %})、[汪怡]({{ site.baseurl }}{% link people/wangyi-tw.md %})、[白滌洲]({{ site.baseurl }}{% link people/baidizhou-tw.md %})五人完成對《增修[國音字典]({{ site.baseurl }}{% link glossary/national-pronounciation-dict-tw.md %})》的逐字審音工作。
 
 1928年，國語統一籌備會改組為國語統一籌備委員會，任常委。這年，[中國大辭典編纂處]({{ site.baseurl }}{% link glossary/compilation-tw.md %})正式開展工作，蕭家霖任纂著部《民眾辭典》股主任。
 
@@ -27,7 +28,7 @@ lang: 繁體中文
 
 1929年9月4日《國語羅馬字週刊》發刊，蕭家霖任主編。該刊物於1930年9月因印刷不便停刊，共出52期。1932年6月4日復刊後，初為週刊，自第37期以後改為雙週刊。
 
-1930年7月，"國語羅馬字促進會"成立，由蕭家霖主持。當時會員只有十幾人，如[杜子勁]({{ site.baseurl }}{% link people/duzijin-tw.md %})、[王茀青]({{ site.baseurl }}{% link people/wangshoukang-tw.md %})、[王玉川]({{ site.baseurl }}{% link people/wangyuchuan-tw.md %})、李中昊等。《國語羅馬字週刊》及暑期講習班等均由該會主辦。
+1930年7月，"[國語羅馬字促進會]({{ site.baseurl }}{% link glossary/gr-promotion-tw.md %})"成立，由蕭家霖主持。當時會員只有十幾人，如[杜子勁]({{ site.baseurl }}{% link people/duzijin-tw.md %})、[王茀青]({{ site.baseurl }}{% link people/wangshoukang-tw.md %})、[王玉川]({{ site.baseurl }}{% link people/wangyuchuan-tw.md %})、李中昊等。《國語羅馬字週刊》及暑期講習班等均由該會主辦。
 
 1931年，蕭家霖任山東省立民眾教育館實驗部研究股主任。9月，在國語統一籌備會第十三次常委會上專題彙報了國語羅馬字講習班情況。
 
@@ -43,7 +44,7 @@ lang: 繁體中文
 
 1946年4月，教育部成立臺灣省國語推行委員會，任委員，為臺灣的國語推行做了大量後臺支援工作。
 
-1947年，任《國語小報》社長和發行人。
+1947年，任《[國語小報]({{ site.baseurl }}{% link glossary/little_chinese_daily-tw.md %})》社長和發行人。
 
 1950年12月，蕭家霖任職於人民教育出版社下屬的新華辭書社務委員會委員，協助社長魏建功負責辭書社日常工作並著手部首排列的《新華字典》編纂工作。1954年11月，該版本的《新華字典》正式出版。
 
@@ -53,7 +54,7 @@ lang: 繁體中文
 
 ![image](/assets/imgs/xiaojialin_2.jpeg "1957年夏，《現代漢語詞典》編輯室全體人員在辦公室前合影") {: width="400" }
 
-1957年夏，《現代漢語詞典》編輯室全體人員在辦公室前合影，二排右一為[王述達]({{ site.baseurl }}{% link people/wangshuda-tw.md %})，右二為蕭家霖，左二為何梅岑；三排左一為[傅嚴]({{ site.baseurl }}{% link people/fuyan-tw.md %})，左六為[賀澹江]({{ site.baseurl }}{% link people/hedanjiang-tw.md %})，左七為[孫崇義]({{ site.baseurl }}{% link people/sunchongyi-tw.md %})。
+1957年夏，《現代漢語詞典》編輯室全體人員在辦公室前合影，二排右一為[王述達]({{ site.baseurl }}{% link people/wangshuda-tw.md %})，右二為蕭家霖，左二為[何梅岑]({{ site.baseurl }}{% link people/hemeicen-tw.md %})；三排左一為[傅嚴]({{ site.baseurl }}{% link people/fuyan-tw.md %})，左六為[賀澹江]({{ site.baseurl }}{% link people/hedanjiang-tw.md %})，左七為[孫崇義]({{ site.baseurl }}{% link people/sunchongyi-tw.md %})。
 
 主要著作和文獻：
 
@@ -113,7 +114,7 @@ lang: 繁體中文
 
 《複音語詞連寫的條例》（《民眾週刊》1934年）
 
-《白滌洲先生輓詞》（與孔凡均合撰，1934年）
+《[白滌洲]({{ site.baseurl }}{% link people/baidizhou-tw.md %})先生輓詞》（與[孔凡均]({{ site.baseurl }}{% link people/kongfanjun-tw.md %})合撰，1934年）
 
 《縣民教館工作的問題和出路》（《山東民眾教育月刊》1935年）
 
@@ -123,7 +124,7 @@ lang: 繁體中文
 
 《漢字改革問題的回顧與展望》（1935年）
 
-《民眾學校之擴充套件與演進》（與樊月培合撰，《山東民眾教育月刊》1935年）
+《民眾學校之擴充套件與演進》（與[樊月培]({{ site.baseurl }}{% link people/fanyuepei-tw.md %})合撰，《山東民眾教育月刊》1935年）
 
 《鄉教通研會第二年的作法》（《小學與社會》1935年）
 
@@ -171,9 +172,9 @@ lang: 繁體中文
 
 《為榮譽軍人的文化著想》（《協導》1943年）
 
-《大學中學教科用書中音譯直科學名詞及地名人名等應一律用注音符號排寫案》（與黎錦熙合撰，《國語週刊【南鄭版】》1943年）
+《大學中學教科用書中音譯直科學名詞及地名人名等應一律用注音符號排寫案》（與[黎錦熙]({{ site.baseurl }}{% link people/lijinxi-tw.md %})合撰，《國語週刊【南鄭版】》1943年）
 
-《注音識字教育實施綱領草案》（與黎錦熙合撰，《國語週刊【蘭州版】》1946年）
+《注音識字教育實施綱領草案》（與[黎錦熙]({{ site.baseurl }}{% link people/lijinxi-tw.md %})合撰，《國語週刊【蘭州版】》1946年）
 
 《各縣（市）注音識字教育表證區暫行辦法草案》（《國語週刊【蘭州版】》1946年）
 
@@ -183,11 +184,11 @@ lang: 繁體中文
 
 集體著作：
 
-《國音常用字彙》，錢玄同主編，黎錦熙、白滌洲、蕭家霖合編，趙元任、汪怡參訂（1932年）
+《國音常用字彙》，錢玄同主編，[黎錦熙]({{ site.baseurl }}{% link people/lijinxi-tw.md %})、[白滌洲]({{ site.baseurl }}{% link people/baidizhou-tw.md %})、蕭家霖合編，趙元任、汪怡參訂（1932年）
 
 《民眾辭典》，蕭家霖主編（1932年7月）
 
-《中華新韻》，魏建功、黎錦熙、盧前、蕭家林編輯（1941年）
+《中華新韻》，魏建功、[黎錦熙]({{ site.baseurl }}{% link people/lijinxi-tw.md %})、盧前、蕭家林編輯（1941年）
 
 《新華字典》（第一版）主要編纂人（1954年）
 

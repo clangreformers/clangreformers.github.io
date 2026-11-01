@@ -12,7 +12,7 @@ lang: English
 - Native place: Wuxi, Jiangsu
 
 **Contribution to the Mandarin Movement:**
-Formerly served at the Chinese Grand Dictionary Compilation Office, and participated in the compilation of the *National Language Dictionary* (four-volume edition).
+Formerly served at the Chinese Grand Dictionary Compilation Office, and participated in the compilation of the *[National Language Dictionary]({{ site.baseurl }}{% link glossary/national-language-dict.md %})* (four-volume edition).
 
 ---
 ## [Ao Shiying]({{ site.baseurl }}{% link people/aoshiying.md %}) &nbsp;&nbsp; [Shuo Wen](https://clangreformers.github.io/people/aoshiying.html) &nbsp; Wikipedia &nbsp; Baidu
@@ -98,7 +98,7 @@ Used *Chuanyin Kuaizi* to record lectures at the Yixueguan (son of Cai Xiyong)
 - National Language Association: Yes
 
 **Contribution to the Mandarin Movement:**
-First Minister of Education of the Republic of China; promoted the convening of the Pronunciation Unification Conference; President of the National Language Research Association; Member of the National Language Unification Preparatory Association; Issued, as President of the University Council of the Republic of China, University Council Notice No. 17 formally promulgating the *National Language Romanization*; Member of the National Language Unification Preparatory Committee
+First Minister of Education of the Republic of China; promoted the convening of the Pronunciation Unification Conference; President of the [National Language Research Association]({{ site.baseurl }}{% link glossary/research.md %}); Member of the National Language Unification Preparatory Association; Issued, as President of the University Council of the Republic of China, University Council Notice No. 17 formally promulgating the *National Language Romanization*; Member of the National Language Unification Preparatory Committee
 
 ---
 ## Cao Shiqing &nbsp;&nbsp; Shuo Wen &nbsp; Wikipedia &nbsp; Baidu
@@ -923,7 +923,7 @@ Promoted Zhuyin Fuhao instruction in Ding County, Hebei
 - National Language Association: Yes
 
 **Contribution to the Mandarin Movement:**
-Advocate of the Mandarin Language Movement; Member of the Simplified Chinese Characters Committee; Member of the National Language Unification Preparatory Association; Reviewer of the first printing of the *National Pronunciation Dictionary*; Member of the *Revised National Pronunciation Dictionary* Committee; Member of the National Language Romanization Study Committee; Member of the Group of Several; Founder of *Guoyu Weekly*; Executive member of the National Language Unification Preparatory Committee; Ex-officio board member and Director, Chinese Grand Dictionary Compilation Office; Author of *Outline History of the Mandarin Language Movement*; Author of *New Grammar of the National Language*, laying the foundation of Mandarin grammar; Published *Chart of the Changing Currents of Chinese over Four Thousand Years*; Compiler of *Common Characters in National Pronunciation*; Member of the review committee for the *Modern Chinese Dictionary* (trial edition)
+Advocate of the [Mandarin Language Movement]({{ site.baseurl }}{% link glossary/movement.md %}); Member of the Simplified Chinese Characters Committee; Member of the National Language Unification Preparatory Association; Reviewer of the first printing of the *National Pronunciation Dictionary*; Member of the *Revised National Pronunciation Dictionary* Committee; Member of the National Language Romanization Study Committee; Member of the Group of Several; Founder of *Guoyu Weekly*; Executive member of the National Language Unification Preparatory Committee; Ex-officio board member and Director, Chinese Grand Dictionary Compilation Office; Author of *Outline History of the Mandarin Language Movement*; Author of *New Grammar of the National Language*, laying the foundation of Mandarin grammar; Published *Chart of the Changing Currents of Chinese over Four Thousand Years*; Compiler of *Common Characters in National Pronunciation*; Member of the review committee for the *Modern Chinese Dictionary* (trial edition)
 
 ---
 ## Li Buqing &nbsp;&nbsp; Shuo Wen &nbsp; [Wikipedia](https://zh.wikipedia.org/wiki/%E6%9D%8E%E6%AD%A5%E9%9D%92) &nbsp; Baidu
@@ -1396,7 +1396,7 @@ Member of the review committee for the *Modern Chinese Dictionary* (trial editio
 - Native place: Beijing
 
 **Contribution to the Mandarin Movement:**
-Contributing writer for *Guoyu Weekly*; research related to Bai Dizhou
+Contributing writer for *Guoyu Weekly*; research related to [Bai Dizhou]({{ site.baseurl }}{% link people/baidizhou.md %})
 
 ---
 ## Luo Zanqin &nbsp;&nbsp; Shuo Wen &nbsp; Wikipedia &nbsp; Baidu
@@ -1905,7 +1905,7 @@ Invented National Pronunciation telegraphy
 Lead instructor at the National Language Shorthand Institute
 
 **Remarks/Achievements:**
-Lead instructor at the National Language Shorthand Institute (second son of Wang Yi)
+Lead instructor at the National Language Shorthand Institute (second son of [Wang Yi]({{ site.baseurl }}{% link people/wangyi.md %}))
 
 ---
 ## Wang Gongxia &nbsp;&nbsp; Shuo Wen &nbsp; Wikipedia &nbsp; Baidu
@@ -1915,7 +1915,7 @@ Lead instructor at the National Language Shorthand Institute (second son of Wang
 Lead instructor at the National Language Shorthand Institute
 
 **Remarks/Achievements:**
-Lead instructor at the National Language Shorthand Institute (first son of Wang Yi)
+Lead instructor at the National Language Shorthand Institute (first son of [Wang Yi]({{ site.baseurl }}{% link people/wangyi.md %}))
 
 ---
 ## Wang Haiqing &nbsp;&nbsp; Shuo Wen &nbsp; Wikipedia &nbsp; Baidu
@@ -1986,7 +1986,7 @@ Member of the Ministry of Education Zhuyin Fuhao Promotion Committee, Translator
 - National Language Association: Yes
 
 **Contribution to the Mandarin Movement:**
-Zhejiang member of the Pronunciation Unification Conference; Member of the National Language Unification Preparatory Association; Proofreader of the *National Pronunciation Dictionary*; Member of the *Revised National Pronunciation Dictionary* Committee; Member of the National Language Romanization Study Committee; Member of the Group of Several; Executive member of the National Language Unification Preparatory Committee; Director of the National Language Shorthand Institute; inventor of the Wang Yi shorthand method; Board member, Head of the General Dictionary Section, and acting Director during the Japanese occupation, Chinese Grand Dictionary Compilation Office; Consulting editor of *Common Characters in National Pronunciation*; Editor-in-Chief of the *National Language Dictionary* (eight-volume edition)
+Zhejiang member of the Pronunciation Unification Conference; Member of the National Language Unification Preparatory Association; Proofreader of the *National Pronunciation Dictionary*; Member of the *Revised National Pronunciation Dictionary* Committee; Member of the National Language Romanization Study Committee; Member of the Group of Several; Executive member of the National Language Unification Preparatory Committee; Director of the National Language Shorthand Institute; inventor of the [Wang Yi]({{ site.baseurl }}{% link people/wangyi.md %}) shorthand method; Board member, Head of the General Dictionary Section, and acting Director during the Japanese occupation, Chinese Grand Dictionary Compilation Office; Consulting editor of *Common Characters in National Pronunciation*; Editor-in-Chief of the *National Language Dictionary* (eight-volume edition)
 
 ---
 ## Wang Bingyao &nbsp;&nbsp; Shuo Wen &nbsp; Wikipedia &nbsp; Baidu
@@ -2803,7 +2803,7 @@ Secretary and commissioned editor at the Chinese Grand Dictionary Compilation Of
 Vice President of the National Language Research Association; President of the National Language Unification Preparatory Association; Member of the National Language Unification Preparatory Committee
 
 **Remarks/Achievements:**
-While at the Ministry of Education, supported Wang Pu in running the Zhuyin Alphabet Training Institute
+While at the Ministry of Education, supported [Wang Pu]({{ site.baseurl }}{% link people/wangpu.md %}) in running the Zhuyin Alphabet Training Institute
 
 ---
 ## [Zhang Yuanyin]({{ site.baseurl }}{% link people/zhangyuanyin.md %}) &nbsp;&nbsp; [Shuo Wen](https://clangreformers.github.io/people/zhangyuanyin.html) &nbsp; Wikipedia &nbsp; Baidu

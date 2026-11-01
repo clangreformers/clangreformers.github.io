@@ -1,13 +1,18 @@
 #!/usr/bin/env python3
-"""Insert Jekyll links to people/glossary pages on first mention in posts/people files.
+"""Insert Jekyll links to people/glossary pages in posts/people files.
 
 Strategy:
 - Build per-language registry (English, 简体中文, 繁體中文) mapping name patterns to a
   Jekyll {% link %} target.
 - For each markdown file in _posts and people, scan the body (skip frontmatter) and
-  replace the FIRST occurrence of each name with a link, unless that name already
+  link every mention of a person (glossary terms: FIRST mention only), unless it already
   appears inside an existing markdown link / image / autolink, or the file itself IS
   the target page.
+- People names come from the page title ('王述达，字善愷' → 王述达, 王善愷) plus an
+  optional `aka:` frontmatter list of other names (曾用名、字、号…), e.g.
+  `aka: 善恺、渭宜`. Bare alt names get the person's surname prepended.
+- Inside raw HTML blocks (where kramdown does not parse markdown) links are
+  written as <a> tags; existing markdown links there are rewritten too.
 """
 from __future__ import annotations
 import os
@@ -22,6 +27,13 @@ POSTS_DIR = ROOT / "_posts"
 LANG_EN = "English"
 LANG_CN = "简体中文"
 LANG_TW = "繁體中文"
+
+# Generated variants that name someone else and must never be linked.
+EXCLUDED_TERMS = {
+    "Yan Fu",  # reversed 'Fu Yan' (傅严), but also 严复, a different person
+    # glossary/references*.md titles; these words are used as section headings.
+    "References", "参考资料", "參考資料",
+}
 
 
 def parse_frontmatter(text: str) -> tuple[dict, int]:
@@ -91,24 +103,42 @@ def split_chinese_title(title: str) -> list[str]:
     if not cleaned:
         return []
     primary = cleaned[0]
-    out: list[str] = [primary]
+    return [primary] + expand_chinese_aliases(primary, cleaned[1:])
+
+
+def expand_chinese_aliases(primary: str, aliases: list[str]) -> list[str]:
+    """Turn alt names into full-name variants: aliases already starting with the
+    primary name's surname are kept as-is, others get the surname prepended
+    (e.g. primary '王述达', alias '善愷' → '王善愷')."""
+    out: list[str] = []
     if not primary:
         return out
     surname = primary[0]
-    for extra in cleaned[1:]:
+    for extra in aliases:
         if not extra:
             continue
         if extra.startswith(surname):
             out.append(extra)
         else:
-            # Only meaningful when prepending surname yields >=2 chars
             out.append(surname + extra)
     return out
 
 
-def split_english_title(title: str) -> list[str]:
+def split_aka(value: str) -> list[str]:
+    """Split an `aka:` frontmatter value like '王善恺, 善愷、孙渭宜' into names."""
+    value = value.strip().strip("\"'")
+    t = value.replace("，", ",").replace("、", ",")
+    return [p.strip() for p in t.split(",") if p.strip()]
+
+
+def split_english_title(title: str, slug: str, aka: list[str] | None = None) -> list[str]:
     """Extract names from English title like 'Sun Chongyi, also Weiyi' or
-    'Fu Yan (courtesy name Jieshi)' or 'Shuda Wang, also Shankai Wang'."""
+    'Fu Yan (courtesy name Jieshi)' or 'Shuda Wang, also Shankai Wang'.
+
+    Like the Chinese variant, bare alt names ('Weiyi') are expanded with the
+    surname ('Sun Weiyi') rather than matched alone, since a lone given name like
+    'Bing' also appears inside unrelated names ('Shen Bing').
+    """
     # Drop parenthetical content first
     t = re.sub(r"\([^)]*\)", "", title)
     # Split on commas
@@ -119,15 +149,22 @@ def split_english_title(title: str) -> list[str]:
     primary = parts[0]
     out.append(primary)
     primary_tokens = primary.split()
-    # primary tokens give us the surname (one of the tokens). We'll heuristically
-    # treat the shorter token as surname for Chinese names.
-    # Find surname: for two-token names, surname is whichever token is also in the
-    # filename slug start; default: first token.
-    for extra in parts[1:]:
+    # The slug is surname+given pinyin, so the surname is the primary-name token
+    # the slug starts with; default: first token.
+    surname = next((tok for tok in primary_tokens if slug.lower().startswith(tok.lower())),
+                   primary_tokens[0])
+    for extra in parts[1:] + (aka or []):
         # Drop leading 'also' / 'styled' / 'courtesy name' etc.
-        extra = re.sub(r"^(also( known as)?|styled|courtesy name)\s+", "", extra, flags=re.I)
-        if extra:
+        extra = re.sub(r"^(also( known as)?|styled|(courtesy|style|original) name)\s+", "",
+                       extra, flags=re.I)
+        tokens = extra.split()
+        if not tokens:
+            continue
+        if any(tok.lower() == surname.lower() for tok in tokens):
             out.append(extra)
+        else:
+            # 'Zuo Xiong' → 'Zhao Zuoxiong'
+            out.append(f"{surname} {''.join(tokens).capitalize()}")
     return out
 
 
@@ -188,20 +225,25 @@ def build_registries() -> dict[str, list[tuple[str, str, str]]]:
         lang = meta["lang"]
         slug = meta["slug"]
         target = link_target_for_people(f)
+        # Optional `aka:` frontmatter lists other names the person is known by
+        # (曾用名、字、号…) that are not in the title.
+        aka = split_aka(meta["fm"].get("aka", ""))
         if lang == LANG_EN:
-            names = split_english_title(title)
+            names = split_english_title(title, slug, aka)
             variants: list[str] = []
             for n in names:
                 variants.extend(english_name_variants(n, slug))
             seen = set()
             for v in variants:
-                if v in seen:
+                if v in seen or v in EXCLUDED_TERMS:
                     continue
                 seen.add(v)
                 reg[lang].append((v, target, f.name))
         else:
             names = split_chinese_title(title)
-            for n in names:
+            if names:
+                names += expand_chinese_aliases(names[0], aka)
+            for n in dict.fromkeys(names):
                 # only meaningful CJK names (>=2 chars). Bare courtesy names are
                 # already filtered upstream by split_chinese_title (only full
                 # surname+given-name variants are emitted).
@@ -215,7 +257,7 @@ def build_registries() -> dict[str, list[tuple[str, str, str]]]:
             continue
         meta = load_file_meta(f)
         title = meta["fm"].get("title", "").strip()
-        if not title:
+        if not title or title in EXCLUDED_TERMS:
             continue
         lang = meta["lang"]
         target = link_target_for_glossary(f)
@@ -243,6 +285,7 @@ def masked_spans(body: str) -> list[tuple[int, int]]:
         r"https?://\S+",            # bare URLs
         r"\{%[^%]*%\}",             # liquid tags
         r"\{\{[^}]*\}\}",           # liquid output
+        r"<a\b[^>]*>.*?</a>",        # html anchors (incl. their text)
         r"<[^>]+>",                  # html tags
     ]
     for pat in patterns:
@@ -271,6 +314,70 @@ def in_spans(pos: int, end: int, spans: list[tuple[int, int]]) -> bool:
 
 def make_link(text: str, target: str) -> str:
     return f"[{text}]({{{{ site.baseurl }}}}{{% link {target} %}})"
+
+
+def make_html_link(text: str, target: str) -> str:
+    return f'<a href="{{{{ site.baseurl }}}}{{% link {target} %}}">{text}</a>'
+
+
+MD_LINK_RE = re.compile(r"\[([^\]]+)\]\(\{\{\s*site\.baseurl\s*\}\}\{%\s*link\s+([^\s%]+)\s*%\}\)")
+HTML_LINK_RE = re.compile(r'<a href="\{\{\s*site\.baseurl\s*\}\}\{%\s*link\s+([^\s%]+)\s*%\}">([^<]+)</a>')
+
+# kramdown leaves the content of block-level HTML raw (no markdown parsing)
+# unless the element carries markdown="1".
+HTML_BLOCK_TAGS = {
+    "address", "article", "aside", "blockquote", "center", "dd", "details", "div",
+    "dl", "dt", "figcaption", "figure", "footer", "form", "h1", "h2", "h3", "h4",
+    "h5", "h6", "header", "li", "nav", "ol", "p", "pre", "section", "summary",
+    "table", "tbody", "td", "tfoot", "th", "thead", "tr", "ul",
+}
+HTML_VOID_TAGS = {"area", "br", "col", "embed", "hr", "img", "input", "link", "meta", "source", "wbr"}
+HTML_TAG_RE = re.compile(r"<(/?)([A-Za-z][A-Za-z0-9]*)\b([^>]*)>")
+MARKDOWN_ATTR_RE = re.compile(r"""\bmarkdown\s*=\s*["']?(1|block|span)""")
+
+
+def raw_html_spans(body: str) -> list[tuple[int, int]]:
+    """Return spans of body inside block-level HTML where markdown is not parsed,
+    so a markdown link there would render literally."""
+    spans: list[tuple[int, int]] = []
+    stack: list[tuple[str, bool]] = []  # (tag, has markdown="1")
+    raw_start: int | None = None
+
+    def is_raw() -> bool:
+        return bool(stack) and not any(md for _, md in stack)
+
+    for m in HTML_TAG_RE.finditer(body):
+        closing, tag, attrs = m.group(1) == "/", m.group(2).lower(), m.group(3)
+        was_raw = is_raw()
+        if closing:
+            if any(t == tag for t, _ in stack):
+                while stack and stack.pop()[0] != tag:
+                    pass
+        elif tag not in HTML_VOID_TAGS and not attrs.rstrip().endswith("/"):
+            line_start = body.rfind("\n", 0, m.start()) + 1
+            at_line_start = body[line_start:m.start()].strip() == ""
+            # An HTML block only starts with a block-level tag at line start;
+            # once inside one, every element nests.
+            if stack or (tag in HTML_BLOCK_TAGS and at_line_start):
+                stack.append((tag, bool(MARKDOWN_ATTR_RE.search(attrs))))
+        now_raw = is_raw()
+        if not was_raw and now_raw:
+            raw_start = m.end()
+        elif was_raw and not now_raw and raw_start is not None:
+            spans.append((raw_start, m.start()))
+            raw_start = None
+    if raw_start is not None:
+        spans.append((raw_start, len(body)))
+    return spans
+
+
+def fix_markdown_links_in_html(body: str) -> str:
+    """Rewrite our markdown links that sit inside raw HTML blocks as <a> tags."""
+    raw = raw_html_spans(body)
+    for m in reversed(list(MD_LINK_RE.finditer(body))):
+        if in_spans(m.start(), m.end(), raw):
+            body = body[:m.start()] + make_html_link(m.group(1), m.group(2)) + body[m.end():]
+    return body
 
 
 def is_cjk(ch: str) -> bool:
@@ -311,36 +418,43 @@ def link_file(path: Path, registry: dict[str, list[tuple[str, str, str]]]) -> bo
     if not entries:
         return False
     header = text[:body_start]
-    body = text[body_start:]
+    body = fix_markdown_links_in_html(text[body_start:])
+    changed = body != text[body_start:]
 
     # Build masked spans once, but they change as we insert links. We'll rebuild
     # the spans after each insertion (cheap given small file sizes).
-    changed = False
     # Track (term, target) pairs already linked. Different name variants for the
     # same target (e.g. 王述达 / 王善愷) should each get their own first-mention
     # link, so we key on the surface term, not the target.
     linked_pairs: set[tuple[str, str]] = set()
-    for existing in re.finditer(
-        r"\[([^\]]+)\]\(\{\{\s*site\.baseurl\s*\}\}\{%\s*link\s+([^\s%]+)\s*%\}\)",
-        body,
-    ):
+    for existing in MD_LINK_RE.finditer(body):
         linked_pairs.add((existing.group(1), existing.group(2)))
+    for existing in HTML_LINK_RE.finditer(body):
+        linked_pairs.add((existing.group(2), existing.group(1)))
 
-    # Iterate entries; for each, attempt one insertion.
+    # Iterate entries. People names are linked at every mention; glossary terms
+    # only at their first mention, since they recur too often to link each time.
     for term, target, source_name in entries:
         # Skip if this file IS the target page (compare by stem)
         if path.name == source_name:
             continue
-        if (term, target) in linked_pairs:
+        link_all = target.startswith("people/")
+        if not link_all and (term, target) in linked_pairs:
             continue
-        spans = masked_spans(body)
-        idx = find_first_match(body, term, lang, spans)
-        if idx is None:
-            continue
-        replacement = make_link(term, target)
-        body = body[:idx] + replacement + body[idx + len(term):]
-        linked_pairs.add((term, target))
-        changed = True
+        while True:
+            spans = masked_spans(body)
+            idx = find_first_match(body, term, lang, spans)
+            if idx is None:
+                break
+            if in_spans(idx, idx + len(term), raw_html_spans(body)):
+                replacement = make_html_link(term, target)
+            else:
+                replacement = make_link(term, target)
+            body = body[:idx] + replacement + body[idx + len(term):]
+            linked_pairs.add((term, target))
+            changed = True
+            if not link_all:
+                break
 
     if changed:
         path.write_text(header + body, encoding="utf-8")

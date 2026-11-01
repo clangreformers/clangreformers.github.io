@@ -44,7 +44,7 @@ timeline_era: 2
 
 參考文獻：
 
-《國語運動史綱》  黎錦熙著  商務印書館
+《國語運動史綱》  [黎錦熙]({{ site.baseurl }}{% link people/lijinxi-tw.md %})著  商務印書館
 
 《漢字王國》 （美）石靜遠（JingTsu）著  林華譯   中信出版集團
 

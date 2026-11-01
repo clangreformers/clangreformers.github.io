@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 張壽林
+aka: 任甫、仁甫、任父
 ref: zhangshoulin
 lang: 繁體中文
 ---

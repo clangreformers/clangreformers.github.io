@@ -19,7 +19,7 @@ In September 1919, when the [National Language Unification Preparatory Committee
 
 Beginning in June 1925, he served as a contributor to the "National Language Weekly".
 
-From September 3 to October 29, 1926, together with Qian Xuantong, Li Jinxi, [Wang Yi]({{ site.baseurl }}{% link people/wangyi.md %}), and [Bai Dizhou]({{ site.baseurl }}{% link people/baidizhou.md %}), he completed the word-by-word phonetic review of the "Revised [National Pronunciation Dictionary]({{ site.baseurl }}{% link glossary/national-pronounciation-dict.md %})".
+From September 3 to October 29, 1926, together with Qian Xuantong, [Li Jinxi]({{ site.baseurl }}{% link people/lijinxi.md %}), [Wang Yi]({{ site.baseurl }}{% link people/wangyi.md %}), and [Bai Dizhou]({{ site.baseurl }}{% link people/baidizhou.md %}), he completed the word-by-word phonetic review of the "Revised [National Pronunciation Dictionary]({{ site.baseurl }}{% link glossary/national-pronounciation-dict.md %})".
 
 In 1928, the National Language Unification Preparatory Committee was reorganized, and he became a standing committee member. That same year, the [Chinese Great Dictionary Compilation Office]({{ site.baseurl }}{% link glossary/compilation.md %}) formally began work, and Xiao Jialin was appointed head of the "People's Dictionary" section of the Compilation Department.
 
@@ -53,7 +53,7 @@ On July 1, 1956, the Dictionary Editorial Office was merged into the Institute o
 
 ![image](/assets/imgs/xiaojialin_2.jpeg "In the summer of 1957, all members of the Modern Chinese Dictionary editorial office took a group photo in front of the office.") {: width="400" }
 
-In the summer of 1957, all staff of the "Modern Chinese Dictionary" Editing Room posed for a group photo in front of the office. In the second row, the first on the right is [Wang Shuda]({{ site.baseurl }}{% link people/wangshuda.md %}), the second on the right is Xiao Jialin, the second on the left is He Meicen; in the third row, the first on the left is [Fu Yan]({{ site.baseurl }}{% link people/fuyan.md %}), the sixth on the left is [He Danjiang]({{ site.baseurl }}{% link people/hedanjiang.md %}), and the seventh on the left is [Sun Chongyi]({{ site.baseurl }}{% link people/sunchongyi.md %}).
+In the summer of 1957, all staff of the "Modern Chinese Dictionary" Editing Room posed for a group photo in front of the office. In the second row, the first on the right is [Wang Shuda]({{ site.baseurl }}{% link people/wangshuda.md %}), the second on the right is Xiao Jialin, the second on the left is [He Meicen]({{ site.baseurl }}{% link people/hemeicen.md %}); in the third row, the first on the left is [Fu Yan]({{ site.baseurl }}{% link people/fuyan.md %}), the sixth on the left is [He Danjiang]({{ site.baseurl }}{% link people/hedanjiang.md %}), and the seventh on the left is [Sun Chongyi]({{ site.baseurl }}{% link people/sunchongyi.md %}).
 
 Main Works and Publications:
 
@@ -113,7 +113,7 @@ Main Works and Publications:
 
 "Rules for Writing Compound Words in Connected Form" ("People's Weekly", 1934)
 
-"Elegy for Mr. Bai Dizhou" (co-authored with Kong Fanjun, 1934)
+"Elegy for Mr. [Bai Dizhou]({{ site.baseurl }}{% link people/baidizhou.md %})" (co-authored with [Kong Fanjun]({{ site.baseurl }}{% link people/kongfanjun.md %}), 1934)
 
 "Problems and Prospects of County People's Education Center Work" ("Shandong People's Education Monthly", 1935)
 
@@ -123,7 +123,7 @@ Main Works and Publications:
 
 "Retrospect and Prospect of the Chinese Character Reform Question" (1935)
 
-"Expansion and Evolution of the People's Schools" (co-authored with Fan Yuepei, "Shandong People's Education Monthly", 1935)
+"Expansion and Evolution of the People's Schools" (co-authored with [Fan Yuepei]({{ site.baseurl }}{% link people/fanyuepei.md %}), "Shandong People's Education Monthly", 1935)
 
 "The Second Year's Practices of the Rural Education General Research Society" ("Primary School and Society", 1935)
 
@@ -171,9 +171,9 @@ Main Works and Publications:
 
 "For the Sake of the Culture of Wounded Veterans" ("Xiedao", 1943)
 
-"A Proposal That Transliterated Scientific Terms, Place Names, and Personal Names in University and Middle-School Textbooks All Be Set in Phonetic Symbols" (co-authored with Li Jinxi, "National Language Weekly [Nanzheng edition]", 1943)
+"A Proposal That Transliterated Scientific Terms, Place Names, and Personal Names in University and Middle-School Textbooks All Be Set in Phonetic Symbols" (co-authored with [Li Jinxi]({{ site.baseurl }}{% link people/lijinxi.md %}), "National Language Weekly [Nanzheng edition]", 1943)
 
-"Draft Program for Phonetic Literacy Education" (co-authored with Li Jinxi, "National Language Weekly [Lanzhou edition]", 1946)
+"Draft Program for Phonetic Literacy Education" (co-authored with [Li Jinxi]({{ site.baseurl }}{% link people/lijinxi.md %}), "National Language Weekly [Lanzhou edition]", 1946)
 
 "Draft Interim Measures for Phonetic Literacy Education Demonstration Districts in Each County (City)" ("National Language Weekly [Lanzhou edition]", 1946)
 
@@ -183,11 +183,11 @@ Main Works and Publications:
 
 Collective works:
 
-"Commonly Used Characters of National Sounds", edited by Qian Xuantong, co-edited by Li Jinxi, Bai Dizhou, and Xiao Jialin, with Zhao Yuanren and Wang Yi as reviewers (1932)
+"Commonly Used Characters of National Sounds", edited by Qian Xuantong, co-edited by [Li Jinxi]({{ site.baseurl }}{% link people/lijinxi.md %}), [Bai Dizhou]({{ site.baseurl }}{% link people/baidizhou.md %}), and Xiao Jialin, with Zhao Yuanren and [Wang Yi]({{ site.baseurl }}{% link people/wangyi.md %}) as reviewers (1932)
 
 "People's Dictionary", edited by Xiao Jialin (July 1932)
 
-"New Rhymes of China", edited by Wei Jiangong, Li Jinxi, Lu Qian, and Xiao Jialin (1941)
+"New Rhymes of China", edited by Wei Jiangong, [Li Jinxi]({{ site.baseurl }}{% link people/lijinxi.md %}), Lu Qian, and Xiao Jialin (1941)
 
 Principal compiler of the "Xinhua Dictionary" (First Edition) (1954)
 

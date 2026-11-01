@@ -31,19 +31,19 @@ Contributions to compiling dictionaries and works:
 
 "Cihai Compendium" (one-volume edition), Zhonghua Book Company (first published March 1947).
 
-"Mandarin Dictionary" (four-volume set), edited by Li Jinxu, [Wang Yi]({{ site.baseurl }}{% link people/wangyi.md %}) (director), Xu Yishi, [Sun Chongyi]({{ site.baseurl }}{% link people/sunchongyi.md %}), Xu Shirong, Fu Yan, [An Wenzhuo]({{ site.baseurl }}{% link people/anwenzhuo.md %}), [Wang Shuda]({{ site.baseurl }}{% link people/wangshuda.md %}), Zhang Weiyu, He Meicen, Niu Jichang, Gao Jingcheng, Commercial Press (1948), reissued and renamed "Chinese Dictionary" in 1962.
+"Mandarin Dictionary" (four-volume set), edited by Li Jinxu, [Wang Yi]({{ site.baseurl }}{% link people/wangyi.md %}) (director), Xu Yishi, [Sun Chongyi]({{ site.baseurl }}{% link people/sunchongyi.md %}), Xu Shirong, Fu Yan, [An Wenzhuo]({{ site.baseurl }}{% link people/anwenzhuo.md %}), [Wang Shuda]({{ site.baseurl }}{% link people/wangshuda.md %}), Zhang Weiyu, [He Meicen]({{ site.baseurl }}{% link people/hemeicen.md %}), [Niu Jichang]({{ site.baseurl }}{% link people/niuwenqing.md %}), Gao Jingcheng, Commercial Press (1948), reissued and renamed "Chinese Dictionary" in 1962.
 
-"New Index of Radical Phonetic Dictionary," edited by Li Jinxu, Wang Yi (director), Xu Renyu, Fu Jieshi, Niu Jichang, Gao Jingcheng, He Meicen, Xu Shirong, Sun Chongyi, Wang Shuda, Zhang Naizhi, Zhang Weiyu, Commercial Press (first published August 1949).
+"New Index of Radical Phonetic Dictionary," edited by Li Jinxu, [Wang Yi]({{ site.baseurl }}{% link people/wangyi.md %}) (director), Xu Renyu, Fu Jieshi, [Niu Jichang]({{ site.baseurl }}{% link people/niuwenqing.md %}), Gao Jingcheng, [He Meicen]({{ site.baseurl }}{% link people/hemeicen.md %}), Xu Shirong, [Sun Chongyi]({{ site.baseurl }}{% link people/sunchongyi.md %}), [Wang Shuda]({{ site.baseurl }}{% link people/wangshuda.md %}), Zhang Naizhi, Zhang Weiyu, Commercial Press (first published August 1949).
 
-"Enriched New Chinese Rhyme" edited by Li Jinxu, Wang Shuda, He Meicen, Fu Yan, Sun Chongyi, Zhang Weiyu, Zhang Naizhi, Commercial Press (first edition July 1950).
+"Enriched New Chinese Rhyme" edited by Li Jinxu, [Wang Shuda]({{ site.baseurl }}{% link people/wangshuda.md %}), [He Meicen]({{ site.baseurl }}{% link people/hemeicen.md %}), Fu Yan, [Sun Chongyi]({{ site.baseurl }}{% link people/sunchongyi.md %}), Zhang Weiyu, Zhang Naizhi, Commercial Press (first edition July 1950).
 
-"Revised and Annotated Commonly Used Mandarin Vocabulary," edited by Li Jinxu, Wang Yi, He Meicen, Fu Jieshi, Niu Jichang, Gao Jingcheng, Xu Renyu, Xu Shirong, Sun Chongyi, Wang Shuda, Zhang Naizhi, Zhang Weiyu, Li Zengdu, Zhu Changqi, Commercial Press (first published August 1949).
+"Revised and Annotated Commonly Used Mandarin Vocabulary," edited by Li Jinxu, [Wang Yi]({{ site.baseurl }}{% link people/wangyi.md %}), [He Meicen]({{ site.baseurl }}{% link people/hemeicen.md %}), Fu Jieshi, [Niu Jichang]({{ site.baseurl }}{% link people/niuwenqing.md %}), Gao Jingcheng, Xu Renyu, Xu Shirong, [Sun Chongyi]({{ site.baseurl }}{% link people/sunchongyi.md %}), [Wang Shuda]({{ site.baseurl }}{% link people/wangshuda.md %}), Zhang Naizhi, Zhang Weiyu, Li Zengdu, Zhu Changqi, Commercial Press (first published August 1949).
 
-"Cultural Dictionary," edited by Li Jinxu, Wang Shuda, He Meicen, Gao Jingcheng, Sun Chongyi, Xu Renyu, Xu Shirong, Fu Jieshi, Commercial Press (October 1952).
+"Cultural Dictionary," edited by Li Jinxu, [Wang Shuda]({{ site.baseurl }}{% link people/wangshuda.md %}), [He Meicen]({{ site.baseurl }}{% link people/hemeicen.md %}), Gao Jingcheng, [Sun Chongyi]({{ site.baseurl }}{% link people/sunchongyi.md %}), Xu Renyu, Xu Shirong, Fu Jieshi, Commercial Press (October 1952).
 Here is the translation of the provided text:
 
 (First Edition)
 
-"Homophone Dictionary," edited by Li Jinxi, He Meicen, Sun Chongyi, Xu Shirong, Wang Shuda, Gao Jingcheng, and Fu Yan, Commercial Press (First edition, May 1956)
+"Homophone Dictionary," edited by [Li Jinxi]({{ site.baseurl }}{% link people/lijinxi.md %}), [He Meicen]({{ site.baseurl }}{% link people/hemeicen.md %}), [Sun Chongyi]({{ site.baseurl }}{% link people/sunchongyi.md %}), Xu Shirong, [Wang Shuda]({{ site.baseurl }}{% link people/wangshuda.md %}), Gao Jingcheng, and Fu Yan, Commercial Press (First edition, May 1956)
 
 "Discussion Collection on the Draft of the Chinese Phonetic Alphabet Scheme," Volume 1, Written Language Reform Press (First edition, January 1957)

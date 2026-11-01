@@ -23,7 +23,7 @@ Bai Dizhou was an active participant in the [Mandarin Movement]({{ site.baseurl 
 
 In April 1919, when the [Mandarin Unification Preparatory Society]({{ site.baseurl }}{% link glossary/preparation.md %}) was founded, he was appointed as a member.
 
-In 1920, while studying National Pronunciation at the Mandarin Training Institute, Bai Dizhou was recognized by Li Jinxi, who invited him to join in advancing the Mandarin Movement. In 1923, he accompanied Li Jinxi to Hangzhou to teach Mandarin.
+In 1920, while studying National Pronunciation at the Mandarin Training Institute, Bai Dizhou was recognized by [Li Jinxi]({{ site.baseurl }}{% link people/lijinxi.md %}), who invited him to join in advancing the Mandarin Movement. In 1923, he accompanied [Li Jinxi]({{ site.baseurl }}{% link people/lijinxi.md %}) to Hangzhou to teach Mandarin.
 
 When the Mandarin Society was reorganized as the Mandarin Unification Preparatory Committee in 1928, he served successively as member and executive member. During his tenure he made many trips to inspect Mandarin promotion work in various regions. As an executive member he submitted 16 proposals, including publishing popular reading materials, reviewing various Mandarin textbooks, urging the Ministries of Railways and Communications to promote National Phonetic telegraphs, promoting Zhuyin symbols, and surveying regional dialects.
 
@@ -35,7 +35,7 @@ From late 1932 to January 1933, Bai Dizhou suffered the enormous family tragedy 
 
 In the summer of 1934, Bai Dizhou accompanied Liu Bannong to Guisui to survey dialects, spending three weeks there. Upon their return Liu Bannong died of relapsing fever, and Bai Dizhou hurried to Chang'an to lecture on behalf of the Mandarin Society. On September 23, he went to Zhengzhou to attend the National Congress on Gwoyeu Romatzyh.
 
-On October 12, 1934, Bai Dizhou died at Lin Baoluo Hospital in Beiping and was later buried in the Western Hills. On the morning of November 11, 1934, the Mandarin Society held a memorial service for him, presided over by Li Jinxi, with Qian Xuantong delivering the eulogy. Friends and colleagues including Wei Jiangong, Luo Changpei, and Lao She published articles in his memory.
+On October 12, 1934, Bai Dizhou died at Lin Baoluo Hospital in Beiping and was later buried in the Western Hills. On the morning of November 11, 1934, the Mandarin Society held a memorial service for him, presided over by [Li Jinxi]({{ site.baseurl }}{% link people/lijinxi.md %}), with Qian Xuantong delivering the eulogy. Friends and colleagues including Wei Jiangong, Luo Changpei, and Lao She published articles in his memory.
 
 **Works and Publications**
 
@@ -44,13 +44,13 @@ In 1925, Bai Dizhou drafted the manuscript of "People's Dictionary" for the Mass
 **Books:**
 
 - "Elegance vs. Excess," co-authored with Tang Yue (1925)
-- "Learning Zhuyin Without a Teacher," co-authored with Li Jinxi, Beiping Cultural Society (1929)
+- "Learning Zhuyin Without a Teacher," co-authored with [Li Jinxi]({{ site.baseurl }}{% link people/lijinxi.md %}), Beiping Cultural Society (1929)
 - "Table of Modern Pronunciations of Guangyun Entering Tones," mimeographed edition (1930)
 - "Guangyun Concordance," mimeographed edition (1931)
 - "Guangyun Fanqie Phonetic Guide," mimeographed edition (1931)
-- "Vocabulary of Common Characters in National Pronunciation," Qian Xuantong (editor-in-chief), co-edited with Li Jinxi, Bai Dizhou, and Xiao Jialin, Mandarin Unification Preparatory Committee (1932)
+- "Vocabulary of Common Characters in National Pronunciation," Qian Xuantong (editor-in-chief), co-edited with [Li Jinxi]({{ site.baseurl }}{% link people/lijinxi.md %}), Bai Dizhou, and [Xiao Jialin]({{ site.baseurl }}{% link people/xiaojialin.md %}), Mandarin Unification Preparatory Committee (1932)
 - "Index to the Jingdian Shiwen and Yiqiejing Yinyi," supervised with Wei Jiangong (1932)
-- "Table of Common Characters Arranged by Rhyme in National Pronunciation," co-authored with Li Jinxi, Beiping Peiwenzhai (Renwen Bookstore) (1932)
+- "Table of Common Characters Arranged by Rhyme in National Pronunciation," co-authored with [Li Jinxi]({{ site.baseurl }}{% link people/lijinxi.md %}), Beiping Peiwenzhai (Renwen Bookstore) (1932)
 - "Standard National Pronunciation and Mandarin Phonograph Textbook," Zhonghua Book Company (1932)
 - "Report on the Dialects of Guanzhong" (posthumous), edited by Yu Shichang, Chinese Academy of Sciences (1954)
 
@@ -66,7 +66,7 @@ In 1925, Bai Dizhou drafted the manuscript of "People's Dictionary" for the Mass
 - "A Study on the Evolution of the Entering Tone in Northern Sounds," "Academic Quarterly of Women's Normal University," Vol. 2, No. 2 (1931)
 - "A Study on the Initial Classes of the Jiyun," "Bulletin of the Institute of History and Philology, Academia Sinica," Vol. 3, Part 2 (1931)
 - "Introducing the Vanguard of the Mandarin Movement—Lu Ganzhang," "Shijie Ribao Mandarin Weekly," Issues 10–12 (1931)
-- "Discussion on Retroflex Rhymes," Xiao Dichen, Zhao Yuanren, Bai Dizhou, "Shijie Ribao Mandarin Weekly," Issue 13 (1931)
+- "Discussion on Retroflex Rhymes," [Xiao Dichen]({{ site.baseurl }}{% link people/xiaojialin.md %}), Zhao Yuanren, Bai Dizhou, "Shijie Ribao Mandarin Weekly," Issue 13 (1931)
 - "A Casual Talk on Mandarin," "Shijie Ribao Mandarin Weekly," Issue 15 (1931)
 - "Discussion on 'Shi' and 'Qian'," Qi Tiehen, Bai Dizhou, Wei Jiangong, "Shijie Ribao Mandarin Weekly," Issues 14–17 (1931, 1932)
 - "A Comparative View of Zhongyuan Yinyun and Zhongzhou Yinyun," "Chenbao Xueyuan," Issue 18 (1931)

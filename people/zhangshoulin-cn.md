@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 张寿林
+aka: 任甫、仁甫、任父
 ref: zhangshoulin
 lang: 简体中文
 ---

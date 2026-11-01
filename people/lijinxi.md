@@ -19,7 +19,7 @@ Li devoted nearly seventy years to research and teaching in Chinese linguistics.
 
 Li Jinxi devoted his entire life to the National Language Movement, the promotion of Mandarin, and Chinese character reform. From 1916 onward, he continually served as one of the most influential initiators, leaders, or organizational members in the movement and in script reform. He was personally involved in every aspect—lecturing, teaching, editing textbooks and dictionaries, designing innovative schemes, writing books and articles, lobbying the government, and supervising local implementation.
 
-- **Chinese National Language Research Association**: As early as 1916, he and his colleagues organized the "Chinese National Language Research Association," advocating "unification of the national language" and "consistency between spoken and written language."
+- **Chinese [National Language Research Association]({{ site.baseurl }}{% link glossary/research.md %})**: As early as 1916, he and his colleagues organized the "Chinese National Language Research Association," advocating "unification of the national language" and "consistency between spoken and written language."
 - **[National Language Unification Preparatory Committee]({{ site.baseurl }}{% link glossary/preparation.md %})**: In 1918, he drafted the "Plan for Advancing National Language Research" as the guiding program of the forthcoming committee. He participated in the revision of Zhuyin Fuhao and, together with Qian Xuantong, proposed that first-grade primary students learn Zhuyin Fuhao. He co-edited the *National Language Monthly* with Qian Xuantong, and put forward the concept of "conjoined writing of word classes" to overcome the ambiguity of Chinese characters.
 - **[Society of a Few Men]({{ site.baseurl }}{% link glossary/persons.md %}) and Gwoyeu Romatzyh**: In 1926, together with Qian Xuantong, Zhao Yuanren, and other members of the Society of a Few Men, Li drafted the Gwoyeu Romatzyh scheme, formally promulgated by the National Government in 1928—an important step in the romanization of Chinese characters.
 - ***Outline History of the National Language Movement***: In 1934, his *Outline History of the National Language Movement* became a programmatic document of the movement.
@@ -54,12 +54,12 @@ In scholarship, Li Jinxi was rigorous, insatiably curious, persevering, and ecle
 - *Six Lectures on the Outline of National Language Grammar* (Zhonghua Book Company, 1925)
 - *Chart of the Changing Currents of Chinese over Four Thousand Years* (Beijing Cultural Society, 1926)
 - *Model Readings in the National Language* (Zhonghua Book Company, 1928)
-- *Self-Instruction in Zhuyin Fuhao*, co-edited with Bai Dizhou (Beiping Cultural Book Society, 1929)
+- *Self-Instruction in Zhuyin Fuhao*, co-edited with [Bai Dizhou]({{ site.baseurl }}{% link people/baidizhou.md %}) (Beiping Cultural Book Society, 1929)
 - *Comparative Grammar* (Beiping Authors' Bookstore, 1933)
 - *Revival Handbook of Speech* (Commercial Press, 1933)
 - *The National Language Movement* (Commercial Press, 1933)
 - *Outline History of the National Language Movement* (Commercial Press, 1934)
-- *New Peiwen Rhymes*, co-edited with Bai Dizhou (Beiping Renwen Bookstore, 1934)
+- *New Peiwen Rhymes*, co-edited with [Bai Dizhou]({{ site.baseurl }}{% link people/baidizhou.md %}) (Beiping Renwen Bookstore, 1934)
 - *A Treatise on Rhetorical Comparison and Metaphor* (Commercial Press, 1936)
 - *Zhuyin-Annotated Chinese Characters* (Commercial Press, 1936)
 - *Zhuyin Fuhao and Simplified Characters* (Commercial Press, 1937)

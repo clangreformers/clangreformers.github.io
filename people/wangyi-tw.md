@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 汪怡,字一庵
+aka: 怡安、怡庵
 ref: wangyi
 lang: 繁體中文
 ---
@@ -48,7 +49,7 @@ lang: 繁體中文
 - 《注音符號講義》 1943年（與[孫崇義]({{ site.baseurl }}{% link people/sunchongyi-tw.md %})、徐世榮合作）
 - 《國語辭典》（八本版） 1943年（主編）
 - 《詞牌新編》 1943年
-- 《新部首索引[國音字典]({{ site.baseurl }}{% link glossary/national-pronounciation-dict-tw.md %})》 1949年（黎錦熙主編，汪怡主稿）
+- 《新部首索引[國音字典]({{ site.baseurl }}{% link glossary/national-pronounciation-dict-tw.md %})》 1949年（[黎錦熙]({{ site.baseurl }}{% link people/lijinxi-tw.md %})主編，汪怡主稿）
 - 《集契集》 1960年
 
 ### 論文

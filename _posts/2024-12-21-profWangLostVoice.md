@@ -48,7 +48,7 @@ When my father traveled south to support language education, Principal An of Hai
 
 My father's old friend, Uncle [Wang Yuchuan]({{ site.baseurl }}{% link people/wangyuchuan.md %}), once said:
 
-"When something is explained by Mr. Wang [Fuqing]({{ site.baseurl }}{% link people/wangshoukang.md %}), no matter how many times—ten times, even—people never tire of listening."
+"When something is explained by Mr. [Wang Fuqing]({{ site.baseurl }}{% link people/wangshoukang.md %}), no matter how many times—ten times, even—people never tire of listening."
 
 Professor Liang Rongruo, a classmate of my father's from Beijing Normal University and later his colleague in founding the Mandarin Daily News in Taiwan, wrote in an article:
 
@@ -64,9 +64,9 @@ He spoke with power and clarity, his voice resonating across a crowd of hundreds
 
 I can honestly say that after hearing Mr. Wang's speeches, I have never heard another speaker more outstanding than him."
 
-Mr. Zhong Lusheng, a graduate of the Mandarin Training Program at the Normal University, wrote an article titled "Full of Energy: My Impressions of Teacher Wang Fuqing":
+Mr. Zhong Lusheng, a graduate of the Mandarin Training Program at the Normal University, wrote an article titled "Full of Energy: My Impressions of Teacher [Wang Fuqing]({{ site.baseurl }}{% link people/wangshoukang.md %})":
 
-"Nine years ago, in our very first class with Teacher Wang Shoukang, he began by stating the two main objectives of the Mandarin Movement: 'Unity of spoken and written language, and the unification of Mandarin.' He recounted the past successes and failures of the movement. At times, he jumped with excitement; at other times, he hung his head in despair. Sometimes, he gritted his teeth in frustration; other times, he was overcome with sorrow.
+"Nine years ago, in our very first class with Teacher [Wang Shoukang]({{ site.baseurl }}{% link people/wangshoukang.md %}), he began by stating the two main objectives of the Mandarin Movement: 'Unity of spoken and written language, and the unification of Mandarin.' He recounted the past successes and failures of the movement. At times, he jumped with excitement; at other times, he hung his head in despair. Sometimes, he gritted his teeth in frustration; other times, he was overcome with sorrow.
 
 You could see the light glimmering on his forehead, his trembling hands flying through the air, and his short, stout body swaying energetically as he spoke non-stop. At that moment, a surge of heat filled my chest, and I clenched my fists and gritted my teeth, caught up in his emotions. Glancing around at my classmates, every one of them was riveted, brimming with passion. We were deeply moved by his enthusiasm for language education and his extraordinary talent for public speaking!"
 
@@ -124,7 +124,7 @@ Many years later, after my father passed away, my mother came to stay with us in
 
 At the time, Taiwan Normal University didn't have a policy for retirement due to illness, and the Mandarin Daily News was already struggling as a private institution. They couldn't provide much help. However, my father's students—Zhang Xiaoyu, Fang Zushen, Wang Tianchang, Huang Zengyu, and Zhong Lusheng—had all earned qualifications as university lecturers a few years after graduation.
 
-They reached an agreement with the university: since Professor Wang was ill and needed a period of rest, his basic language courses at Taiwan Normal University would be taught voluntarily by these lecturers. This allowed Professor Wang Shoukang to retain his faculty position.
+They reached an agreement with the university: since Professor Wang was ill and needed a period of rest, his basic language courses at Taiwan Normal University would be taught voluntarily by these lecturers. This allowed Professor [Wang Shoukang]({{ site.baseurl }}{% link people/wangshoukang.md %}) to retain his faculty position.
 
 I still remember Senior Brother Zhang Xiaoyu visiting our home every month, respectfully handing an envelope to my mother.
 

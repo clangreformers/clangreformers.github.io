@@ -51,7 +51,7 @@ References:
 
 "Flowing Style" by Hu Meifeng, published by China Youth Publishing Group
 
-"History of the National Language Movement" by Li Jinxi, published by the Commercial Press
+"History of the National Language Movement" by [Li Jinxi]({{ site.baseurl }}{% link people/lijinxi.md %}), published by the Commercial Press
 
 
 

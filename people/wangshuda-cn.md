@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 王述达，字善愷
+aka: 善恺
 ref: wangshuda
 lang: 简体中文
 ---
@@ -13,7 +14,7 @@ lang: 简体中文
 
 ![image](/assets/imgs/wangshudaNChineseDictionaryCompilationBureau1930s.jpg "20世纪30年代与中国大辞典编纂处的同事在一起，左起：徐世荣、孙崇义、汪怡、王述达、何梅岑"){: width="400" }
 
-20世纪30年代与[中国大辞典编纂处]({{ site.baseurl }}{% link glossary/compilation-cn.md %})的同事在一起，左起：徐世荣、[孙崇义]({{ site.baseurl }}{% link people/sunchongyi-cn.md %})、[汪怡]({{ site.baseurl }}{% link people/wangyi-cn.md %})、王述达、何梅岑
+20世纪30年代与[中国大辞典编纂处]({{ site.baseurl }}{% link glossary/compilation-cn.md %})的同事在一起，左起：徐世荣、[孙崇义]({{ site.baseurl }}{% link people/sunchongyi-cn.md %})、[汪怡]({{ site.baseurl }}{% link people/wangyi-cn.md %})、王述达、[何梅岑]({{ site.baseurl }}{% link people/hemeicen-cn.md %})
 
 王述达是中国的语言文字学家、训诂家、教育家，他一生投入了他所热爱的语言文字和教育事业，曾先后在北京师范大学附中、北京师范大学、河北师范大学等多所学校任国文老师。他在中国大辞典编纂处、中科院语言文字研究所等处工作，编写或参与编写了十几部教材、重要辞书，在中国的教育和语言文字学上都有着不可替代的地位，对白话文推广及教学作出了重要贡献。王述达在年轻时即追求民主、进步的新思想，去世后将自己毕生所藏书籍全部捐献给河北师范大学图书馆。
 
@@ -21,7 +22,7 @@ lang: 简体中文
 
 1904年8月2日，王述达出生在北京一个书香门第的家庭，其父王松寿毕业于京师大学堂，是中国最早的中学理化老师
 
-1922年考入北京师范大学国文系，受教于钱玄同、黎锦熙、高步瀛、周树人、林语堂等人
+1922年考入北京师范大学国文系，受教于钱玄同、[黎锦熙]({{ site.baseurl }}{% link people/lijinxi-cn.md %})、高步瀛、周树人、林语堂等人
 
 1928年大学毕业即赴绥远第一中学任教员
 
@@ -41,7 +42,7 @@ lang: 简体中文
 
 1949.2-1950.6 北京师范大学 中文系 讲师
 
-1951.5 由黎锦熙、叶丁易介绍加入九三学社
+1951.5 由[黎锦熙]({{ site.baseurl }}{% link people/lijinxi-cn.md %})、叶丁易介绍加入九三学社
 
 1956.7-1962.11 中国科学院语言研究所词典编辑室 编辑
 
@@ -59,25 +60,25 @@ lang: 简体中文
 
 《群雅及方言总索引》十二卷 王述达等督修 1932年9月成稿，未缮印，稿片汇入中国大辞典编纂处整理部
 
-《[国语辞典]({{ site.baseurl }}{% link glossary/national-language-dict-cn.md %})》（全八册）汪怡主编，徐一士、孙崇义、王述达、彭心如、徐世荣、何梅岑、[傅严]({{ site.baseurl }}{% link people/fuyan-cn.md %})、牛文青编纂 商务印书馆印行（1945年）
+《[国语辞典]({{ site.baseurl }}{% link glossary/national-language-dict-cn.md %})》（全八册）汪怡主编，徐一士、[孙崇义]({{ site.baseurl }}{% link people/sunchongyi-cn.md %})、王述达、彭心如、徐世荣、[何梅岑]({{ site.baseurl }}{% link people/hemeicen-cn.md %})、[傅严]({{ site.baseurl }}{% link people/fuyan-cn.md %})、[牛文青]({{ site.baseurl }}{% link people/niuwenqing-cn.md %})编纂 商务印书馆印行（1945年）
 
-《国语辞典》（全四册）黎锦熙主编，汪怡（主任）、徐一士、孙崇义、徐世荣、傅严、[安文倬]({{ site.baseurl }}{% link people/anwenzhuo-cn.md %})、王述达、张蔚瑜、何梅岑、牛继昌、高景成编纂 商务印书馆（1948年），1962年改编再版更名为《汉语词典》
+《国语辞典》（全四册）[黎锦熙]({{ site.baseurl }}{% link people/lijinxi-cn.md %})主编，[汪怡]({{ site.baseurl }}{% link people/wangyi-cn.md %})（主任）、徐一士、[孙崇义]({{ site.baseurl }}{% link people/sunchongyi-cn.md %})、徐世荣、[傅严]({{ site.baseurl }}{% link people/fuyan-cn.md %})、[安文倬]({{ site.baseurl }}{% link people/anwenzhuo-cn.md %})、王述达、张蔚瑜、[何梅岑]({{ site.baseurl }}{% link people/hemeicen-cn.md %})、[牛继昌]({{ site.baseurl }}{% link people/niuwenqing-cn.md %})、高景成编纂 商务印书馆（1948年），1962年改编再版更名为《汉语词典》
 
-《新部首索引[国音字典]({{ site.baseurl }}{% link glossary/national-pronounciation-dict-cn.md %})》黎锦熙主编，汪怡（主任）、徐仁钰、[傅介石]({{ site.baseurl }}{% link people/fuyan-cn.md %})、牛继昌、高景成、何梅岑、徐世荣、孙崇义、王述达、张迺芝、张蔚瑜编校，商务印书馆（1949年8月初版）
+《新部首索引[国音字典]({{ site.baseurl }}{% link glossary/national-pronounciation-dict-cn.md %})》[黎锦熙]({{ site.baseurl }}{% link people/lijinxi-cn.md %})主编，[汪怡]({{ site.baseurl }}{% link people/wangyi-cn.md %})（主任）、徐仁钰、[傅介石]({{ site.baseurl }}{% link people/fuyan-cn.md %})、[牛继昌]({{ site.baseurl }}{% link people/niuwenqing-cn.md %})、高景成、[何梅岑]({{ site.baseurl }}{% link people/hemeicen-cn.md %})、徐世荣、[孙崇义]({{ site.baseurl }}{% link people/sunchongyi-cn.md %})、王述达、张迺芝、张蔚瑜编校，商务印书馆（1949年8月初版）
 
-《增注中华新韵》 黎锦熙主编，王述达、何梅岑、傅岩、孙崇义、张蔚瑜、张廼芝编校，商务印书馆（1950年7月第一版）
+《增注中华新韵》 [黎锦熙]({{ site.baseurl }}{% link people/lijinxi-cn.md %})主编，王述达、[何梅岑]({{ site.baseurl }}{% link people/hemeicen-cn.md %})、傅岩、[孙崇义]({{ site.baseurl }}{% link people/sunchongyi-cn.md %})、张蔚瑜、张廼芝编校，商务印书馆（1950年7月第一版）
 
-《增订注解 国音常用字汇》 黎锦熙主编，汪怡、何梅岑、付介石、牛继昌、高景成、徐仁钰、徐世荣、孙崇义、王述达、张廼之、张蔚瑜、李曾笃、诸昌祁编校 商务印书馆（1949年8月初版）
+《增订注解 国音常用字汇》 [黎锦熙]({{ site.baseurl }}{% link people/lijinxi-cn.md %})主编，[汪怡]({{ site.baseurl }}{% link people/wangyi-cn.md %})、[何梅岑]({{ site.baseurl }}{% link people/hemeicen-cn.md %})、付介石、[牛继昌]({{ site.baseurl }}{% link people/niuwenqing-cn.md %})、高景成、徐仁钰、徐世荣、[孙崇义]({{ site.baseurl }}{% link people/sunchongyi-cn.md %})、王述达、张廼之、张蔚瑜、李曾笃、诸昌祁编校 商务印书馆（1949年8月初版）
 
-《学文化字典》 黎锦熙主编，王述达、何梅岑、高景成、孙崇义、徐仁钰、徐世荣、傅介石编纂 商务印书馆（1952年10月第一版）
+《学文化字典》 [黎锦熙]({{ site.baseurl }}{% link people/lijinxi-cn.md %})主编，王述达、[何梅岑]({{ site.baseurl }}{% link people/hemeicen-cn.md %})、高景成、[孙崇义]({{ site.baseurl }}{% link people/sunchongyi-cn.md %})、徐仁钰、徐世荣、[傅介石]({{ site.baseurl }}{% link people/fuyan-cn.md %})编纂 商务印书馆（1952年10月第一版）
 
-《同音字典》 黎锦熙主编，何梅岑、孙崇义、徐世荣、王述达、高景成、傅严编纂 商务印书馆（1956年5月第一版）
+《同音字典》 [黎锦熙]({{ site.baseurl }}{% link people/lijinxi-cn.md %})主编，[何梅岑]({{ site.baseurl }}{% link people/hemeicen-cn.md %})、[孙崇义]({{ site.baseurl }}{% link people/sunchongyi-cn.md %})、徐世荣、王述达、高景成、傅严编纂 商务印书馆（1956年5月第一版）
 
 《汉语拼音方案草案讨论集》第一辑 文字改革出版社（1957年1月第一版）
 
 《现代汉语词典》试印本 (1956—1960年)，王述达为主要编纂人之一
 
-《语文知识辞典》孙崇义、王述达牵头，河北师范学院编写组编写 河北人民出版社（1984年8月第一版）
+《语文知识辞典》[孙崇义]({{ site.baseurl }}{% link people/sunchongyi-cn.md %})、王述达牵头，河北师范学院编写组编写 河北人民出版社（1984年8月第一版）
 
 人物评价
 

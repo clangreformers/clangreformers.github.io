@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 沈颐，原名寿同
+aka: 朶山、朵山
 ref: shenyi
 lang: 简体中文
 ---
@@ -15,6 +16,6 @@ lang: 简体中文
 
 沈颐一度在北京大学法预科任教，他是国语统一筹备委员会委员
 
-1928年，沈颐应黎锦熙邀请，加入[中国大辞典编纂处]({{ site.baseurl }}{% link glossary/compilation-cn.md %})
+1928年，沈颐应[黎锦熙]({{ site.baseurl }}{% link people/lijinxi-cn.md %})邀请，加入[中国大辞典编纂处]({{ site.baseurl }}{% link glossary/compilation-cn.md %})
 
 1932年，沈颐应陆费逵邀请重回中华书局，担任辞典部主任和《辞海》的主编

@@ -43,7 +43,7 @@ timeline_era: 2
 
 参考文献：
 
-《国语运动史纲》  黎锦熙著  商务印书馆
+《国语运动史纲》  [黎锦熙]({{ site.baseurl }}{% link people/lijinxi-cn.md %})著  商务印书馆
 
 《汉字王国》 （美）石静远（JingTsu）著  林华译   中信出版集团
 

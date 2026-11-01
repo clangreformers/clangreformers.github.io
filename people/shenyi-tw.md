@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 沈頤
+aka: 壽同、朶山、朵山
 ref: shenyi
 lang: 繁體中文
 ---
@@ -15,6 +16,6 @@ lang: 繁體中文
 
 沈頤一度在北京大學法預科任教，他是國語統一籌備委員會委員
 
-1928年，沈頤應黎錦熙邀請，加入[中國大辭典編纂處]({{ site.baseurl }}{% link glossary/compilation-tw.md %})
+1928年，沈頤應[黎錦熙]({{ site.baseurl }}{% link people/lijinxi-tw.md %})邀請，加入[中國大辭典編纂處]({{ site.baseurl }}{% link glossary/compilation-tw.md %})
 
 1932年，沈頤應陸費逵邀請重回中華書局，擔任辭典部主任和《辭海》的主編

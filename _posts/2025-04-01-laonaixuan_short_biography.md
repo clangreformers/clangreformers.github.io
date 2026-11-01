@@ -86,4 +86,4 @@ References:
 
 "Promotion of Laonai Xuan" by Chen Yong, Huawen Publishing House, 2022
 
-"Outline of the History of the National Language Movement" by Li Jinxi, Commercial Press, 2011
+"Outline of the History of the National Language Movement" by [Li Jinxi]({{ site.baseurl }}{% link people/lijinxi.md %}), Commercial Press, 2011

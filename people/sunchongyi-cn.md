@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 孙崇义, 字谓宜
+aka: 渭宜
 ref: sunchongyi
 lang: 简体中文
 ---
@@ -27,7 +28,7 @@ lang: 简体中文
 
 1934-1956年 中国大辞典编纂处编纂员、总干事
 
-1951.5 由黎锦熙、叶丁易介绍加入九三学社
+1951.5 由[黎锦熙]({{ site.baseurl }}{% link people/lijinxi-cn.md %})、叶丁易介绍加入九三学社
 
 1956.7-1962.11 中国科学院语言研究所词典编辑室 高级编辑
 
@@ -41,16 +42,16 @@ lang: 简体中文
 
 《[国语辞典]({{ site.baseurl }}{% link glossary/national-language-dict-cn.md %})》 商务印书馆1948年版,1962年再版更名为《汉语词典》
 
-《新部首索引[国音字典]({{ site.baseurl }}{% link glossary/national-pronounciation-dict-cn.md %})》商务印书馆1949年8月初版，黎锦熙主编，[汪怡]({{ site.baseurl }}{% link people/wangyi-cn.md %})、徐仁钰、付介石、牛继昌、高景成、何梅岑、徐世荣、孙崇义、[王述达]({{ site.baseurl }}{% link people/wangshuda-cn.md %})、张廼之、张蔚瑜编校
+《新部首索引[国音字典]({{ site.baseurl }}{% link glossary/national-pronounciation-dict-cn.md %})》商务印书馆1949年8月初版，[黎锦熙]({{ site.baseurl }}{% link people/lijinxi-cn.md %})主编，[汪怡]({{ site.baseurl }}{% link people/wangyi-cn.md %})、徐仁钰、付介石、[牛继昌]({{ site.baseurl }}{% link people/niuwenqing-cn.md %})、高景成、[何梅岑]({{ site.baseurl }}{% link people/hemeicen-cn.md %})、徐世荣、孙崇义、[王述达]({{ site.baseurl }}{% link people/wangshuda-cn.md %})、张廼之、张蔚瑜编校
 
-《增注中华新韵》 商务印书馆1950年7月版，黎锦熙主编，王述达、何梅岑、付介石、孙崇义、张蔚瑜、张廼芝编校
+《增注中华新韵》 商务印书馆1950年7月版，[黎锦熙]({{ site.baseurl }}{% link people/lijinxi-cn.md %})主编，[王述达]({{ site.baseurl }}{% link people/wangshuda-cn.md %})、[何梅岑]({{ site.baseurl }}{% link people/hemeicen-cn.md %})、付介石、孙崇义、张蔚瑜、张廼芝编校
 
 《增订注解 国音常用字汇》 
-商务印书馆1950年8月版，黎锦熙主编，汪怡、何梅岑、付介石、牛继昌、高景成、徐仁钰、徐世荣、孙崇义、王述达、张廼之、张蔚瑜、李曾笃、诸昌祁编校 
+商务印书馆1950年8月版，[黎锦熙]({{ site.baseurl }}{% link people/lijinxi-cn.md %})主编，[汪怡]({{ site.baseurl }}{% link people/wangyi-cn.md %})、[何梅岑]({{ site.baseurl }}{% link people/hemeicen-cn.md %})、付介石、[牛继昌]({{ site.baseurl }}{% link people/niuwenqing-cn.md %})、高景成、徐仁钰、徐世荣、孙崇义、[王述达]({{ site.baseurl }}{% link people/wangshuda-cn.md %})、张廼之、张蔚瑜、李曾笃、诸昌祁编校 
 
-《学文化字典》 商务印书馆1952年10月版，黎锦熙主编，王述达、何梅岑、高景成、孙崇义、徐仁钰、徐世荣、付介石编纂
+《学文化字典》 商务印书馆1952年10月版，[黎锦熙]({{ site.baseurl }}{% link people/lijinxi-cn.md %})主编，[王述达]({{ site.baseurl }}{% link people/wangshuda-cn.md %})、[何梅岑]({{ site.baseurl }}{% link people/hemeicen-cn.md %})、高景成、孙崇义、徐仁钰、徐世荣、付介石编纂
 
-《同音字典》 黎锦熙主编，何梅岑、孙崇义、徐世荣、王述达、高景成、付岩编纂，商务印书馆1956年5月版
+《同音字典》 [黎锦熙]({{ site.baseurl }}{% link people/lijinxi-cn.md %})主编，[何梅岑]({{ site.baseurl }}{% link people/hemeicen-cn.md %})、孙崇义、徐世荣、[王述达]({{ site.baseurl }}{% link people/wangshuda-cn.md %})、高景成、付岩编纂，商务印书馆1956年5月版
 
 《现代汉语词典》试印本 (1956—1960年)，孙崇义先生是主要编纂人员
 

@@ -53,11 +53,11 @@ Stories in the Painting
 
 Qing Dynasty Princess
 
-The next day, I finally had the opportunity to accompany Uncle Wang, Sis Jing, and their goddaughter Nianyu to Yangmingshan to pay respects at the graves of Uncle Wang's parents. The cemetery was solemn and elegant, with the words "Everlasting Teachings" inscribed above the tombstone. Mr. Wang Shoukang devoted his life to promoting the Mandarin language, making this inscription a fitting tribute. With Mandarin now fully established in Taiwan, Professor Wang's spirit would surely find comfort.
+The next day, I finally had the opportunity to accompany Uncle Wang, Sis Jing, and their goddaughter Nianyu to Yangmingshan to pay respects at the graves of Uncle Wang's parents. The cemetery was solemn and elegant, with the words "Everlasting Teachings" inscribed above the tombstone. Mr. [Wang Shoukang]({{ site.baseurl }}{% link people/wangshoukang.md %}) devoted his life to promoting the Mandarin language, making this inscription a fitting tribute. With Mandarin now fully established in Taiwan, Professor Wang's spirit would surely find comfort.
 
 ![image](/assets/imgs/wangshoukang_memorial.jpg "Paying Respects at the Grave of Wang Shoukang and His Wife with Uncle Wang"){: width="200" }
 
-Paying Respects at the Grave of Wang Shoukang and His Wife with Uncle Wang
+Paying Respects at the Grave of [Wang Shoukang]({{ site.baseurl }}{% link people/wangshoukang.md %}) and His Wife with Uncle Wang
 
 I asked Uncle Wang many questions about his father and his friends, as well as the stories of those who, together with his father, went to Taiwan to promote the national language. Uncle Wang and many of his father's friends who remained on the mainland also lost contact. This time, he also learned from me that two of his best friends who stayed on the mainland had died under abnormal circumstances during the Cultural Revolution in 1968.
 

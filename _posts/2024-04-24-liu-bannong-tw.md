@@ -46,5 +46,5 @@ timeline_era: 3
 
 《流風》胡美風著 中國青年出版社
 
-《國語運動史綱》 黎錦熙著 商務印書館
+《國語運動史綱》 [黎錦熙]({{ site.baseurl }}{% link people/lijinxi-tw.md %})著 商務印書館
 

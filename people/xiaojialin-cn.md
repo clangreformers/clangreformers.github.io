@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 萧家霖, 字迪忱
+aka: 筱村
 ref: xiaojialin
 lang: 简体中文
 ---
@@ -19,7 +20,7 @@ lang: 简体中文
 
 1925年6月始，任《国语周刊》撰稿人。
 
-1926年9月3日-10月29日，与钱玄同、黎锦熙、[汪怡]({{ site.baseurl }}{% link people/wangyi-cn.md %})、[白涤洲]({{ site.baseurl }}{% link people/baidizhou-cn.md %})五人完成对《增修[国音字典]({{ site.baseurl }}{% link glossary/national-pronounciation-dict-cn.md %})》的逐字审音工作。
+1926年9月3日-10月29日，与钱玄同、[黎锦熙]({{ site.baseurl }}{% link people/lijinxi-cn.md %})、[汪怡]({{ site.baseurl }}{% link people/wangyi-cn.md %})、[白涤洲]({{ site.baseurl }}{% link people/baidizhou-cn.md %})五人完成对《增修[国音字典]({{ site.baseurl }}{% link glossary/national-pronounciation-dict-cn.md %})》的逐字审音工作。
 
 1928年，国语统一筹备会改组为国语统一筹备委员会，任常委。这年，[中国大辞典编纂处]({{ site.baseurl }}{% link glossary/compilation-cn.md %})正式开展工作，萧家霖任纂著部《民众辞典》股主任。
 
@@ -27,7 +28,7 @@ lang: 简体中文
 
 1929年9月4日《国语罗马字周刊》发刊，萧家霖任主编。该刊物于1930年9月因印刷不便停刊，共出52期。1932年6月4日复刊后，初为周刊，自第37期以后改为双周刊。
 
-1930年7月，"国语罗马字促进会"成立，由萧家霖主持。当时会员只有十几人，如[杜子劲]({{ site.baseurl }}{% link people/duzijin-cn.md %})、[王茀青]({{ site.baseurl }}{% link people/wangshoukang-cn.md %})、[王玉川]({{ site.baseurl }}{% link people/wangyuchuan-cn.md %})、李中昊等。《国语罗马字周刊》及暑期讲习班等均由该会主办。
+1930年7月，"[国语罗马字促进会]({{ site.baseurl }}{% link glossary/gr-promotion-cn.md %})"成立，由萧家霖主持。当时会员只有十几人，如[杜子劲]({{ site.baseurl }}{% link people/duzijin-cn.md %})、[王茀青]({{ site.baseurl }}{% link people/wangshoukang-cn.md %})、[王玉川]({{ site.baseurl }}{% link people/wangyuchuan-cn.md %})、李中昊等。《国语罗马字周刊》及暑期讲习班等均由该会主办。
 
 1931年，萧家霖任山东省立民众教育馆实验部研究股主任。9月，在国语统一筹备会第十三次常委会上专题汇报了国语罗马字讲习班情况。
 
@@ -43,7 +44,7 @@ lang: 简体中文
 
 1946年4月，教育部成立台湾省国语推行委员会，任委员，为台湾的国语推行做了大量后台支持工作。
 
-1947年，任《国语小报》社长和发行人。
+1947年，任《[国语小报]({{ site.baseurl }}{% link glossary/little_chinese_daily-cn.md %})》社长和发行人。
 
 1950年12月，萧家霖任职于人民教育出版社下属的新华辞书社务委员会委员，协助社长魏建功负责辞书社日常工作并着手部首排列的《新华字典》编纂工作。1954年11月，该版本的《新华字典》正式出版。
 
@@ -53,7 +54,7 @@ lang: 简体中文
 
 ![image](/assets/imgs/xiaojialin_2.jpeg "1957年夏，《现代汉语词典》编辑室全体人员在办公室前合影") {: width="400" }
 
-1957年夏，《现代汉语词典》编辑室全体人员在办公室前合影，二排右一为[王述达]({{ site.baseurl }}{% link people/wangshuda-cn.md %})，右二为萧家霖，左二为何梅岑；三排左一为[傅严]({{ site.baseurl }}{% link people/fuyan-cn.md %})，左六为[贺澹江]({{ site.baseurl }}{% link people/hedanjiang-cn.md %})，左七为[孙崇义]({{ site.baseurl }}{% link people/sunchongyi-cn.md %})。
+1957年夏，《现代汉语词典》编辑室全体人员在办公室前合影，二排右一为[王述达]({{ site.baseurl }}{% link people/wangshuda-cn.md %})，右二为萧家霖，左二为[何梅岑]({{ site.baseurl }}{% link people/hemeicen-cn.md %})；三排左一为[傅严]({{ site.baseurl }}{% link people/fuyan-cn.md %})，左六为[贺澹江]({{ site.baseurl }}{% link people/hedanjiang-cn.md %})，左七为[孙崇义]({{ site.baseurl }}{% link people/sunchongyi-cn.md %})。
 
 主要著作和文献：
 
@@ -113,7 +114,7 @@ lang: 简体中文
 
 《复音语词连写的条例》（《民众周刊》1934年）
 
-《白涤洲先生挽词》（与孔凡均合撰，1934年）
+《[白涤洲]({{ site.baseurl }}{% link people/baidizhou-cn.md %})先生挽词》（与[孔凡均]({{ site.baseurl }}{% link people/kongfanjun-cn.md %})合撰，1934年）
 
 《县民教馆工作的问题和出路》（《山东民众教育月刊》1935年）
 
@@ -123,7 +124,7 @@ lang: 简体中文
 
 《汉字改革问题的回顾与展望》（1935年）
 
-《民众学校之扩展与演进》（与樊月培合撰，《山东民众教育月刊》1935年）
+《民众学校之扩展与演进》（与[樊月培]({{ site.baseurl }}{% link people/fanyuepei-cn.md %})合撰，《山东民众教育月刊》1935年）
 
 《乡教通研会第二年的作法》（《小学与社会》1935年）
 
@@ -171,9 +172,9 @@ lang: 简体中文
 
 《为荣誉军人的文化着想》（《协导》1943年）
 
-《大学中学教科用书中音译直科学名词及地名人名等应一律用注音符号排写案》（与黎锦熙合撰，《国语周刊【南郑版】》1943年）
+《大学中学教科用书中音译直科学名词及地名人名等应一律用注音符号排写案》（与[黎锦熙]({{ site.baseurl }}{% link people/lijinxi-cn.md %})合撰，《国语周刊【南郑版】》1943年）
 
-《注音识字教育实施纲领草案》（与黎锦熙合撰，《国语周刊【兰州版】》1946年）
+《注音识字教育实施纲领草案》（与[黎锦熙]({{ site.baseurl }}{% link people/lijinxi-cn.md %})合撰，《国语周刊【兰州版】》1946年）
 
 《各县（市）注音识字教育表证区暂行办法草案》（《国语周刊【兰州版】》1946年）
 
@@ -183,11 +184,11 @@ lang: 简体中文
 
 集体著作：
 
-《国音常用字汇》，钱玄同主编，黎锦熙、白涤洲、萧家霖合编，赵元任、汪怡参订（1932年）
+《国音常用字汇》，钱玄同主编，[黎锦熙]({{ site.baseurl }}{% link people/lijinxi-cn.md %})、[白涤洲]({{ site.baseurl }}{% link people/baidizhou-cn.md %})、萧家霖合编，赵元任、汪怡参订（1932年）
 
 《民众辞典》，萧家霖主编（1932年7月）
 
-《中华新韵》，魏建功、黎锦熙、卢前、萧家林编辑（1941年）
+《中华新韵》，魏建功、[黎锦熙]({{ site.baseurl }}{% link people/lijinxi-cn.md %})、卢前、萧家林编辑（1941年）
 
 《新华字典》（第一版）主要编纂人（1954年）
 

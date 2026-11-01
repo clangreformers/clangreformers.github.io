@@ -11,7 +11,7 @@ author: 王昀
 
 作者：王昀
 
-《国语小报》是台湾《国语日报》的前身，很多资料显示它是由魏建功创办的，这多与《国语日报》的首任社长是魏建功有关。事实上，它是由国民政府教育部委托[中国大辞典编纂处]({{ site.baseurl }}{% link glossary/compilation-cn.md %})办理的，推动此事的人是黎锦熙先生。1946年，黎锦熙由西北归平，此时的他既是[国语推行委员会]({{ site.baseurl }}{% link glossary/committee-cn.md %})常委，又兼任北平师范学院（即北京师范大学）教务长兼国文系主任。[国语运动]({{ site.baseurl }}{% link glossary/movement-cn.md %})经历了十年的停顿期，原国语会的主力已然七零八落。踌躇满志的黎锦熙坚定地开始实施他的计划，他把[中国大辞典编纂处]({{ site.baseurl }}{% link glossary/compilation-cn.md %})归入北平师范学院管理，以推进《国语辞典》的出版；他在北平师范学院开办国语专修科，以应国语专业人才之需。在这一背景下，1947年1月15日，《国语小报》在北平诞生，其报头为时任国语会主任吴敬恒题写，黎锦熙为“国语小报”四个字标注了注音符号，并做《发刊词》。后来的《国语日报》报头为胡适题写，魏建功标注音，这一点很多资料也是混淆不清的。
+《[国语小报]({{ site.baseurl }}{% link glossary/little_chinese_daily-cn.md %})》是台湾《国语日报》的前身，很多资料显示它是由魏建功创办的，这多与《国语日报》的首任社长是魏建功有关。事实上，它是由国民政府教育部委托[中国大辞典编纂处]({{ site.baseurl }}{% link glossary/compilation-cn.md %})办理的，推动此事的人是[黎锦熙]({{ site.baseurl }}{% link people/lijinxi-cn.md %})先生。1946年，[黎锦熙]({{ site.baseurl }}{% link people/lijinxi-cn.md %})由西北归平，此时的他既是[国语推行委员会]({{ site.baseurl }}{% link glossary/committee-cn.md %})常委，又兼任北平师范学院（即北京师范大学）教务长兼国文系主任。[国语运动]({{ site.baseurl }}{% link glossary/movement-cn.md %})经历了十年的停顿期，原国语会的主力已然七零八落。踌躇满志的[黎锦熙]({{ site.baseurl }}{% link people/lijinxi-cn.md %})坚定地开始实施他的计划，他把[中国大辞典编纂处]({{ site.baseurl }}{% link glossary/compilation-cn.md %})归入北平师范学院管理，以推进《[国语辞典]({{ site.baseurl }}{% link glossary/national-language-dict-cn.md %})》的出版；他在北平师范学院开办国语专修科，以应国语专业人才之需。在这一背景下，1947年1月15日，《国语小报》在北平诞生，其报头为时任国语会主任吴敬恒题写，[黎锦熙]({{ site.baseurl }}{% link people/lijinxi-cn.md %})为“国语小报”四个字标注了注音符号，并做《发刊词》。后来的《国语日报》报头为胡适题写，魏建功标注音，这一点很多资料也是混淆不清的。
 
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
     <div style="text-align: center;">
@@ -24,55 +24,55 @@ author: 王昀
     </div>
 </div>
 
-《国语小报》为小型四开三日刊，全文配有注音符号是它最独到的地方。这种依靠注音符号阅读的方法曾是吴敬恒推崇的，也是黎锦熙坚持传授给弟子的教学方法。报纸的内容包括：国语教学专栏、国内外新闻摘要、北平本地民生专栏、教育界信息（教育局政令、中小学活动、民众教育馆扫盲班通知等）、通俗副刊、白话故事、科普、劝善短文、读者问答等。它的发行方向主要是：各公立学校、民众教馆免费发放；街头报摊低价零售；教育局及各教育单位订阅等。它的特点是：（1）内容——充实扼要，以少胜多；（2）文字——完全白话，老妪都解；（3）编制——依照数码，有条不紊；（4）排印——逐字注音，词类连书；（5）副刊——已有五种，以后再添。
+《国语小报》为小型四开三日刊，全文配有注音符号是它最独到的地方。这种依靠注音符号阅读的方法曾是吴敬恒推崇的，也是[黎锦熙]({{ site.baseurl }}{% link people/lijinxi-cn.md %})坚持传授给弟子的教学方法。报纸的内容包括：国语教学专栏、国内外新闻摘要、北平本地民生专栏、教育界信息（教育局政令、中小学活动、民众教育馆扫盲班通知等）、通俗副刊、白话故事、科普、劝善短文、读者问答等。它的发行方向主要是：各公立学校、民众教馆免费发放；街头报摊低价零售；教育局及各教育单位订阅等。它的特点是：（1）内容——充实扼要，以少胜多；（2）文字——完全白话，老妪都解；（3）编制——依照数码，有条不紊；（4）排印——逐字注音，词类连书；（5）副刊——已有五种，以后再添。
 
 《国语小报》兼任社长和发行人是时任国语会常委[萧家霖]({{ site.baseurl }}{% link people/xiaojialin-cn.md %})，报纸在排印时采用了由他创制的词类连书法。词类连书是以“词”为最小书写单位，词与词之间的字距要大一些，以避免歧义，类似英文，如“北平市国语小报”以词类连书方式应写做“北平市 国语小报”。文言时代的中文均是一字一断，词类连书是[国语运动]({{ site.baseurl }}{% link glossary/movement-cn.md %})所倡导的，在刊物上的应用则始自山东民众教育馆出版的《民众周刊》，其主编为梁容若，连书条例则多为[萧家霖]({{ site.baseurl }}{% link people/xiaojialin-cn.md %})所设计。
 
-《国语小报》实际操盘者是编印主任[王寿康]({{ site.baseurl }}{% link people/wangshoukang-cn.md %})。[王寿康]({{ site.baseurl }}{% link people/wangshoukang-cn.md %})是黎锦熙先生的学生，更是[萧家霖]({{ site.baseurl }}{% link people/xiaojialin-cn.md %})在北师大的同窗好友，曾短暂在[中国大辞典编纂处]({{ site.baseurl }}{% link glossary/compilation-cn.md %})工作。抗战期间他选择从军做文职工作，后就职于河北省政府社会处，负责把从美国运来的联合国救灾物资运往灾区。经历炮火洗礼的[王寿康]({{ site.baseurl }}{% link people/wangshoukang-cn.md %})，既不忍直视灾区百姓的苦难，更对内战和地方官僚的腐败无能感到失望。他感叹：“咱们是胜利了，现在日本和中国都是美国的干儿子，听说日本国内已经在慢慢恢复建设了，我们还在继续破坏，打呀杀呀的没完没了。你看嘛，将来那个日本干儿子混得比我们强，做干儿子不如人家，多寒碜呀！”[王寿康]({{ site.baseurl }}{% link people/wangshoukang-cn.md %})在公众场合也不“收敛”，对省政府举办的领袖著作学习多次调侃，而对上级的规劝更是觉得憋屈，终日闷闷不乐。有一天，他突然开心地对全家宣布：“我不用再去保定了！”原来是黎锦熙先生让他去办《国语小报》并兼任北平师范学院国语专修科的副教授，可以做回语文教育的老本行，这简直是如鱼得水。
+《国语小报》实际操盘者是编印主任[王寿康]({{ site.baseurl }}{% link people/wangshoukang-cn.md %})。[王寿康]({{ site.baseurl }}{% link people/wangshoukang-cn.md %})是[黎锦熙]({{ site.baseurl }}{% link people/lijinxi-cn.md %})先生的学生，更是[萧家霖]({{ site.baseurl }}{% link people/xiaojialin-cn.md %})在北师大的同窗好友，曾短暂在[中国大辞典编纂处]({{ site.baseurl }}{% link glossary/compilation-cn.md %})工作。抗战期间他选择从军做文职工作，后就职于河北省政府社会处，负责把从美国运来的联合国救灾物资运往灾区。经历炮火洗礼的[王寿康]({{ site.baseurl }}{% link people/wangshoukang-cn.md %})，既不忍直视灾区百姓的苦难，更对内战和地方官僚的腐败无能感到失望。他感叹：“咱们是胜利了，现在日本和中国都是美国的干儿子，听说日本国内已经在慢慢恢复建设了，我们还在继续破坏，打呀杀呀的没完没了。你看嘛，将来那个日本干儿子混得比我们强，做干儿子不如人家，多寒碜呀！”[王寿康]({{ site.baseurl }}{% link people/wangshoukang-cn.md %})在公众场合也不“收敛”，对省政府举办的领袖著作学习多次调侃，而对上级的规劝更是觉得憋屈，终日闷闷不乐。有一天，他突然开心地对全家宣布：“我不用再去保定了！”原来是[黎锦熙]({{ site.baseurl }}{% link people/lijinxi-cn.md %})先生让他去办《国语小报》并兼任北平师范学院国语专修科的副教授，可以做回语文教育的老本行，这简直是如鱼得水。
 
-报社的办公地点在北平西单南大街甲169号，这个院落原是民国初期教育部的一部分，此时是国民党北平市党部所在地。为了专心办报，[王寿康]({{ site.baseurl }}{% link people/wangshoukang-cn.md %})把全家都搬到了报社后院。那时国民政府财政困难，《国语小报》最初批准的编制只有二人——徐世荣和樊月培。报社资产只有对开和四开的印刷机各一台。印刷用的注音国字铜模（二、三、五号）各一套、手摇铸字机一台均是借用[大辞典编纂处]({{ site.baseurl }}{% link glossary/compilation-cn.md %})的。虽然条件艰苦，[王寿康]({{ site.baseurl }}{% link people/wangshoukang-cn.md %})却很满足，他经常在院子里夹着香烟听京戏，那是他最得意的状态。但他未曾料到，一年多以后，他又不得不带着这些破家当，由北平到天津再乘船到基隆，把《国语小报》转运去了台湾。
+报社的办公地点在北平西单南大街甲169号，这个院落原是民国初期教育部的一部分，此时是国民党北平市党部所在地。为了专心办报，[王寿康]({{ site.baseurl }}{% link people/wangshoukang-cn.md %})把全家都搬到了报社后院。那时国民政府财政困难，《国语小报》最初批准的编制只有二人——徐世荣和[樊月培]({{ site.baseurl }}{% link people/fanyuepei-cn.md %})。报社资产只有对开和四开的印刷机各一台。印刷用的注音国字铜模（二、三、五号）各一套、手摇铸字机一台均是借用[大辞典编纂处]({{ site.baseurl }}{% link glossary/compilation-cn.md %})的。虽然条件艰苦，[王寿康]({{ site.baseurl }}{% link people/wangshoukang-cn.md %})却很满足，他经常在院子里夹着香烟听京戏，那是他最得意的状态。但他未曾料到，一年多以后，他又不得不带着这些破家当，由北平到天津再乘船到基隆，把《国语小报》转运去了台湾。
 
 接着说说支撑《国语小报》的那些员工和供稿人。
 
-在《国语小报社职工人员名册》上列为“主笔”的徐一飞即是1935年毕业于北师大国文系的徐世荣（号知白），他在《国语小报》中以“知白”或“一飞”署名发表文章。徐世荣是一位名副其实的老北京，特讲老礼。同在[大辞典编纂处]({{ site.baseurl }}{% link glossary/compilation-cn.md %})的[王述达]({{ site.baseurl }}{% link people/wangshuda-cn.md %})入北师大附中教书时，徐世荣还未毕业，因此他就把[王述达]({{ site.baseurl }}{% link people/wangshuda-cn.md %})视为老师，每年去王家拜年时均施以晚辈跪拜礼。由于他发音标准，音色好听，后长期从事普通话教学和审音工作，成为这方面为数不多的专家。他在《国语小报》上发表的文章最多，内容丰富多彩，如以“知白”署名的忆事文章《胡适之先生谈白话文》、《由六一居士谈起》，文字学知识普及的《感叹词“啊”的变化》、《“儿”和“子”的研究》系列、《国字浅说》系列、《谈国字的游戏性》系列，趣文《钟馗扫盲》，方言语音学的《小说里的方音描写》、《国音里的入声问题》、《要好好编印一套注音方字》、《用什么符号表示轻声》、《反切注音毛病多》，说明文《教育部失学民众注音识字教育北平表证区识字班第一届结业后的感想》、《注音符号十八课编辑前后》等，其中关于语言发音学方面的文章最多。以“一飞”署名的主要是讲解国语知识，如“国语小说精讲”、“国语对话选注”、《同音的字不同的用》、《今年三大学的国文翻译，了解不难语气要活》、《介绍黎锦熙先生的复合词构成方式简谱》、《小说戏剧是好教材》、《他她两字的念法》、《“不”的不同念法》、《写字时的一点儿问题》等，以及《要闻什么时候能用白话写》、《由新年贴对子想到我国的语文的特点》、《谈国字是否应当横写》等议论文。翻开《国语小报》，几乎每一份都有几篇徐世荣所写的文章，应该说他真是这个报纸编辑的台柱子。
+在《国语小报社职工人员名册》上列为“主笔”的徐一飞即是1935年毕业于北师大国文系的徐世荣（号知白），他在《国语小报》中以“知白”或“一飞”署名发表文章。徐世荣是一位名副其实的老北京，特讲老礼。同在[大辞典编纂处]({{ site.baseurl }}{% link glossary/compilation-cn.md %})的[王述达]({{ site.baseurl }}{% link people/wangshuda-cn.md %})入北师大附中教书时，徐世荣还未毕业，因此他就把[王述达]({{ site.baseurl }}{% link people/wangshuda-cn.md %})视为老师，每年去王家拜年时均施以晚辈跪拜礼。由于他发音标准，音色好听，后长期从事普通话教学和审音工作，成为这方面为数不多的专家。他在《国语小报》上发表的文章最多，内容丰富多彩，如以“知白”署名的忆事文章《胡适之先生谈白话文》、《由六一居士谈起》，文字学知识普及的《感叹词“啊”的变化》、《“儿”和“子”的研究》系列、《国字浅说》系列、《谈国字的游戏性》系列，趣文《钟馗扫盲》，方言语音学的《小说里的方音描写》、《国音里的入声问题》、《要好好编印一套注音方字》、《用什么符号表示轻声》、《反切注音毛病多》，说明文《教育部失学民众注音识字教育北平表证区识字班第一届结业后的感想》、《注音符号十八课编辑前后》等，其中关于语言发音学方面的文章最多。以“一飞”署名的主要是讲解国语知识，如“国语小说精讲”、“国语对话选注”、《同音的字不同的用》、《今年三大学的国文翻译，了解不难语气要活》、《介绍[黎锦熙]({{ site.baseurl }}{% link people/lijinxi-cn.md %})先生的复合词构成方式简谱》、《小说戏剧是好教材》、《他她两字的念法》、《“不”的不同念法》、《写字时的一点儿问题》等，以及《要闻什么时候能用白话写》、《由新年贴对子想到我国的语文的特点》、《谈国字是否应当横写》等议论文。翻开《国语小报》，几乎每一份都有几篇徐世荣所写的文章，应该说他真是这个报纸编辑的台柱子。
 
 还有一位署名“城北公”的发表过《大家恭请方块字开言吐语》、《怪事！怪事！北平人不愿意说国语》、《要想念了“着”“子”“的”》等文章。有人说这也是徐世荣的署名，也有人说是梁容若。如果是梁容若，那他与[王寿康]({{ site.baseurl }}{% link people/wangshoukang-cn.md %})同船去台湾办《国语日报》，也算是承前启后了。
 
-樊月培并不是语文人，他毕业于以民众教育见长的江苏省立教育学院，后来主要致力于民众教育事业。二十世纪三十年代，他曾与[萧家霖]({{ site.baseurl }}{% link people/xiaojialin-cn.md %})在江苏省立东海师范学校共事，后共同追随董渭川服务于山东省立民众教育馆，从事编辑工作。他写过大量文章，主持或参与编辑出版过不少书籍报刊，这次他们再次聚首共同办报。在《国语小报》，他以“培”署名发表文章。
+[樊月培]({{ site.baseurl }}{% link people/fanyuepei-cn.md %})并不是语文人，他毕业于以民众教育见长的江苏省立教育学院，后来主要致力于民众教育事业。二十世纪三十年代，他曾与[萧家霖]({{ site.baseurl }}{% link people/xiaojialin-cn.md %})在江苏省立东海师范学校共事，后共同追随董渭川服务于山东省立民众教育馆，从事编辑工作。他写过大量文章，主持或参与编辑出版过不少书籍报刊，这次他们再次聚首共同办报。在《国语小报》，他以“培”署名发表文章。
 
-在报纸上署名“达”、“善恺”的是[王述达]({{ site.baseurl }}{% link people/wangshuda-cn.md %})（字善恺），是[王寿康]({{ site.baseurl }}{% link people/wangshoukang-cn.md %})在国语专修科的同事，也是[大辞典编纂处]({{ site.baseurl }}{% link glossary/compilation-cn.md %})编纂员。他与[孙崇义]({{ site.baseurl }}{% link people/sunchongyi-cn.md %})等人受黎锦熙委托，在《国语小报》开办前期给报纸提供了大量稿件，给予报纸有力的支持。他的住宅位于西单辟才胡同，与《国语小报》社很近，这里还是他每日去往师范学院上班的必经之路，所以他经常出现在报社。[王寿康]({{ site.baseurl }}{% link people/wangshoukang-cn.md %})的儿子王正方彼时还是个小学生，他至今仍能记起许多当年的事情。一次，他在报社房内玩球，不小心把球抛至房顶，搞得尘土飞扬。他的这位王叔嗔怪道：“你把八十年的老尘土都震下来了。”搞得王正方顿时懵圈。在这个阶段的国语教学和推广工作上，[王寿康]({{ site.baseurl }}{% link people/wangshoukang-cn.md %})和[王述达]({{ site.baseurl }}{% link people/wangshuda-cn.md %})实为黎锦熙先生的左膀右臂，他们的合作关系自是不浅。王述达在报纸上的文章主要有：介绍国语知识的《续谈轻声》、《词类连书》、《文言文怎样翻白话》；介绍国语人物的《国语运动的先知先觉者——刘继庄先生》、《追念先师钱玄同》；介绍教学经验的《注音识字教育应注意的几件事》；政论文章《行宪年里本报的使命》以及教育部识字教育报告数篇。
+在报纸上署名“达”、“善恺”的是[王述达]({{ site.baseurl }}{% link people/wangshuda-cn.md %})（字善恺），是[王寿康]({{ site.baseurl }}{% link people/wangshoukang-cn.md %})在国语专修科的同事，也是[大辞典编纂处]({{ site.baseurl }}{% link glossary/compilation-cn.md %})编纂员。他与[孙崇义]({{ site.baseurl }}{% link people/sunchongyi-cn.md %})等人受[黎锦熙]({{ site.baseurl }}{% link people/lijinxi-cn.md %})委托，在《国语小报》开办前期给报纸提供了大量稿件，给予报纸有力的支持。他的住宅位于西单辟才胡同，与《国语小报》社很近，这里还是他每日去往师范学院上班的必经之路，所以他经常出现在报社。[王寿康]({{ site.baseurl }}{% link people/wangshoukang-cn.md %})的儿子王正方彼时还是个小学生，他至今仍能记起许多当年的事情。一次，他在报社房内玩球，不小心把球抛至房顶，搞得尘土飞扬。他的这位王叔嗔怪道：“你把八十年的老尘土都震下来了。”搞得王正方顿时懵圈。在这个阶段的国语教学和推广工作上，[王寿康]({{ site.baseurl }}{% link people/wangshoukang-cn.md %})和[王述达]({{ site.baseurl }}{% link people/wangshuda-cn.md %})实为[黎锦熙]({{ site.baseurl }}{% link people/lijinxi-cn.md %})先生的左膀右臂，他们的合作关系自是不浅。[王述达]({{ site.baseurl }}{% link people/wangshuda-cn.md %})在报纸上的文章主要有：介绍国语知识的《续谈轻声》、《词类连书》、《文言文怎样翻白话》；介绍国语人物的《国语运动的先知先觉者——刘继庄先生》、《追念先师钱玄同》；介绍教学经验的《注音识字教育应注意的几件事》；政论文章《行宪年里本报的使命》以及教育部识字教育报告数篇。
 
 报纸上署名“宜”、“谓”或“谓宜”的是[孙崇义]({{ site.baseurl }}{% link people/sunchongyi-cn.md %})（字谓宜），也是[王寿康]({{ site.baseurl }}{% link people/wangshoukang-cn.md %})在北平师范学院的同事，并与[王述达]({{ site.baseurl }}{% link people/wangshuda-cn.md %})是在[大辞典编纂处]({{ site.baseurl }}{% link glossary/compilation-cn.md %})和北师大附中共事多年的挚友，他是一位虔诚的穆斯林，每天都会去清真寺作礼拜。那时他最常去的清真寺在西单牌楼附近，离报社不远。有时，他会戴着他那顶土耳其式白色礼拜帽出现在大家面前。[孙崇义]({{ site.baseurl }}{% link people/sunchongyi-cn.md %})是一个特别细致的人，写了多篇给小朋友的文章，如《什么叫国语》、《照国音念书》、《国语跟唱歌》、《做国语文跟写国字》、《写错了字跟用错了字》、《向小朋友介绍简体字表》、《怎样用注音符号代替国字》、《谈多音字》等，他还在报纸上办起连续的《注音符号讲座》、《平音正讹》、《从“墨盒”说起》等讲座。
 
-除此之外，[大辞典编纂处]({{ site.baseurl }}{% link glossary/compilation-cn.md %})的[张洵如]({{ site.baseurl }}{% link people/zhangxunru-cn.md %})（原名张德泽）发表过《谈小辙儿》、《“儿”和轻声的关系》、《“巴”字的活用法》、《“打”字的活用法》等文章，他本是一位历史档案专家，曾在清室善后委员会工作，因业余爱好研究语言问题，经魏建功推荐进入[大辞典编纂处]({{ site.baseurl }}{% link glossary/compilation-cn.md %})工作。编纂处的牛文青也发表过《扫除文盲实验报告》等。
+除此之外，[大辞典编纂处]({{ site.baseurl }}{% link glossary/compilation-cn.md %})的[张洵如]({{ site.baseurl }}{% link people/zhangxunru-cn.md %})（原名张德泽）发表过《谈小辙儿》、《“儿”和轻声的关系》、《“巴”字的活用法》、《“打”字的活用法》等文章，他本是一位历史档案专家，曾在清室善后委员会工作，因业余爱好研究语言问题，经魏建功推荐进入[大辞典编纂处]({{ site.baseurl }}{% link glossary/compilation-cn.md %})工作。编纂处的[牛文青]({{ site.baseurl }}{% link people/niuwenqing-cn.md %})也发表过《扫除文盲实验报告》等。
 
-何梅岑算是[大辞典编纂处]({{ site.baseurl }}{% link glossary/compilation-cn.md %})的老人，他热爱写新诗，以全名或“梅”署名发表了《自由之火——纪念钱玄同先生》、《播种的人——悼陶行知》等诗作，他在1947年的春天激情澎湃地以《春天里的冬天》感叹：“这是一个什么样的春天，是不是时代又回到冰川？”另一位喜欢发表诗作的是[王寿康]({{ site.baseurl }}{% link people/wangshoukang-cn.md %})的大学同学[杜子劲]({{ site.baseurl }}{% link people/duzijin-cn.md %})，他的几首打油诗则都是有关国语推广的，如《妈拉歌》就是用来练习四声的：“妈拉妈拉‘妈’，妈拉妈拉‘麻’，妈拉妈拉‘马’，妈拉妈拉‘骂’。。。”。
+[何梅岑]({{ site.baseurl }}{% link people/hemeicen-cn.md %})算是[大辞典编纂处]({{ site.baseurl }}{% link glossary/compilation-cn.md %})的老人，他热爱写新诗，以全名或“梅”署名发表了《自由之火——纪念钱玄同先生》、《播种的人——悼陶行知》等诗作，他在1947年的春天激情澎湃地以《春天里的冬天》感叹：“这是一个什么样的春天，是不是时代又回到冰川？”另一位喜欢发表诗作的是[王寿康]({{ site.baseurl }}{% link people/wangshoukang-cn.md %})的大学同学[杜子劲]({{ site.baseurl }}{% link people/duzijin-cn.md %})，他的几首打油诗则都是有关国语推广的，如《妈拉歌》就是用来练习四声的：“妈拉妈拉‘妈’，妈拉妈拉‘麻’，妈拉妈拉‘马’，妈拉妈拉‘骂’。。。”。
 
-另外，叶鼎彝也曾发表过纪念钱玄同先生的文章《钱先生的精神》，他后来的名字是叶丁易（也名“丁易”）。他毕业于北师大国文系，也是钱玄同和黎锦熙的学生。在共产党建政后，他则以军管代表身份接管了北平师范学院。
+另外，叶鼎彝也曾发表过纪念钱玄同先生的文章《钱先生的精神》，他后来的名字是叶丁易（也名“丁易”）。他毕业于北师大国文系，也是钱玄同和[黎锦熙]({{ site.baseurl }}{% link people/lijinxi-cn.md %})的学生。在共产党建政后，他则以军管代表身份接管了北平师范学院。
 
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
     <div style="text-align: center;">
         <img src="/assets/imgs/2026-07-23-chinese-little-daily/image3.jpeg" alt="黎锦熙" style="max-height: 200px; border: 1px solid #eee;">
-        <p>黎锦熙</p>
+        <p><a href="{{ site.baseurl }}{% link people/lijinxi-cn.md %}">黎锦熙</a></p>
     </div>
     <div style="text-align: center;">
         <img src="/assets/imgs/2026-07-23-chinese-little-daily/image4.jpeg" alt="王寿康" style="max-height: 200px; border: 1px solid #eee;">
-        <p>王寿康</p>
+        <p><a href="{{ site.baseurl }}{% link people/wangshoukang-cn.md %}">王寿康</a></p>
     </div>
     <div style="text-align: center;">
         <img src="/assets/imgs/2026-07-23-chinese-little-daily/image5.jpeg" alt="王述达" style="max-height: 200px; border: 1px solid #eee;">
-        <p>王述达</p>
+        <p><a href="{{ site.baseurl }}{% link people/wangshuda-cn.md %}">王述达</a></p>
     </div>
     <div style="text-align: center;">
         <img src="/assets/imgs/2026-07-23-chinese-little-daily/image6.jpeg" alt="孙崇义" style="max-height: 200px; border: 1px solid #eee;">
-        <p>孙崇义</p>
+        <p><a href="{{ site.baseurl }}{% link people/sunchongyi-cn.md %}">孙崇义</a></p>
     </div>
     <div style="text-align: center;">
         <img src="/assets/imgs/2026-07-23-chinese-little-daily/image7.jpeg" alt="徐世荣" style="max-height: 200px; border: 1px solid #eee;">
         <p>徐世荣</p>
     </div>
 </div>
-<p style="text-align: center;"><em>彼时的黎锦熙、王寿康、王述达、孙崇义和徐世荣</em></p>
+<p style="text-align: center;"><em>彼时的<a href="{{ site.baseurl }}{% link people/lijinxi-cn.md %}">黎锦熙</a>、<a href="{{ site.baseurl }}{% link people/wangshoukang-cn.md %}">王寿康</a>、<a href="{{ site.baseurl }}{% link people/wangshuda-cn.md %}">王述达</a>、<a href="{{ site.baseurl }}{% link people/sunchongyi-cn.md %}">孙崇义</a>和徐世荣</em></p>
 
 《国语小报》因经费紧张，报社的很多编辑、校对工作是来自北平师范学院国语专修科的学生完成的，他们以实习的名义在报社任职。如张博宇、冯长青作为助理编辑，负责摘录新闻、谜语等。后期的《国语小报》上已经可以读到张博宇的长篇大论，大有可以替代老师们的感觉；巩青祥和翟建邦的职责是助理校对工作，这个带注音符号的报纸，其校对是相当繁琐费力的。以上四位后来都追随[王寿康]({{ site.baseurl }}{% link people/wangshoukang-cn.md %})去了台湾从事国语教学，并未像有些资料显示的“一起去台湾办报纸”了。张涛也是国语专修科的学生，他以全名发表过文章《谈统一语言的迫切》。
 
@@ -82,7 +82,7 @@ author: 王昀
 
 《国语小报》当年深受孩子们的喜爱，如果说小作者是报纸的参与者，那么小读者则是受益人。孙奉公是[孙崇义]({{ site.baseurl }}{% link people/sunchongyi-cn.md %})的长子，耄耋之年的他已从中学教师的岗位上退休多年，但他至今能忆起一件与《国语小报》相关的往事。一次，只有七、八岁的他看到外蒙古独立的新闻，觉得十分好奇，就去问父亲，父亲不仅给他作了讲解，还特别表扬了他爱读书看报的好习惯，这令他终生难忘。
 
-在1948年1月，时任民国教育部部长朱家骅在台湾视察教育，他发现台湾国语教育的推行十分积极，成绩昭著。当时，台湾的中文报刊很少，《国语小报》在北平发行不畅，却在台湾有着不小的订阅量。在旁人撺掇下，朱家骅感到如果把北平的《国语小报》迁来台湾，改为日刊，一定可以发挥更大的作用。于是他决定由魏建功和何容负责筹备此事。这段日子，魏建功回到北京，经常泡在[王寿康]({{ site.baseurl }}{% link people/wangshoukang-cn.md %})家里，甚至还给他带去从台湾运回的四根香蕉，以说服王寿康去台湾办报。最终他们约定以三年为期，王寿康才同意前往。1948年6月，“国字三三七三三号”令指示[国语推行委员会]({{ site.baseurl }}{% link glossary/committee-cn.md %})专任委员何容将《国语小报》移台改为《国语日报》，其经费和编制自7月份起亦由北平转至台北。就这样，《国语小报》在发刊178期后，于1948年7月在北平悄无声息地消失了。
+在1948年1月，时任民国教育部部长朱家骅在台湾视察教育，他发现台湾国语教育的推行十分积极，成绩昭著。当时，台湾的中文报刊很少，《国语小报》在北平发行不畅，却在台湾有着不小的订阅量。在旁人撺掇下，朱家骅感到如果把北平的《国语小报》迁来台湾，改为日刊，一定可以发挥更大的作用。于是他决定由魏建功和何容负责筹备此事。这段日子，魏建功回到北京，经常泡在[王寿康]({{ site.baseurl }}{% link people/wangshoukang-cn.md %})家里，甚至还给他带去从台湾运回的四根香蕉，以说服[王寿康]({{ site.baseurl }}{% link people/wangshoukang-cn.md %})去台湾办报。最终他们约定以三年为期，[王寿康]({{ site.baseurl }}{% link people/wangshoukang-cn.md %})才同意前往。1948年6月，“国字三三七三三号”令指示[国语推行委员会]({{ site.baseurl }}{% link glossary/committee-cn.md %})专任委员何容将《国语小报》移台改为《国语日报》，其经费和编制自7月份起亦由北平转至台北。就这样，《国语小报》在发刊178期后，于1948年7月在北平悄无声息地消失了。
 
 最后，借李遇安的《国语小报》歌里的几句，一起纪念这份可爱的报纸和这一群心高手勤、不辞辛苦的办报人：
 
@@ -119,9 +119,9 @@ author: 王昀
 | 姓名 | 专职务 | 籍贯 | 性别 | 年龄 |
 | :--- | :--- | :--- | :--- | :--- |
 | [萧家霖]({{ site.baseurl }}{% link people/xiaojialin-cn.md %})（迪忱） | 兼任社长 | 江西奉新 | 男 | 53 |
-| [王寿康]({{ site.baseurl }}{% link people/wangshoukang-cn.md %})（王茀青） | 编印主任 | 河北武邑 | 男 | 49 |
+| [王寿康]({{ site.baseurl }}{% link people/wangshoukang-cn.md %})（[王茀青]({{ site.baseurl }}{% link people/wangshoukang-cn.md %})） | 编印主任 | 河北武邑 | 男 | 49 |
 | 徐一飞（徐世荣、知白） | 主笔 | 北平 | 男 | 37 |
-| 樊月培 | 编辑 | 江苏东海 | 男 | 53 |
+| [樊月培]({{ site.baseurl }}{% link people/fanyuepei-cn.md %}) | 编辑 | 江苏东海 | 男 | 53 |
 | 范雪因 | 编辑 | 沈阳 | 女 | 40 |
 | 曹端群 | 编辑 | 江西新建 | 女 | 40 |
 | 廖公望 | 总务主任 | 江西奉新 | 男 | 43 |

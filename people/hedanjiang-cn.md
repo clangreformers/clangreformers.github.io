@@ -5,4 +5,4 @@ ref: hezhanjiang
 lang: 简体中文
 ---
 
-贺澹江 书画家，黎锦熙夫人。
+贺澹江 书画家，[黎锦熙]({{ site.baseurl }}{% link people/lijinxi-cn.md %})夫人。

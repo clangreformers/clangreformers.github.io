@@ -36,14 +36,14 @@ timeline_era: 4
     </div>
 </div>
 
-钱玄同对制印极为讲究。1928年3月1日他在同古堂以四元买了一块黑的寿山石章，特托黎锦熙转请齐白石刻“疑古玄同”四字。他的要求是“阳文，要不守绳墨”。黎锦熙家族与齐白石是世交，托黎锦熙办此事自不会错。1931年1月30日，钱玄同又以六元在同古堂购二寿山石，再托黎锦熙转请齐白石刻印。不过，后来齐白石不再制印了。好在钱玄同发现自己的学生魏建功在篆刻方面脱颖而出了。1932年1月29日，他在日记中写道：“建功出示图章（注音符号的），愈刻愈佳矣，仿齐白石，刀法甚好。”能得到钱玄同这样的肯定，可见魏建功的造诣之深厚。（图2-4均为魏建功为钱玄同所制印章）
+钱玄同对制印极为讲究。1928年3月1日他在同古堂以四元买了一块黑的寿山石章，特托[黎锦熙]({{ site.baseurl }}{% link people/lijinxi-cn.md %})转请齐白石刻“疑古玄同”四字。他的要求是“阳文，要不守绳墨”。[黎锦熙]({{ site.baseurl }}{% link people/lijinxi-cn.md %})家族与齐白石是世交，托[黎锦熙]({{ site.baseurl }}{% link people/lijinxi-cn.md %})办此事自不会错。1931年1月30日，钱玄同又以六元在同古堂购二寿山石，再托[黎锦熙]({{ site.baseurl }}{% link people/lijinxi-cn.md %})转请齐白石刻印。不过，后来齐白石不再制印了。好在钱玄同发现自己的学生魏建功在篆刻方面脱颖而出了。1932年1月29日，他在日记中写道：“建功出示图章（注音符号的），愈刻愈佳矣，仿齐白石，刀法甚好。”能得到钱玄同这样的肯定，可见魏建功的造诣之深厚。（图2-4均为魏建功为钱玄同所制印章）
 
-当时，作为[国语统一筹备会]({{ site.baseurl }}{% link glossary/preparation-cn.md %})常委，推行国语和注音符号是魏建功最重要的职责。他自创注音符号印章，并将刻好的印章以有奖征答方式刊于《国语周刊》，吸引热心读者竟相争猜，以收到寓教于乐的效果。其中，他以注音符号所本之古文字刻制的印章，识别起来颇费周折更是饶有兴味。他曾以古文“包、刀、止、亥、又”拼成“[白涤洲]({{ site.baseurl }}{% link people/baidizhou-cn.md %})”三字（图5）。答案揭晓时即有“二鞑子吃螺蛳——弯弯绕”之戏评。其实，只要读者知道注音符号“ㄅ、ㄉ、ㄓ、ㄞ、ㄆ”系由“包、刀、止、亥、又”五个古文字楷化而来，就不难猜中。难怪语言学家罗莘田先生一见即知这是“白涤洲”三字，遂指点其爱女罗坤仪小姐去信参与竟猜，罗小姐因此获奖，奖品是天行山鬼所刻注音符号印章一枚（图6）。
+当时，作为[国语统一筹备会]({{ site.baseurl }}{% link glossary/preparation-cn.md %})常委，推行国语和注音符号是魏建功最重要的职责。他自创注音符号印章，并将刻好的印章以有奖征答方式刊于《国语周刊》，吸引热心读者竟相争猜，以收到寓教于乐的效果。其中，他以注音符号所本之古文字刻制的印章，识别起来颇费周折更是饶有兴味。他曾以古文“包、刀、止、亥、又”拼成“[白涤洲]({{ site.baseurl }}{% link people/baidizhou-cn.md %})”三字（图5）。答案揭晓时即有“二鞑子吃螺蛳——弯弯绕”之戏评。其实，只要读者知道注音符号“ㄅ、ㄉ、ㄓ、ㄞ、ㄆ”系由“包、刀、止、亥、又”五个古文字楷化而来，就不难猜中。难怪语言学家罗莘田先生一见即知这是“[白涤洲]({{ site.baseurl }}{% link people/baidizhou-cn.md %})”三字，遂指点其爱女罗坤仪小姐去信参与竟猜，罗小姐因此获奖，奖品是天行山鬼所刻注音符号印章一枚（图6）。
 
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
     <div style="text-align: center;">
         <img src="/assets/imgs/2026-01-27-seal-carvings/seal-05.jpg" alt="图5" style="max-height: 200px; border: 1px solid #eee;">
-        <p>图5，白涤洲</p>
+        <p>图5，<a href="{{ site.baseurl }}{% link people/baidizhou-cn.md %}">白涤洲</a></p>
     </div>
     <div style="text-align: center;">
         <img src="/assets/imgs/2026-01-27-seal-carvings/seal-06.jpg" alt="图6" style="max-height: 200px; border: 1px solid #eee;">
@@ -64,11 +64,11 @@ timeline_era: 4
     </div>
     <div style="text-align: center;">
         <img src="/assets/imgs/2026-01-27-seal-carvings/seal-09.jpg" alt="图9" style="max-width: 100%; border: 1px solid #eee;">
-        <p style="font-size: 0.9em;">图9，黎锦熙</p>
+        <p style="font-size: 0.9em;">图9，<a href="{{ site.baseurl }}{% link people/lijinxi-cn.md %}">黎锦熙</a></p>
     </div>
     <div style="text-align: center;">
         <img src="/assets/imgs/2026-01-27-seal-carvings/seal-10.jpg" alt="图10" style="max-width: 100%; border: 1px solid #eee;">
-        <p style="font-size: 0.9em;">图10，[汪怡]({{ site.baseurl }}{% link people/wangyi-cn.md %})庵</p>
+        <p style="font-size: 0.9em;">图10，<a href="{{ site.baseurl }}{% link people/wangyi-cn.md %}">汪怡庵</a></p>
     </div>
     <div style="text-align: center;">
         <img src="/assets/imgs/2026-01-27-seal-carvings/seal-11.jpg" alt="图11" style="max-width: 100%; border: 1px solid #eee;">
@@ -76,15 +76,15 @@ timeline_era: 4
     </div>
     <div style="text-align: center;">
         <img src="/assets/imgs/2026-01-27-seal-carvings/seal-12.jpg" alt="图12" style="max-width: 100%; border: 1px solid #eee;">
-        <p style="font-size: 0.9em;">图12，[王述达]({{ site.baseurl }}{% link people/wangshuda-cn.md %})</p>
+        <p style="font-size: 0.9em;">图12，<a href="{{ site.baseurl }}{% link people/wangshuda-cn.md %}">王述达</a></p>
     </div>
     <div style="text-align: center;">
         <img src="/assets/imgs/2026-01-27-seal-carvings/seal-13.jpg" alt="图13" style="max-width: 100%; border: 1px solid #eee;">
-        <p style="font-size: 0.9em;">图13，[萧迪忱]({{ site.baseurl }}{% link people/xiaojialin-cn.md %})</p>
+        <p style="font-size: 0.9em;">图13，<a href="{{ site.baseurl }}{% link people/xiaojialin-cn.md %}">萧迪忱</a></p>
     </div>
     <div style="text-align: center;">
         <img src="/assets/imgs/2026-01-27-seal-carvings/seal-14.jpg" alt="图14" style="max-width: 100%; border: 1px solid #eee;">
-        <p style="font-size: 0.9em;">图14，[孔凡均]({{ site.baseurl }}{% link people/kongfanjun-cn.md %})</p>
+        <p style="font-size: 0.9em;">图14，<a href="{{ site.baseurl }}{% link people/kongfanjun-cn.md %}">孔凡均</a></p>
     </div>
     <div style="text-align: center;">
         <img src="/assets/imgs/2026-01-27-seal-carvings/seal-15.jpg" alt="图15" style="max-width: 100%; border: 1px solid #eee;">

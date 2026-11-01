@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 孫崇義，字謂宜
+aka: 渭宜
 ref: sunchongyi
 lang: 繁體中文
 ---
@@ -27,7 +28,7 @@ lang: 繁體中文
 
 1934-1956年 中國大辭典編纂處編纂員、總幹事
 
-1951.5 由黎錦熙、葉丁易介紹加入九三學社
+1951.5 由[黎錦熙]({{ site.baseurl }}{% link people/lijinxi-tw.md %})、葉丁易介紹加入九三學社
 
 1956.7-1962.11 中國科學院語言研究所詞典編輯室 高級編輯
 
@@ -41,16 +42,16 @@ lang: 繁體中文
 
 《[國語辭典]({{ site.baseurl }}{% link glossary/national-language-dict-tw.md %})》 商務印書館1948年版,1962年再版更名為《漢語詞典》
 
-《新部首索引[國音字典]({{ site.baseurl }}{% link glossary/national-pronounciation-dict-tw.md %})》商務印書館1949年8月初版，黎錦熙主編，[汪怡]({{ site.baseurl }}{% link people/wangyi-tw.md %})、徐仁钰、付介石、牛繼昌、高景成、何梅岑、徐世榮、孫崇義、[王述達]({{ site.baseurl }}{% link people/wangshuda-tw.md %})、張廼之、張蔚瑜編校
+《新部首索引[國音字典]({{ site.baseurl }}{% link glossary/national-pronounciation-dict-tw.md %})》商務印書館1949年8月初版，[黎錦熙]({{ site.baseurl }}{% link people/lijinxi-tw.md %})主編，[汪怡]({{ site.baseurl }}{% link people/wangyi-tw.md %})、徐仁钰、付介石、[牛繼昌]({{ site.baseurl }}{% link people/niuwenqing-tw.md %})、高景成、[何梅岑]({{ site.baseurl }}{% link people/hemeicen-tw.md %})、徐世榮、孫崇義、[王述達]({{ site.baseurl }}{% link people/wangshuda-tw.md %})、張廼之、張蔚瑜編校
 
-《增注中華新韻》 商務印書館1950年7月版，黎錦熙主編，王述達、何梅岑、付介石、孫崇義、張蔚瑜、張廼芝編校
+《增注中華新韻》 商務印書館1950年7月版，[黎錦熙]({{ site.baseurl }}{% link people/lijinxi-tw.md %})主編，[王述達]({{ site.baseurl }}{% link people/wangshuda-tw.md %})、[何梅岑]({{ site.baseurl }}{% link people/hemeicen-tw.md %})、付介石、孫崇義、張蔚瑜、張廼芝編校
 
 《增訂注解 國音常用字彙》 
-商務印書館1950年8月版，黎錦熙主編，汪怡、何梅岑、付介石、牛繼昌、高景成、徐仁钰、徐世榮、孫崇義、王述達、張廼之、張蔚瑜、李曾笃、諸昌祁編校 
+商務印書館1950年8月版，[黎錦熙]({{ site.baseurl }}{% link people/lijinxi-tw.md %})主編，[汪怡]({{ site.baseurl }}{% link people/wangyi-tw.md %})、[何梅岑]({{ site.baseurl }}{% link people/hemeicen-tw.md %})、付介石、[牛繼昌]({{ site.baseurl }}{% link people/niuwenqing-tw.md %})、高景成、徐仁钰、徐世榮、孫崇義、[王述達]({{ site.baseurl }}{% link people/wangshuda-tw.md %})、張廼之、張蔚瑜、李曾笃、諸昌祁編校 
 
-《學文化字典》 商務印書館1952年10月版，黎錦熙主編，王述達、何梅岑、高景成、孫崇義、徐仁钰、徐世榮、付介石編纂
+《學文化字典》 商務印書館1952年10月版，[黎錦熙]({{ site.baseurl }}{% link people/lijinxi-tw.md %})主編，[王述達]({{ site.baseurl }}{% link people/wangshuda-tw.md %})、[何梅岑]({{ site.baseurl }}{% link people/hemeicen-tw.md %})、高景成、孫崇義、徐仁钰、徐世榮、付介石編纂
 
-《同音字典》 黎錦熙主編，何梅岑、孫崇義、徐世榮、王述達、高景成、付岩編纂，商務印書館1956年5月版
+《同音字典》 [黎錦熙]({{ site.baseurl }}{% link people/lijinxi-tw.md %})主編，[何梅岑]({{ site.baseurl }}{% link people/hemeicen-tw.md %})、孫崇義、徐世榮、[王述達]({{ site.baseurl }}{% link people/wangshuda-tw.md %})、高景成、付岩編纂，商務印書館1956年5月版
 
 《現代漢語詞典》試印本 (1956—1960年)，孫崇義先生是主要編纂人員
 

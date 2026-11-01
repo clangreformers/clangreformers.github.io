@@ -47,5 +47,5 @@ timeline_era: 3
 
 《流风》胡美风著 中国青年出版社
 
-《国语运动史纲》 黎锦熙著 商务印书馆
+《国语运动史纲》 [黎锦熙]({{ site.baseurl }}{% link people/lijinxi-cn.md %})著 商务印书馆
 
