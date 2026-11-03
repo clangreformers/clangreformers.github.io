@@ -6,7 +6,7 @@ categories: history
 lang: English
 ref: ktsf-interview
 timeline_era: 4
-author: Yun Wang
+author: Ruoquan Wan
 ---
 
 On October 26, 2026, the founders of this website, Yingxian Wang and Yun Wang, were interviewed by reporter Ruoquan Wan of KTSF (Channel 26, the Asian-language television station in San Francisco), briefly introducing how the website began and what it aims to do. Starting from a wish to remember their own family, they built a platform of people connected to the Mandarin Language Movement. The website now features introductions to more than 300 people and over fifty articles, using people as the core to reconstruct this history, which carried a leap in Chinese civilization, and to honor the linguists and ordinary people who devoted themselves to it.
